@@ -1,0 +1,2000 @@
+4	Author	Katja Hose
+5	Author	Marcel Karnstedt
+6	Author	Daniel Klan
+7	Author	Kai-Uwe Sattler
+13	Author	Thomas Mandl
+16	Author	Alexander Hinneburg
+38	Author	Ingo Frommholz
+46	Author	Andreas Hotho
+47	Author	Gerd Stumme
+59	Author	Kerstin Bischoff
+60	Author	Christa Womser-Hacker
+78	Author	Andreas Henrich
+93	Author	Mohand Boughanem
+91	Author	Mariam Daoud
+90	Author	Lynda Tamine
+106	Author	Wolfgang Lehner
+104	Author	Dirk Habich
+115	Author	Michael Granitzer
+132	Author	Johannes Leveling
+161	Author	Benno Stein
+160	Author	Martin Potthast
+166	Author	Paul Clough
+164	Author	Stefan Siersdorfer
+197	Author	Norbert Fuhr
+253	Author	Guillaume Raschia
+244	Author	Mark Sanderson
+276	Author	Lars Schmidt-Thieme
+288	Author	Katja Hofmann
+289	Author	Martha Larson
+291	Author	Bernhard Seeger
+297	Author	Alessandro Moschitti
+300	Author	Andreas Nürnberger
+336	Author	Paavo Arvola
+349	Author	Jens Kürsten
+344	Author	Myra Spiliopoulou
+326	Author	Maarten de Rijke
+324	Author	Panayiotis Tsaparas
+325	Author	Jiyin He
+322	Author	Aristides Gionis
+323	Author	Spiros Papadimitriou
+334	Author	Stefan Conrad
+356	Author	Djoerd Hiemstra
+354	Author	Claudia Hauff
+355	Author	Robin Aly
+367	Author	Geert-Jan Houben
+405	Author	Xifeng Yan
+395	Author	Kristian Kersting
+387	Author	Thomas Roelleke
+385	Author	Dietrich Klakow
+388	Author	Anastasios Tombros
+429	Author	Susanne Boll
+428	Author	Erik Wilde
+421	Author	Kazutoshi Sumiya
+473	Author	Michael Hartung
+458	Author	Sung-Hyon Myaeng
+550	Author	Jens Teubner
+549	Author	René Müller
+547	Author	Junghoo Cho
+544	Author	Sebastian Michel
+545	Author	Karl Aberer
+559	Author	Arthur Zimek
+555	Author	Thanh Tran
+552	Author	Yongluan Zhou
+553	Author	Kian-Lee Tan
+567	Author	Walid G. Aref
+565	Author	Yasin N. Silva
+564	Author	Min Wang
+563	Author	Haixun Wang
+562	Author	Lipyeow Lim
+560	Author	Jörg Sander
+575	Author	Yunjun Gao
+573	Author	Dimitris Sacharidis
+571	Author	Torben Bach Pedersen
+568	Author	Wendy Hui Wang
+515	Author	Jing Gao
+523	Author	Laure Berti-Equille
+541	Author	Reynold Cheng
+540	Author	Ben Kao
+542	Author	David W. Cheung
+611	Author	David Maier
+615	Author	Bernhard Mitschang
+622	Author	Philipp Kranen
+623	Author	Ralph Krieger
+620	Author	Thomas Seidl
+621	Author	Ira Assent
+626	Author	Amélie Marian
+629	Author	Ugur Çetintemel
+628	Author	Olga Papaemmanouil
+635	Author	Benjamin C. M. Fung
+632	Author	Dennis Shasha
+638	Author	Jian Pei
+637	Author	Ada Wai-Chee Fu
+636	Author	Ke Wang
+576	Author	Baihua Zheng
+577	Author	Wang-Chien Lee
+578	Author	Gencai Chen
+579	Author	Khalid Belhajjame
+580	Author	Norman W. Paton
+581	Author	Suzanne M. Embury
+582	Author	Alvaro A. A. Fernandes
+584	Author	Song Wang
+585	Author	Elke A. Rundensteiner
+588	Author	Patrick Valduriez
+590	Author	Donald Kossmann
+595	Author	Hasso Plattner
+597	Author	Quan Z. Sheng
+601	Author	Mario A. Nascimento
+603	Author	Peer Kröger
+602	Author	Matthias Renz
+604	Author	Hans-Peter Kriegel
+606	Author	Mourad Ouzzani
+685	Author	George H. L. Fletcher
+683	Author	Peiya Liu
+681	Author	Fusheng Wang
+680	Author	Marc H. Scholl
+677	Author	Jan Rittinger
+675	Author	Stefan Manegold
+673	Author	Torsten Grust
+703	Author	Rafael Berlanga Llavori
+700	Author	Giovanna Guerrini
+701	Author	Marco Mesiti
+698	Author	Umeshwar Dayal
+696	Author	Alkis Simitsis
+697	Author	Kevin Wilkinson
+695	Author	Malú Castellanos
+688	Author	Alfons Kemper
+689	Author	Thomas Neumann 0001
+654	Author	Hakan Ferhatosmanoglu
+645	Author	James Cheney
+647	Author	Sameep Mehta
+646	Author	Irini Fundulaki
+641	Author	Paolo Atzeni
+668	Author	Bettina Kemme
+670	Author	Shivnath Babu
+671	Author	Peter A. Boncz
+664	Author	Alexey Pryakhin
+666	Author	Ambuj K. Singh
+662	Author	Johannes Aßfalg
+663	Author	Peter Kunath
+657	Author	Debapriyo Majumdar
+659	Author	Chinya V. Ravishankar
+747	Author	Elke Achtert
+745	Author	Jorge Pérez 0001
+750	Author	Tova Milo
+738	Author	Philipp Rösch
+737	Author	Dimitrios Gunopulos
+736	Author	Apostolos N. Papadopoulos
+743	Author	Abhay Mehta
+742	Author	Chetan Gupta
+741	Author	Guoren Wang
+762	Author	Marcus Fontoura
+760	Author	Andrei Z. Broder
+767	Author	Eugene J. Shekita
+764	Author	Ronny Lempel
+756	Author	Bugra Gedik
+713	Author	Nicolas Anciaux
+712	Author	Nick Koudas
+716	Author	Michalis Vazirgiannis
+719	Author	Wilfred Ng
+705	Author	Yannis Kotidis
+707	Author	Ling Chen
+708	Author	Chengqi Zhang
+711	Author	Gautam Das
+710	Author	Surajit Chaudhuri
+730	Author	Georgia Koutrika
+732	Author	Hector Garcia-Molina
+734	Author	H. V. Jagadish
+720	Author	Gang Luo
+721	Author	Jeffrey F. Naughton
+722	Author	Philip S. Yu
+723	Author	Lukasz Golab
+725	Author	M. Tamer Özsu
+727	Author	Olivier Pivert
+823	Author	Kun-Lung Wu
+822	Author	Henrique Andrade
+818	Author	Georg Gottlob
+828	Author	Vasilis Vassalos
+831	Author	Foto N. Afrati
+812	Author	Yehoshua Sagiv
+813	Author	Dong Wang
+814	Author	Lei Zou
+815	Author	Dongyan Zhao
+810	Author	Vivekanand Gopalkrishnan
+811	Author	Benny Kimelfeld
+791	Author	Evaggelia Pitoura
+789	Author	Kostas Stefanidis
+788	Author	Ahmed K. Elmagarmid
+787	Author	Mohamed Y. Eltabakh
+786	Author	Wang-Pin Hsiung
+785	Author	Yun Chi
+784	Author	Hakan Hacigümüs
+797	Author	Ioana Manolescu
+795	Author	Angela Bonifati
+794	Author	Evimaria Terzi
+792	Author	Nicolas Bruno
+774	Author	Yan Qi 0002
+775	Author	Rimma V. Nehme
+772	Author	Sunil Prabhakar
+773	Author	Huiping Cao
+770	Author	K. Selçuk Candan
+771	Author	Sarvjeet Singh
+769	Author	Maria Luisa Sapino
+783	Author	Hyun Jin Moon
+781	Author	Michail Vlachos
+881	Author	Riccardo Martoglia
+880	Author	Federica Mandreoli
+888	Author	Goce Trajcevski
+891	Author	Yi Zhuang
+893	Author	Qing Li
+892	Author	Yueting Zhuang
+894	Author	Lei Chen 0002
+864	Author	Kenneth Wai-Ting Leung
+866	Author	Mohamed A. Sharaf
+869	Author	Paolo Missier
+872	Author	Jun Huan
+875	Author	Masaru Kitsuregawa
+878	Author	Louiqa Raschid
+848	Author	Matthew O. Ward
+855	Author	Yizhou Sun
+854	Author	Manolis Koubarakis
+852	Author	Stratos Idreos
+859	Author	Hong Cheng
+858	Author	Zhijun Yin
+857	Author	Peixiang Zhao
+856	Author	Jiawei Han
+861	Author	Curtis E. Dyreson
+860	Author	Tianyi Wu
+832	Author	Rada Chirkova
+838	Author	Bin Zhou 0002
+842	Author	Yan Jia
+841	Author	Yufei Tao
+846	Author	Felix Naumann
+957	Author	Francesco Bonchi
+959	Author	Li Xiong
+952	Author	Jianliang Xu
+953	Author	Chee Yong Chan
+954	Author	Anthony K. H. Tung
+955	Author	Zhenjie Zhang
+949	Author	Stanley B. Zdonik
+950	Author	Haibo Hu
+951	Author	Dik Lun Lee
+945	Author	Fosca Giannotti
+946	Author	Dino Pedreschi
+947	Author	Yannis Theodoridis
+941	Author	Stefano Ceri
+942	Author	Michael Grossniklaus
+938	Author	Jayant R. Haritsa
+929	Author	Beng Chin Ooi
+928	Author	Bin Cui
+931	Author	Deepak Padmanabhan
+930	Author	Prasad M. Deshpande
+926	Author	Xin Jin
+927	Author	Nan Zhang 0004
+924	Author	Sharad Mehrotra
+925	Author	Nalini Venkatasubramanian
+923	Author	Dmitri V. Kalashnikov
+920	Author	Jaideep Vaidya
+919	Author	Vijayalakshmi Atluri
+916	Author	Makoto Onizuka
+905	Author	Jianhua Feng
+903	Author	Shimin Chen
+901	Author	Calisto Zuzarte
+1017	Author	Georg Lausen
+1022	Author	Peter M. Fischer
+1023	Author	Nesime Tatbul
+1008	Author	Jagan Sankaranarayanan
+1013	Author	Victor Muntés-Mulero
+1014	Author	Josep-Lluis Larriba-Pey
+1001	Author	Marios Hadjieleftheriou
+1003	Author	Suresh Venkatasubramanian
+1002	Author	Divesh Srivastava
+1005	Author	Timos K. Sellis
+1004	Author	Martin L. Kersten
+1007	Author	Ziyang Liu
+993	Author	Dario Colazzo
+996	Author	Elisa Bertino
+999	Author	Peter Triantafillou
+986	Author	Barzan Mozafari
+987	Author	Carlo Zaniolo
+990	Author	Marianne Winslett
+976	Author	Tomás Skopal
+981	Author	Ernest Teniente
+971	Author	Panagiotis Karras
+970	Author	Man Lung Yiu
+968	Author	Amr El Abbadi
+975	Author	Vassilis J. Tsotras
+974	Author	Petko Bakalov
+973	Author	Marcos R. Vieira
+972	Author	Nikos Mamoulis
+963	Author	Régis Saint-Paul
+967	Author	Divyakant Agrawal
+965	Author	Noureddine Mouaddib
+964	Author	Boualem Benatallah
+1101	Author	Oded Shmueli
+1102	Author	Ken C. K. Lee
+1095	Author	Feifei Li
+1089	Author	Christopher Leckie
+1119	Author	Laks V. S. Lakshmanan
+1115	Author	Anastasios Kementsietsidis
+1114	Author	Floris Geerts
+1109	Author	Xing Xie
+1110	Author	Kevin Chen-Chuan Chang
+1128	Author	Shuigeng Zhou
+1129	Author	Sourav S. Bhowmick
+1151	Author	Christian Böhm
+1147	Author	Srikanta J. Bedathur
+1146	Author	Klaus Berberich
+1145	Author	Michael H. Böhlen
+1144	Author	Johann Gamper
+1142	Author	Alan J. Demers
+1141	Author	Johannes Gehrke
+1140	Author	Christoph Koch
+1139	Author	Mirek Riedewald
+1035	Author	Yi-Cheng Tu
+1037	Author	Hardy Kremer
+1038	Author	Stephan Günnemann
+1025	Author	Dan Olteanu
+1029	Author	Amol Deshpande
+1030	Author	Jiefeng Cheng
+1031	Author	Jeffrey Xu Yu
+1048	Author	Xiaohui Yu
+1051	Author	Gabriel Ghinita
+1050	Author	Murat Kantarcioglu
+1053	Author	Arbee L. P. Chen
+1055	Author	Zbigniew Jerzak
+1041	Author	Volker Markl
+1040	Author	Peter J. Haas
+1046	Author	Carlo Sartiani
+1065	Author	Lu Qin
+1058	Author	Christof Fetzer
+1062	Author	Anastasia Ailamaki
+1063	Author	Thomas Heinis
+1087	Author	Chengfei Liu
+1084	Author	Senjuti Basu Roy
+1074	Author	Filippo Furfaro
+1073	Author	Sergio Flesca
+1221	Author	Fatma Özcan
+1222	Author	Yannis Sismanis
+1231	Author	Charu C. Aggarwal
+1236	Author	Ahmed Metwally
+1237	Author	Chao Wang
+1238	Author	Srinivasan Parthasarathy
+1239	Author	Ruoming Jin
+1244	Author	Xiangnan Kong
+1245	Author	Sihong Xie
+1246	Author	Bin Wu
+1243	Author	Chuan Shi
+1253	Author	Minos N. Garofalakis
+1252	Author	Graham Cormode
+1248	Author	Christian A. Lang
+1270	Author	Rui Zhou 0001
+1271	Author	Jianxin Li
+1265	Author	Yannis Manolopoulos
+1276	Author	Ippokratis Pandis
+1273	Author	Chris Clifton
+1153	Author	Xiaokui Xiao
+1152	Author	Claudia Plant
+1154	Author	Ke Yi
+1157	Author	Ashraf Aboulnaga
+1159	Author	Ying Zhang
+1161	Author	Xuemin Lin
+1160	Author	Wenjie Zhang
+1162	Author	Muhammad Aamir Cheema
+1165	Author	Michael J. Carey
+1164	Author	Vinayak R. Borkar
+1167	Author	Jeffrey D. Ullman
+1166	Author	Neoklis Polyzotis
+1170	Author	Haruo Yokota
+1176	Author	Xiaofang Zhou
+1179	Author	Aris Gkoulalas-Divanis
+1185	Author	Claudio Lucchese
+1184	Author	Val Tannen
+1189	Author	Philippe Rigaux
+1188	Author	Cédric du Mouza
+1194	Author	Chiara Renso
+1193	Author	Roberto Trasarti
+1192	Author	Mirco Nanni
+1199	Author	Kristen LeFevre
+1200	Author	Balder ten Cate
+1201	Author	Phokion G. Kolaitis
+1211	Author	Ming Hua
+1215	Author	Letizia Tanca
+1212	Author	Akrivi Vlachou
+1213	Author	Chen Li
+1375	Author	Lidan Shou
+1370	Author	Stéphane Bressan
+1363	Author	Jeffrey Scott Vitter
+1362	Author	Rahul Shah
+1355	Author	Alejandro P. Buchmann
+1350	Author	Indrakshi Ray
+1347	Author	Jiong Yang
+1344	Author	Ming-Syan Chen
+1402	Author	Esther Pacitti
+1397	Author	Carlos A. Heuser
+1396	Author	Juliana Freire
+1393	Author	Matthias Schubert
+1391	Author	Michael Stonebraker
+1385	Author	Erik Buchmann
+1386	Author	Klemens Böhm
+1387	Author	Tao Cheng
+1380	Author	Kai Zheng
+1381	Author	Peter Scheuermann
+1376	Author	Gang Chen 0001
+1378	Author	Benjamin Schlegel
+1379	Author	Rainer Gemulla
+1306	Author	Hua Lu
+1305	Author	Murali Mani
+1311	Author	Chengkai Li
+1310	Author	Leonidas Fegaras
+1298	Author	Justin J. Levandoski
+1296	Author	Hong Gao
+1303	Author	Qiong Luo
+1300	Author	Mohamed F. Mokbel
+1288	Author	Christian S. Jensen
+1295	Author	Jianzhong Li
+1280	Author	Kien A. Hua
+1287	Author	Bin Yang 0002
+1342	Author	Kun-Ta Chuang
+1329	Author	Krithi Ramamritham
+1331	Author	Rakesh Agrawal
+1330	Author	Gerhard Weikum
+1333	Author	John Mylopoulos
+1335	Author	Wei Wang 0011
+1334	Author	Verena Kantere
+1321	Author	Ting Yu
+1315	Author	Jagannathan Srinivasan
+1318	Author	Philip A. Bernstein
+1319	Author	Xiang Lian
+1492	Author	Panos Vassiliadis
+1489	Author	Vagelis Hristidis
+1500	Author	Richi Nayak
+1501	Author	Pierre Senellart
+1498	Author	Fabian M. Suchanek
+1499	Author	Aparna S. Varde
+1496	Author	Peter M. G. Apers
+1497	Author	Andreas Wombacher
+1478	Author	Eduardo Mena
+1484	Author	Yunyao Li
+1483	Author	Walker M. White
+1481	Author	Pierre Bourhis
+1480	Author	Serge Abiteboul
+1525	Author	Alejandro A. Vaisman
+1523	Author	Stefan Kramer
+1533	Author	Lars Kulik
+1534	Author	Rui Zhang 0003
+1535	Author	Anish Das Sarma
+1529	Author	Harumi A. Kuno
+1530	Author	Janet L. Wiener
+1510	Author	Matthias Weidlich
+1505	Author	Rajasekar Krishnamurthy
+1504	Author	Mauricio A. Hernández
+1506	Author	Lucian Popa
+1517	Author	Avigdor Gal
+1515	Author	Vana Kalogeraki
+1431	Author	Chee-Yong Chan
+1433	Author	Maya Ramanath
+1437	Author	Erhard Rahm
+1410	Author	Sandeep Tata
+1414	Author	Ji-Rong Wen
+1413	Author	Zaiqing Nie
+1412	Author	Seung-won Hwang
+1418	Author	Ryan Johnson
+1458	Author	Ouri Wolfson
+1460	Author	Shuo Shang
+1464	Author	Panos Kalnis
+1441	Author	Dipanjan Chakraborty 0001
+1442	Author	Sougata Mukherjea
+1444	Author	Anupam Joshi
+1447	Author	Riddhiman Ghosh
+1446	Author	Meichun Hsu
+1643	Author	Roberto De Virgilio
+1645	Author	Riccardo Torlone
+1634	Author	Lijun Chang
+1632	Author	Kotagiri Ramamohanarao
+1657	Author	Hanan Samet
+1663	Author	Qing Zhang
+1650	Author	Jinchuan Chen
+1655	Author	Sarana Nutanong
+1652	Author	Bin Liu
+1611	Author	Frank Neven
+1615	Author	Thomas Bernecker
+1601	Author	Mitch Cherniack
+1627	Author	Alessandro Bozzon
+1628	Author	Marco Brambilla
+1616	Author	Franz Graf
+1622	Author	Christos Tryfonopoulos
+1583	Author	Yueguo Chen
+1578	Author	Qiang Zhu
+1576	Author	Wen-Chi Hou
+1574	Author	Cheng Luo
+1575	Author	Zhewei Jiang
+1572	Author	Sven Hartmann
+1573	Author	Sebastian Link
+1571	Author	Jun'ichi Tatemura
+1568	Author	Wolf-Tilo Balke
+1598	Author	Renée J. Miller
+1596	Author	Yaron Kanza
+1594	Author	Wei Wang 0009
+1593	Author	Wentao Wu
+1592	Author	Yanghua Xiao
+1588	Author	Ling Feng
+1585	Author	Qi Li
+1584	Author	Xiaoyong Du
+1548	Author	Carlos Castillo
+1550	Author	Wei-Shinn Ku
+1536	Author	Xin Luna Dong
+1537	Author	Alon Y. Halevy
+1539	Author	Raymond Chi-Wing Wong
+1565	Author	Yansheng Lu
+1564	Author	Donghui Zhang
+1561	Author	Sihem Amer-Yahia
+1560	Author	Cong Yu
+1559	Author	Davide Martinenghi
+1558	Author	Andrea Calì
+1554	Author	Richard Chbeir
+1762	Author	Wen-Syan Li
+1766	Author	Annika Hinze
+1765	Author	Jin Zhang
+1764	Author	Ying Yan
+1770	Author	Bolin Ding
+1769	Author	Aixin Sun
+1768	Author	Hui Li
+1786	Author	Trond Aalberg
+1789	Author	Kjetil Nørvåg
+1732	Author	David Lo
+1735	Author	Maarten Marx
+1739	Author	Nicolas Spyratos
+1740	Author	Julia Stoyanovich
+1742	Author	Kostas Patroumpas
+1744	Author	Kyriakos Mouratidis
+1747	Author	Zhihui Wang
+1749	Author	Salvatore Orlando
+1750	Author	Raffaele Perego
+1751	Author	Fabrizio Silvestri
+1753	Author	Gultekin Özsoyoglu
+1754	Author	Raghu Ramakrishnan
+1756	Author	Andrey Balmin
+1757	Author	Kevin S. Beyer
+1699	Author	Bertram Ludäscher
+1697	Author	Shawn Bowers
+1711	Author	L. Venkata Subramaniam
+1710	Author	Tanveer A. Faruquie
+1709	Author	Sumit Negi
+1707	Author	Himanshu Gupta
+1714	Author	Jimmy Lin
+1715	Author	Qiming Chen
+1712	Author	Mukesh K. Mohania
+1724	Author	Djamal Benslimane
+1668	Author	Gunter Saake
+1671	Author	Ricardo A. Baeza-Yates
+1678	Author	Ken Barker
+1674	Author	George Kollios
+1684	Author	Mong-Li Lee
+1687	Author	Goetz Graefe
+1682	Author	Jayavel Shanmugasundaram
+1695	Author	Ting Wang
+1688	Author	Yossi Matias
+1918	Author	Mizuho Iwaihara
+1905	Author	Arnab Bhattacharya 0001
+1911	Author	Ulf Leser
+1901	Author	Ariel Fuxman
+1893	Author	Berthold Reinwald
+1894	Author	Cuiping Li
+1875	Author	Gustavo Alonso
+1873	Author	Lizhu Zhou
+1872	Author	Jun Zhang
+1879	Author	Wolfgang Gatterbauer
+1871	Author	Jianyong Wang
+1860	Author	Alan F. Smeaton
+1855	Author	Dongwon Lee
+1848	Author	Oliver Spatscheck
+1844	Author	Inderpal Narang
+1847	Author	Theodore Johnson
+1846	Author	Sudipto Das
+1842	Author	Radu Sion
+1836	Author	Raymond T. Ng
+1837	Author	Kyuseok Shim
+1829	Author	Kenneth Salem
+1825	Author	Maria-Esther Vidal
+1816	Author	Paolo Papotti
+1808	Author	Wolfgang Nejdl
+1805	Author	Andreas Züfle
+1802	Author	Ralf Schenkel
+1803	Author	Martin Theobald
+1800	Author	Mokrane Bouzeghoub
+1796	Author	Eric Lo
+1797	Author	Yannis Velegrakis
+2033	Author	Jian Yin
+2034	Author	Junhu Wang
+2040	Author	Christos Doulkeridis
+2041	Author	Matthias Bender
+2044	Author	Jorge-Arnulfo Quiané-Ruiz
+2047	Author	Michael Benedikt
+2016	Author	Antti Ukkonen
+2025	Author	Gagan Agrawal
+2027	Author	Songyun Duan
+2007	Author	Xiao Zhang
+2010	Author	Yannis Papakonstantinou
+2008	Author	Prasenjit Mitra
+2014	Author	Jihong Guan
+2013	Author	Gao Cong
+1986	Author	Matthias Böhm 0001
+1991	Author	Daniela Nicklas
+1990	Author	Xiaofeng Meng
+1989	Author	Philippe Pucheral
+1992	Author	Nikos Pelekis
+1998	Author	Ninghui Li
+1969	Author	Mohammed J. Zaki
+1971	Author	Yannis E. Ioannidis
+1980	Author	Chaoyi Pang
+1976	Author	Dan Suciu
+1979	Author	Vijayshankar Raman
+1943	Author	Alfredo Cuzzocrea
+1937	Author	Franz Färber
+1946	Author	Francesco Gullo
+1947	Author	Matteo Magnani
+1925	Author	Fabio Casati
+1923	Author	Guido Moerkotte
+1922	Author	Norman May
+1921	Author	Carl-Christian Kanne
+1920	Author	Matthias Brantner
+1930	Author	Wang Chiew Tan
+2205	Author	Bin Wang
+2206	Author	Xiaochun Yang
+2194	Author	Holger Schwarz
+2185	Author	Shuai Ma
+2186	Author	Laura Chiticariu
+2188	Author	Ming Li
+2176	Author	Chin-Wan Chung
+2183	Author	Alan Nash
+2182	Author	Sergey Melnik
+2238	Author	Venkatesh Ganti
+2239	Author	Raghav Kaushik
+2224	Author	Bee-Chung Chen
+2219	Author	Christos Faloutsos
+2218	Author	Agma J. M. Traina
+2217	Author	Hanghang Tong
+2223	Author	Soumen Chakrabarti
+2222	Author	Christopher Olston
+2221	Author	Sandeep Pandey
+2220	Author	Jure Leskovec
+2211	Author	Chen Wang
+2214	Author	Sudipto Guha
+2213	Author	Yong Yu
+2212	Author	Yue Pan
+2268	Author	Stavros Harizopoulos
+2262	Author	Amol Ghoting
+2257	Author	Sara Cohen
+2245	Author	Samuel Madden
+2241	Author	Zi Huang
+2240	Author	Heng Tao Shen
+2299	Author	Caetano Traina Jr.
+2288	Author	Chris Jermaine
+2282	Author	Guy M. Lohman
+2281	Author	Vanja Josifovski
+2272	Author	Ziming Zhuang
+2064	Author	Bin He
+2066	Author	Yi Chen 0001
+2068	Author	Yu Gu 0002
+2079	Author	Daniel J. Abadi
+2061	Author	Sunita Sarawagi
+2096	Author	Hans-Arno Jacobsen
+2110	Author	Wenfei Fan
+2109	Author	Shivakumar Vaithyanathan
+2108	Author	AnHai Doan
+2082	Author	P. Krishna Reddy
+2083	Author	Kenneth A. Ross
+2081	Author	R. Uday Kiran
+2087	Author	Rajeev Motwani
+2094	Author	Mohammad Sadoghi
+2092	Author	Andreas Thor
+2140	Author	Clement T. Yu
+2142	Author	Xiaolei Li
+2137	Author	Arnab Nandi
+2139	Author	Weiyi Meng
+2117	Author	Yang-Sae Moon
+2114	Author	Luc Bouganim
+2115	Author	Wook-Shin Han
+2120	Author	Frank Wm. Tompa
+2162	Author	Jun Yang 0001
+2160	Author	Kamesh Munagala
+2173	Author	Evangelos Kanoulas
+2172	Author	Tian Xia
+2148	Author	Bishwaranjan Bhattacharjee
+2145	Author	Marcos Antonio Vaz Salles
+2158	Author	Adam Silberstein
+2155	Author	Zhen Hua Liu
+2152	Author	Hector Gonzalez
+2446	Author	Per-Åke Larson
+2445	Author	Jingren Zhou
+2435	Author	Ling Wang
+2438	Author	Dieter Pfoser
+2458	Author	Martin Ester
+2457	Author	Wen Jin
+2450	Author	Jeff M. Phillips
+2448	Author	Christopher Re
+2449	Author	Badrish Chandramouli
+2454	Author	Sarah Cohen Boulakia
+2473	Author	Eamonn J. Keogh
+2475	Author	Jennifer Widom
+2478	Author	Anastassia Ailamaki
+2467	Author	Baile Shi
+2466	Author	Xiangdong Zhou
+2471	Author	Jae-Gil Lee
+2470	Author	Kyu-Young Whang
+2492	Author	Thomas Schwentick
+2483	Author	Bongki Moon
+2485	Author	Philip Bohannon
+2510	Author	Utkarsh Srivastava
+2497	Author	Mohamed H. Ali
+2526	Author	Ravi Kumar
+2527	Author	Andrew Tomkins
+2518	Author	Chen Chen
+2516	Author	Arvind Arasu
+2542	Author	Zachary G. Ives
+2539	Author	Ihab F. Ilyas
+2532	Author	Ronald Fagin
+2557	Author	Ravishankar Ramamurthy
+2558	Author	Pankaj K. Agarwal
+2554	Author	Cyrus Shahabi
+2555	Author	Huajing Li
+2309	Author	Wei Fan
+2314	Author	Dong Xin
+2313	Author	Yuqing Wu
+2318	Author	Diego Calvanese
+2319	Author	Giuseppe De Giacomo
+2320	Author	Richard Hull
+2331	Author	Xiaoyang Sean Wang
+2341	Author	ChengXiang Zhai
+2343	Author	Vivek R. Narasayya
+2350	Author	Susan B. Davidson
+2353	Author	Panos K. Chrysanthis
+2352	Author	Jignesh M. Patel
+2354	Author	Alexandros Labrinidis
+2359	Author	Chun Chen
+2358	Author	Jinxiang Dong
+2363	Author	Theo Härder
+2382	Author	Xuan Zhou
+2383	Author	HweeHwa Pang
+2378	Author	Joseph M. Hellerstein
+2377	Author	Frederick Reiss
+2385	Author	Zohra Bellahsene
+2398	Author	Wei Yu
+2393	Author	Philippe Cudré-Mauroux
+2408	Author	Michael J. Franklin
+2410	Author	Christopher M. Jermaine
+2416	Author	Xiang Zhang
+2429	Author	Alan Fekete
+2431	Author	Sven Helmer
+2430	Author	S. Sudarshan 0001
+2749	Author	Yin Zhang
+2746	Author	Zografoula Vagena
+2740	Author	Michael Gertz
+2741	Author	Denilson Barbosa
+2727	Author	Dimitris Papadias
+2705	Author	Debora Donato
+2703	Author	Rajeev Rastogi
+2693	Author	Gabriel Pui Cheong Fung
+2692	Author	Peter Buneman
+2810	Author	Warren Shen
+2805	Author	Tim Kraska
+2793	Author	Yin Yang
+2792	Author	Stavros Papadopoulos
+2786	Author	Tingjian Ge
+2784	Author	Nina Mishra
+2790	Author	Ullas Nambiar
+2783	Author	Krishnaram Kenthapadi
+2763	Author	Ling Liu
+2610	Author	Tok Wang Ling
+2609	Author	Jiaheng Lu
+2623	Author	Simonas Saltenis
+2621	Author	Mounia Lalmas
+2620	Author	Mariano P. Consens
+2597	Author	Jorge Lobo
+2607	Author	Themis Palpanas
+2581	Author	Amarnath Gupta
+2579	Author	Li Chen
+2578	Author	Stijn Vansummeren
+2565	Author	Anwitaman Datta
+2566	Author	Manfred Hauswirth
+2563	Author	Jeong-Hyon Hwang
+2574	Author	S. Muthukrishnan
+2575	Author	Vladislav Shkapenyuk
+2571	Author	Nilesh N. Dalvi
+2675	Author	Lyublena Antova
+2673	Author	Vibhor Rastogi
+2681	Author	Shan Wang
+2684	Author	Marcin Zukowski
+2660	Author	Jimeng Sun
+2669	Author	Hongzhi Wang
+2640	Author	Josiane Xavier Parreira
+2643	Author	Xiaoxin Yin
+2647	Author	Peter Baumann
+2654	Author	Subbarao Kambhampati
+2624	Author	Mohamed A. Soliman
+2630	Author	David J. DeWitt
+2981	Author	Yi Zhang 0001
+3005	Author	Deepak Agarwal
+2998	Author	Daniel Deutch
+2955	Author	Tomoharu Iwata
+2974	Author	Yue Lu
+2975	Author	Alexandros Ntoulas
+2968	Author	Qi Guo
+2969	Author	Eugene Agichtein
+2962	Author	Lars Backstrom
+2961	Author	Guoliang Li
+3053	Author	Roelof van Zwol
+3052	Author	Börkur Sigurbjörnsson
+3054	Author	Ce Zhang
+3043	Author	Trent Jaeger
+3057	Author	Qiankun Zhao
+3058	Author	Manish Gupta
+3016	Author	Katsumi Tanaka
+3023	Author	Bing Liu 0001
+3015	Author	Satoshi Nakamura
+3014	Author	Takehiro Yamamoto
+3036	Author	Adam Jatowt
+3037	Author	Yukiko Kawai
+3024	Author	Arun Kumar
+2854	Author	Anirban Dasgupta
+2850	Author	Bo Pang
+2851	Author	Jon M. Kleinberg
+2867	Author	Kunal Punera
+2866	Author	Deepayan Chakrabarti
+2836	Author	Philipp Cimiano
+2847	Author	C. Lee Giles
+2912	Author	Chaokun Wang
+2913	Author	Jianmin Wang 0001
+2914	Author	Wei Zheng
+2933	Author	Ashwin Machanavajjhala
+2934	Author	Ziv Bar-Yossef
+2882	Author	Vahab S. Mirrokni
+2885	Author	Min-Yen Kan
+2891	Author	Zhaohui Zheng
+2888	Author	Jiang Bian
+2889	Author	Xin Li
+2895	Author	Mor Naaman
+2892	Author	Hongyuan Zha
+2893	Author	Claudia Niederée
+2896	Author	Gang Wang
+2910	Author	David R. Karger
+3292	Author	Joemon M. Jose
+3293	Author	Yang Song
+3294	Author	Hao Ma
+3295	Author	Hongning Wang
+3291	Author	Stewart Whiting
+3277	Author	Kaushik Chakrabarti
+3276	Author	Chi Wang
+3273	Author	Dell Zhang
+3318	Author	Oscar Díaz
+3314	Author	Benyu Zhang
+3312	Author	Lei Ji
+3313	Author	Weiguo Fan
+3326	Author	Dimitri Theodoratos
+3327	Author	Theodore Dalamagas
+3324	Author	Xiaoying Wu
+3311	Author	Zhi-Hong Deng
+3310	Author	Jun Yan
+3216	Author	Ching-Yung Lin
+3223	Author	Yoelle Maarek
+3225	Author	Ryen W. White
+3202	Author	Zhaohui Wu
+3204	Author	Huajun Chen
+3211	Author	Jian Hu
+3214	Author	Zheng Chen
+3248	Author	Eric Horvitz
+3254	Author	Zhong Su
+3232	Author	Irwin King
+3244	Author	Jennifer Neville
+3161	Author	Jun Zhu
+3163	Author	Bo Zhang
+3154	Author	Byron J. Gao
+3145	Author	Lei Zhang 0001
+3147	Author	Wei-Ying Ma
+3195	Author	Marlon Dumas
+3183	Author	Weiming Hu
+3180	Author	Prabhakar Raghavan
+3174	Author	Alexander J. Smola
+3172	Author	Shuang-Hong Yang
+3173	Author	Bo Long
+3170	Author	Gianluca Demartini
+3088	Author	Jianfeng Gao
+3091	Author	Kuansan Wang
+3094	Author	Taro Tezuka
+3082	Author	Zhenhui Li
+3083	Author	Ding Zhou
+3086	Author	Marius Pasca
+3087	Author	Jian Huang 0002
+3075	Author	Paolo Boldi
+3078	Author	Sebastiano Vigna
+3125	Author	Amit P. Sheth
+3106	Author	David Hawking
+3109	Author	Rosie Jones
+3535	Author	Vasudeva Varma
+3537	Author	Manabu Okumura
+3550	Author	Daqing He
+3548	Author	Peter Brusilovsky
+3553	Author	Susan T. Dumais
+3560	Author	Ahmed Hassan Awadallah
+3574	Author	Claudiu S. Firan
+3575	Author	Raluca Paiu
+3583	Author	Chao Liu 0001
+3463	Author	James Caverlee
+3462	Author	Qiang Yang 0001
+3461	Author	Jian-Tao Sun
+3478	Author	Gui-Rong Xue
+3501	Author	Ingmar Weber
+3503	Author	Jiliang Tang
+3502	Author	Xia Hu
+3504	Author	Huiji Gao
+3505	Author	Huan Liu
+3508	Author	Panagiotis G. Ipeirotis
+3516	Author	Davood Rafiei
+3402	Author	Jaewoo Kang
+3413	Author	Torsten Suel
+3438	Author	Bin Gao
+3439	Author	Tie-Yan Liu
+3445	Author	Yang Liu
+3447	Author	Raymond K. Wong
+3338	Author	Carlos Guestrin
+3330	Author	Ning Liu
+3331	Author	Flavio Chierichetti
+3329	Author	Shuicheng Yan
+3332	Author	Sergei Vassilvitskii
+3358	Author	Barbara Poblete
+3347	Author	Michael Bendersky
+3349	Author	Donald Metzler
+3348	Author	Evgeniy Gabrilovich
+3371	Author	Yuchen Zhao
+3372	Author	Neel Sundaresan
+3390	Author	Marcelo Arenas
+3383	Author	Thomas S. Huang
+3382	Author	Chengxiang Zhai
+3839	Author	Jianwen Su
+3836	Author	Peter Mika
+3837	Author	Roi Blanco
+3811	Author	Wynne Hsu
+3808	Author	Hamid R. Motahari Nezhad
+3815	Author	Hari Sundaram
+3822	Author	Edward Y. Chang
+3792	Author	Xuanjing Huang
+3793	Author	Lide Wu
+3797	Author	I. V. Ramakrishnan
+3798	Author	Xiaojun Wan
+3799	Author	Jianwu Yang
+3803	Author	Matthew Richardson
+3806	Author	Adrian Popescu
+3791	Author	Qi Zhang
+3761	Author	François Bry
+3750	Author	Ziyu Guan
+3749	Author	Jiajun Bu
+3748	Author	Can Wang
+3747	Author	Xiaofei He
+3759	Author	Jaime Teevan
+3758	Author	Krysta Marie Svore
+3753	Author	Ya Zhang
+3732	Author	Juanzi Li
+3729	Author	Jie Tang
+3730	Author	Jing Zhang 0001
+3716	Author	Kristina Lerman
+3718	Author	Ali Dasdan
+3725	Author	Stephen Robertson
+3727	Author	Steffen Rendle
+3726	Author	Jun Wang 0012
+3710	Author	Lise Getoor
+3697	Author	Yehuda Koren
+3702	Author	Ying Liu
+3680	Author	Fernando Diaz
+3673	Author	Isaac G. Councill
+3675	Author	Xian-Sheng Hua
+3676	Author	Meng Wang
+3679	Author	Jangwon Seo
+3670	Author	Aris Anagnostopoulos
+3660	Author	Christopher C. Yang
+3649	Author	Milad Shokouhi
+3647	Author	Gabriella Kazai
+3643	Author	Valentin Jijkoun
+3636	Author	Wee Keong Ng
+3635	Author	Byron Choi
+3633	Author	Hongbo Xu
+3632	Author	Li Guo
+3631	Author	Xueqi Cheng
+3617	Author	Yi-Dong Shen
+3596	Author	Xuanhui Wang
+3597	Author	Dou Shen
+3598	Author	Hua-Jun Zeng
+3584	Author	Anitha Kannan
+4068	Author	Ping Luo
+4075	Author	Anand Ranganathan
+4077	Author	Tao Qin
+4090	Author	Juan-Zi Li
+4049	Author	Thore Graepel
+4059	Author	Herbert Van de Sompel
+4057	Author	Johan Bollen
+4062	Author	Frank McCown
+4063	Author	Michael L. Nelson
+4001	Author	Yanchun Zhang
+4000	Author	Jinli Cao
+4008	Author	Patrick Pantel
+4020	Author	Jing Li
+4022	Author	Liangjie Hong
+4023	Author	Amr Ahmed
+3968	Author	Nish Parikh
+3980	Author	Yutaka Matsuo
+3950	Author	Alejandro Jaimes
+3960	Author	Rong Jin
+3962	Author	Hang Li
+3954	Author	Gilad Mishne
+3912	Author	Omar Alonso
+3917	Author	Yalou Huang
+3905	Author	Dan Roth
+3934	Author	Deng Cai
+3933	Author	Qiaozhu Mei
+3927	Author	Nivio Ziviani
+3878	Author	Shenghua Bao
+3873	Author	Belle L. Tseng
+3896	Author	Huizhong Duan
+3871	Author	Kai Yu
+3870	Author	Shenghuo Zhu
+3869	Author	Arnd Christian König
+3868	Author	Ping Li 0001
+4400	Author	Yabo Xu
+4410	Author	Paul N. Bennett
+4394	Author	Nitesh V. Chawla
+4357	Author	Marie-Francine Moens
+4356	Author	Flavio Rizzolo
+4361	Author	Weizhu Chen
+4365	Author	Masatoshi Yoshikawa
+4469	Author	Hiroshi Nakagawa
+4475	Author	Chen Lin
+4448	Author	Liyun Ru
+4458	Author	Kunqing Xie
+4434	Author	Longbing Cao
+4433	Author	Guandong Xu
+4446	Author	Min Zhang 0006
+4447	Author	Shaoping Ma
+4444	Author	Yiqun Liu
+4537	Author	Gregor Hackenbroich
+4514	Author	Zhiwei Li
+4515	Author	Jie Liu
+4509	Author	Svetha Venkatesh
+4485	Author	Yong Zhang
+4584	Author	Shou-De Lin
+4575	Author	Carl Lagoze
+4568	Author	Peter Christen
+4544	Author	Samuel Ieong
+4135	Author	Olfa Nasraoui
+4151	Author	Eric P. Xing
+4154	Author	Nitin Gupta 0003
+4159	Author	Zhiyong Peng
+4105	Author	Alberto H. F. Laender
+4107	Author	Aoying Zhou
+4108	Author	Weining Qian
+4111	Author	Rui Li
+4218	Author	Tetsuya Sakai
+4160	Author	Chuan Xiao
+4180	Author	Jing Bai
+4181	Author	Yi Chang
+4177	Author	Anlei Dong
+4266	Author	George Forman
+4258	Author	Rui Cai
+4283	Author	Yanyan Lan
+4282	Author	Jiafeng Guo
+4234	Author	Xiaoming Li
+4225	Author	Edleno Silva de Moura
+4228	Author	Altigran Soares da Silva
+4229	Author	Pável Calado
+4231	Author	Conglei Yao
+4325	Author	Luciano Barbosa
+4320	Author	Steven C. H. Hoi
+4321	Author	Michael R. Lyu
+4348	Author	Jing Peng
+4338	Author	Christopher B. Jones
+4293	Author	Hady Wirawan Lauw
+4878	Author	Zhifeng Bao
+4920	Author	Ingemar J. Cox
+4908	Author	Flavio Junqueira
+4910	Author	Hugo Zaragoza
+4985	Author	Hai Jin
+4989	Author	Steffen Staab
+4969	Author	Joydeep Ghosh
+4973	Author	B. Aditya Prakash
+5023	Author	Vassilis Plachouras
+5022	Author	Vanessa Murdock
+5016	Author	Daniel Kifer
+5015	Author	Qi He
+5011	Author	Paul-Alexandru Chirita
+5010	Author	Nick Craswell
+4997	Author	Ruihua Song
+5047	Author	Ganesh Ramakrishnan
+5043	Author	Matthias Hagen
+5038	Author	Tingting He
+5034	Author	Schahram Dustdar
+5083	Author	Jilei Tian
+5082	Author	Enhong Chen
+5081	Author	Huanhuan Cao
+5059	Author	Marc Najork
+5057	Author	Pavel Serdyukov
+5116	Author	Wim Martens
+5111	Author	Ko Fujimura
+5098	Author	Bo Zhao
+5089	Author	Makoto P. Kato
+4631	Author	Linjun Yang
+4635	Author	Wei Chu
+4645	Author	Ying Chen
+4644	Author	Ke Zhou
+4650	Author	Gjergji Kasneci
+4661	Author	Sang-Wook Kim
+4667	Author	Barry Smyth
+4664	Author	Thorsten Joachims
+4665	Author	Martin Halvey
+4673	Author	Takahiro Hara
+4674	Author	Shojiro Nishio
+4679	Author	Shi Feng
+4690	Author	Ming Zhang
+4701	Author	Gary Marchionini
+4705	Author	Shuming Shi
+4715	Author	Yu Zheng
+4723	Author	Vitor R. Carvalho
+4738	Author	Charles L. A. Clarke
+4771	Author	Jiebo Luo
+4798	Author	Andrew McCallum
+4809	Author	Dennis Fetterly
+4819	Author	Wagner Meira Jr.
+4855	Author	Rasmus Pagh
+4853	Author	Ying Li
+5484	Author	Yashar Moshfeghi
+5454	Author	Keke Cai
+5451	Author	Tao Yang
+5448	Author	Ronan Cummins
+5404	Author	Daxin Jiang
+5376	Author	Duen Horng Chau
+5630	Author	Jinyoung Kim
+5590	Author	Kevyn Collins-Thompson
+5588	Author	Chong-Wah Ngo
+5592	Author	Maria E. Orlowska
+5580	Author	Gordon Sun
+5227	Author	Özgür Ulusoy
+5226	Author	Ismail Sengör Altingövde
+5225	Author	Rifat Ozcan
+5224	Author	Partha Pratim Talukdar
+5222	Author	Atish Das Sarma
+5242	Author	Filip Radlinski
+5237	Author	David Lazer
+5233	Author	Zhiyuan Cheng
+5197	Author	Lei Tang
+5213	Author	Xiangji Huang
+5214	Author	Aijun An
+5210	Author	Guang Qiu
+5200	Author	Dingyi Han
+5153	Author	Marcelo Mendoza
+5152	Author	Hiroyuki Kitagawa
+5170	Author	Iadh Ounis
+5168	Author	Rodrygo L. T. Santos
+5169	Author	Craig Macdonald
+5128	Author	Brian D. Davison 0001
+5123	Author	Ramesh Jain
+5125	Author	Michael J. Cafarella
+5151	Author	Shigeo Sugimoto
+5352	Author	Hao Wu
+5353	Author	Sreenivas Gollapudi
+5361	Author	Yuanhua Lv
+5315	Author	Haofen Wang
+5320	Author	Yue Liu
+5289	Author	Tao Mei
+5294	Author	Qiang Ma 0001
+5302	Author	Xiangyang Xue
+5310	Author	David Carmel
+5271	Author	Thomas Gottron
+5270	Author	Xiaoling Wang
+5277	Author	Kuo Zhang
+5278	Author	Gang Wu
+5970	Author	Wei Jin
+5971	Author	Rohini K. Srihari
+5966	Author	Natasa Milic-Frayling
+5954	Author	Sherif Sakr
+5952	Author	Jérôme Siméon
+5959	Author	Julio Gonzalo
+5984	Author	Srinivasan H. Sengamedu
+5988	Author	Wai Gen Yee
+5990	Author	Ophir Frieder
+5903	Author	Jun Han
+5949	Author	Maosong Sun
+5932	Author	Nenad Stojanovic
+6100	Author	Jaewon Yang
+6138	Author	Haesun Park
+6043	Author	Jialie Shen
+6018	Author	Frank M. Shipman III
+6067	Author	Leonid Libkin
+5711	Author	Krisztian Balog
+5718	Author	Lian'en Huang
+5744	Author	Yan Zhang
+5647	Author	Latifur Khan
+5649	Author	Bhavani M. Thuraisingham
+5678	Author	Yunbo Cao
+5686	Author	Jayant Madhavan
+5840	Author	Cindy Xide Lin
+5860	Author	Wei Wei
+5772	Author	Peter Bailey
+6562	Author	Jaap Kamps
+6585	Author	Ray R. Larson
+6538	Author	Uma Murthy
+6536	Author	Donatella Castelli
+6543	Author	Nicola Ferro
+6541	Author	Maristella Agosti
+6534	Author	George Buchanan
+6555	Author	Leonardo Candela
+6557	Author	Pasquale Pagano
+6546	Author	Gianmaria Silvello
+6544	Author	Carol Peters
+6633	Author	Satoshi Oyama
+6631	Author	Hiroaki Ohshima
+6626	Author	Nicola Orio
+6654	Author	Sally Jo Cunningham
+6648	Author	Sarantos Kapidakis
+6651	Author	Ryoji Kataoka
+6643	Author	Nuno Freire
+6598	Author	Fabio Crestani
+6596	Author	Edgar Meij
+6620	Author	Chunxiao Xing
+6615	Author	Lois M. L. Delcambre
+6614	Author	Lillian N. Cassel
+6435	Author	Bruno Martins
+6436	Author	José Luis Borbinha
+6453	Author	Marcos André Gonçalves
+6454	Author	Edward A. Fox
+6455	Author	Tamara Sumner
+6415	Author	Sanjay Kumar Madria
+6421	Author	Spiridon Bakiras
+6526	Author	Richard Furuta
+6472	Author	Birger Larsen
+6484	Author	Ee-Peng Lim
+6485	Author	Chew-Hung Chang
+6482	Author	Dion Hoe-Lian Goh
+6483	Author	Yin Leng Theng
+6326	Author	Shashi Shekhar
+6325	Author	SangKeun Lee
+6313	Author	Alex Delis
+6316	Author	Demetrios Zeinalipour-Yazti
+6307	Author	Le Gruenwald
+6311	Author	Antonios Deligiannakis
+6297	Author	Yoshiharu Ishikawa
+6290	Author	Claudia Roncancio
+6398	Author	Magdalena Balazinska
+6386	Author	George Samaras
+6337	Author	Elias Frentzos
+6195	Author	Berkant Barla Cambazoglu
+6196	Author	Flavio Paiva Junqueira
+6162	Author	Zhicheng Dou
+6154	Author	Kehong Wang
+6261	Author	Wen-Chih Peng
+6231	Author	Liang Zhang
+7053	Author	Robert Sanderson
+7040	Author	Michael J. Cole
+7096	Author	Atsuhiro Takasu
+7090	Author	Jöran Beel
+7115	Author	Kyle Williams
+7133	Author	Cathal Gurrin
+7165	Author	Jianguo Xiao
+7159	Author	Monica Landoni
+6927	Author	David Bainbridge
+6922	Author	Ian Ruthven
+6932	Author	Cristina Ribeiro
+6940	Author	Emanuele Di Buccio
+7004	Author	Ian H. Witten
+7014	Author	Chei Sian Lee
+7018	Author	Marco Dussin
+7022	Author	Guillaume Cabanac
+7030	Author	Yannis Tzitzikas
+6811	Author	Hussein Suleman
+6845	Author	Adriano Veloso
+6844	Author	Jussara M. Almeida
+6839	Author	Gonzalo Navarro
+6837	Author	Nieves R. Brisaboa
+6821	Author	Giuseppe Amato
+6819	Author	Rafael Muñoz
+6875	Author	Moira C. Norrie
+6870	Author	Massimo Melucci
+6849	Author	Ricardo da Silva Torres
+6908	Author	Christopher S. G. Khoo
+6902	Author	Jun Zhang 0005
+6892	Author	Tereza Iofciu
+6884	Author	Paolo Manghi
+6659	Author	Ann Blandford
+6670	Author	Matthew Lease
+6708	Author	Euripides G. M. Petrakis
+6709	Author	Evangelos E. Milios
+6693	Author	Nattiya Kanhabua
+6741	Author	Gregory Crane
+6744	Author	Giorgio Maria Di Nunzio
+6726	Author	Andreas Rauber
+6733	Author	Mário J. Silva
+6771	Author	Martin Klein
+6755	Author	Christoph Becker 0001
+6763	Author	Elaine G. Toms
+7668	Author	Xiang Li
+7671	Author	Emmanuel Müller
+7667	Author	Kurt Rothermel
+7676	Author	Wei Wu
+7631	Author	De-Nian Yang
+7638	Author	Anirban Mondal
+7646	Author	Ralf Hartmut Güting
+7613	Author	Weiwei Sun
+7504	Author	Carlo Curino
+7456	Author	Bo Xu
+7435	Author	Peiquan Jin
+7437	Author	Lihua Yue
+7428	Author	Stefan Böttcher
+7455	Author	Egemen Tanin
+7418	Author	Roger Zimmermann
+7341	Author	J. Stephen Downie
+7288	Author	Robert Neumayer
+7257	Author	Dawei Song
+7258	Author	Mark Baillie
+7259	Author	Seungwon Yang
+7252	Author	Antoine Doucet
+7238	Author	Michael Khoo
+7228	Author	John Tait
+7218	Author	Felisa Verdejo
+7199	Author	Robert B. Allen
+7186	Author	Carlo Meghini
+8134	Author	Douglas W. Oard
+8136	Author	Maximilian Eibl
+8137	Author	Nuno Cardoso
+8140	Author	Elisa Noguera
+8141	Author	Vivien Petras
+8145	Author	Jacques Savoy
+8162	Author	Kareem Darwish
+8168	Author	Paolo Rosso
+8171	Author	José M. Perea-Ortega
+8173	Author	Udo Kruschwitz
+8177	Author	Davide Buscaldi
+8181	Author	Patrick Ruch
+8070	Author	Julio Villena-Román
+8071	Author	José Carlos González Cristóbal
+8069	Author	Sara Lana-Serrano
+8095	Author	Brigitte Grau
+8096	Author	Anne-Laure Ligozat
+8117	Author	Paul McNamee
+8124	Author	Jussi Karlgren
+8011	Author	Fernando Llopis
+8010	Author	Miguel Angel García Cumbreras
+8015	Author	Arturo Montejo Ráez
+8014	Author	Luis Alfonso Ureña López
+8003	Author	Mingjing Li
+8026	Author	Xin Zhou
+8027	Author	Julien Gobeill
+8028	Author	Henning Müller
+8019	Author	Luis Villaseñor Pineda
+8017	Author	Manuel Montes-y-Gómez
+8021	Author	Jaime G. Carbonell
+8047	Author	Gareth J. F. Jones
+8035	Author	Anselmo Peñas
+7887	Author	Lei Shi
+7840	Author	Toshiyuki Amagasa
+7768	Author	Yan Huang
+7765	Author	Uwe Röhm
+7792	Author	Siyuan Liu
+7708	Author	Hui Xiong
+7730	Author	Dongqing Yang
+7731	Author	Tengjiao Wang
+7728	Author	Jun Gao
+8813	Author	Subhash Bhalla
+8816	Author	Yuhong Xiong
+8769	Author	Jong-Hyeok Lee
+8775	Author	Anne Schuth
+8787	Author	Heiko Schuldt
+8752	Author	Guido Zuccon
+8733	Author	Ben He
+8732	Author	Christina Lioma
+8938	Author	Florin Rusu
+8940	Author	Kesheng Wu
+8925	Author	Seon Ho Kim
+8839	Author	Farnoush Banaei Kashani
+8856	Author	Sudeepa Roy
+9074	Author	Sai Wu
+9077	Author	Michael D. Lieberman
+9064	Author	Calton Pu
+9037	Author	Alexandra Poulovassilis
+9012	Author	Juan Trujillo
+9011	Author	Jose-Norberto Mazón
+9018	Author	Nematollaah Shiri
+9214	Author	Shixia Liu
+9207	Author	Xiaoming Jin
+9196	Author	Xiao Yu
+9174	Author	Sebastian Maneth
+9162	Author	Todd Eavis
+9165	Author	Dan Lin
+9136	Author	Qiang Wang
+9132	Author	Srikanta Tirthapura
+9129	Author	Junjie Yao
+9128	Author	Adam J. Lee
+9118	Author	Ke Chen 0005
+9119	Author	Nan Tang 0001
+9115	Author	Ian Molloy
+9109	Author	Yiping Ke
+9110	Author	James Cheng
+9099	Author	Yasushi Sakurai
+9091	Author	Tobias Emrich
+8266	Author	Patrick Gallinari
+8265	Author	Massih-Reza Amini
+8275	Author	Franciska de Jong
+8274	Author	Dolf Trieschnigg
+8295	Author	Andrés Montoyo
+8301	Author	Hsin-Hsi Chen
+8310	Author	Allan Hanbury
+8316	Author	David Pinto
+8194	Author	Manuel Palomar
+8193	Author	Óscar Ferrández
+8227	Author	Michel Beigbeder
+8228	Author	Thomas Deselaers
+8242	Author	Mathias Géry
+8244	Author	Christine Largeron
+8246	Author	Laurianne Sitbon
+8248	Author	Patrice Bellot
+8250	Author	William R. Hersh
+8253	Author	Diana Santos
+8384	Author	Joo-Hwee Lim
+8414	Author	Jianhan Zhu
+8415	Author	Stefan M. Rüger
+8425	Author	Manos Tsagkias
+8416	Author	Miguel E. Ruiz
+8419	Author	Leif Azzopardi
+8447	Author	Éric Gaussier
+8441	Author	Stephen Tomlinson
+8435	Author	Karen Pinel-Sauvagnat
+8343	Author	Theodora Tsikrika
+8360	Author	Noriko Kando
+8353	Author	Jamie Callan
+8352	Author	Luo Si
+8380	Author	Azadeh Shakery
+8383	Author	Jean-Pierre Chevallet
+8534	Author	Debasis Ganguly
+8525	Author	Peter Wilkins
+8521	Author	Kalervo Järvelin
+8564	Author	Mihai Lupu
+8561	Author	Walid Magdy
+8573	Author	Hideo Joho
+8551	Author	Loïc Maisonnasse
+8464	Author	Eric SanJuan
+8467	Author	Jean-Michel Renders
+8466	Author	Stéphane Clinchant
+8449	Author	Marc Bron
+8506	Author	Hongbo Deng
+8505	Author	Heng Ji
+8480	Author	Mirna Adriani
+8486	Author	Andrea Esuli
+8487	Author	Fabrizio Sebastiani 0001
+8668	Author	Qi Tian
+8656	Author	Xavier Tannier
+8654	Author	Josiane Mothe
+8649	Author	Shlomo Geva
+8651	Author	Marijn Koolen
+8690	Author	Markus Schedl
+8691	Author	Eduard H. Hovy
+8675	Author	Henning Rode
+8602	Author	Philippe Mulhem
+8632	Author	Jing Liu
+8625	Author	Giovanni Semeraro
+8619	Author	Alistair Moffat
+8615	Author	Wouter Weerkamp
+9781	Author	Basit Shafiq
+9841	Author	Erich Schubert
+9795	Author	Kurt Stockinger
+9903	Author	Stratis Viglas
+9863	Author	Wei Wang 0010
+9874	Author	Giorgio Ghelli
+9872	Author	Ankit Agrawal
+9873	Author	Alok N. Choudhary
+9880	Author	Reda Alhajj
+9968	Author	Yinan Li
+9973	Author	Heikki Mannila
+9983	Author	Yong Liu
+9936	Author	Dean Jacobs
+9943	Author	Suman Nath
+10028	Author	David W. Embley
+10016	Author	Kuiyu Chang
+10012	Author	George Karypis
+10006	Author	Bill Howe
+10108	Author	Jiannan Wang
+10096	Author	Carson Kai-Sang Leung
+10089	Author	Arjen P. de Vries
+10094	Author	Aidong Zhang
+10074	Author	Xin Wang
+10078	Author	Pavel Zezula
+10067	Author	Xingquan Zhu
+10068	Author	Xindong Wu
+10051	Author	Randal C. Burns
+10135	Author	Jing He
+10127	Author	Ge Yu
+10123	Author	Sachindra Joshi
+10192	Author	Alpa Jain
+10187	Author	Aditya G. Parameswaran
+9226	Author	Heng Huang
+9225	Author	Chris H. Q. Ding
+9217	Author	Gerome Miklau
+9246	Author	Yang Zhang
+9261	Author	Alin Deutsch
+9274	Author	Liang Tang
+9295	Author	Sang-Won Lee
+9305	Author	Haggai Roitman
+9304	Author	Yosi Mass
+9303	Author	Michal Shmueli-Scheuer
+9323	Author	Bo Chen
+9346	Author	Luis Gravano
+9344	Author	Hwanjo Yu
+9359	Author	Elena Ferrari
+9358	Author	Barbara Carminati
+9384	Author	Jens Dittrich
+9392	Author	Yinghui Wu
+9410	Author	See-Kiong Ng
+9409	Author	Limsoon Wong
+9419	Author	Matteo Golfarelli
+9418	Author	Stefano Rizzi
+9417	Author	Weiren Yu
+9424	Author	Wei Lu
+9439	Author	Eugene Wu 0002
+9440	Author	Cecilia M. Procopiuc
+9454	Author	Flip Korn
+9451	Author	Michalis Petropoulos
+9499	Author	Zhanhuai Li
+9503	Author	Sharma Chakravarthy
+9502	Author	Raman Adaikkalavan
+9492	Author	Yanlei Diao
+9523	Author	Wei Chen
+9514	Author	Rui Zhang
+9515	Author	Jin Huang
+9518	Author	Ke Deng
+9516	Author	Feida Zhu
+9563	Author	Hongyan Liu
+9544	Author	Tsuyoshi Idé
+9541	Author	Jian Chen
+9542	Author	Hisashi Kashima
+9573	Author	David B. Lomet
+9617	Author	Yuan An
+9622	Author	Pu-Jen Cheng
+9657	Author	Zhiguo Gong
+9640	Author	Wenliang Du
+9647	Author	Osmar R. Zaïane
+9707	Author	Bingsheng He
+11004	Author	Wei Liu
+10961	Author	Daling Wang
+10954	Author	Yang Yang
+10953	Author	Tieyun Qian
+10939	Author	Peter Bruza
+10926	Author	Xiuzhen Zhang
+10902	Author	J. Wenny Rahayu
+10903	Author	David Taniar
+10871	Author	Martin Pfeifle
+10856	Author	Christopher Ré
+10837	Author	Michael I. Jordan
+10780	Author	Jinyan Li
+10779	Author	Peng Wang
+10757	Author	Xintao Wu
+11228	Author	Michael Schrefl
+11178	Author	Pedro Furtado
+11189	Author	Kokou Yétongnon
+11146	Author	Tiezheng Nie
+11156	Author	Marco A. Casanova
+11152	Author	Ljiljana Stojanovic
+11153	Author	Jun Ma
+11014	Author	Yue Xu
+11010	Author	Stefanie Rinderle-Ma
+11020	Author	Flavius Frasincar
+11033	Author	Jérôme Gensel
+10443	Author	Alexander S. Szalay
+10488	Author	Mao Ye
+10481	Author	Boon Thau Loo
+10474	Author	Chaofeng Sha
+10325	Author	P. Sreenivasa Kumar
+10333	Author	Markus Schneider 0001
+10331	Author	Thomas Kissinger
+10312	Author	Bogdan Cautis
+10257	Author	Gianluigi Greco
+10269	Author	Feng Pan
+10274	Author	Ulrike Fischer
+10701	Author	James Bailey
+10706	Author	U. Kang
+10645	Author	Hua Wang
+10667	Author	Manfred Reichert
+10584	Author	Erwin Leonardi
+10623	Author	Vincent Oria
+10618	Author	Mohammed Javeed Zaki
+10498	Author	Kam-Fai Wong
+10503	Author	Francisco Claude
+10510	Author	Erik Vee
+10531	Author	Toon Calders
+10533	Author	Bart Goethals
+10546	Author	Arnold P. Boedihardjo
+10545	Author	Chang-Tien Lu
+11956	Author	Georges Dupret
+11943	Author	Fazli Can
+11942	Author	Pablo Castells
+11936	Author	Theodoros Lappas
+11938	Author	Padmini Srinivasan
+11950	Author	Leman Akoglu
+11947	Author	William W. Cohen
+11925	Author	Rina Panigrahy
+11911	Author	Nicola Tonellotto
+11908	Author	Georg Buscher
+11906	Author	Carsten Eickhoff
+12016	Author	Ching-man Au Yeung
+12017	Author	Jun Xu 0001
+12024	Author	Lidong Bing
+12025	Author	Wai Lam
+12026	Author	Tak-Lam Wong
+12027	Author	Giuseppe Manco
+12006	Author	Jing Jiang
+11986	Author	Virgiliu Pavlu
+11985	Author	W. Bruce Croft
+11988	Author	Javed A. Aslam
+11974	Author	Hongfei Yan
+11979	Author	Zhongzhi Shi
+11978	Author	Qing He
+11833	Author	Gu Xu
+11783	Author	Ladjel Bellatreche
+11895	Author	Yi Fang
+11869	Author	Bin Cao
+11855	Author	Dawei Yin
+12195	Author	Zi Yang
+12203	Author	Mohammad Al Hasan
+12218	Author	Dmitry Lagun
+12161	Author	Jaideep Srivastava
+12274	Author	Quanquan Gu
+12278	Author	Ian Soboroff
+12282	Author	Morgan Harvey
+12283	Author	Mark James Carman
+12234	Author	Benjamin Piwowarski
+12236	Author	Songbo Tan
+12239	Author	Srujana Merugu
+12248	Author	Fei Wang
+12250	Author	Ming Zhou
+12254	Author	Chiranjib Bhattacharyya
+12070	Author	Haibin Cheng
+12045	Author	Ludovic Denoyer
+12034	Author	Xiaoyan Zhu
+12061	Author	Jonathan L. Elsas
+12062	Author	Tat-Seng Chua
+12053	Author	Emine Yilmaz
+12049	Author	Tao Li
+12048	Author	Lei Li
+12140	Author	Chirag Shah
+12129	Author	Yangqiu Song
+12132	Author	Wei Gao
+12147	Author	Kuniaki Uehara
+12146	Author	Kazuhiro Seki
+12150	Author	Ben Carterette
+12111	Author	Young-In Song
+11412	Author	Hiroyuki Toda
+11416	Author	Klaus-Dieter Schewe
+11417	Author	Bernhard Thalheim
+11422	Author	Hongyan Li
+11447	Author	Yan Liu
+11430	Author	Gang Li
+11516	Author	Xin Chen
+11489	Author	Shazia Wasim Sadiq
+11500	Author	James A. Thom
+11496	Author	Jorge Bernardino
+11285	Author	Dimitris Plexousakis
+11315	Author	Oscar Pastor
+11349	Author	Sergio Greco
+11338	Author	Derong Shen
+11337	Author	Yue Kou
+11334	Author	Zhendong Niu
+11377	Author	Dong-Hong Ji
+11372	Author	Hong Chen
+11371	Author	Jun He
+11361	Author	Hakim Hacid
+11669	Author	Sheng Li
+11690	Author	Yue Wang
+11699	Author	William Webber
+11700	Author	Justin Zobel
+11534	Author	Xue Li
+11536	Author	Mengchi Liu
+11573	Author	Yiu-Kai Ng
+11593	Author	Alexandros Nanopoulos
+13180	Author	Kamalakar Karlapalem
+13267	Author	Marijn Janssen
+13256	Author	Jaime Arguello
+13257	Author	Teresa M. Harrison
+13248	Author	Hsinchun Chen
+13236	Author	Soon Ae Chun
+13235	Author	Andrea L. Kavanaugh
+13233	Author	José Ramón Gil-García
+13227	Author	Theresa A. Pardo
+12898	Author	Dejing Dou
+12911	Author	Douglas Stott Parker Jr.
+12917	Author	Keke Chen
+12829	Author	Sharma V. Thankachan
+12857	Author	Elio Masciari
+13006	Author	Andreas Behrend
+13004	Author	Xiaojie Yuan
+12932	Author	Qing Wang
+12947	Author	Shiwei Tang
+12972	Author	Wei Wang
+12667	Author	Alex Thomo
+12649	Author	Jan Hidders
+12612	Author	Chao Li
+12568	Author	Luc Segoufin
+12717	Author	Yu Cheng
+12395	Author	Vasant Honavar
+12367	Author	Alex Dekhtyar
+12364	Author	Michela Bertolotto
+12328	Author	Bamshad Mobasher
+12332	Author	Mauricio Marín
+12335	Author	Carlos Ordonez
+12334	Author	Carlos Garcia-Alvarado
+12312	Author	Jun Zhao
+12536	Author	Dirk Van Gucht
+12501	Author	Jan Van den Bussche
+12498	Author	Victor Vianu
+12463	Author	Naoki Abe
+14219	Author	Naren Ramakrishnan
+14299	Author	Marin Litoiu
+14282	Author	Hausi A. Müller
+14286	Author	Eric S. K. Yu
+13612	Author	Sharon S. Dawes
+13604	Author	Milos Hauskrecht
+13568	Author	Vijay Atluri
+13573	Author	Edward Curry
+13804	Author	Craig A. Knoblock
+13788	Author	Hui Yang
+13349	Author	Lei Zheng
+13369	Author	Nabil R. Adam
+13327	Author	Rodrigo Sandoval-Almazán
+13313	Author	Luis F. Luna-Reyes
+13338	Author	Manuel A. Pérez-Quiñones
+13421	Author	Elsa Estevez
+13420	Author	Adegboyega K. Ojo
+13411	Author	Stuart W. Shulman
+13424	Author	José Luis Ambite
+13475	Author	Djoko Sigit Sayogo
+13486	Author	Hao Wang
+13445	Author	Hans Jochen Scholl
+13470	Author	Sehl Mellouli
+13518	Author	John Carlo Bertot
+13519	Author	Paul T. Jaeger
+13526	Author	Anil K. Jain
+15305	Author	Jiuyong Li
+15313	Author	Shichao Zhang
+15340	Author	Yun Sing Koh
+15341	Author	Gillian Dobbie
+15355	Author	Frans Coenen
+15359	Author	Anne Laurent
+15240	Author	Pascal Poncelet
+15238	Author	Mathieu Roche
+15249	Author	Maguelonne Teisseire
+15290	Author	Il-Yeol Song
+15289	Author	Min Song
+15173	Author	Xiaohua Hu
+15172	Author	Xiaodan Zhang
+15175	Author	Xiaohua Zhou
+15176	Author	Palakorn Achananuparp
+15185	Author	Franck Ravat
+15186	Author	Olivier Teste
+15188	Author	Gilles Zurfluh
+15190	Author	Sadok Ben Yahia
+15135	Author	Danilo Montesi
+15050	Author	Alberto Del Bimbo
+15055	Author	Donato Malerba
+15028	Author	Carlo Tasso
+15022	Author	Floriana Esposito
+15019	Author	Stefano Ferilli
+14629	Author	Vinod Muthusamy
+14448	Author	Joanna Ng
+14391	Author	Kostas Kontogiannis
+14397	Author	James R. Cordy
+14360	Author	Diane Kelly
+14344	Author	Patrick Martin
+16256	Author	Yu Zhang
+16318	Author	Wei Peng
+16352	Author	Hui Fang
+16132	Author	Hang Guo
+16216	Author	Lei Zhang
+16225	Author	Peng Zhang
+16245	Author	Thanawin Rakthanmanon
+16012	Author	Zhoujun Li
+16032	Author	Changjie Tang
+16046	Author	Vincent S. Tseng
+16119	Author	Yuan Lin
+15923	Author	Ah Chung Tsoi
+15989	Author	Einoshin Suzuki
+15824	Author	Zhi-Hua Zhou
+15649	Author	Mark Roantree
+15631	Author	Christoph F. Eick
+15638	Author	Yubin Bao
+15639	Author	Dan Zhang
+15714	Author	Lei Wang
+15701	Author	Shengrui Wang
+15590	Author	Jean-François Boulicaut
+15410	Author	Omar Boussaid
+15387	Author	Johann Eder
+17607	Author	Kazunari Sugiyama
+17538	Author	Jiepu Jiang
+17579	Author	Michael G. Christel
+17593	Author	Xiaozhong Liu
+17486	Author	Padhraic Smyth
+17905	Author	David Vallet
+17906	Author	David Hannah
+17847	Author	Jeremy Pickens
+17791	Author	Robert Villa
+17761	Author	Elad Yom-Tov
+17674	Author	Baogang Wei
+17673	Author	Jiangqin Wu
+18138	Author	Lidan Wang
+18095	Author	Yi Zhang
+18020	Author	Luanne Freund
+17994	Author	Miles Efron
+17920	Author	Jin-Cheon Na
+18345	Author	Andrew Turpin
+18344	Author	Mingfang Wu
+18295	Author	Mohammed Belkhatir
+18251	Author	Jimmy J. Lin
+18185	Author	Rui Yan
+16395	Author	Keun Ho Ryu
+16421	Author	Jun Liu
+16820	Author	Carlo Combi
+16647	Author	Abdur Chowdhury
+17038	Author	Martin Scholz
+17050	Author	Toralf Kirsten
+17388	Author	Berthier A. Ribeiro-Neto
+17387	Author	Marco Cristo
+19496	Author	Wil M. P. van der Aalst
+19497	Author	Arthur H. M. ter Hofstede
+19664	Author	Falk Scholer
+19667	Author	Nazli Goharian
+19677	Author	Seung-Hoon Na
+19653	Author	Shima Gerani
+19708	Author	Jovan Pehcevski
+19586	Author	Karl Gyllstrom
+19596	Author	Jian-Yun Nie
+19593	Author	Guodong Zhou
+19636	Author	James Allan
+19630	Author	Wessel Kraaij
+19783	Author	Avi Arampatzis
+19814	Author	Andrew Trotman
+19834	Author	Yanjun Qi
+19831	Author	Jie Peng
+19756	Author	Alvaro Barreiro
+19764	Author	In-Su Kang
+19905	Author	Paul Thomas
+19911	Author	Vincent Claveau
+19915	Author	John Dunnion
+19919	Author	Georges Quénot
+19923	Author	Andreas Broschart
+19945	Author	Simon J. Puglisi
+19950	Author	Mohamed S. Kamel
+19953	Author	Rianne Kaptein
+19959	Author	Vishwa Vinay
+19960	Author	Fiana Raiber
+19961	Author	Oren Kurland
+19843	Author	Olga Vechtomova
+19854	Author	Alan Hanjalic
+19863	Author	Mark D. Smucker
+19856	Author	Giridhar Kumaran
+19869	Author	David Elsweiler
+20077	Author	Noel E. O'Connor
+19984	Author	Nicolas Usunier
+19987	Author	David E. Losada
+19978	Author	Yulan He
+19971	Author	Yuexian Hou
+19975	Author	Li Zhang
+20221	Author	Stefan Büttcher
+20175	Author	Xiaobing Xue
+20168	Author	Wayne Xin Zhao
+20134	Author	Wenjie Li
+20123	Author	David A. Smith
+20427	Author	Seyed M. M. Tahaghoghi
+20439	Author	Ely Porat
+20399	Author	Amihood Amir
+20404	Author	J. Shane Culpepper
+20353	Author	Jun Guo
+18442	Author	Jun Wang
+18486	Author	Nicholas J. Belkin
+18484	Author	Chang Liu
+18483	Author	Jingjing Liu
+18510	Author	Chunxia Zhang
+18682	Author	Patrick Bosc
+18751	Author	Abdul Sattar
+18750	Author	Bela Stantic
+18784	Author	Giancarlo Guizzardi
+18803	Author	Ki-Joune Li
+18939	Author	Luc De Raedt
+19000	Author	Jixue Liu
+19160	Author	Lynda Tamine-Lechani
+19137	Author	Colm O'Riordan
+19138	Author	Gabriella Pasi
+19214	Author	Juan F. Huete
+19213	Author	Juan M. Fernández-Luna
+19357	Author	Mostafa Keikha
+19394	Author	Thijs Westerveld
+19393	Author	Georgina Ramírez
+21976	Author	Shuaiqiang Wang
+21825	Author	Yong Ge
+21733	Author	Qi Liu
+21696	Author	Joshua Zhexue Huang
+21698	Author	Zhiyong Shen
+21603	Author	Zhong Chen
+21571	Author	Ruixuan Li
+21586	Author	Kevin Lü
+22492	Author	Arindam Banerjee
+22497	Author	Bernhard Pfahringer
+22505	Author	Won Suk Lee
+22270	Author	Qing Yang
+22025	Author	Bo Liu
+22027	Author	Junjie Wu
+20922	Author	Jordi Cabot
+20864	Author	Xavier Franch
+20963	Author	Lin Liu 0001
+20931	Author	Andrea Tagarelli
+20792	Author	Dirk Fahland
+20767	Author	Marcello La Rosa
+20862	Author	Jan Mendling
+20843	Author	Fabiano Dalpiaz
+20844	Author	Paolo Giorgini
+20846	Author	Mathias Weske
+20705	Author	Qin Zhang
+20699	Author	Alexander F. Gelbukh
+20701	Author	Richard McCreadie
+20690	Author	Zheng Ye
+20486	Author	Laurence A. F. Park
+20509	Author	Srinath Srinivasa
+20506	Author	Vo Ngoc Anh
+21414	Author	Opher Etzion
+21255	Author	Remco M. Dijkman
+21060	Author	Hajo A. Reijers
+23819	Author	Aleksander Kolcz
+24013	Author	Yuefeng Li
+22789	Author	Alexandros Kalousis
+22850	Author	Wei Ding 0003
+22923	Author	Changshui Zhang
+22917	Author	Sanjay Chawla
+22574	Author	Pang-Ning Tan
+22559	Author	Takashi Washio
+22597	Author	Zhongfei (Mark) Zhang
+22664	Author	Siegfried Nijssen
+23101	Author	Chandan K. Reddy
+23146	Author	Charles X. Ling
+23240	Author	Shengliang Xu
+26205	Author	Feng Chen
+25637	Author	Christophe Claramunt
+25512	Author	Robert Gwadera
+28372	Author	Le Zhao
+28417	Author	Rong Yan
+28629	Author	Kun Zhang
+27711	Author	Dingding Wang
+27686	Author	David Jensen
+27739	Author	Fei Wang 0001
+27842	Author	David D. Lewis
+27850	Author	Miro Lehtonen
+27881	Author	Ellen M. Voorhees
+27949	Author	John R. Smith
+28129	Author	Alexander G. Hauptmann
+27256	Author	Gordon V. Cormack
+27344	Author	Praveen Chandar
+27343	Author	Yiming Yang
+27313	Author	Yihong Gong
+27269	Author	Le Sun
+27481	Author	Rich Caruana
+27398	Author	Weiran Xu
+27410	Author	Hae-Chang Rim
+27565	Author	Hongfei Lin
+27551	Author	Jimmy Xiangji Huang
+26878	Author	Pauli Miettinen
+26779	Author	Ian Davidson
+26776	Author	Arno Siebes
+26946	Author	Shipeng Yu
+26984	Author	Jilles Vreeken
+26902	Author	Silviu Cucerzan
+26941	Author	Arno J. Knobbe
+27035	Author	Andrew McGregor
+30415	Author	Shalini R. Urs
+30035	Author	Xiaoming Yu
+29200	Author	Indrajit Bhattacharya
+32676	Author	ErHeng Zhong
+32757	Author	Tina Eliassi-Rad
+32325	Author	Xiaoxiao Shi
+32504	Author	Inderjit S. Dhillon
+31901	Author	Carlotta Domeniconi
+31333	Author	Tamara G. Kolda
+31483	Author	Abdullah Mueen
+31003	Author	Ion Stoica
+35206	Author	Dacheng Tao
+35221	Author	Saharon Rosset
+35233	Author	Slobodan Vucetic
+35246	Author	Glenn Fung
+35092	Author	Nikolaj Tatti
+35059	Author	Claudia Perlich
+35660	Author	Jeff G. Schneider
+35553	Author	Alexander G. Gray
+35336	Author	Carla E. Brodley
+35338	Author	Foster J. Provost
+36621	Author	Boris Koldehofe
+33122	Author	Jingrui He
+33267	Author	Xiang Wang
+32994	Author	Richard D. Lawrence
+33463	Author	Jieping Ye
+33434	Author	Vipin Kumar
+34246	Author	Shih-Fu Chang
+34305	Author	Apostol Natsev

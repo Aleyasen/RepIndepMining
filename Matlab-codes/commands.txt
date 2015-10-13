@@ -1,0 +1,17 @@
+nohup matlab -nodisplay -nosplash -r main_movie_fb_2000 > logs/log_12.txt
+
+
+/srv/data/projects/apps/RepIndep_CIDR/MATLAB/aale/simtest-freebase
+
+/srv/data/projects/apps/RepIndep_SIGMOD/MAT-AALE
+
+/compare.sh /srv/data/projects/apps/RepIndep_CIDR/MATLAB/aale/simtest-freebase/uw-courses_source_results /srv/data/projects/apps/RepIndep_CIDR/MATLAB/aale/simtest-freebase/uw-courses_target_results rwr
+
+
+61762 source dblp
+62027 target dblp
+63081 imdb source
+65457 imdb target
+2447 imdb target rwr
+4682 imdb source rwr
+

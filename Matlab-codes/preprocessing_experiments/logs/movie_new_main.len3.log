@@ -1,0 +1,77 @@
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2014 The MathWorks, Inc.
+                    R2014a (8.3.0.532) 64-bit (glnxa64)
+                             February 11, 2014
+
+
+	This is a Classroom License for instructional use only.
+	Research and commercial use is prohibited.
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+nodesReader : read /srv/data/projects/apps/RepIndep_CIDR/fullgraph/top2000/movie.txt
+nodesReader : read /srv/data/projects/apps/RepIndep_CIDR/fullgraph/top2000/actor.txt
+nodesReader : read /srv/data/projects/apps/RepIndep_CIDR/fullgraph/top2000/director.txt
+nodesReader : read /srv/data/projects/apps/RepIndep_CIDR/fullgraph/top2000/starring.txt
+nodesReader : read /srv/data/projects/apps/RepIndep_CIDR/fullgraph/top2000/character.txt
+nodesReader : read /srv/data/projects/apps/RepIndep_CIDR/fullgraph/top2000/directedby.txt
+edgesReader : read /srv/data/projects/apps/RepIndep_CIDR/fullgraph/top2000/starring_actor.txt
+edgesReader : read /srv/data/projects/apps/RepIndep_CIDR/fullgraph/top2000/starring_movie.txt
+edgesReader : read /srv/data/projects/apps/RepIndep_CIDR/fullgraph/top2000/starring_character.txt
+edgesReader : read /srv/data/projects/apps/RepIndep_CIDR/fullgraph/top2000/directedby_director.txt
+edgesReader : read /srv/data/projects/apps/RepIndep_CIDR/fullgraph/top2000/directedby_movie.txt
+There are 0 isolated nodes in G.
+Data size is |V|=41385 |E|=116444
+data_mp length = 36
+mp = starring movie starring movie
+mp = starring movie starring character
+mp = starring movie starring actor
+mp = starring movie directedby movie
+mp = starring movie directedby director
+mp = starring character starring movie
+mp = starring character starring character
+mp = starring character starring actor
+mp = starring actor starring movie
+mp = starring actor starring character
+mp = starring actor starring actor
+mp = movie starring movie starring
+mp = movie starring movie directedby
+mp = movie starring character starring
+mp = movie starring actor starring
+mp = movie directedby movie starring
+mp = movie directedby movie directedby
+mp = movie directedby director directedby
+mp = actor starring movie starring
+mp = actor starring movie directedby
+mp = actor starring character starring
+mp = actor starring actor starring
+mp = director directedby movie starring
+mp = director directedby movie directedby
+mp = director directedby director directedby
+mp = directedby movie starring movie
+mp = directedby movie starring character
+mp = directedby movie starring actor
+mp = directedby movie directedby movie
+mp = directedby movie directedby director
+mp = directedby director directedby movie
+mp = directedby director directedby director
+mp = character starring movie starring
+mp = character starring movie directedby
+mp = character starring character starring
+mp = character starring actor starring
+starring movie starring movie
+    '>> running PathS...'    'starring'    'movie'    'starring'    'movie'
+
+start matrix construction...
+N=ꆩ
+allocate memory DONE
+cacluate commute matrix DONE CM_half size:
+
+ans =
+
+       41385       41385
+
+multiple half matrix DONE
+get index by type DONE Qs Length= 17316

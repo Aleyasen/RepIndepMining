@@ -1,0 +1,79 @@
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2014 The MathWorks, Inc.
+                    R2014a (8.3.0.532) 64-bit (glnxa64)
+                             February 11, 2014
+
+
+	This is a Classroom License for instructional use only.
+	Research and commercial use is prohibited.
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+nodesReader : read /srv/data/projects/apps/RepIndep_CIDR/fullgraph/top2000/movie.txt
+nodesReader : read /srv/data/projects/apps/RepIndep_CIDR/fullgraph/top2000/actor.txt
+nodesReader : read /srv/data/projects/apps/RepIndep_CIDR/fullgraph/top2000/character.txt
+nodesReader : read /srv/data/projects/apps/RepIndep_CIDR/fullgraph/top2000/starring.txt
+nodesReader : read /srv/data/projects/apps/RepIndep_CIDR/fullgraph/top2000/director.txt
+nodesReader : read /srv/data/projects/apps/RepIndep_CIDR/fullgraph/top2000/directedby.txt
+edgesReader : read /srv/data/projects/apps/RepIndep_CIDR/fullgraph/top2000/starring_actor.txt
+edgesReader : read /srv/data/projects/apps/RepIndep_CIDR/fullgraph/top2000/starring_character.txt
+edgesReader : read /srv/data/projects/apps/RepIndep_CIDR/fullgraph/top2000/starring_movie.txt
+edgesReader : read /srv/data/projects/apps/RepIndep_CIDR/fullgraph/top2000/directedby_director.txt
+edgesReader : read /srv/data/projects/apps/RepIndep_CIDR/fullgraph/top2000/directedby_movie.txt
+There are 0 isolated nodes in G.
+Data size is |V|=41385 |E|=116444
+>>> calculating Random Walk With Restart <<<
+-- processing "it might get loud (2008)"
+-- processing "the art of travel (2008)"
+-- processing "a clear view (2005)"
+-- processing "store (2006)"
+-- processing "fields of freedom (2006)"
+-- processing "psycho beach party (2000)"
+-- processing "stage beauty (2004)"
+-- processing "gladiator (2000)"
+-- processing "the sisterhood of the traveling pants 2 (2008)"
+-- processing "the affair of the necklace (2001)"
+-- processing "the night we called it a day (2003)"
+-- processing "adventures in homeschooling (2004)"
+-- processing "dinner rush (2000)"
+-- processing "heavens fall (2006)"
+-- processing "3:16 (2006)"
+-- processing "drum (2004)"
+-- processing "kiss kiss bang bang (2005)"
+-- processing "bug (2006)"
+-- processing "the people v. leo frank (2009)"
+-- processing "red bird (2005)"
+-- processing "lars and the real girl (2007)"
+-- processing "guardian of eden (2008)"
+-- processing "osmosis jones (2001)"
+-- processing "careful what you wish for (2004)"
+-- processing "in search of peace (2001)"
+-- processing "series 7: the contenders (2001)"
+-- processing "ice princess (2005)"
+-- processing "the dot man (2008)"
+-- processing "transamerica (2005)"
+-- processing "hindsight is 20/20... (2004)"
+-- processing "poolhall junkies (2002)"
+-- processing "the pleasure of being robbed (2008)"
+-- processing "strawberry's letter (2001)"
+-- processing "sky high (2005)"
+-- processing "the flying scissors (2009)"
+-- processing "junkyard dog (2009)"
+-- processing "stories of lost souls (2005)"
+-- processing "finder's fee (2001)"
+-- processing "winter's bone (2010)"
+-- processing "zombie prom (2006)"
+-- processing "not since you (2009)"
+-- processing "the sensation of sight (2006)"
+-- processing "i love you, man (2009)"
+-- processing "modigliani (2004)"
+-- processing "outside (2002)"
+-- processing "noah's arc (2004)"
+-- processing "about a boy (2002)"
+-- processing "dogtown and z-boys (2001)"
+-- processing "the hunting party (2007)"
+-- processing "the cancer (2003)"
+rwr: elapsed time = 5009.5671
+---------------------------------------------------------------

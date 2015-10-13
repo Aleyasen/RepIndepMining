@@ -1,0 +1,124 @@
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2014 The MathWorks, Inc.
+                    R2014a (8.3.0.532) 64-bit (glnxa64)
+                             February 11, 2014
+
+
+	This is a Classroom License for instructional use only.
+	Research and commercial use is prohibited.
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+[Warning: Directory already exists.] 
+[> In dblp_citation_target_pathsim at 5] 
+nodesReader : read /srv/data/projects/apps/RepIndep_CIDR/fullgraph/dblp_citation/paper.txt
+nodesReader : read /srv/data/projects/apps/RepIndep_CIDR/fullgraph/dblp_citation/citation.txt
+edgesReader : read /srv/data/projects/apps/RepIndep_CIDR/fullgraph/dblp_citation/paper_citation.txt
+There are 0 isolated nodes in G.
+Data size is |V|=62334 |E|=198972
+>> running PathSim
+-- processing "p5166"
+-- processing "p9063"
+-- processing "p1655"
+-- processing "p11842"
+-- processing "p8711"
+-- processing "p8723"
+-- processing "p2121"
+-- processing "p12587"
+-- processing "p8521"
+-- processing "p8763"
+-- processing "p861"
+-- processing "p6323"
+-- processing "p7924"
+-- processing "p8513"
+-- processing "p5292"
+-- processing "p7020"
+-- processing "p11467"
+-- processing "p1824"
+-- processing "p12019"
+-- processing "p2253"
+-- processing "p12490"
+-- processing "p2156"
+-- processing "p5113"
+-- processing "p3896"
+-- processing "p8364"
+-- processing "p5202"
+-- processing "p11480"
+-- processing "p10844"
+-- processing "p3017"
+-- processing "p858"
+-- processing "p1320"
+-- processing "p4980"
+-- processing "p10892"
+-- processing "p1020"
+-- processing "p2645"
+-- processing "p6815"
+-- processing "p817"
+-- processing "p12277"
+-- processing "p3867"
+-- processing "p7375"
+-- processing "p948"
+-- processing "p6656"
+-- processing "p7714"
+-- processing "p12311"
+-- processing "p1886"
+-- processing "p1829"
+-- processing "p9359"
+-- processing "p2191"
+-- processing "p991"
+-- processing "p11733"
+-- processing "p1945"
+-- processing "p877"
+-- processing "p5054"
+-- processing "p1584"
+-- processing "p7362"
+-- processing "p3448"
+-- processing "p1359"
+-- processing "p2560"
+-- processing "p11526"
+-- processing "p9054"
+-- processing "p10873"
+-- processing "p3252"
+-- processing "p6498"
+-- processing "p5601"
+-- processing "p8130"
+-- processing "p7859"
+-- processing "p8122"
+-- processing "p1586"
+-- processing "p8628"
+-- processing "p5246"
+-- processing "p7887"
+-- processing "p3148"
+-- processing "p1821"
+-- processing "p1778"
+-- processing "p9216"
+-- processing "p5529"
+-- processing "p984"
+-- processing "p2838"
+-- processing "p10794"
+-- processing "p6849"
+-- processing "p5594"
+-- processing "p6473"
+-- processing "p12529"
+-- processing "p7929"
+-- processing "p2137"
+-- processing "p2526"
+-- processing "p8689"
+-- processing "p2124"
+-- processing "p9258"
+-- processing "p2033"
+-- processing "p9446"
+-- processing "p5214"
+-- processing "p2289"
+-- processing "p12434"
+-- processing "p1823"
+-- processing "p11438"
+-- processing "p150"
+-- processing "p5589"
+-- processing "p7023"
+-- processing "p1389"
+pathsim: elapsed time = 14693.6095
+---------------------------------------------------------------
+Your MATLAB session has timed out.  All license keys have been returned.

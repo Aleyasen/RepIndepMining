@@ -1,0 +1,2843 @@
+open range (2003)	|	0.01757087
+frida (2002)	|	0.01695987
+control (2007)	|	0.01671346
+the terminal (2004)	|	0.01637936
+criminal (2004)	|	0.01630350
+lassie (2005)	|	0.01535382
+synecdoche, new york (2008)	|	0.01387389
+minority report (2002)	|	0.01362265
+before night falls (2000)	|	0.01343642
+expired (2007)	|	0.01186519
+in america (2002)	|	0.01125484
+across the universe (2007)	|	0.00087301
+quinceañera (2006)	|	0.00085365
+10 attitudes (2001)	|	0.00073428
+the tv set (2006)	|	0.00071600
+next day air (2009)	|	0.00067721
+the woodsman (2004)	|	0.00065723
+the butterfly effect (2004)	|	0.00065264
+washington heights (2002)	|	0.00063638
+harmony and me (2009)	|	0.00060788
+veronika decides to die (2009)	|	0.00057629
+myopia (2001)	|	0.00056881
+the lather effect (2006)	|	0.00052224
+keeping the faith (2000)	|	0.00051694
+enigma (2001)	|	0.00051506
+bandits (2001)	|	0.00049706
+cold souls (2009)	|	0.00049679
+resident evil: extinction (2007)	|	0.00049210
+the nines (2007)	|	0.00048365
+proof (2005)	|	0.00047847
+love actually (2003)	|	0.00046191
+seeing other people (2004)	|	0.00045849
+sarah at twelve (2002)	|	0.00044367
+emmett's mark (2002)	|	0.00043650
+the league of gentlemen's apocalypse (2005)	|	0.00043480
+joe gould's secret (2000)	|	0.00042693
+the shabbos bigfoot (2006)	|	0.00041853
+mojave phone booth (2006)	|	0.00041677
+the hottest state (2006)	|	0.00041616
+the poker house (2008)	|	0.00040469
+julie & julia (2009)	|	0.00040280
+the ruins (2008)	|	0.00038983
+sarah silverman: jesus is magic (2005)	|	0.00038784
+around the bend (2004)	|	0.00038404
+the crazies (2010)	|	0.00036958
+copying beethoven (2006)	|	0.00036228
+traffic (2000)	|	0.00035766
+what just happened (2008)	|	0.00030798
+the 27 club (2008)	|	0.00030023
+the hitchhiker's guide to the galaxy (2005)	|	0.00029804
+collateral (2004)	|	0.00027114
+catch me if you can (2002)	|	0.00025691
+diamond men (2000)	|	0.00024026
+the island (2005)	|	0.00023114
+once upon a time in mexico (2003)	|	0.00022652
+war of the worlds (2005)	|	0.00022416
+the onion movie (2008)	|	0.00022082
+spider-man 2 (2004)	|	0.00021440
+the life and death of peter sellers (2004)	|	0.00021253
+man of god (2005)	|	0.00020793
+no country for old men (2007)	|	0.00020712
+sex and the usa (2008)	|	0.00020543
+september 12th (2008)	|	0.00020338
+chinese coffee (2000)	|	0.00020066
+gosford park (2001)	|	0.00020020
+tic (2010)	|	0.00019137
+thirteen days (2000)	|	0.00018863
+finding neverland (2004)	|	0.00018680
+vanilla sky (2001)	|	0.00018174
+mozart and the whale (2005)	|	0.00017950
+seraphim falls (2006)	|	0.00017839
+artificial intelligence: ai (2001)	|	0.00017760
+pirates of the caribbean: at world's end (2007)	|	0.00017619
+assassination of a high school president (2008)	|	0.00017603
+saint john of las vegas (2009)	|	0.00017545
+game 6 (2005)	|	0.00017191
+the invasion (2007)	|	0.00017105
+take the lead (2006)	|	0.00016674
+transformers (2007)	|	0.00016428
+the number 23 (2007)	|	0.00016214
+love in the time of cholera (2007)	|	0.00016168
+the merry gentleman (2008)	|	0.00016028
+pirates of the caribbean: the curse of the black pearl (2003)	|	0.00015869
+munich (2005)	|	0.00015833
+pirates of the caribbean: dead man's chest (2006)	|	0.00015616
+pride and glory (2008)	|	0.00015550
+being julia (2004)	|	0.00015526
+the station agent (2003)	|	0.00015337
+public enemies (2009)	|	0.00015242
+bobby (2006)	|	0.00015119
+the hoax (2006)	|	0.00015049
+gone in sixty seconds (2000)	|	0.00014933
+he's just not that into you (2009)	|	0.00014840
+x-men: the last stand (2006)	|	0.00014838
+happy endings (2005)	|	0.00014809
+cirque du freak: the vampire's assistant (2009)	|	0.00014563
+the aviator (2004)	|	0.00014507
+after the sunset (2004)	|	0.00014475
+the man who wasn't there (2001)	|	0.00014458
+constantine (2005)	|	0.00014455
+the count of monte cristo (2002)	|	0.00014423
+charlotte's web (2006)	|	0.00014158
+cinderella man (2005)	|	0.00013904
+wristcutters: a love story (2006)	|	0.00013899
+high crimes (2002)	|	0.00013744
+the taking of pelham 1 2 3 (2009)	|	0.00013627
+shrek the third (2007)	|	0.00013583
+timecode (2000)	|	0.00013539
+find me guilty (2006)	|	0.00013427
+edmond (2005)	|	0.00013394
+crossing over (2009)	|	0.00013380
+lonely hearts (2006)	|	0.00013344
+chocolat (2000)	|	0.00013332
+school for scoundrels (2006)	|	0.00013220
+in the valley of elah (2007)	|	0.00013138
+miami vice (2006)	|	0.00013073
+winged creatures (2008)	|	0.00013070
+in the electric mist (2009)	|	0.00013032
+shrek 2 (2004)	|	0.00012866
+the baxter (2005)	|	0.00012841
+s1m0ne (2002)	|	0.00012804
+the guitar (2008)	|	0.00012667
+a lobster tale (2006)	|	0.00012456
+red dragon (2002)	|	0.00012405
+shoot 'em up (2007)	|	0.00012366
+harold & kumar escape from guantanamo bay (2008)	|	0.00012299
+choke (2008)	|	0.00012249
+coffee date (2006)	|	0.00012217
+shrink (2009)	|	0.00012152
+nanny mcphee (2005)	|	0.00012101
+along came a spider (2001)	|	0.00012094
+who is cletis tout? (2001)	|	0.00012080
+push (2009)	|	0.00012002
+neo ned (2005)	|	0.00011963
+the missing person (2009)	|	0.00011923
+the emperor's club (2002)	|	0.00011880
+fast & furious (2009)	|	0.00011848
+kinsey (2004)	|	0.00011811
+eagle eye (2008)	|	0.00011792
+kit kittredge: an american girl (2008)	|	0.00011789
+secondhand lions (2003)	|	0.00011674
+coach carter (2005)	|	0.00011646
+heartbreakers (2001)	|	0.00011643
+changing lanes (2002)	|	0.00011640
+imagining argentina (2003)	|	0.00011625
+world trade center (2006)	|	0.00011612
+frequency (2000)	|	0.00011594
+elf (2003)	|	0.00011586
+corpse bride (2005)	|	0.00011570
+a history of violence (2005)	|	0.00011530
+two family house (2000)	|	0.00011519
+almost famous (2000)	|	0.00011450
+black hawk down (2001)	|	0.00011413
+the upside of anger (2005)	|	0.00011392
+the flyboys (2008)	|	0.00011373
+troy (2004)	|	0.00011334
+kalamazoo? (2006)	|	0.00011330
+kiss kiss bang bang (2005)	|	0.00011325
+nothing like the holidays (2008)	|	0.00011184
+unknown (2006)	|	0.00011182
+anchorman: the legend of ron burgundy (2004)	|	0.00011166
+run ronnie run (2002)	|	0.00011156
+the italian job (2003)	|	0.00011125
+bgfatldy (2008)	|	0.00011031
+drag me to hell (2009)	|	0.00011025
+tahiti (2003)	|	0.00011006
+cop out (2010)	|	0.00010977
+american gangster (2007)	|	0.00010934
+secret window (2004)	|	0.00010904
+saw iv (2007)	|	0.00010832
+gardener of eden (2007)	|	0.00010824
+walk hard: the dewey cox story (2007)	|	0.00010820
+the interpreter (2005)	|	0.00010785
+fun with dick and jane (2005)	|	0.00010783
+the good shepherd (2006)	|	0.00010772
+the chronicles of narnia: prince caspian (2008)	|	0.00010767
+ascension day (2007)	|	0.00010744
+vicky cristina barcelona (2008)	|	0.00010688
+dan in real life (2007)	|	0.00010635
+women in trouble (2009)	|	0.00010611
+the alibi (2006)	|	0.00010604
+i could never be your woman (2007)	|	0.00010599
+lords of dogtown (2005)	|	0.00010530
+leaves of grass (2009)	|	0.00010449
+birthday girl (2001)	|	0.00010445
+match point (2005)	|	0.00010442
+penelope (2006)	|	0.00010426
+the good german (2006)	|	0.00010385
+bug (2006)	|	0.00010355
+thirteen (2003)	|	0.00010331
+brother (2000)	|	0.00010253
+national treasure: book of secrets (2007)	|	0.00010206
+the polar express (2004)	|	0.00010203
+the recruit (2003)	|	0.00010193
+the dancer upstairs (2002)	|	0.00010169
+a lot like love (2005)	|	0.00010126
+gladiator (2000)	|	0.00010077
+thoughtcrimes (2003)	|	0.00010051
+the new world (2005)	|	0.00010000
+the royal tenenbaums (2001)	|	0.00009938
+before the devil knows you're dead (2007)	|	0.00009886
+happy feet (2006)	|	0.00009799
+the assassination of richard nixon (2004)	|	0.00009794
+zigzag (2002)	|	0.00009746
+assault on precinct 13 (2005)	|	0.00009652
+auggie rose (2000)	|	0.00009617
+reign over me (2007)	|	0.00009614
+flightplan (2005)	|	0.00009603
+michael clayton (2007)	|	0.00009587
+never back down (2008)	|	0.00009574
+silent hill (2006)	|	0.00009545
+goya's ghosts (2006)	|	0.00009531
+the spongebob squarepants movie (2004)	|	0.00009528
+indiana jones and the kingdom of the crystal skull (2008)	|	0.00009515
+the four feathers (2002)	|	0.00009512
+narc (2002)	|	0.00009506
+blood diamond (2006)	|	0.00009484
+way off broadway (2001)	|	0.00009476
+k-pax (2001)	|	0.00009447
+alice in wonderland (2010)	|	0.00009399
+hearts in atlantis (2001)	|	0.00009379
+charlie and the chocolate factory (2005)	|	0.00009379
+intolerable cruelty (2003)	|	0.00009342
+swing vote (2008)	|	0.00009321
+a mock time: a star trek wedding (2007)	|	0.00009283
+i, robot (2004)	|	0.00009280
+chain of fools (2000)	|	0.00009190
+crazy heart (2009)	|	0.00009184
+bare knuckles (2009)	|	0.00009182
+step brothers (2008)	|	0.00009161
+venus & vegas (2009)	|	0.00009156
+unthinkable (2010)	|	0.00009149
+sinners & saints (2010)	|	0.00009145
+keane (2004)	|	0.00009086
+(500) days of summer (2009)	|	0.00009051
+come early morning (2006)	|	0.00009028
+treasure planet (2002)	|	0.00009003
+death to smoochy (2002)	|	0.00008839
+peter pan (2003)	|	0.00008837
+bridget (2002)	|	0.00008787
+undermind (2003)	|	0.00008777
+starsky & hutch (2004)	|	0.00008766
+the road to graceland (2001)	|	0.00008718
+x-men origins: wolverine (2009)	|	0.00008685
+please give (2010)	|	0.00008653
+east broadway (2006)	|	0.00008626
+friends with money (2006)	|	0.00008590
+flags of our fathers (2006)	|	0.00008543
+the rebound (2009)	|	0.00008542
+mr. brooks (2007)	|	0.00008530
+chinaman's chance (2008)	|	0.00008523
+changeling (2008)	|	0.00008516
+national treasure (2004)	|	0.00008500
+pollock (2000)	|	0.00008423
+robots (2005)	|	0.00008373
+invincible (2006)	|	0.00008286
+monster (2003)	|	0.00008283
+the last mimzy (2007)	|	0.00008280
+where the heart is (2000)	|	0.00008162
+the curious case of benjamin button (2008)	|	0.00008125
+the anniversary party (2001)	|	0.00008098
+fay grim (2006)	|	0.00008086
+we own the night (2007)	|	0.00008061
+tenacious d in the pick of destiny (2006)	|	0.00008061
+human nature (2001)	|	0.00008005
+de-lovely (2004)	|	0.00007997
+punch-drunk love (2002)	|	0.00007984
+the narrows (2008)	|	0.00007959
+jack goes boating (2010)	|	0.00007936
+the sum of all fears (2002)	|	0.00007925
+anger management (2003)	|	0.00007893
+ocean's thirteen (2007)	|	0.00007879
+blow (2001)	|	0.00007845
+state of play (2009)	|	0.00007840
+thank you for smoking (2005)	|	0.00007814
+accepted (2006)	|	0.00007803
+i am sam (2001)	|	0.00007771
+big trouble (2002)	|	0.00007757
+the men who stare at goats (2009)	|	0.00007678
+death at a funeral (2007)	|	0.00007614
+john q (2002)	|	0.00007567
+thirteen conversations about one thing (2001)	|	0.00007539
+runaway jury (2003)	|	0.00007535
+the prime gig (2000)	|	0.00007533
+queenie in love (2001)	|	0.00007481
+sweeney todd: the demon barber of fleet street (2007)	|	0.00007480
+what's cooking? (2000)	|	0.00007463
+from hell (2001)	|	0.00007428
+deep sea (2006)	|	0.00007424
+mail order wife (2004)	|	0.00007413
+13 going on 30 (2004)	|	0.00007380
+when you're strange (2009)	|	0.00007297
+good dick (2008)	|	0.00007291
+the prestige (2006)	|	0.00007268
+helen (2009)	|	0.00007242
+austin powers in goldmember (2002)	|	0.00007223
+street kings (2008)	|	0.00007220
+mission: impossible iii (2006)	|	0.00007210
+legally blonde (2001)	|	0.00007167
+charlie wilson's war (2007)	|	0.00007155
+star trek (2009)	|	0.00007150
+cloudy with a chance of meatballs (2009)	|	0.00007124
+lakeview terrace (2008)	|	0.00007101
+the toe tactic (2008)	|	0.00007091
+a dog year (2009)	|	0.00007089
+rent (2005)	|	0.00007056
+the dark knight (2008)	|	0.00007055
+i'm not there. (2007)	|	0.00007043
+running with scissors (2006)	|	0.00007029
+the bread, my sweet (2001)	|	0.00007021
+arranged (2007)	|	0.00007016
+ball in the house (2001)	|	0.00006982
+definitely, maybe (2008)	|	0.00006970
+american gun (2005)	|	0.00006929
+a guide to recognizing your saints (2006)	|	0.00006873
+the hours (2002)	|	0.00006822
+walking tall (2004)	|	0.00006805
+revolutionary road (2008)	|	0.00006803
+the greatest (2009)	|	0.00006789
+just like the son (2006)	|	0.00006769
+operation homecoming: writing the wartime experience (2007)	|	0.00006755
+kick-ass (2010)	|	0.00006749
+no reservations (2007)	|	0.00006733
+road trip (2000)	|	0.00006720
+wild hogs (2007)	|	0.00006704
+the soloist (2009)	|	0.00006667
+amazing grace (2006)	|	0.00006636
+pieces of april (2003)	|	0.00006612
+pissed (2005)	|	0.00006609
+the tailor of panama (2001)	|	0.00006594
+don't let me drown (2009)	|	0.00006586
+gods and generals (2003)	|	0.00006585
+phone booth (2002)	|	0.00006562
+the cell (2000)	|	0.00006548
+burn after reading (2008)	|	0.00006539
+the mexican dream (2003)	|	0.00006539
+the moguls (2005)	|	0.00006526
+bad boys ii (2003)	|	0.00006511
+the deep end (2001)	|	0.00006494
+a shot at glory (2000)	|	0.00006486
+sin city (2005)	|	0.00006479
+chicago (2002)	|	0.00006456
+two lovers (2008)	|	0.00006427
+get low (2009)	|	0.00006420
+quills (2000)	|	0.00006396
+ali (2001)	|	0.00006337
+the da vinci code (2006)	|	0.00006328
+laffit: all about winning (2006)	|	0.00006317
+harry potter and the order of the phoenix (2007)	|	0.00006315
+last holiday (2006)	|	0.00006293
+the pre nup (2007)	|	0.00006282
+the pledge (2001)	|	0.00006249
+the perfect storm (2000)	|	0.00006237
+for your consideration (2006)	|	0.00006231
+identity (2003)	|	0.00006213
+rso [registered sex offender ] (2008)	|	0.00006199
+romance & cigarettes (2005)	|	0.00006185
+broken flowers (2005)	|	0.00006182
+impostor (2001)	|	0.00006167
+finding nemo (2003)	|	0.00006108
+sympathy for delicious (2010)	|	0.00006107
+the private lives of pippa lee (2009)	|	0.00006107
+delirious (2006)	|	0.00006098
+the boat that rocked (2009)	|	0.00006090
+elizabethtown (2005)	|	0.00006089
+the favor (2007)	|	0.00006053
+dedication (2007)	|	0.00006032
+ned kelly (2003)	|	0.00006025
+the incredible hulk (2008)	|	0.00005978
+27 dresses (2008)	|	0.00005963
+inland empire (2006)	|	0.00005932
+new york, i love you (2009)	|	0.00005923
+rush hour 3 (2007)	|	0.00005920
+look (2007)	|	0.00005919
+coffee and cigarettes (2003)	|	0.00005918
+hair high (2004)	|	0.00005917
+nothing is private (2007)	|	0.00005877
+on native soil (2006)	|	0.00005829
+the day after tomorrow (2004)	|	0.00005807
+american identity (2007)	|	0.00005801
+plots with a view (2002)	|	0.00005788
+american splendor (2003)	|	0.00005784
+the road (2009)	|	0.00005751
+miss congeniality (2000)	|	0.00005745
+the ugly truth (2009)	|	0.00005745
+ladder 49 (2004)	|	0.00005744
+get smart (2008)	|	0.00005741
+infamous (2006)	|	0.00005716
+harry potter and the prisoner of azkaban (2004)	|	0.00005712
+storytelling (2001)	|	0.00005708
+the sentinel (2006)	|	0.00005699
+25th hour (2002)	|	0.00005658
+dancing in september (2000)	|	0.00005658
+flakes (2007)	|	0.00005643
+the little traitor (2007)	|	0.00005641
+talladega nights: the ballad of ricky bobby (2006)	|	0.00005640
+small time crooks (2000)	|	0.00005635
+gone baby gone (2007)	|	0.00005620
+stories of lost souls (2005)	|	0.00005599
+the dead girl (2006)	|	0.00005575
+the gray man (2007)	|	0.00005569
+the texas chainsaw massacre (2003)	|	0.00005550
+four brothers (2005)	|	0.00005548
+enchanted (2007)	|	0.00005538
+when zachary beaver came to town (2003)	|	0.00005528
+harry potter and the goblet of fire (2005)	|	0.00005518
+gangs of new york (2002)	|	0.00005516
+down in the valley (2005)	|	0.00005512
+guarding eddy (2004)	|	0.00005483
+cut (2003)	|	0.00005479
+real women have curves (2002)	|	0.00005475
+kingdom of heaven (2005)	|	0.00005462
+spider-man 3 (2007)	|	0.00005450
+seabiscuit (2003)	|	0.00005444
+the good guy (2009)	|	0.00005435
+there will be blood (2007)	|	0.00005431
+the matador (2005)	|	0.00005426
+personal velocity: three portraits (2002)	|	0.00005398
+birds of america (2008)	|	0.00005397
+the good night (2007)	|	0.00005394
+how to lose a guy in 10 days (2003)	|	0.00005394
+right at your door (2006)	|	0.00005353
+the score (2001)	|	0.00005346
+sissy frenchfry (2005)	|	0.00005342
+la misma luna (2007)	|	0.00005334
+harry potter and the half-blood prince (2009)	|	0.00005328
+the invention of lying (2009)	|	0.00005320
+ever again (2006)	|	0.00005310
+che: part one (2008)	|	0.00005291
+crazy/beautiful (2001)	|	0.00005290
+jay and silent bob strike back (2001)	|	0.00005281
+road to perdition (2002)	|	0.00005278
+as you like it (2006)	|	0.00005274
+the brave one (2007)	|	0.00005257
+imaginary heroes (2004)	|	0.00005244
+about schmidt (2002)	|	0.00005213
+where god left his shoes (2007)	|	0.00005201
+paycheck (2003)	|	0.00005198
+smokin' aces (2006)	|	0.00005188
+ali g indahouse (2002)	|	0.00005176
+the holiday (2006)	|	0.00005109
+dark blue (2002)	|	0.00005100
+final destination 2 (2003)	|	0.00005096
+charlie bartlett (2007)	|	0.00005096
+boys life 3 (2000)	|	0.00005091
+the laramie project (2002)	|	0.00005063
+miss potter (2006)	|	0.00005061
+fireflies in the garden (2008)	|	0.00005058
+final destination (2000)	|	0.00005056
+harsh times (2005)	|	0.00005045
+state and main (2000)	|	0.00005033
+little miss sunshine (2006)	|	0.00005027
+we are marshall (2006)	|	0.00005013
+something's gotta give (2003)	|	0.00005007
+sunshine cleaning (2008)	|	0.00005007
+sky high (2005)	|	0.00004993
+god's army (2000)	|	0.00004985
+grand theft parsons (2003)	|	0.00004984
+the secret lives of dentists (2002)	|	0.00004984
+duma (2005)	|	0.00004957
+sky captain and the world of tomorrow (2004)	|	0.00004956
+swordfish (2001)	|	0.00004944
+the manchurian candidate (2004)	|	0.00004935
+piñero (2001)	|	0.00004926
+radio (2003)	|	0.00004920
+3:10 to yuma (2007)	|	0.00004916
+flash of genius (2008)	|	0.00004914
+ocean's twelve (2004)	|	0.00004910
+dinner rush (2000)	|	0.00004901
+the good girl (2002)	|	0.00004894
+the informant! (2009)	|	0.00004880
+tick tock (2000)	|	0.00004874
+bella (2006)	|	0.00004870
+bomb the system (2002)	|	0.00004848
+the departed (2006)	|	0.00004835
+marrying god (2006)	|	0.00004831
+the nanny diaries (2007)	|	0.00004823
+the weather man (2005)	|	0.00004821
+american wedding (2003)	|	0.00004816
+the family man (2000)	|	0.00004815
+american pie 2 (2001)	|	0.00004809
+i want someone to eat cheese with (2006)	|	0.00004794
+barstow 2008 (2001)	|	0.00004783
+orchids (2006)	|	0.00004767
+feast of love (2007)	|	0.00004757
+tigerland (2000)	|	0.00004735
+war (2007)	|	0.00004727
+emilio (2008)	|	0.00004724
+bookies (2003)	|	0.00004703
+thumbsucker (2005)	|	0.00004674
+sidewalks of new york (2001)	|	0.00004669
+days of wrath (2008)	|	0.00004667
+magnificent desolation: walking on the moon 3d (2005)	|	0.00004664
+cute couple (2008)	|	0.00004663
+down with love (2003)	|	0.00004661
+the lovely bones (2009)	|	0.00004655
+equilibrium (2002)	|	0.00004634
+ca$h (2010)	|	0.00004611
+big fish (2003)	|	0.00004609
+fast food nation (2006)	|	0.00004608
+the road to canyon lake (2005)	|	0.00004594
+only the brave (2006)	|	0.00004574
+amexicano (2007)	|	0.00004566
+old school (2003)	|	0.00004557
+north country (2005)	|	0.00004556
+in her shoes (2005)	|	0.00004548
+the life aquatic with steve zissou (2004)	|	0.00004529
+melinda and melinda (2004)	|	0.00004520
+the midnight meat train (2008)	|	0.00004511
+arlen faber (2009)	|	0.00004502
+the express (2008)	|	0.00004493
+the legend of bagger vance (2000)	|	0.00004477
+che: part two (2008)	|	0.00004462
+the three burials of melquiades estrada (2005)	|	0.00004460
+love and other impossible pursuits (2009)	|	0.00004449
+3:52 (2005)	|	0.00004448
+the united states of leland (2003)	|	0.00004429
+who do you love (2008)	|	0.00004423
+mr. & mrs. smith (2005)	|	0.00004399
+the darjeeling limited (2007)	|	0.00004396
+trucker (2008)	|	0.00004382
+the great raid (2005)	|	0.00004376
+grindhouse (2007)	|	0.00004365
+million dollar baby (2004)	|	0.00004363
+the independent (2000)	|	0.00004348
+the dying gaul (2005)	|	0.00004320
+boys briefs 5 (2008)	|	0.00004304
+fantastic mr. fox (2009)	|	0.00004301
+the water horse (2007)	|	0.00004275
+edge of darkness (2010)	|	0.00004268
+everybody's fine (2009)	|	0.00004262
+mona lisa smile (2003)	|	0.00004254
+orange county (2002)	|	0.00004246
+prime (2005)	|	0.00004245
+eight below (2006)	|	0.00004238
+the sisters (2005)	|	0.00004199
+the people v. leo frank (2009)	|	0.00004192
+the bad lieutenant: port of call - new orleans (2009)	|	0.00004184
+bad santa (2003)	|	0.00004169
+the illusionist (2006)	|	0.00004162
+otis e. (2009)	|	0.00004159
+cold mountain (2003)	|	0.00004131
+21 grams (2003)	|	0.00004129
+disturbia (2007)	|	0.00004118
+la mission (2009)	|	0.00004104
+a happy ending (2005)	|	0.00004102
+pineapple express (2008)	|	0.00004100
+the bourne ultimatum (2007)	|	0.00004098
+the school of rock (2003)	|	0.00004098
+i now pronounce you chuck & larry (2007)	|	0.00004090
+the house of the devil (2009)	|	0.00004077
+the haunted world of el superbeasto (2009)	|	0.00004075
+girrl (2007)	|	0.00004057
+nick and norah's infinite playlist (2008)	|	0.00004049
+worth (2008)	|	0.00004043
+undisputed ii: last man standing (2006)	|	0.00004042
+party monster (2003)	|	0.00004028
+the contender (2000)	|	0.00004027
+mystic river (2003)	|	0.00004019
+across the hall (2009)	|	0.00003995
+cellular (2004)	|	0.00003988
+high heels and low lifes (2001)	|	0.00003984
+the village (2004)	|	0.00003981
+hellboy ii: the golden army (2008)	|	0.00003978
+away we go (2009)	|	0.00003972
+wendy and lucy (2008)	|	0.00003971
+the hunting party (2007)	|	0.00003949
+shackleton's antarctic adventure (2001)	|	0.00003943
+sweet land (2005)	|	0.00003932
+maria full of grace (2004)	|	0.00003919
+iron man (2008)	|	0.00003913
+she's the man (2006)	|	0.00003904
+dodgeball: a true underdog story (2004)	|	0.00003873
+nine lives (2005)	|	0.00003870
+follow the prophet (2009)	|	0.00003869
+high fidelity (2000)	|	0.00003864
+full disclosure (2005)	|	0.00003861
+igby goes down (2002)	|	0.00003854
+crank: high voltage (2009)	|	0.00003849
+fast food fast women (2000)	|	0.00003840
+whatever works (2009)	|	0.00003835
+struck (2008)	|	0.00003825
+adaptation. (2002)	|	0.00003825
+paid in full (2002)	|	0.00003824
+stranger than fiction (2006)	|	0.00003806
+donnie darko (2001)	|	0.00003802
+hannibal (2001)	|	0.00003798
+the devil wears prada (2006)	|	0.00003788
+10 items or less (2006)	|	0.00003785
+rachel getting married (2008)	|	0.00003783
+the painted veil (2006)	|	0.00003770
+x2 (2003)	|	0.00003747
+my one and only (2009)	|	0.00003745
+the final project (2008)	|	0.00003739
+things we lost in the fire (2007)	|	0.00003733
+the 40 year old virgin (2005)	|	0.00003733
+gridiron gang (2006)	|	0.00003724
+bride & prejudice (2004)	|	0.00003724
+broken english (2007)	|	0.00003713
+confessions of a dangerous mind (2002)	|	0.00003712
+the book of eli (2010)	|	0.00003708
+lions for lambs (2007)	|	0.00003703
+deja vu (2006)	|	0.00003684
+shutter island (2010)	|	0.00003671
+dummy (2002)	|	0.00003669
+tropic thunder (2008)	|	0.00003668
+syriana (2005)	|	0.00003653
+riding in cars with boys (2001)	|	0.00003641
+8 mile (2002)	|	0.00003638
+spanglish (2004)	|	0.00003620
+purple violets (2007)	|	0.00003617
+mother and child (2009)	|	0.00003605
+gardens of the night (2008)	|	0.00003595
+in the bedroom (2001)	|	0.00003595
+the dukes (2007)	|	0.00003594
+the wrestler (2008)	|	0.00003591
+level 26: dark origins (2009)	|	0.00003580
+hostage: a love story (2009)	|	0.00003572
+the great buck howard (2008)	|	0.00003568
+a prairie home companion (2006)	|	0.00003547
+foodfight! (2009)	|	0.00003529
+leatherheads (2008)	|	0.00003509
+pay it forward (2000)	|	0.00003502
+puppy love (2008)	|	0.00003502
+birth (2004)	|	0.00003492
+friendship! (2010)	|	0.00003480
+prop 8: the musical (2008)	|	0.00003465
+strangers with candy (2005)	|	0.00003460
+the astronaut farmer (2006)	|	0.00003456
+the man who invented the moon (2003)	|	0.00003442
+astro boy (2009)	|	0.00003430
+vantage point (2008)	|	0.00003417
+the go-getter (2007)	|	0.00003417
+margot at the wedding (2007)	|	0.00003411
+the tale of despereaux (2008)	|	0.00003399
+in good company (2004)	|	0.00003399
+underworld (2003)	|	0.00003382
+the lucky ones (2008)	|	0.00003365
+afterschool (2008)	|	0.00003350
+spun (2002)	|	0.00003341
+shooting vegetarians (2005)	|	0.00003335
+a beautiful mind (2001)	|	0.00003322
+dreamgirls (2006)	|	0.00003322
+manic (2001)	|	0.00003319
+stage beauty (2004)	|	0.00003318
+mysterious skin (2004)	|	0.00003317
+ocean's eleven (2001)	|	0.00003311
+50 first dates (2004)	|	0.00003294
+capote (2005)	|	0.00003294
+what the bleep!?: down the rabbit hole (2006)	|	0.00003293
+edges of the lord (2001)	|	0.00003276
+old joy (2006)	|	0.00003273
+the producers (2005)	|	0.00003267
+the runaways (2010)	|	0.00003265
+how to rob a bank (2007)	|	0.00003245
+live free or die hard (2007)	|	0.00003240
+after sex (2007)	|	0.00003231
+stephanie daley (2006)	|	0.00003229
+punisher: war zone (2008)	|	0.00003228
+it's complicated (2009)	|	0.00003217
+o brother, where art thou? (2000)	|	0.00003213
+pretty persuasion (2005)	|	0.00003212
+yes man (2008)	|	0.00003203
+soul men (2008)	|	0.00003203
+sinbad: legend of the seven seas (2003)	|	0.00003201
+transformers: revenge of the fallen (2009)	|	0.00003200
+awake (2007)	|	0.00003188
+the vaudevillian (2007)	|	0.00003185
+traitor (2008)	|	0.00003185
+nanny mcphee and the big bang (2010)	|	0.00003169
+the way of the gun (2000)	|	0.00003151
+finding forrester (2000)	|	0.00003146
+all the king's men (2006)	|	0.00003144
+visioneers (2008)	|	0.00003137
+blades of glory (2007)	|	0.00003134
+love for rent (2005)	|	0.00003132
+the last time (2006)	|	0.00003129
+angels & demons (2009)	|	0.00003125
+then she found me (2007)	|	0.00003125
+lockdown (2000)	|	0.00003115
+far from heaven (2002)	|	0.00003114
+the alps (2007)	|	0.00003110
+dancer in the dark (2000)	|	0.00003101
+cars (2006)	|	0.00003097
+the savages (2007)	|	0.00003095
+unbreakable (2000)	|	0.00003094
+avatar (2009)	|	0.00003090
+neal cassady (2007)	|	0.00003073
+spider-man (2002)	|	0.00003054
+center stage (2000)	|	0.00003045
+duplicity (2009)	|	0.00003041
+hancock (2008)	|	0.00003039
+glory road (2006)	|	0.00003035
+body of lies (2008)	|	0.00003029
+superbad (2007)	|	0.00003028
+eternal sunshine of the spotless mind (2004)	|	0.00003024
+shotgun stories (2007)	|	0.00003019
+home of the giants (2007)	|	0.00003013
+battle in seattle (2007)	|	0.00003012
+x-men (2000)	|	0.00003009
+antitrust (2001)	|	0.00003008
+winter passing (2005)	|	0.00003001
+shrek (2001)	|	0.00002999
+shall we dance (2004)	|	0.00002989
+wedding crashers (2005)	|	0.00002987
+friday night lights (2004)	|	0.00002980
+griffin & phoenix (2006)	|	0.00002978
+panic (2000)	|	0.00002971
+the slammin' salmon (2009)	|	0.00002941
+p.s. (2004)	|	0.00002940
+bustin' down the door (2008)	|	0.00002929
+tears of the sun (2003)	|	0.00002927
+the grand (2007)	|	0.00002920
+beyond all boundaries (2009)	|	0.00002910
+into the wild (2007)	|	0.00002904
+electronica 2 (2008)	|	0.00002883
+electronica (2007)	|	0.00002883
+cadillac records (2008)	|	0.00002876
+shadow of a candle (2008)	|	0.00002874
+we fight to be free (2006)	|	0.00002872
+the life before her eyes (2007)	|	0.00002870
+valkyrie (2008)	|	0.00002854
+righteous kill (2008)	|	0.00002837
+sherrybaby (2006)	|	0.00002834
+easy rider: the ride back (2009)	|	0.00002832
+hellboy (2004)	|	0.00002827
+the boynton beach bereavement club (2005)	|	0.00002817
+noel (2004)	|	0.00002815
+watchmen (2009)	|	0.00002810
+dawning (2009)	|	0.00002806
+l.i.e. (2001)	|	0.00002791
+just like heaven (2005)	|	0.00002784
+star trek: nemesis (2002)	|	0.00002771
+hamlet 2 (2008)	|	0.00002770
+resurrecting the champ (2007)	|	0.00002767
+i love you phillip morris (2009)	|	0.00002761
+legion: the word made flesh (2005)	|	0.00002758
+bedtime stories (2008)	|	0.00002753
+secretary (2002)	|	0.00002749
+one hour photo (2002)	|	0.00002748
+fanboys (2008)	|	0.00002743
+dallas 362 (2003)	|	0.00002735
+the last castle (2001)	|	0.00002731
+lucky number slevin (2006)	|	0.00002728
+steal this movie (2000)	|	0.00002728
+music and lyrics (2007)	|	0.00002719
+after.life (2009)	|	0.00002719
+the jacket (2005)	|	0.00002715
+american fork (2007)	|	0.00002704
+tuck everlasting (2002)	|	0.00002702
+bruce almighty (2003)	|	0.00002697
+monster house (2006)	|	0.00002680
+turn the river (2007)	|	0.00002676
+open window (2006)	|	0.00002673
+frost/nixon (2008)	|	0.00002672
+knocked up (2007)	|	0.00002670
+the dog problem (2006)	|	0.00002669
+cassandra's dream (2007)	|	0.00002657
+you kill me (2007)	|	0.00002657
+a foreign affair (2003)	|	0.00002650
+the indian (2007)	|	0.00002649
+man of the year (2006)	|	0.00002648
+the life of david gale (2003)	|	0.00002641
+made (2001)	|	0.00002634
+the skeptic (2009)	|	0.00002619
+cake: a wedding story (2007)	|	0.00002618
+scottsboro: an american tragedy (2000)	|	0.00002616
+the exorcism of emily rose (2005)	|	0.00002603
+my sister's keeper (2009)	|	0.00002598
+the replacements (2000)	|	0.00002578
+the hangover (2009)	|	0.00002573
+21 (2008)	|	0.00002560
+garden state (2004)	|	0.00002549
+art school confidential (2006)	|	0.00002542
+breach (2007)	|	0.00002539
+land of plenty (2004)	|	0.00002538
+kate & leopold (2001)	|	0.00002536
+the game plan (2007)	|	0.00002535
+prozac nation (2001)	|	0.00002534
+the wackness (2008)	|	0.00002531
+land of the dead (2005)	|	0.00002529
+i heart huckabees (2004)	|	0.00002527
+menace (2001)	|	0.00002527
+you belong to me (2007)	|	0.00002523
+forever strong (2008)	|	0.00002522
+casa de los babys (2003)	|	0.00002522
+things you can tell just by looking at her (2000)	|	0.00002518
+dante's inferno (2007)	|	0.00002517
+greenberg (2010)	|	0.00002508
+what doesn't kill you (2008)	|	0.00002503
+the kingdom (2007)	|	0.00002501
+the yards (2000)	|	0.00002498
+bobby jones: stroke of genius (2004)	|	0.00002488
+good time max (2007)	|	0.00002486
+ice age: the meltdown (2006)	|	0.00002484
+16 blocks (2006)	|	0.00002476
+mindhunters (2004)	|	0.00002471
+where the money is (2000)	|	0.00002469
+heights (2005)	|	0.00002464
+at day's end (2006)	|	0.00002460
+the last samurai (2003)	|	0.00002452
+adventureland (2009)	|	0.00002448
+case 39 (2009)	|	0.00002438
+brokeback mountain (2005)	|	0.00002438
+ghost world (2001)	|	0.00002436
+melvin goes to dinner (2003)	|	0.00002430
+best in show (2000)	|	0.00002424
+stuey (2003)	|	0.00002424
+reservation road (2007)	|	0.00002418
+akeelah and the bee (2006)	|	0.00002417
+blood work (2002)	|	0.00002413
+an american crime (2007)	|	0.00002406
+the new tenants (2009)	|	0.00002400
+snipes (2001)	|	0.00002396
+sick puppy (2009)	|	0.00002390
+hollywoodland (2006)	|	0.00002388
+harry potter and the chamber of secrets (2002)	|	0.00002385
+john john in the sky (2000)	|	0.00002382
+shades (2004)	|	0.00002382
+wrong hollywood number (2003)	|	0.00002368
+funny people (2009)	|	0.00002368
+(untitled) (2009)	|	0.00002358
+good night, and good luck. (2005)	|	0.00002356
+saving angelo (2007)	|	0.00002356
+me and you and everyone we know (2005)	|	0.00002355
+kill me later (2001)	|	0.00002354
+american violet (2008)	|	0.00002349
+leo (2002)	|	0.00002347
+on broadway (2007)	|	0.00002346
+julia (2008)	|	0.00002344
+loggerheads (2005)	|	0.00002328
+the ladykillers (2004)	|	0.00002325
+a christmas carol (2009)	|	0.00002312
+underworld: evolution (2006)	|	0.00002311
+like dandelion dust (2009)	|	0.00002311
+love liza (2002)	|	0.00002311
+lonesome jim (2005)	|	0.00002310
+the becoming (2006)	|	0.00002305
+the simpsons movie (2007)	|	0.00002303
+watching the detectives (2007)	|	0.00002302
+junebug (2005)	|	0.00002287
+the fountain (2006)	|	0.00002286
+monsters vs aliens (2009)	|	0.00002280
+palindromes (2004)	|	0.00002277
+the civilization of maxwell bright (2005)	|	0.00002275
+shrek 4-d (2003)	|	0.00002269
+wonderland (2003)	|	0.00002264
+nurse betty (2000)	|	0.00002254
+the game of their lives (2005)	|	0.00002250
+unfaithful (2002)	|	0.00002235
+the elder son (2006)	|	0.00002231
+momma's man (2008)	|	0.00002230
+batman begins (2005)	|	0.00002230
+the good life (2007)	|	0.00002229
+you can count on me (2000)	|	0.00002229
+law abiding citizen (2009)	|	0.00002225
+hart's war (2002)	|	0.00002221
+the devil's rejects (2005)	|	0.00002219
+hostage (2002)	|	0.00002213
+be kind rewind (2008)	|	0.00002210
+holes (2003)	|	0.00002204
+marilyn hotchkiss' ballroom dancing & charm school (2005)	|	0.00002199
+terminator salvation (2009)	|	0.00002196
+the door in the floor (2004)	|	0.00002196
+chromophobia (2005)	|	0.00002195
+cliché (2003)	|	0.00002190
+recall (2009)	|	0.00002178
+spy game (2001)	|	0.00002177
+the grey zone (2001)	|	0.00002177
+vacancy (2007)	|	0.00002172
+miracle (2004)	|	0.00002165
+madagascar: escape 2 africa (2008)	|	0.00002159
+i'm with lucy (2002)	|	0.00002159
+idiocracy (2006)	|	0.00002153
+hubert selby jr: it/ll be better tomorrow (2005)	|	0.00002149
+requiem for a dream (2000)	|	0.00002139
+reservations (2008)	|	0.00002135
+nobel son (2007)	|	0.00002129
+a gentleman's game (2002)	|	0.00002128
+the violent kind (2002)	|	0.00002127
+high falls (2007)	|	0.00002109
+lockdown (2006)	|	0.00002108
+what women want (2000)	|	0.00002104
+the ballad of jack and rose (2005)	|	0.00002102
+big fan (2009)	|	0.00002101
+a perfect place (2008)	|	0.00002100
+zoolander (2001)	|	0.00002097
+looking at animals (2009)	|	0.00002095
+the human stain (2003)	|	0.00002092
+blue valentine (2010)	|	0.00002087
+saw iii (2006)	|	0.00002084
+house of d (2004)	|	0.00002081
+entry level (2007)	|	0.00002076
+see jane run (2001)	|	0.00002076
+cleaner (2007)	|	0.00002075
+alpha dog (2006)	|	0.00002072
+horton hears a who! (2008)	|	0.00002067
+a home at the end of the world (2004)	|	0.00002065
+the lord of the rings: the return of the king (2003)	|	0.00002062
+harry potter and the sorcerer's stone (2001)	|	0.00002061
+repo men (2010)	|	0.00002058
+swimming (2000)	|	0.00002053
+good advice (2001)	|	0.00002052
+observe and report (2009)	|	0.00002048
+rocky balboa (2006)	|	0.00002047
+little manhattan (2005)	|	0.00002044
+the walker (2007)	|	0.00002041
+breaking and entering (2006)	|	0.00002034
+hamlet (2000)	|	0.00002031
+the house of mirth (2000)	|	0.00002029
+city by the sea (2002)	|	0.00002023
+dawn of the dead (2004)	|	0.00002022
+the perfect game (2009)	|	0.00002021
+august rush (2007)	|	0.00002019
+american cowslip (2009)	|	0.00002014
+monsters, inc. (2001)	|	0.00002012
+where the wild things are (2009)	|	0.00002012
+boiler room (2000)	|	0.00002004
+quarantine (2008)	|	0.00002001
+monster's ball (2001)	|	0.00001994
+wicker park (2004)	|	0.00001990
+inside man (2006)	|	0.00001987
+going to pieces: the rise and fall of the slasher film (2006)	|	0.00001985
+lemony snicket's a series of unfortunate events (2004)	|	0.00001980
+surf's up (2007)	|	0.00001969
+the cake eaters (2007)	|	0.00001969
+sex drive (2008)	|	0.00001963
+day zero (2007)	|	0.00001961
+the notorious bettie page (2005)	|	0.00001959
+give 'em hell, malone (2009)	|	0.00001957
+the joneses (2009)	|	0.00001945
+the salton sea (2002)	|	0.00001944
+night at the museum: battle of the smithsonian (2009)	|	0.00001943
+the king is alive (2000)	|	0.00001943
+kill bill: vol. 2 (2004)	|	0.00001939
+cast away (2000)	|	0.00001939
+the last lullaby (2008)	|	0.00001938
+long road to paradise (2001)	|	0.00001934
+humboldt county (2008)	|	0.00001933
+bamboozled (2000)	|	0.00001931
+the squid and the whale (2005)	|	0.00001927
+wherever you are (2008)	|	0.00001917
+meet the fockers (2004)	|	0.00001913
+dirt (2003)	|	0.00001910
+a mighty wind (2003)	|	0.00001905
+in bruges (2008)	|	0.00001899
+saw ii (2005)	|	0.00001897
+little secrets (2001)	|	0.00001888
+veronica guerin (2003)	|	0.00001881
+harold & kumar go to white castle (2004)	|	0.00001875
+the sisterhood of the traveling pants 2 (2008)	|	0.00001875
+lars and the real girl (2007)	|	0.00001862
+role models (2008)	|	0.00001859
+wrong turn at tahoe (2009)	|	0.00001855
+brooklyn's finest (2009)	|	0.00001854
+bottle shock (2008)	|	0.00001853
+fever pitch (2005)	|	0.00001851
+twelve (2010)	|	0.00001838
+skipped parts (2000)	|	0.00001836
+clerks ii (2006)	|	0.00001832
+the lord of the rings: the fellowship of the ring (2001)	|	0.00001831
+beowulf (2007)	|	0.00001825
+possession (2002)	|	0.00001822
+don mckay (2009)	|	0.00001822
+the animatrix (2003)	|	0.00001817
+my father's house (2002)	|	0.00001815
+i love you, man (2009)	|	0.00001799
+kissing jessica stein (2001)	|	0.00001793
+the sisterhood of the traveling pants (2005)	|	0.00001793
+matchstick men (2003)	|	0.00001791
+the curse of the jade scorpion (2001)	|	0.00001790
+united 93 (2006)	|	0.00001781
+goodbye baby (2007)	|	0.00001781
+happy accidents (2000)	|	0.00001774
+brooklyn lobster (2005)	|	0.00001773
+maze (2000)	|	0.00001772
+the ant bully (2006)	|	0.00001769
+snakes on a plane (2006)	|	0.00001763
+rules of engagement (2000)	|	0.00001756
+chloe (2005)	|	0.00001753
+music within (2007)	|	0.00001752
+two for the money (2005)	|	0.00001748
+greta (2009)	|	0.00001731
+life is hot in cracktown (2009)	|	0.00001726
+the mist (2007)	|	0.00001725
+city island (2009)	|	0.00001718
+beerfest (2006)	|	0.00001715
+killer me (2001)	|	0.00001715
+the longest yard (2005)	|	0.00001703
+erin brockovich (2000)	|	0.00001701
+jersey girl (2004)	|	0.00001699
+two weeks (2006)	|	0.00001695
+the rules of attraction (2002)	|	0.00001695
+connie and carla (2004)	|	0.00001690
+planet terror (2007)	|	0.00001690
+demoted (2009)	|	0.00001690
+the mothman prophecies (2002)	|	0.00001689
+dreamer: inspired by a true story (2005)	|	0.00001687
+ira & abby (2006)	|	0.00001684
+hollywood ending (2002)	|	0.00001681
+the golden compass (2007)	|	0.00001673
+the majestic (2001)	|	0.00001673
+van wilder (2002)	|	0.00001671
+notorious (2009)	|	0.00001660
+the gift (2000)	|	0.00001660
+chicago 10 (2007)	|	0.00001659
+ice age: dawn of the dinosaurs (2009)	|	0.00001657
+the lord of the rings: the two towers (2002)	|	0.00001651
+unforgivable blackness: the rise and fall of jack johnson (2004)	|	0.00001650
+p.s. i love you (2007)	|	0.00001648
+terra (2007)	|	0.00001639
+personal effects (2009)	|	0.00001637
+employee of the month (2004)	|	0.00001637
+remember the titans (2000)	|	0.00001635
+taking woodstock (2009)	|	0.00001632
+a single man (2009)	|	0.00001632
+ondine (2009)	|	0.00001606
+the no sit list (2008)	|	0.00001606
+red betsy (2003)	|	0.00001600
+over the hedge (2006)	|	0.00001600
+the assassination of jesse james by the coward robert ford (2007)	|	0.00001592
+the skeleton key (2005)	|	0.00001591
+the badge (2002)	|	0.00001584
+training day (2001)	|	0.00001579
+the rocker (2008)	|	0.00001578
+$5 a day (2008)	|	0.00001576
+seven pounds (2008)	|	0.00001575
+american primitive (2008)	|	0.00001575
+the blind side (2009)	|	0.00001574
+sideways (2004)	|	0.00001566
+life during wartime (2009)	|	0.00001563
+the brothers bloom (2008)	|	0.00001560
+bernard and doris (2006)	|	0.00001557
+how to get the man's foot outta your ass (2003)	|	0.00001553
+factory girl (2006)	|	0.00001550
+running scared (2006)	|	0.00001550
+v for vendetta (2005)	|	0.00001549
+flushed away (2006)	|	0.00001549
+gigantic (2008)	|	0.00001548
+madagascar (2005)	|	0.00001546
+the notebook (2004)	|	0.00001546
+the shipping news (2001)	|	0.00001543
+concert for george (2003)	|	0.00001541
+ping pong playa (2007)	|	0.00001537
+confidence (2003)	|	0.00001536
+ordinary decent criminal (2000)	|	0.00001532
+takedown (2000)	|	0.00001531
+finishing the game: the search for a new bruce lee (2007)	|	0.00001531
+special (2003)	|	0.00001527
+step up (2006)	|	0.00001525
+the groomsmen (2006)	|	0.00001521
+forgetting sarah marshall (2008)	|	0.00001519
+white oleander (2002)	|	0.00001518
+shallow hal (2001)	|	0.00001516
+the big white (2005)	|	0.00001513
+jarhead (2005)	|	0.00001511
+redbelt (2008)	|	0.00001505
+the incredibles (2004)	|	0.00001503
+15 minutes (2001)	|	0.00001503
+the lake house (2006)	|	0.00001498
+hairspray (2007)	|	0.00001497
+11:14 (2003)	|	0.00001492
+friends & lovers: the ski trip 2 (2008)	|	0.00001491
+the heart is deceitful above all things (2004)	|	0.00001490
+peter and vandy (2009)	|	0.00001483
+alfie (2004)	|	0.00001481
+underworld: rise of the lycans (2009)	|	0.00001478
+the lookout (2007)	|	0.00001475
+surrogates (2009)	|	0.00001473
+star wars: episode ii - attack of the clones (2002)	|	0.00001473
+rescue dawn (2006)	|	0.00001472
+appaloosa (2008)	|	0.00001472
+grandma's boy (2006)	|	0.00001471
+eulogy (2004)	|	0.00001461
+defendor (2009)	|	0.00001456
+memento (2000)	|	0.00001456
+auto focus (2002)	|	0.00001451
+calendar girls (2003)	|	0.00001451
+the ice harvest (2005)	|	0.00001450
+villa nova (2008)	|	0.00001447
+igor (2008)	|	0.00001443
+red eye (2005)	|	0.00001441
+scoop (2006)	|	0.00001436
+hachiko: a dog's story (2009)	|	0.00001434
+love comes lately (2007)	|	0.00001433
+powder keg (2001)	|	0.00001422
+wall·e (2008)	|	0.00001421
+ice age (2002)	|	0.00001421
+my own love song (2010)	|	0.00001421
+the sensation of sight (2006)	|	0.00001420
+a little trip to heaven (2005)	|	0.00001419
+the chronicles of narnia: the lion, the witch and the wardrobe (2005)	|	0.00001418
+bee movie (2007)	|	0.00001418
+don't say a word (2001)	|	0.00001417
+yonkers joe (2008)	|	0.00001413
+tom cool (2009)	|	0.00001411
+the maiden heist (2009)	|	0.00001409
+anything else (2003)	|	0.00001407
+brother bear (2003)	|	0.00001406
+a perfect getaway (2009)	|	0.00001405
+bill (2007)	|	0.00001401
+black irish (2007)	|	0.00001396
+julie walking home (2002)	|	0.00001396
+were the world mine (2008)	|	0.00001394
+shopgirl (2005)	|	0.00001394
+trapped (2002)	|	0.00001390
+cloverfield (2008)	|	0.00001383
+space station 3d (2002)	|	0.00001382
+mamma mia! (2008)	|	0.00001376
+the patriot (2000)	|	0.00001373
+baby mama (2008)	|	0.00001373
+the punisher (2004)	|	0.00001372
+the big empty (2003)	|	0.00001368
+the believer (2001)	|	0.00001367
+the hebrew hammer (2003)	|	0.00001365
+a good year (2006)	|	0.00001363
+not since you (2009)	|	0.00001357
+antwone fisher (2002)	|	0.00001357
+all the real girls (2003)	|	0.00001357
+king arthur (2004)	|	0.00001354
+the waiter (2010)	|	0.00001352
+the nativity story (2006)	|	0.00001352
+powder blue (2009)	|	0.00001346
+jersey justice (2008)	|	0.00001345
+diggers (2006)	|	0.00001340
+a love song for bobby long (2004)	|	0.00001340
+kidnapping caitlynn (2009)	|	0.00001338
+moonlight mile (2002)	|	0.00001334
+extraordinary measures (2010)	|	0.00001331
+stark raving mad (2002)	|	0.00001321
+the merchant of venice (2004)	|	0.00001319
+spread (2009)	|	0.00001315
+goal! (2005)	|	0.00001306
+welcome to collinwood (2002)	|	0.00001306
+extract (2009)	|	0.00001305
+kill bill: vol. 1 (2003)	|	0.00001303
+the chumscrubber (2005)	|	0.00001301
+chasing 3000 (2008)	|	0.00001299
+a serious man (2009)	|	0.00001296
+saw (2004)	|	0.00001291
+babel (2006)	|	0.00001284
+the air i breathe (2007)	|	0.00001281
+the bourne supremacy (2004)	|	0.00001275
+10th & wolf (2006)	|	0.00001274
+walk the line (2005)	|	0.00001273
+the matrix revolutions (2003)	|	0.00001270
+eastern promises (2007)	|	0.00001264
+black dynamite (2009)	|	0.00001260
+wild girls gone (2007)	|	0.00001259
+neverwas (2005)	|	0.00001259
+the fast and the furious (2001)	|	0.00001257
+death proof (2007)	|	0.00001256
+freaky friday (2003)	|	0.00001255
+palo alto, ca (2007)	|	0.00001255
+death's door (2008)	|	0.00001254
+children of men (2006)	|	0.00001253
+me, myself & irene (2000)	|	0.00001253
+management (2008)	|	0.00001252
+the killing jar (2010)	|	0.00001247
+duane hopwood (2005)	|	0.00001244
+rendition (2007)	|	0.00001239
+the battle of shaker heights (2003)	|	0.00001239
+little children (2006)	|	0.00001239
+looney tunes: back in action (2003)	|	0.00001231
+ticker (2002)	|	0.00001231
+laurel canyon (2002)	|	0.00001231
+series 7: the contenders (2001)	|	0.00001226
+spartan (2004)	|	0.00001224
+diary of the dead (2007)	|	0.00001223
+the broken hearts club: a romantic comedy (2000)	|	0.00001221
+date night (2010)	|	0.00001220
+open season (2006)	|	0.00001220
+silver city (2004)	|	0.00001216
+big stan (2007)	|	0.00001212
+phoebe in wonderland (2008)	|	0.00001208
+night at the museum (2006)	|	0.00001205
+the safety of objects (2001)	|	0.00001204
+halloween (2007)	|	0.00001204
+k-19: the widowmaker (2002)	|	0.00001202
+i am legend (2007)	|	0.00001201
+the burning plain (2008)	|	0.00001199
+the final season (2007)	|	0.00001194
+snatch. (2000)	|	0.00001193
+the american astronaut (2001)	|	0.00001193
+my first mister (2001)	|	0.00001187
+japan (2008)	|	0.00001186
+henry poole is here (2008)	|	0.00001184
+blow dry (2001)	|	0.00001180
+about a boy (2002)	|	0.00001175
+return to me (2000)	|	0.00001175
+solitary man (2009)	|	0.00001174
+no such thing (2001)	|	0.00001172
+the man from elysian fields (2001)	|	0.00001170
+evening (2007)	|	0.00001168
+the matrix reloaded (2003)	|	0.00001168
+cypher (2002)	|	0.00001168
+a scanner darkly (2006)	|	0.00001165
+the girl next door (2004)	|	0.00001164
+tmnt (2007)	|	0.00001159
+cherish (2002)	|	0.00001158
+bend it like beckham (2002)	|	0.00001157
+brooklyn rules (2007)	|	0.00001152
+the chronicles of riddick (2004)	|	0.00001151
+revolution #9 (2001)	|	0.00001150
+felon (2008)	|	0.00001150
+die another day (2002)	|	0.00001150
+saw vi (2009)	|	0.00001148
+the good humor man (2005)	|	0.00001144
+casanova (2005)	|	0.00001144
+the king (2005)	|	0.00001142
+bolt (2008)	|	0.00001142
+osmosis jones (2001)	|	0.00001139
+lord of war (2005)	|	0.00001138
+don't come knocking (2005)	|	0.00001137
+vanity fair (2004)	|	0.00001137
+the great debaters (2007)	|	0.00001135
+the novice (2006)	|	0.00001133
+eurotrip (2004)	|	0.00001133
+mulholland dr. (2001)	|	0.00001128
+the namesake (2006)	|	0.00001126
+marley & me (2008)	|	0.00001120
+certainly not a fairytale (2003)	|	0.00001120
+cutlass (2007)	|	0.00001116
+pumpkin (2002)	|	0.00001116
+undertow (2004)	|	0.00001116
+kung fu panda (2008)	|	0.00001115
+the loss of a teardrop diamond (2008)	|	0.00001114
+hounddog (2007)	|	0.00001112
+mattie fresno and the holoflux universe (2007)	|	0.00001111
+killer diller (2004)	|	0.00001111
+kinky boots (2005)	|	0.00001110
+heavens fall (2006)	|	0.00001108
+stardust (2007)	|	0.00001107
+the world's fastest indian (2005)	|	0.00001104
+king of california (2007)	|	0.00001104
+half nelson (2006)	|	0.00001103
+imaginary witness: hollywood and the holocaust (2004)	|	0.00001103
+weak species (2009)	|	0.00001099
+land of the blind (2006)	|	0.00001099
+unconditional love (2002)	|	0.00001097
+just peck (2009)	|	0.00001094
+brown sugar (2002)	|	0.00001093
+love, ludlow (2005)	|	0.00001093
+bigger than the sky (2005)	|	0.00001093
+children on their birthdays (2002)	|	0.00001091
+explicit ills (2008)	|	0.00001084
+wonderful world (2009)	|	0.00001078
+madison (2001)	|	0.00001074
+martian child (2007)	|	0.00001071
+the clearing (2004)	|	0.00001071
+man on fire (2004)	|	0.00001070
+last chance harvey (2008)	|	0.00001066
+saved! (2004)	|	0.00001065
+the phantom of the opera (2004)	|	0.00001064
+one last thing... (2005)	|	0.00001063
+xx/xy (2002)	|	0.00001062
+the rising place (2001)	|	0.00001059
+green zone (2010)	|	0.00001056
+the princess and the frog (2009)	|	0.00001055
+zombie prom (2006)	|	0.00001055
+lightbulb (2009)	|	0.00001053
+pipe dream (2002)	|	0.00001052
+17 again (2009)	|	0.00001051
+the beautiful country (2004)	|	0.00001051
+leap year (2010)	|	0.00001046
+chloe (2009)	|	0.00001046
+just friends (2005)	|	0.00001045
+curious george (2006)	|	0.00001042
+milwaukee, minnesota (2003)	|	0.00001041
+rails & ties (2007)	|	0.00001039
+serendipity (2001)	|	0.00001037
+psycho beach party (2000)	|	0.00001034
+graduation (2007)	|	0.00001034
+richard iii (2008)	|	0.00001031
+married life (2007)	|	0.00001028
+next (2007)	|	0.00001028
+rat race (2001)	|	0.00001027
+hot tub time machine (2010)	|	0.00001025
+american psycho (2000)	|	0.00001025
+urbania (2000)	|	0.00001024
+very mean men (2000)	|	0.00001023
+slither (2006)	|	0.00001017
+transamerica (2005)	|	0.00001014
+ratatouille (2007)	|	0.00001010
+nine (2009)	|	0.00001009
+trick 'r treat (2008)	|	0.00001008
+life is short (2006)	|	0.00001006
+fur: an imaginary portrait of diane arbus (2006)	|	0.00001006
+the invisible (2007)	|	0.00001005
+blood and bone (2009)	|	0.00001004
+the sky is falling (2000)	|	0.00001004
+up (2009)	|	0.00001001
+bust a move (2000)	|	0.00001001
+rock slyde (2009)	|	0.00000999
+sex and death 101 (2007)	|	0.00000999
+fierce people (2005)	|	0.00000994
+love & sex (2000)	|	0.00000994
+wonder boys (2000)	|	0.00000992
+the prize winner of defiance, ohio (2005)	|	0.00000988
+skateland (2010)	|	0.00000987
+sunshine (2007)	|	0.00000986
+life as a house (2001)	|	0.00000985
+everything put together (2000)	|	0.00000984
+nicholas nickleby (2002)	|	0.00000983
+space cowboys (2000)	|	0.00000983
+inkheart (2008)	|	0.00000982
+the vicious kind (2009)	|	0.00000981
+sunshine state (2002)	|	0.00000980
+gangstas (2007)	|	0.00000979
+the company (2003)	|	0.00000979
+youth in revolt (2009)	|	0.00000978
+star wars: episode iii - revenge of the sith (2005)	|	0.00000978
+the greatest game ever played (2005)	|	0.00000973
+how to kill your neighbor's dog (2000)	|	0.00000969
+meet the parents (2000)	|	0.00000969
+once more with feeling (2009)	|	0.00000968
+an everlasting piece (2000)	|	0.00000968
+a walk to remember (2002)	|	0.00000963
+rivals (2003)	|	0.00000962
+lollilove (2004)	|	0.00000957
+chrystal (2004)	|	0.00000956
+the affair of the necklace (2001)	|	0.00000954
+multiple sarcasms (2010)	|	0.00000954
+300 (2006)	|	0.00000952
+rush hour 2 (2001)	|	0.00000949
+tristan + isolde (2006)	|	0.00000949
+other voices (2000)	|	0.00000948
+brother to brother (2004)	|	0.00000947
+the importance of being earnest (2002)	|	0.00000947
+o (2001)	|	0.00000946
+kali ma (2007)	|	0.00000946
+quantum of solace (2008)	|	0.00000938
+seeking foreclosure (2007)	|	0.00000938
+mr. magorium's wonder emporium (2007)	|	0.00000938
+clash of the titans (2010)	|	0.00000938
+man in the chair (2007)	|	0.00000938
+the reader (2008)	|	0.00000936
+latch key (2005)	|	0.00000932
+the girl in the park (2007)	|	0.00000931
+choose connor (2007)	|	0.00000930
+casino royale (2006)	|	0.00000928
+fired up! (2009)	|	0.00000926
+nail polish (2006)	|	0.00000925
+freedom writers (2007)	|	0.00000925
+twelve and holding (2005)	|	0.00000922
+final fantasy: the spirits within (2001)	|	0.00000919
+city of ember (2008)	|	0.00000914
+nobody's baby (2001)	|	0.00000910
+waking the dead (2000)	|	0.00000909
+everyday people (2004)	|	0.00000907
+mort (2005)	|	0.00000907
+robin's big date (2005)	|	0.00000898
+shattered glass (2003)	|	0.00000898
+roger dodger (2002)	|	0.00000895
+we were soldiers (2002)	|	0.00000895
+hard scrambled (2006)	|	0.00000895
+inglourious basterds (2009)	|	0.00000894
+waitress (2007)	|	0.00000894
+the young victoria (2009)	|	0.00000891
+session 9 (2001)	|	0.00000891
+crank (2006)	|	0.00000890
+girlfight (2000)	|	0.00000889
+gracie (2007)	|	0.00000887
+juno (2007)	|	0.00000887
+love the hard way (2001)	|	0.00000883
+the family stone (2005)	|	0.00000882
+formosa betrayed (2009)	|	0.00000882
+blade ii (2002)	|	0.00000882
+unbeatable harold (2006)	|	0.00000882
+the last kiss (2006)	|	0.00000881
+death race (2008)	|	0.00000880
+turntable (2005)	|	0.00000879
+now you know (2002)	|	0.00000879
+shanghai knights (2003)	|	0.00000878
+the golden bowl (2000)	|	0.00000875
+the rundown (2003)	|	0.00000874
+causality (2004)	|	0.00000873
+the limits of control (2009)	|	0.00000873
+adventures of power (2008)	|	0.00000872
+bruno (2000)	|	0.00000872
+the cooler (2003)	|	0.00000870
+basic (2003)	|	0.00000870
+the commission (2003)	|	0.00000869
+interstate 60: episodes of the road (2002)	|	0.00000869
+bonneville (2006)	|	0.00000868
+miss pettigrew lives for a day (2008)	|	0.00000867
+the yellow handkerchief (2008)	|	0.00000865
+hotel rwanda (2004)	|	0.00000858
+recess: school's out (2001)	|	0.00000856
+the last new yorker (2010)	|	0.00000855
+marie antoinette (2006)	|	0.00000853
+under the tuscan sun (2003)	|	0.00000853
+when strangers appear (2001)	|	0.00000851
+the whole nine yards (2000)	|	0.00000851
+an unfinished life (2005)	|	0.00000850
+the good heart (2009)	|	0.00000848
+wasting away (2007)	|	0.00000846
+zathura: a space adventure (2005)	|	0.00000846
+the spleenectomy (2008)	|	0.00000845
+nothing but the truth (2008)	|	0.00000843
+spoken word (2009)	|	0.00000843
+remember me (2010)	|	0.00000843
+evil angel (2009)	|	0.00000841
+hot rod (2007)	|	0.00000840
+the mummy returns (2001)	|	0.00000837
+waking life (2001)	|	0.00000836
+prince among slaves (2007)	|	0.00000835
+what we do is secret (2007)	|	0.00000834
+poster boy (2004)	|	0.00000834
+the education of charlie banks (2007)	|	0.00000833
+zombieland (2009)	|	0.00000833
+shannon's rainbow (2009)	|	0.00000827
+shadow of the vampire (2000)	|	0.00000827
+zack and miri make a porno (2008)	|	0.00000827
+blackballed: the bobby dukes story (2004)	|	0.00000826
+futbaal: the price of dreams (2007)	|	0.00000825
+united 300 (2007)	|	0.00000824
+dress rehearsal (2006)	|	0.00000823
+center of the universe (2008)	|	0.00000823
+paradise (2004)	|	0.00000823
+the bourne identity (2002)	|	0.00000821
+tupac: resurrection (2003)	|	0.00000820
+finder's fee (2001)	|	0.00000818
+brick (2005)	|	0.00000815
+american pastime (2007)	|	0.00000814
+master and commander: the far side of the world (2003)	|	0.00000813
+below (2002)	|	0.00000812
+the weight of water (2000)	|	0.00000811
+exorcist chronicles (2007)	|	0.00000811
+the wolfman (2010)	|	0.00000809
+my dog skip (2000)	|	0.00000808
+love & basketball (2000)	|	0.00000808
+smart people (2008)	|	0.00000806
+reefer madness: the movie musical (2005)	|	0.00000805
+illusion (2004)	|	0.00000804
+starting out in the evening (2007)	|	0.00000801
+aurora borealis (2005)	|	0.00000801
+pee shy (2004)	|	0.00000798
+funny games u.s. (2007)	|	0.00000796
+my wife is retarded (2007)	|	0.00000795
+death sentence (2007)	|	0.00000794
+the amazing floydini (2004)	|	0.00000793
+the next big thing (2001)	|	0.00000793
+carriers (2009)	|	0.00000791
+end of the spear (2005)	|	0.00000791
+passionada (2002)	|	0.00000789
+puccini for beginners (2006)	|	0.00000787
+deadly impact (2009)	|	0.00000787
+transporter 2 (2005)	|	0.00000786
+an american rhapsody (2001)	|	0.00000785
+barbershop (2002)	|	0.00000785
+bart got a room (2008)	|	0.00000784
+1408 (2007)	|	0.00000781
+under the sea 3d (2009)	|	0.00000781
+the last house on the left (2009)	|	0.00000780
+a time for dancing (2000)	|	0.00000780
+bartleby (2001)	|	0.00000780
+spicy mac project (2009)	|	0.00000780
+a uniform used to mean something... (2004)	|	0.00000778
+try seventeen (2002)	|	0.00000777
+untraceable (2008)	|	0.00000777
+the darkroom (2006)	|	0.00000775
+hard four (2007)	|	0.00000775
+because of winn-dixie (2005)	|	0.00000774
+the wedding video (2007)	|	0.00000771
+danny the dog (2005)	|	0.00000771
+the other boleyn girl (2008)	|	0.00000771
+checking out (2005)	|	0.00000771
+redacted (2007)	|	0.00000770
+hoodwinked! (2005)	|	0.00000767
+december ends (2006)	|	0.00000767
+the testimony of taliesin jones (2000)	|	0.00000767
+me and orson welles (2008)	|	0.00000765
+americano (2005)	|	0.00000760
+ella enchanted (2004)	|	0.00000760
+blind dating (2006)	|	0.00000758
+lovely, still (2008)	|	0.00000758
+our very own (2005)	|	0.00000754
+the time traveler's wife (2009)	|	0.00000754
+middle of nowhere (2008)	|	0.00000754
+invincible (2001)	|	0.00000754
+poolhall junkies (2002)	|	0.00000752
+behind the red door (2003)	|	0.00000751
+the boondock saints ii: all saints day (2009)	|	0.00000750
+happy hour (2003)	|	0.00000748
+love and honor (2007)	|	0.00000745
+spinning boris (2003)	|	0.00000744
+sleepwalking (2008)	|	0.00000741
+better luck tomorrow (2002)	|	0.00000740
+my friend's love affair (2001)	|	0.00000740
+lost in translation (2003)	|	0.00000739
+bully (2001)	|	0.00000738
+conversations with other women (2005)	|	0.00000737
+the half life of timofey berezin (2006)	|	0.00000734
+ash tuesday (2003)	|	0.00000733
+what lies beneath (2000)	|	0.00000732
+the hurt locker (2008)	|	0.00000731
+surveillance (2008)	|	0.00000731
+three bullets (2009)	|	0.00000731
+the sasquatch gang (2006)	|	0.00000730
+nerd hunter 3004 (2004)	|	0.00000729
+tortilla soup (2001)	|	0.00000728
+in the realms of the unreal (2004)	|	0.00000726
+the fourth kind (2009)	|	0.00000726
+nanking (2007)	|	0.00000725
+saddle up with dick wrangler & injun joe (2009)	|	0.00000724
+hooligans (2005)	|	0.00000723
+the strip (2009)	|	0.00000721
+little chicago (2005)	|	0.00000718
+little chenier (2006)	|	0.00000718
+levity (2003)	|	0.00000717
+o jerusalem (2006)	|	0.00000716
+the lost cause (2004)	|	0.00000716
+lilo & stitch (2002)	|	0.00000715
+the lazarus project (2008)	|	0.00000715
+northfork (2003)	|	0.00000714
+la premiere (2009)	|	0.00000711
+tadpole (2002)	|	0.00000711
+men of honor (2000)	|	0.00000711
+dead silence (2007)	|	0.00000709
+30 days of night (2007)	|	0.00000708
+smashing stereotypes (2005)	|	0.00000707
+everything's jake (2000)	|	0.00000707
+titan a.e. (2000)	|	0.00000707
+the lost city (2005)	|	0.00000706
+friends (with benefits) (2009)	|	0.00000704
+string theory (2002)	|	0.00000702
+the mandala maker (2009)	|	0.00000700
+a plumm summer (2007)	|	0.00000699
+touching home (2008)	|	0.00000699
+trailer for a remake of gore vidal's caligula (2005)	|	0.00000699
+in search of peace (2001)	|	0.00000698
+mean girls (2004)	|	0.00000696
+a knight's tale (2001)	|	0.00000695
+sunshine (2008)	|	0.00000693
+what joan knows (2007)	|	0.00000693
+the lion of judah (2010)	|	0.00000693
+adventures in homeschooling (2004)	|	0.00000693
+the orphan king (2005)	|	0.00000690
+the spiderwick chronicles (2008)	|	0.00000690
+paper man (2009)	|	0.00000689
+love is the drug (2006)	|	0.00000687
+the cat's meow (2001)	|	0.00000685
+i'll be there (2003)	|	0.00000684
+tanner hall (2009)	|	0.00000683
+whip it (2009)	|	0.00000683
+before sunset (2004)	|	0.00000683
+acts of violence (2008)	|	0.00000681
+the bucket list (2007)	|	0.00000680
+my sexiest year (2007)	|	0.00000678
+draw (2008)	|	0.00000678
+the procedure (2007)	|	0.00000675
+tibet: cry of the snow lion (2002)	|	0.00000671
+great world of sound (2007)	|	0.00000669
+one point o (2004)	|	0.00000668
+desert saints (2002)	|	0.00000664
+elvis and anabelle (2007)	|	0.00000658
+off the black (2006)	|	0.00000658
+under suspicion (2000)	|	0.00000657
+buy it now (2005)	|	0.00000657
+american gun (2002)	|	0.00000656
+the guys (2002)	|	0.00000650
+one night at mccool's (2001)	|	0.00000650
+speed racer (2008)	|	0.00000650
+mean machine (2001)	|	0.00000648
+the grand design (2007)	|	0.00000647
+crazylove (2005)	|	0.00000647
+finding nemo submarine voyage (2007)	|	0.00000645
+hidalgo (2004)	|	0.00000645
+3 backyards (2010)	|	0.00000645
+king kong (2005)	|	0.00000642
+singularity (2007)	|	0.00000642
+leaf (2008)	|	0.00000642
+john's hand (2008)	|	0.00000642
+tickling leo (2009)	|	0.00000641
+pitch black (2000)	|	0.00000640
+house of sand and fog (2003)	|	0.00000639
+the pursuit of happyness (2006)	|	0.00000639
+lbs. (2004)	|	0.00000637
+the damned united (2009)	|	0.00000635
+beyond borders (2003)	|	0.00000635
+missing brendan (2003)	|	0.00000635
+dreamkiller (2010)	|	0.00000633
+she's out of my league (2010)	|	0.00000631
+evelyn (2002)	|	0.00000631
+the 2 bobs (2009)	|	0.00000631
+missing in america (2005)	|	0.00000631
+apartment #5c (2002)	|	0.00000631
+the dangerous lives of altar boys (2002)	|	0.00000630
+the quiet american (2002)	|	0.00000624
+elephant (2003)	|	0.00000624
+the barrio murders (2001)	|	0.00000623
+club soda (2006)	|	0.00000622
+kabluey (2007)	|	0.00000619
+farm sluts (2003)	|	0.00000619
+fields of freedom (2006)	|	0.00000617
+songcatcher (2000)	|	0.00000616
+you always stalk the ones you love (2002)	|	0.00000615
+goodnight, joseph parker (2004)	|	0.00000614
+the broken hearts club (2009)	|	0.00000614
+a talent for trouble (2008)	|	0.00000611
+the ultimate gift (2006)	|	0.00000611
+uncle nino (2003)	|	0.00000609
+i have never forgotten you: the life & legacy of simon wiesenthal (2007)	|	0.00000606
+brüno (2009)	|	0.00000606
+you got nothin' (2002)	|	0.00000606
+control (2004)	|	0.00000606
+the i inside (2003)	|	0.00000603
+blue collar comedy tour: the movie (2003)	|	0.00000603
+amber (2004)	|	0.00000603
+shanghai kiss (2007)	|	0.00000602
+believe in me (2006)	|	0.00000601
+imagine me & you (2005)	|	0.00000601
+jails, hospitals & hip-hop (2000)	|	0.00000600
+manito (2002)	|	0.00000598
+the wizard of west chester (2007)	|	0.00000598
+play the game (2008)	|	0.00000597
+the white countess (2005)	|	0.00000595
+40 (2002)	|	0.00000593
+serenity (2005)	|	0.00000593
+my name is bruce (2007)	|	0.00000593
+i'll come running (2008)	|	0.00000592
+fastback (2005)	|	0.00000592
+woman in burka (2008)	|	0.00000592
+her summer (2004)	|	0.00000590
+the thing about my folks (2005)	|	0.00000590
+the road to el dorado (2000)	|	0.00000590
+my big fat greek wedding (2002)	|	0.00000590
+tamo i ovde (2009)	|	0.00000590
+outlander (2008)	|	0.00000590
+the great sketch experiment (2006)	|	0.00000589
+sleuth (2007)	|	0.00000587
+cherry (2010)	|	0.00000587
+double parked (2000)	|	0.00000587
+mother ghost (2002)	|	0.00000586
+bang bang you're dead (2002)	|	0.00000586
+unlikely heroes (2003)	|	0.00000586
+full grown men (2006)	|	0.00000585
+we don't live here anymore (2004)	|	0.00000584
+the chubbchubbs save xmas (2007)	|	0.00000583
+how to train your dragon (2010)	|	0.00000583
+saving shiloh (2006)	|	0.00000582
+wanted (2008)	|	0.00000581
+almost salinas (2001)	|	0.00000581
+playing mona lisa (2000)	|	0.00000581
+the secret life of bees (2008)	|	0.00000579
+time and tide (2006)	|	0.00000576
+flight of the phoenix (2004)	|	0.00000576
+stuck (2007)	|	0.00000575
+red bird (2005)	|	0.00000575
+hurricane on the bayou (2006)	|	0.00000574
+local color (2006)	|	0.00000573
+steel city (2006)	|	0.00000573
+shanghai ghetto (2002)	|	0.00000572
+prey for rock & roll (2003)	|	0.00000572
+frozen river (2008)	|	0.00000570
+planet 51 (2009)	|	0.00000569
+looking for sunday (2006)	|	0.00000569
+oil change (2009)	|	0.00000567
+solaris (2002)	|	0.00000566
+the jane austen book club (2007)	|	0.00000565
+dot the i (2003)	|	0.00000565
+the touch (2007)	|	0.00000565
+damaged goods (2005)	|	0.00000564
+panic room (2002)	|	0.00000564
+rip off church (2007)	|	0.00000563
+a thousand years of good prayers (2007)	|	0.00000563
+happythankyoumoreplease (2010)	|	0.00000563
+a world full of dreams (2007)	|	0.00000561
+em (2008)	|	0.00000561
+dunsmore (2003)	|	0.00000560
+whose dog is it anyway? (2009)	|	0.00000559
+approval (2008)	|	0.00000558
+signals (2008)	|	0.00000558
+theodore (2009)	|	0.00000558
+two soldiers (2003)	|	0.00000558
+moulin rouge! (2001)	|	0.00000557
+hindsight is 20/20... (2004)	|	0.00000555
+the madagascar penguins in a christmas caper (2005)	|	0.00000552
+jailbait (2004)	|	0.00000552
+the boy in the striped pyjamas (2008)	|	0.00000552
+the disappearance of jenna matheson (2007)	|	0.00000549
+weather girl (2009)	|	0.00000549
+die, mommie, die! (2003)	|	0.00000548
+dinosaur (2000)	|	0.00000547
+the ties that bind (2006)	|	0.00000546
+constantine's sword (2007)	|	0.00000545
+the kids are all right (2010)	|	0.00000545
+he was a quiet man (2007)	|	0.00000544
+terminator 3: rise of the machines (2003)	|	0.00000544
+proof of life (2000)	|	0.00000542
+how the garcia girls spent their summer (2005)	|	0.00000541
+hate or date (2004)	|	0.00000540
+looking for an echo (2000)	|	0.00000540
+pandorum (2009)	|	0.00000540
+wrigley (2004)	|	0.00000540
+superman returns (2006)	|	0.00000539
+pesticide (2008)	|	0.00000537
+the bride wore blood: a contemporary western (2006)	|	0.00000535
+tully (2000)	|	0.00000535
+raving (2007)	|	0.00000535
+in the land of women (2007)	|	0.00000532
+states of grace (2005)	|	0.00000532
+self medicated (2005)	|	0.00000532
+beat the devil (2002)	|	0.00000531
+all over the guy (2001)	|	0.00000531
+red (2008)	|	0.00000531
+charlie valentine (2009)	|	0.00000531
+lymelife (2008)	|	0.00000527
+particles of truth (2003)	|	0.00000527
+the hungry ghosts (2009)	|	0.00000526
+getting out (2002)	|	0.00000526
+forecast (2007)	|	0.00000526
+breach (2004)	|	0.00000523
+billy's dad is a fudge-packer (2004)	|	0.00000523
+rocket science (2007)	|	0.00000522
+infection (2005)	|	0.00000521
+off the map (2003)	|	0.00000521
+agent crush (2008)	|	0.00000519
+australia (2008)	|	0.00000518
+julie johnson (2001)	|	0.00000518
+the second renaissance part ii (2003)	|	0.00000518
+the last romantic (2006)	|	0.00000516
+modigliani (2004)	|	0.00000515
+sniper patrol 420 (2007)	|	0.00000513
+the emperor's new groove (2000)	|	0.00000510
+black holes: the other side of infinity (2006)	|	0.00000510
+rock the paint (2005)	|	0.00000508
+greenfingers (2000)	|	0.00000508
+dreamland (2006)	|	0.00000507
+no pain no gain (2007)	|	0.00000505
+meet the robinsons (2007)	|	0.00000505
+hard ball (2001)	|	0.00000504
+derek & simon: a bee and a cigarette (2006)	|	0.00000504
+a year and a day (2005)	|	0.00000503
+rounding first (2005)	|	0.00000502
+grace is gone (2007)	|	0.00000502
+born to fight 2008 (2008)	|	0.00000501
+the business of strangers (2001)	|	0.00000501
+the speed of life (2007)	|	0.00000500
+the tao of steve (2000)	|	0.00000498
+ripley's game (2002)	|	0.00000497
+the frank anderson (2006)	|	0.00000494
+comeback season (2006)	|	0.00000492
+garden party (2008)	|	0.00000492
+the art of travel (2008)	|	0.00000491
+the living wake (2007)	|	0.00000490
+dolphins (2000)	|	0.00000489
+the company man (2008)	|	0.00000488
+jack rabbit (2006)	|	0.00000487
+orphan (2009)	|	0.00000486
+the book of caleb (2008)	|	0.00000486
+bambi ii (2006)	|	0.00000486
+repo chick (2009)	|	0.00000485
+the quiet (2005)	|	0.00000484
+paraiso travel (2008)	|	0.00000484
+frailty (2001)	|	0.00000483
+in the eyes of a killer (2009)	|	0.00000483
+speak (2004)	|	0.00000482
+behind enemy lines (2001)	|	0.00000481
+ninja assassin (2009)	|	0.00000481
+tekken (2010)	|	0.00000481
+closing the ring (2007)	|	0.00000480
+ken park (2002)	|	0.00000479
+deadbox (2007)	|	0.00000477
+acts of worship (2001)	|	0.00000477
+the village barbershop (2008)	|	0.00000476
+room 27 (2005)	|	0.00000476
+lance is a jerk (2006)	|	0.00000475
+enemy at the gates (2001)	|	0.00000474
+tape (2001)	|	0.00000473
+2081 (2009)	|	0.00000471
+magnus, inc. (2007)	|	0.00000471
+i sell the dead (2008)	|	0.00000471
+one way to valhalla (2009)	|	0.00000470
+university heights (2004)	|	0.00000469
+baby boy (2001)	|	0.00000469
+lovely by surprise (2007)	|	0.00000469
+white noise 2: the light (2007)	|	0.00000469
+tears of a clown (2005)	|	0.00000468
+return to babylon (2008)	|	0.00000468
+sherlock holmes (2009)	|	0.00000467
+the failures (2003)	|	0.00000466
+u-571 (2000)	|	0.00000463
+good cop, bad cop (2006)	|	0.00000462
+hotel chevalier (2007)	|	0.00000462
+stay until tomorrow (2004)	|	0.00000462
+signs (2002)	|	0.00000462
+world's greatest dad (2009)	|	0.00000461
+sorry, haters (2005)	|	0.00000461
+the night we called it a day (2003)	|	0.00000460
+the war within (2005)	|	0.00000459
+rule of three (2008)	|	0.00000457
+the hills have eyes (2006)	|	0.00000456
+the last 15 (2007)	|	0.00000454
+american icarus (2002)	|	0.00000453
+saving face (2004)	|	0.00000453
+love object (2003)	|	0.00000451
+back up, please (2003)	|	0.00000450
+the mudge boy (2003)	|	0.00000450
+doomsday (2008)	|	0.00000450
+inside deep throat (2005)	|	0.00000449
+nim's island (2008)	|	0.00000448
+stolen summer (2002)	|	0.00000447
+coral reef adventure (2003)	|	0.00000446
+blue hill avenue (2001)	|	0.00000446
+across the hall (2005)	|	0.00000444
+citizen toxie: the toxic avenger iv (2000)	|	0.00000444
+the exploding girl (2009)	|	0.00000443
+super troopers (2001)	|	0.00000443
+heartlands (2002)	|	0.00000443
+leaving barstow (2008)	|	0.00000442
+parting words (2008)	|	0.00000438
+youth without youth (2007)	|	0.00000438
+mockingbird don't sing (2001)	|	0.00000436
+the best man (2005)	|	0.00000435
+in the weeds (2000)	|	0.00000434
+broke sky (2007)	|	0.00000434
+sordid lives (2000)	|	0.00000432
+drunkboat (2007)	|	0.00000432
+groom with a view (2007)	|	0.00000431
+living in walter's world (2003)	|	0.00000431
+adam resurrected (2008)	|	0.00000430
+the last miracle (2006)	|	0.00000430
+arizona seaside (2007)	|	0.00000429
+the prince of light (2000)	|	0.00000428
+islander (2006)	|	0.00000428
+coraline (2009)	|	0.00000428
+trust me (2007)	|	0.00000427
+behind the mask: the rise of leslie vernon (2006)	|	0.00000427
+boy-next-door (2004)	|	0.00000425
+don't fade away (2010)	|	0.00000424
+trunk (2008)	|	0.00000423
+american fusion (2005)	|	0.00000423
+placebo (2008)	|	0.00000422
+wrestling with angels: playwright tony kushner (2006)	|	0.00000422
+may (2002)	|	0.00000421
+face (2002)	|	0.00000421
+ceremonies of the horsemen (2009)	|	0.00000420
+bridge to terabithia (2007)	|	0.00000420
+a mighty heart (2007)	|	0.00000419
+3:16 (2006)	|	0.00000419
+chain letter (2010)	|	0.00000418
+infestation (2009)	|	0.00000418
+the final cut (2004)	|	0.00000418
+perfume: the story of a murderer (2006)	|	0.00000417
+latter days (2003)	|	0.00000417
+honeydripper (2007)	|	0.00000416
+glorious mail (2005)	|	0.00000415
+zora neale hurston: jump at the sun (2008)	|	0.00000415
+gran torino (2008)	|	0.00000414
+lost/found (2003)	|	0.00000413
+brat 2 (2000)	|	0.00000411
+the korean (2008)	|	0.00000411
+pit fighters (2008)	|	0.00000410
+blind ambition (2008)	|	0.00000408
+vampire hunter d: bloodlust (2000)	|	0.00000407
+just a dream (2002)	|	0.00000407
+outta sync (2006)	|	0.00000406
+nobody (2009)	|	0.00000405
+the nazi officer's wife (2003)	|	0.00000403
+the diary (2004)	|	0.00000402
+dream boy (2008)	|	0.00000402
+broken arrows (2007)	|	0.00000400
+the code conspiracy (2001)	|	0.00000400
+aqua teen hunger force colon movie film for theaters (2007)	|	0.00000398
+brown eyed girl (2001)	|	0.00000397
+rogue (2007)	|	0.00000396
+fairies (2003)	|	0.00000393
+the first year's a bitch (2004)	|	0.00000392
+crime spree (2003)	|	0.00000392
+sir! no sir! (2005)	|	0.00000391
+willard (2003)	|	0.00000390
+daybreakers (2009)	|	0.00000390
+poultrygeist: night of the chicken dead (2006)	|	0.00000389
+the crooked eye (2009)	|	0.00000389
+an inconvenient head (2008)	|	0.00000388
+alleyball (2006)	|	0.00000387
+memoirs of a geisha (2005)	|	0.00000387
+the project (2008)	|	0.00000386
+the broken heart of gnocchi bolognese (2009)	|	0.00000386
+rosencrantz and guildenstern are undead (2009)	|	0.00000386
+the silencing (2000)	|	0.00000385
+five fingers (2006)	|	0.00000384
+the shape of things (2003)	|	0.00000384
+disconnected (2002)	|	0.00000383
+the cutting room (2001)	|	0.00000383
+knowing (2009)	|	0.00000382
+room 10 (2006)	|	0.00000382
+of boys and men (2008)	|	0.00000382
+a good woman (2004)	|	0.00000380
+hacks (2002)	|	0.00000380
+upheaval (2001)	|	0.00000379
+easier with practice (2009)	|	0.00000378
+the angel doll (2002)	|	0.00000376
+quantum hoops (2007)	|	0.00000376
+p2 (2007)	|	0.00000375
+rocky road (2001)	|	0.00000374
+chasing sleep (2000)	|	0.00000374
+what's up, scarlet? (2005)	|	0.00000372
+winter's bone (2010)	|	0.00000372
+tomorrow is today (2006)	|	0.00000371
+grounds zero (2006)	|	0.00000371
+hyper (2002)	|	0.00000371
+misconceptions (2008)	|	0.00000370
+deadgirl (2008)	|	0.00000369
+flyboys (2006)	|	0.00000369
+big heart city (2008)	|	0.00000368
+outsourced (2006)	|	0.00000368
+the golden boys (2008)	|	0.00000368
+shanghai noon (2000)	|	0.00000368
+the forbidden kingdom (2008)	|	0.00000366
+all roads lead home (2008)	|	0.00000366
+natural disasters: forces of nature (2004)	|	0.00000365
+straight-jacket (2004)	|	0.00000365
+tinker bell and the lost treasure (2009)	|	0.00000362
+the 11th hour (2007)	|	0.00000361
+ashes and snow (2005)	|	0.00000361
+chandler hall (2005)	|	0.00000361
+chicago overcoat (2009)	|	0.00000360
+blue car (2002)	|	0.00000359
+my run (2009)	|	0.00000359
+lock her room (2003)	|	0.00000359
+the stoning of soraya m. (2008)	|	0.00000359
+the storyteller (2005)	|	0.00000358
+say it in russian (2007)	|	0.00000358
+mirrors (2008)	|	0.00000358
+remembering november (2002)	|	0.00000358
+the second renaissance part i (2003)	|	0.00000357
+sweet friggin' daisies (2002)	|	0.00000356
+the soul of a man (2003)	|	0.00000355
+carts (2007)	|	0.00000355
+patch (2005)	|	0.00000354
+the boundary (2008)	|	0.00000353
+forty shades of blue (2005)	|	0.00000352
+cyberworld (2000)	|	0.00000352
+the gateway arch: a reflection of america (2006)	|	0.00000349
+my suicide (2009)	|	0.00000349
+factotum (2005)	|	0.00000349
+black snake moan (2006)	|	0.00000348
+damn the past! (2007)	|	0.00000348
+the monday before thanksgiving (2008)	|	0.00000347
+believers among us (2005)	|	0.00000347
+liberty kid (2007)	|	0.00000346
+boxboarders! (2007)	|	0.00000346
+herman u.s.a. (2001)	|	0.00000345
+kid's story (2003)	|	0.00000345
+the guilty (2000)	|	0.00000344
+shooting livien (2005)	|	0.00000344
+go go tales (2007)	|	0.00000344
+civic duty (2006)	|	0.00000343
+honey trap (2005)	|	0.00000343
+hustle & flow (2005)	|	0.00000342
+ten: thirty one (2008)	|	0.00000342
+crime and punishment (2002)	|	0.00000342
+peaceful warrior (2006)	|	0.00000341
+trigger happy (2001)	|	0.00000341
+night catches us (2010)	|	0.00000340
+the fix (2005)	|	0.00000340
+volcanoes of the deep sea (2003)	|	0.00000340
+little big top (2006)	|	0.00000340
+a dance for bethany (2007)	|	0.00000340
+canvas (2006)	|	0.00000339
+the man in the silo (2008)	|	0.00000338
+bubba ho-tep (2002)	|	0.00000337
+man overboard (2008)	|	0.00000337
+roving mars (2006)	|	0.00000336
+beyond the sea (2004)	|	0.00000336
+britney, baby, one more time (2002)	|	0.00000336
+the event (2003)	|	0.00000333
+ivansxtc (2000)	|	0.00000333
+spirit: stallion of the cimarron (2002)	|	0.00000332
+bocce balls (2005)	|	0.00000332
+god grew tired of us: the story of lost boys of sudan (2006)	|	0.00000332
+never forever (2007)	|	0.00000328
+tokyo mater (2008)	|	0.00000328
+my father's love (2001)	|	0.00000328
+nice guys finish last (2001)	|	0.00000327
+just one of the gynos (2008)	|	0.00000326
+the fever (2004)	|	0.00000324
+the trouble with dee dee (2005)	|	0.00000323
+immigrants (l.a. dolce vita) (2008)	|	0.00000322
+anderson's cross (2007)	|	0.00000321
+matters of life and death (2007)	|	0.00000321
+local boys (2002)	|	0.00000320
+prisoner of paradise (2002)	|	0.00000320
+what alice found (2003)	|	0.00000319
+the blue tooth virgin (2008)	|	0.00000319
+angus, thongs and perfect snogging (2008)	|	0.00000319
+the strangers (2008)	|	0.00000318
+the champ (2006)	|	0.00000318
+long time no see (2002)	|	0.00000317
+a piece of pie (2006)	|	0.00000317
+eli's liquor store (2007)	|	0.00000317
+demption (2008)	|	0.00000316
+some body (2001)	|	0.00000315
+mama, i want to sing! (2009)	|	0.00000315
+replay (2003)	|	0.00000313
+the man from earth (2007)	|	0.00000312
+the last job (2007)	|	0.00000312
+fixing rhonda (2008)	|	0.00000312
+stranger than fiction (2000)	|	0.00000312
+once upon a jedi (2004)	|	0.00000311
+shoot on sight (2007)	|	0.00000310
+a letter to true (2004)	|	0.00000310
+raising victor vargas (2002)	|	0.00000310
+the unsaid (2001)	|	0.00000309
+truth in 24 (2008)	|	0.00000309
+shiner (2006)	|	0.00000309
+london betty (2009)	|	0.00000308
+mirrormask (2005)	|	0.00000308
+scary movie (2000)	|	0.00000308
+quality of life (2004)	|	0.00000308
+laying down arms (2005)	|	0.00000308
+the transporter (2002)	|	0.00000308
+secrets of the code (2006)	|	0.00000307
+ballets russes (2005)	|	0.00000307
+comedian (2002)	|	0.00000307
+my generation g... g... gap (2003)	|	0.00000306
+little fish, strange pond (2009)	|	0.00000306
+chicken party (2003)	|	0.00000306
+drum (2004)	|	0.00000305
+jackass number two (2006)	|	0.00000305
+who killed the idea? (2003)	|	0.00000304
+new suit (2002)	|	0.00000304
+a rumor of angels (2000)	|	0.00000303
+china: the panda adventure (2001)	|	0.00000302
+invictus (2009)	|	0.00000302
+art room (2009)	|	0.00000301
+sp!t (2006)	|	0.00000299
+witch hunt (2008)	|	0.00000299
+war made easy: how presidents & pundits keep spinning us to death (2007)	|	0.00000299
+zoe loses it (2000)	|	0.00000298
+shadow magic (2000)	|	0.00000298
+sleep dealer (2008)	|	0.00000298
+this is what democracy looks like (2000)	|	0.00000297
+michael jordan to the max (2000)	|	0.00000297
+the tigger movie (2000)	|	0.00000297
+another harvest moon (2009)	|	0.00000296
+older than america (2008)	|	0.00000296
+garbo (2005)	|	0.00000295
+slipdream (2005)	|	0.00000294
+the poughkeepsie tapes (2007)	|	0.00000292
+earthlings (2007)	|	0.00000292
+ribbon of sand (2008)	|	0.00000292
+down from the mountain (2000)	|	0.00000292
+homefront (2005)	|	0.00000291
+i am josh polonski's brother (2001)	|	0.00000291
+grand canyon adventure: river at risk (2008)	|	0.00000290
+excavating taylor mead (2005)	|	0.00000290
+abbey of thelema (2007)	|	0.00000289
+god sleeps in rwanda (2005)	|	0.00000289
+chasing the lotus (2006)	|	0.00000288
+dale (2007)	|	0.00000287
+blessed is the match: the life and death of hannah senesh (2008)	|	0.00000286
+dinosaurs alive (2007)	|	0.00000286
+god's ears (2007)	|	0.00000286
+hedwig and the angry inch (2001)	|	0.00000286
+exit through the gift shop (2010)	|	0.00000285
+grasshopper (2006)	|	0.00000284
+chasing daylight (2004)	|	0.00000284
+bandslam (2009)	|	0.00000284
+the election (2007)	|	0.00000283
+dalai lama renaissance (2007)	|	0.00000283
+polynesian power (2005)	|	0.00000283
+forgotten (2009)	|	0.00000282
+made-up (2002)	|	0.00000282
+pact (2004)	|	0.00000282
+lenexa, 1 mile (2006)	|	0.00000282
+team america: world police (2004)	|	0.00000281
+one night with the king (2006)	|	0.00000280
+dandelion (2004)	|	0.00000280
+flossin (2001)	|	0.00000279
+curt's brain (2006)	|	0.00000279
+wmd: weapons of mass deception (2004)	|	0.00000278
+the trials of henry kissinger (2002)	|	0.00000278
+the fall (2006)	|	0.00000278
+the kite runner (2007)	|	0.00000277
+into the arms of strangers: stories of the kindertransport (2000)	|	0.00000277
+mummies: secrets of the pharaohs (2007)	|	0.00000277
+the last passport (2009)	|	0.00000276
+arctic tale (2007)	|	0.00000276
+lost in la mancha (2002)	|	0.00000276
+relative obscurity (2007)	|	0.00000275
+for mature audiences only (2002)	|	0.00000275
+shine a light (2008)	|	0.00000273
+streakers (2004)	|	0.00000273
+preacher's kid (2010)	|	0.00000272
+the big bad swim (2006)	|	0.00000272
+stingray sam (2009)	|	0.00000272
+buck naked arson (2001)	|	0.00000271
+the path of torment (2009)	|	0.00000270
+a couple of white chicks at the hairdresser (2007)	|	0.00000270
+brothers incorporated (2009)	|	0.00000270
+the mostly unfabulous social life of ethan green (2005)	|	0.00000270
+the dollhouse (2007)	|	0.00000268
+maestro percival (2007)	|	0.00000268
+csi:snackbar (2006)	|	0.00000268
+careful what you wish for (2004)	|	0.00000268
+diary of a wimpy kid (2010)	|	0.00000267
+the landlord (2007)	|	0.00000266
+the haunting of seaside (2007)	|	0.00000266
+mickey (2004)	|	0.00000265
+what is it? (2005)	|	0.00000264
+road to the altar (2009)	|	0.00000264
+american chai (2001)	|	0.00000264
+colonel kill motherfuckers (2008)	|	0.00000264
+ghosts of attica (2001)	|	0.00000263
+addiction (2003)	|	0.00000262
+behaving badly (2009)	|	0.00000262
+borat: cultural learnings of america for make benefit glorious nation of kazakhstan (2006)	|	0.00000261
+otis (2008)	|	0.00000261
+the dark agent and the passing of the torch chapter 7 (2004)	|	0.00000261
+the last real cowboys (2000)	|	0.00000261
+the collection (2005)	|	0.00000260
+the legend of sasquatch (2006)	|	0.00000260
+repo! the genetic opera (2006)	|	0.00000259
+the hunting of the president (2004)	|	0.00000259
+the goldfish (2003)	|	0.00000258
+lost angels (2009)	|	0.00000258
+the tehuacan project (2007)	|	0.00000258
+dead doornails (2007)	|	0.00000258
+animated american (2008)	|	0.00000257
+world record (2003)	|	0.00000257
+razor sharp (2006)	|	0.00000256
+biglove (2001)	|	0.00000256
+i'm king kong!: the exploits of merian c. cooper (2005)	|	0.00000255
+the talent given us (2004)	|	0.00000255
+the oil factor: behind the war on terror (2005)	|	0.00000255
+earth (2007)	|	0.00000255
+the price of sugar (2007)	|	0.00000254
+made in america (2008)	|	0.00000253
+red roses and petrol (2003)	|	0.00000253
+junkyard dog (2009)	|	0.00000252
+harrison bergeron (2006)	|	0.00000252
+hard pill (2005)	|	0.00000252
+frost (2008)	|	0.00000251
+popcorn shrimp (2001)	|	0.00000251
+the killing hour (2009)	|	0.00000250
+someone's knocking at the door (2009)	|	0.00000249
+war eagle, arkansas (2007)	|	0.00000249
+to end all wars (2001)	|	0.00000249
+nicky's game (2005)	|	0.00000248
+jesus cooks me breakfast (2007)	|	0.00000248
+dance of the dead (2008)	|	0.00000247
+blood feast 2: all u can eat (2002)	|	0.00000247
+nine lives (2004)	|	0.00000247
+six thugs (2006)	|	0.00000247
+i am david (2003)	|	0.00000246
+the negro zone (2003)	|	0.00000244
+he got billz (2005)	|	0.00000244
+faster (2003)	|	0.00000244
+the great year (2004)	|	0.00000244
+looking for jimmy (2002)	|	0.00000243
+an unlikely weapon (2008)	|	0.00000243
+blood night (2009)	|	0.00000243
+paragraph 175 (2000)	|	0.00000242
+dirty oil (2009)	|	0.00000242
+valentine man (2004)	|	0.00000241
+ptown diaries (2009)	|	0.00000241
+jump tomorrow (2001)	|	0.00000241
+catch a fire (2006)	|	0.00000239
+we believe (2009)	|	0.00000238
+running the sahara (2008)	|	0.00000236
+9a (2006)	|	0.00000236
+hubert's brain (2001)	|	0.00000236
+buddy 'n' andy (2008)	|	0.00000236
+an insomniac's nightmare (2003)	|	0.00000234
+the grey (2004)	|	0.00000234
+come away home (2005)	|	0.00000234
+lip service (2001)	|	0.00000233
+the hiding place (2000)	|	0.00000233
+around june (2008)	|	0.00000233
+the last supper (2006)	|	0.00000233
+saints and soldiers (2003)	|	0.00000233
+the hitman (2008)	|	0.00000233
+fairy tale police (2008)	|	0.00000232
+the lost skeleton returns again (2009)	|	0.00000232
+bulletface (2010)	|	0.00000231
+enron: the smartest guys in the room (2005)	|	0.00000231
+ten seconds to midnight (2007)	|	0.00000231
+buy the ticket, take the ride: hunter s. thompson on film (2006)	|	0.00000231
+faded (2005)	|	0.00000231
+the persistence of dreams (2005)	|	0.00000231
+tin can shinny (2003)	|	0.00000230
+jedi gym (2008)	|	0.00000230
+ten inch hero (2007)	|	0.00000228
+the end of poverty? (2008)	|	0.00000228
+who killed the electric car? (2006)	|	0.00000228
+a detective story (2003)	|	0.00000227
+ice princess (2005)	|	0.00000227
+youngster (2004)	|	0.00000227
+children of invention (2009)	|	0.00000227
+sacred planet (2004)	|	0.00000226
+blue gold: world water wars (2008)	|	0.00000225
+letters from iwo jima (2006)	|	0.00000225
+sydney white (2007)	|	0.00000225
+sweetzer (2007)	|	0.00000225
+dogtown and z-boys (2001)	|	0.00000225
+how to hook up your home theater (2007)	|	0.00000224
+second guessing grandma (2008)	|	0.00000224
+beef (2003)	|	0.00000224
+resurrection: the j.r. richard story (2005)	|	0.00000224
+the hidden wars of desert storm (2001)	|	0.00000224
+the weather underground (2002)	|	0.00000223
+axegrinder (2006)	|	0.00000223
+man push cart (2005)	|	0.00000222
+will to power (2008)	|	0.00000221
+fidel (2001)	|	0.00000220
+friends and family (2001)	|	0.00000219
+santa croce (2007)	|	0.00000219
+a president to remember (2008)	|	0.00000219
+watch & learn (2007)	|	0.00000219
+behind the mask (2003)	|	0.00000218
+something in the clearing (2006)	|	0.00000218
+howard zinn: you can't be neutral on a moving train (2004)	|	0.00000217
+land of the free? (2004)	|	0.00000216
+michael's hearing problem (2007)	|	0.00000216
+bitter sweet (2006)	|	0.00000215
+on the rocks (2006)	|	0.00000215
+the honorable (2002)	|	0.00000214
+precious: based on the novel push by sapphire (2009)	|	0.00000214
+harvest of redemption (2007)	|	0.00000213
+front (2007)	|	0.00000213
+our song (2000)	|	0.00000213
+silent night (2007)	|	0.00000212
+until morning (2002)	|	0.00000212
+last meal (2008)	|	0.00000212
+along the way (2007)	|	0.00000212
+strange culture (2007)	|	0.00000212
+unprecedented: the 2000 presidential election (2002)	|	0.00000211
+gerry (2002)	|	0.00000211
+padre nuestro (2007)	|	0.00000211
+shaheed (2001)	|	0.00000209
+bought & sold (2003)	|	0.00000209
+death, can i buy you a drink? (2004)	|	0.00000209
+my little pony: reign of buttercup sprinkles (2009)	|	0.00000209
+ark (2004)	|	0.00000208
+devil's grove (2007)	|	0.00000208
+5 (2007)	|	0.00000207
+star power (2007)	|	0.00000206
+member (2001)	|	0.00000206
+stop that cycle (2004)	|	0.00000206
+office outbreak (2006)	|	0.00000206
+dirty politics (2009)	|	0.00000206
+east of west (2000)	|	0.00000206
+mean creek (2004)	|	0.00000205
+max (2005)	|	0.00000204
+convention (2008)	|	0.00000204
+sunfax territory (2009)	|	0.00000203
+murdoch: the beginning (2009)	|	0.00000203
+strictly sexual (2008)	|	0.00000203
+lest we forget (2003)	|	0.00000203
+cirque du soleil: journey of man (2000)	|	0.00000202
+you are alone (2005)	|	0.00000202
+the wright stuff (2005)	|	0.00000202
+texas fortune (2005)	|	0.00000201
+interview with the assassin (2002)	|	0.00000201
+the war prayer (2007)	|	0.00000201
+lost (2004)	|	0.00000201
+black santa's revenge (2007)	|	0.00000200
+in the wrong hands (2002)	|	0.00000200
+hemingway, the hunter of death (2001)	|	0.00000200
+nascar 3d: the imax experience (2004)	|	0.00000200
+ocean of pearls (2008)	|	0.00000199
+final flight of the osiris (2003)	|	0.00000199
+that's the name of that tune (2007)	|	0.00000199
+boppin' at the glue factory (2009)	|	0.00000198
+the mirror (2007)	|	0.00000197
+into temptation (2009)	|	0.00000197
+fist in the eye (2006)	|	0.00000197
+for always (2004)	|	0.00000197
+we are the world: inside the world (2005)	|	0.00000197
+alias: the roughest cut (2006)	|	0.00000197
+the red machine (2009)	|	0.00000196
+yum yum (2008)	|	0.00000196
+unbalanced breakfast (2009)	|	0.00000196
+repo! the genetic opera (2008)	|	0.00000196
+soul flyers (2008)	|	0.00000195
+dreaming of julia (2003)	|	0.00000195
+die fast and quiet (2008)	|	0.00000195
+the brightness you keep (2000)	|	0.00000194
+bitch (2006)	|	0.00000194
+the uninvited (2008)	|	0.00000194
+gone with the pope (2010)	|	0.00000193
+laws of gambling (2005)	|	0.00000193
+a mother's promise: barack obama bio film (2008)	|	0.00000193
+potheads: the movie (2005)	|	0.00000192
+in pursuit of happiness (2005)	|	0.00000192
+the brazen bull (2009)	|	0.00000192
+duck, duck, goose! (2005)	|	0.00000190
+noah's arc: jumping the broom (2008)	|	0.00000190
+noah's arc (2004)	|	0.00000190
+cuttin da mustard (2008)	|	0.00000190
+signage (2007)	|	0.00000190
+arc (2006)	|	0.00000189
+the capitalist (2008)	|	0.00000189
+the unbearable rightness of diversity (2008)	|	0.00000188
+big bad love (2001)	|	0.00000188
+rainbow's end (2005)	|	0.00000188
+redneck carnage (2009)	|	0.00000187
+the tribe (2005)	|	0.00000187
+chasing tchaikovsky (2007)	|	0.00000187
+fortune hunters (2007)	|	0.00000186
+jericho (2000)	|	0.00000186
+a jersey christmas (2008)	|	0.00000186
+the bleeding (2009)	|	0.00000185
+mystery team (2009)	|	0.00000185
+chuck & buck (2000)	|	0.00000184
+napoleon dynamite (2004)	|	0.00000184
+boys of summerville (2008)	|	0.00000184
+the seventh circle (2008)	|	0.00000183
+monarch of the moon (2005)	|	0.00000183
+blue state (2007)	|	0.00000181
+dan danger (2002)	|	0.00000180
+three days of rain (2002)	|	0.00000180
+jake's corner (2008)	|	0.00000180
+the sexy chef (2002)	|	0.00000179
+zerophilia (2005)	|	0.00000179
+what they wanted, what they got (2001)	|	0.00000179
+brothers. dogs. and god. (2000)	|	0.00000179
+pomegranate (2005)	|	0.00000179
+the unlikely's (2007)	|	0.00000178
+macau twilight (2007)	|	0.00000178
+bazookas: the movie (2009)	|	0.00000178
+alone with her (2006)	|	0.00000178
+falling awake (2009)	|	0.00000177
+morgan's last call (2009)	|	0.00000177
+satan hates you (2009)	|	0.00000177
+seventy-8 (2004)	|	0.00000177
+veer (2009)	|	0.00000177
+american skin 2: eagles gathering (2005)	|	0.00000177
+the penny game (2001)	|	0.00000176
+teenage dirtbag (2009)	|	0.00000175
+peripheral vision (2008)	|	0.00000174
+creative nonfiction (2009)	|	0.00000174
+two divorced guys in a bar (2005)	|	0.00000174
+if only (2004)	|	0.00000174
+accidents happen (2008)	|	0.00000173
+fighting tommy riley (2005)	|	0.00000173
+about adam (2000)	|	0.00000172
+the black facade (2008)	|	0.00000172
+package for maxwell (2007)	|	0.00000171
+holly (2006)	|	0.00000171
+the almost guys (2004)	|	0.00000171
+splice (2009)	|	0.00000170
+the babysitter (2008)	|	0.00000170
+the bail (2002)	|	0.00000169
+serial (2007)	|	0.00000169
+hard candy (2005)	|	0.00000169
+getting rachel back (2003)	|	0.00000168
+minty: the assassin (2008)	|	0.00000168
+the lost skeleton of cadavra (2001)	|	0.00000168
+the karaoke king (2007)	|	0.00000167
+jinx! (2007)	|	0.00000167
+the hammer (2007)	|	0.00000167
+the others (2001)	|	0.00000166
+the blue butterfly (2004)	|	0.00000166
+renounced (2007)	|	0.00000166
+reclaiming the blade (2009)	|	0.00000166
+adopt a sailor (2008)	|	0.00000165
+act your age (2008)	|	0.00000164
+outside (2002)	|	0.00000164
+cock-a-doodle-duel (2003)	|	0.00000164
+silent screamplay (2003)	|	0.00000163
+summer running: the race to cure breast cancer (2006)	|	0.00000163
+maryam (2002)	|	0.00000163
+induction (2005)	|	0.00000163
+axe massacre (2008)	|	0.00000162
+living in missouri (2001)	|	0.00000162
+twilight: los angeles (2000)	|	0.00000162
+the editor: a man i despise (2008)	|	0.00000162
+zen noir (2004)	|	0.00000161
+august the first (2007)	|	0.00000161
+call waiting (2004)	|	0.00000161
+onion underwater (2006)	|	0.00000160
+cq (2001)	|	0.00000160
+kings of the evening (2008)	|	0.00000160
+the last tomorrow (2007)	|	0.00000159
+my brothers arms (2005)	|	0.00000159
+trail end (2007)	|	0.00000159
+shortbus (2006)	|	0.00000159
+mr. warmth: the don rickles project (2007)	|	0.00000159
+cell call (2005)	|	0.00000159
+ray of sunshine (2006)	|	0.00000159
+the belly of the beast (2007)	|	0.00000158
+young folks (2007)	|	0.00000158
+my grapefruit, my father (2004)	|	0.00000158
+downsized (2008)	|	0.00000158
+gotham cafe (2005)	|	0.00000157
+the door (2005)	|	0.00000156
+skills like this (2007)	|	0.00000155
+the 24th day (2004)	|	0.00000155
+it's better to be wanted for murder than not to be wanted at all (2003)	|	0.00000155
+when the sky falls (2000)	|	0.00000155
+diva dog: pit bull on wheels (2005)	|	0.00000154
+peter's price (2005)	|	0.00000154
+the butterfly circus (2009)	|	0.00000154
+the importance of blind dating (2005)	|	0.00000153
+paper heart (2009)	|	0.00000153
+a clear view (2005)	|	0.00000152
+the flying scissors (2009)	|	0.00000152
+go-go guy (2006)	|	0.00000152
+fight or flight (2003)	|	0.00000152
+boy culture (2006)	|	0.00000152
+the girl next door (2007)	|	0.00000150
+harmonic distortion (2002)	|	0.00000150
+after twilight (2005)	|	0.00000149
+time's up! (2001)	|	0.00000149
+kyoko (2000)	|	0.00000149
+secret santa (2002)	|	0.00000149
+darling darling (2005)	|	0.00000148
+the stickup (2002)	|	0.00000148
+cremaster 3 (2002)	|	0.00000148
+equal justice (2006)	|	0.00000148
+bossa nova (2000)	|	0.00000147
+atlantis: the lost empire (2001)	|	0.00000147
+crime scene: the bobby ray summers story (2008)	|	0.00000147
+the deserter (2003)	|	0.00000147
+a place for my head (2006)	|	0.00000147
+chloe's prayer (2006)	|	0.00000147
+just hustle (2004)	|	0.00000147
+the replacement child (2007)	|	0.00000146
+matthew 26:17 (2005)	|	0.00000146
+ice blues (2008)	|	0.00000146
+albert fish: in sin he found salvation (2007)	|	0.00000146
+the attic door (2009)	|	0.00000145
+the perfect stranger (2005)	|	0.00000145
+pox (2008)	|	0.00000145
+one blood planet (2001)	|	0.00000145
+royal kill (2009)	|	0.00000145
+the road to empire (2007)	|	0.00000144
+ciao (2008)	|	0.00000143
+rambo (2008)	|	0.00000143
+the end of suffering (2005)	|	0.00000143
+wtc view (2005)	|	0.00000143
+the keeper: the legend of omar khayyam (2005)	|	0.00000142
+white on rice (2009)	|	0.00000142
+the fine line between cute and creepy (2002)	|	0.00000142
+dustclouds (2007)	|	0.00000142
+the phobic (2006)	|	0.00000141
+the assistants (2009)	|	0.00000141
+malèna (2000)	|	0.00000141
+ghosts of genius (2003)	|	0.00000140
+the curiosity of chance (2006)	|	0.00000140
+this man's life (2008)	|	0.00000139
+judge koan (2003)	|	0.00000139
+being michael madsen (2007)	|	0.00000138
+the beverages (2008)	|	0.00000138
+the motel (2005)	|	0.00000138
+governmentia (2005)	|	0.00000138
+delaney (2008)	|	0.00000137
+voodoo doll (2005)	|	0.00000137
+nanny and the professional (2005)	|	0.00000137
+love is for democrats (2006)	|	0.00000137
+mvp (2003)	|	0.00000137
+the wind fisherman (2007)	|	0.00000137
+diamonds bullets & fate (2005)	|	0.00000137
+waiting for yvette (2008)	|	0.00000136
+tom goes to the mayor returns (2003)	|	0.00000136
+sucker lake park (2006)	|	0.00000136
+investigaytion (2004)	|	0.00000136
+martial law 9/11: rise of the police state (2005)	|	0.00000135
+maestro (2004)	|	0.00000135
+an american letter (2006)	|	0.00000135
+untitled: 003-embryo (2002)	|	0.00000135
+lovers, liars and lunatics (2006)	|	0.00000135
+chance (2002)	|	0.00000135
+persepolis (2007)	|	0.00000134
+quake (2007)	|	0.00000134
+easy listening (2002)	|	0.00000134
+stick it in detroit (2008)	|	0.00000133
+dostana (2008)	|	0.00000133
+festival in cannes (2001)	|	0.00000132
+forever plaid (2008)	|	0.00000132
+the fort fisher hermit: the life & death of robert e. harrill (2004)	|	0.00000131
+help (2008)	|	0.00000131
+we married margo (2000)	|	0.00000131
+the work and the glory (2004)	|	0.00000130
+home security (2003)	|	0.00000130
+greeley's field (2006)	|	0.00000130
+pop foul (2006)	|	0.00000130
+testify (2006)	|	0.00000130
+shift (2006)	|	0.00000130
+green dragon (2001)	|	0.00000129
+killer biker chicks (2009)	|	0.00000129
+remembering phil (2008)	|	0.00000129
+2001 maniacs: field of screams (2010)	|	0.00000128
+the harimaya bridge (2009)	|	0.00000127
+missing pieces (2008)	|	0.00000127
+the bill (2001)	|	0.00000127
+weapon of mass destruction (2004)	|	0.00000127
+the elephant king (2006)	|	0.00000127
+sea of dreams (2006)	|	0.00000127
+willoughby (2007)	|	0.00000126
+rent: filmed live on broadway (2008)	|	0.00000126
+promtroversy (2005)	|	0.00000124
+amerikana (2001)	|	0.00000124
+kaubôi bibappu: tengoku no tobira (2001)	|	0.00000124
+waste of space (2009)	|	0.00000124
+silent night, zombie night (2009)	|	0.00000123
+grace (2003)	|	0.00000122
+small avalanches (2007)	|	0.00000122
+exploring love (2008)	|	0.00000121
+vieni via con me (2005)	|	0.00000121
+mr. blue sky (2007)	|	0.00000120
+the key (2006)	|	0.00000120
+fugly (2001)	|	0.00000120
+the maltese murder mystery (2008)	|	0.00000119
+scout's honor (2009)	|	0.00000119
+the imposter (2008)	|	0.00000119
+offside (2001)	|	0.00000118
+court jesters (2005)	|	0.00000118
+hungry hearts (2002)	|	0.00000118
+hercules in hollywood (2005)	|	0.00000118
+the courier (2007)	|	0.00000117
+other side of the road (2003)	|	0.00000117
+pee stains and other disasters (2005)	|	0.00000117
+candor city hospital (2003)	|	0.00000116
+how you look to me (2005)	|	0.00000116
+jay and seth versus the apocalypse (2007)	|	0.00000116
+scumrock (2002)	|	0.00000115
+the monster (2001)	|	0.00000115
+unsavory characters (2001)	|	0.00000115
+bye bye sally (2009)	|	0.00000115
+the first person (2004)	|	0.00000114
+crescent star (2005)	|	0.00000114
+i.o.u.s.a. (2008)	|	0.00000113
+blade of the king concept film (2005)	|	0.00000113
+terry tate, office linebacker: sensitivity training (2004)	|	0.00000113
+pretty dead girl (2004)	|	0.00000112
+codename: simon (2004)	|	0.00000112
+gotta make them angels (2004)	|	0.00000112
+the condemned (2007)	|	0.00000112
+the netherbeast of berm-tech industries, inc. (2004)	|	0.00000111
+watercolors (2008)	|	0.00000111
+carried away (2009)	|	0.00000111
+nowhere kids (2009)	|	0.00000110
+john philip sousa gets a haircut (2007)	|	0.00000110
+escanaba in da moonlight (2001)	|	0.00000109
+the sunday morning stripper (2003)	|	0.00000109
+truly blessed (2009)	|	0.00000109
+friends for life (2008)	|	0.00000109
+inzer0 (2006)	|	0.00000109
+chasing happiness (2009)	|	0.00000109
+the butler's in love (2008)	|	0.00000109
+i am woody (2003)	|	0.00000109
+rogue 379 (2007)	|	0.00000108
+arrested development (2003)	|	0.00000108
+american beauty pie (2000)	|	0.00000107
+the silence of bees (2008)	|	0.00000107
+west 32nd (2007)	|	0.00000107
+america so beautiful (2001)	|	0.00000106
+the other side of heaven (2001)	|	0.00000106
+pedro (2008)	|	0.00000106
+miracle mile (2004)	|	0.00000106
+the soldier (2003)	|	0.00000106
+zombie farm (2007)	|	0.00000106
+the paul decca story (2004)	|	0.00000105
+dexter's laboratory: chicken scratch (2002)	|	0.00000105
+big time (2004)	|	0.00000105
+shadowbox (2005)	|	0.00000105
+emily (2004)	|	0.00000104
+definite maybe (2002)	|	0.00000104
+why germany? (2004)	|	0.00000104
+t for terrorist (2003)	|	0.00000104
+meridian (2002)	|	0.00000104
+hero (2000)	|	0.00000103
+the tivo (2009)	|	0.00000103
+golemata voda (2004)	|	0.00000103
+the surreal world: tatooine episode 1.5 (2001)	|	0.00000103
+do it for johnny (2007)	|	0.00000102
+hole in the paper sky (2008)	|	0.00000102
+i think i thought (2008)	|	0.00000102
+it's not unusual (2000)	|	0.00000101
+the utah murder project (2006)	|	0.00000101
+legwork (2002)	|	0.00000101
+kidnap madonna's baby (2000)	|	0.00000101
+wheels (2002)	|	0.00000100
+program (2003)	|	0.00000100
+wit's end (2005)	|	0.00000100
+the cancer (2003)	|	0.00000100
+hare and loathing in las vegas (2004)	|	0.00000099
+resurrection county (2008)	|	0.00000099
+a grocery story (2005)	|	0.00000099
+it might get loud (2008)	|	0.00000098
+the art of amália (2000)	|	0.00000098
+living 'til the end (2005)	|	0.00000097
+mrs palfrey at the claremont (2005)	|	0.00000097
+golden empire (2005)	|	0.00000097
+il nascondiglio (2007)	|	0.00000097
+bootmen (2000)	|	0.00000097
+monday night gig (2005)	|	0.00000096
+south of no north (2009)	|	0.00000096
+sex and justice (2008)	|	0.00000096
+the eyes have it (2007)	|	0.00000096
+lana's rain (2004)	|	0.00000095
+everything is illuminated (2005)	|	0.00000095
+bum runner (2002)	|	0.00000095
+i can see you (2008)	|	0.00000095
+henry may long (2008)	|	0.00000095
+the other side of paradise (2009)	|	0.00000095
+interstate (2004)	|	0.00000095
+god and country (2008)	|	0.00000095
+fits (2004)	|	0.00000095
+the affidavit (2003)	|	0.00000095
+requiem for billy the kid (2006)	|	0.00000094
+followers (2000)	|	0.00000094
+p.j. (2008)	|	0.00000093
+deceitfully funny (2003)	|	0.00000093
+the dead link (2002)	|	0.00000093
+once upon a time in the desert (2005)	|	0.00000093
+indebted (2005)	|	0.00000093
+do geese see god? (2004)	|	0.00000093
+the sunday man (2007)	|	0.00000092
+prank (2008)	|	0.00000092
+for all mankind (2009)	|	0.00000092
+gaydar (2002)	|	0.00000091
+the trident (2007)	|	0.00000090
+the dot man (2008)	|	0.00000089
+rebel studz: the uncensored documentary (2007)	|	0.00000089
+carlos castaneda: enigma of a sorcerer (2004)	|	0.00000088
+american desi (2001)	|	0.00000088
+end of the century (2003)	|	0.00000087
+stroke (2000)	|	0.00000087
+buy sell kill: a flea market story (2004)	|	0.00000087
+losing lois lane (2004)	|	0.00000087
+a beautiful life (2004)	|	0.00000086
+weathered (2009)	|	0.00000086
+red doors (2005)	|	0.00000086
+everyman's war (2009)	|	0.00000085
+i remember you now... (2005)	|	0.00000084
+zeppo: sinners from beyond the moon! (2007)	|	0.00000084
+three long years (2003)	|	0.00000083
+pooh's heffalump movie (2005)	|	0.00000083
+dead horse (2004)	|	0.00000082
+fixed (2005)	|	0.00000082
+how my dad killed dracula (2008)	|	0.00000082
+for heavens sake (2002)	|	0.00000082
+side show (2003)	|	0.00000082
+that night (2005)	|	0.00000082
+two million stupid women (2009)	|	0.00000081
+big eden (2000)	|	0.00000081
+the cabinet of dr. caligari (2005)	|	0.00000081
+go get some rosemary (2009)	|	0.00000081
+on the other hand, death (2008)	|	0.00000081
+strawberry's letter (2001)	|	0.00000081
+out-of-body experience (2004)	|	0.00000081
+helix (2009)	|	0.00000081
+the vision (2009)	|	0.00000081
+shtickmen (2003)	|	0.00000080
+over my dead body (2002)	|	0.00000080
+tiny dancer (2006)	|	0.00000080
+a-date (2007)	|	0.00000080
+daydream believer (2005)	|	0.00000080
+down to the bone (2004)	|	0.00000079
+boys to men (2001)	|	0.00000079
+the decay of fiction (2002)	|	0.00000079
+ctrl z (2007)	|	0.00000078
+underground (2003)	|	0.00000078
+barking water (2009)	|	0.00000078
+the scoundrel's wife (2002)	|	0.00000077
+the tiffany problem (2008)	|	0.00000077
+a study in the orientation of han sum (2006)	|	0.00000077
+lightning bug (2004)	|	0.00000076
+disneyland: the first 50 magical years (2005)	|	0.00000076
+damn your eyes (2009)	|	0.00000075
+the cleaning lady (2005)	|	0.00000074
+stupid cupid (2006)	|	0.00000074
+italian pasta (2008)	|	0.00000074
+krews (2009)	|	0.00000074
+hip! edgy! quirky! (2002)	|	0.00000074
+george bush goes to heaven (2006)	|	0.00000074
+anacardium (2001)	|	0.00000074
+last breath (2001)	|	0.00000073
+seven's eleven (2004)	|	0.00000073
+the last attack of the beast (2002)	|	0.00000073
+before the rains (2007)	|	0.00000073
+the bag man (2005)	|	0.00000073
+secrets of fenville (2003)	|	0.00000073
+an inconvenient truth (2006)	|	0.00000072
+the honeyfields (2006)	|	0.00000072
+cryptic (2009)	|	0.00000072
+low (2008)	|	0.00000072
+the champ (2008)	|	0.00000072
+sleeping dogs lie (2005)	|	0.00000072
+earl's your uncle (2004)	|	0.00000072
+send in the clown (2006)	|	0.00000071
+boys night out (2003)	|	0.00000071
+cordially invited (2007)	|	0.00000070
+wormhole chasers (2008)	|	0.00000070
+the pleasure of being robbed (2008)	|	0.00000070
+eleven (2006)	|	0.00000069
+a stupid movie for jerks (2007)	|	0.00000069
+the alyson stoner project (2009)	|	0.00000069
+til night (2007)	|	0.00000069
+soarin' over california (2001)	|	0.00000068
+mr. dramatic (2005)	|	0.00000066
+the frequency of claire (2008)	|	0.00000065
+the perfect gift (2009)	|	0.00000064
+twisted soul (2007)	|	0.00000064
+need (2005)	|	0.00000064
+scheme c6 (2001)	|	0.00000064
+attitude (2003)	|	0.00000064
+save me (2006)	|	0.00000063
+the fourth (2004)	|	0.00000063
+heads n tailz (2005)	|	0.00000063
+holodomor: ukraine's genocide of 1932-33 (2008)	|	0.00000062
+deadland (2009)	|	0.00000062
+breathe (2003)	|	0.00000061
+back to manhattan (2005)	|	0.00000060
+misdirected (2004)	|	0.00000060
+saving sam (2007)	|	0.00000060
+crush (2000)	|	0.00000060
+the cheapest man in the room (2008)	|	0.00000060
+a way with murder (2009)	|	0.00000058
+no. 6 (2006)	|	0.00000058
+the life guard man (2008)	|	0.00000058
+guns, drugs and dirty money (2005)	|	0.00000057
+standing in the shadows of motown (2002)	|	0.00000057
+the aryan couple (2004)	|	0.00000057
+diplomacy (2009)	|	0.00000056
+haiku tunnel (2001)	|	0.00000055
+museum scream (2003)	|	0.00000054
+fay in the life of dave (2006)	|	0.00000053
+alibi (2007)	|	0.00000053
+vampire blvd. (2004)	|	0.00000053
+darkroom (2008)	|	0.00000053
+frankie d (2007)	|	0.00000053
+see dick run (2009)	|	0.00000053
+crack kildare (2003)	|	0.00000052
+a fix (2008)	|	0.00000052
+the last guy on earth (2006)	|	0.00000052
+yasin (2006)	|	0.00000051
+charlie thistle (2008)	|	0.00000051
+on the lot (2007)	|	0.00000051
+cross bronx (2004)	|	0.00000051
+the gate of fallen angels (2009)	|	0.00000050
+disquiet (2006)	|	0.00000050
+the horror vault (2008)	|	0.00000050
+guardian of eden (2008)	|	0.00000050
+the virgin and the demon (2007)	|	0.00000050
+fortunate son (2004)	|	0.00000049
+ride (2002)	|	0.00000049
+tied up (2004)	|	0.00000049
+the eyes of scott robbins (2007)	|	0.00000049
+sweet deadly dreams (2006)	|	0.00000049
+hierarchy (2009)	|	0.00000049
+luckey quarter (2005)	|	0.00000049
+a jewel in the sand (2004)	|	0.00000049
+livewire (2007)	|	0.00000048
+perils in nude modeling (2003)	|	0.00000047
+antibody (2008)	|	0.00000047
+to save a life (2009)	|	0.00000046
+black dragon (2003)	|	0.00000046
+store (2006)	|	0.00000046
+the 17th man (2004)	|	0.00000044
+midnight blue (2003)	|	0.00000044
+the things we do for love (2001)	|	0.00000044
+jimbo's a' comin' (2002)	|	0.00000044
+lego: the adventures of clutch powers (2010)	|	0.00000044
+the screening (2007)	|	0.00000043
+best kept secret (2006)	|	0.00000040
+four fingers of the dragon (2003)	|	0.00000040
+generation mason (2005)	|	0.00000040
+moving (2006)	|	0.00000040
+voyeur (2006)	|	0.00000040
+the beginning (2007)	|	0.00000040
+when nietzsche wept (2007)	|	0.00000040
+cave women on mars (2008)	|	0.00000040
+the gymnast (2006)	|	0.00000038
+tranny mcguyver (2008)	|	0.00000038
+leo las vegas (2005)	|	0.00000038
+cathedral pines (2006)	|	0.00000038
+grayson (2004)	|	0.00000037
+prologue (2003)	|	0.00000036
+christmas in the clouds (2001)	|	0.00000035
+sam steele and the junior detective agency (2009)	|	0.00000035
+back to the movies (2009)	|	0.00000034
+first night (2007)	|	0.00000034
+where eskimos live (2002)	|	0.00000034
+american style (2008)	|	0.00000034
+four 1 liberation front (2008)	|	0.00000032
+the fax (2004)	|	0.00000031
+hollywood (2006)	|	0.00000031
+happy holidays (2008)	|	0.00000031
+janie (2006)	|	0.00000031
+the albino code (2006)	|	0.00000031
+chance (2005)	|	0.00000031
+the strange case of salman abd al haqq (2007)	|	0.00000031
+a starbucks story (2005)	|	0.00000031
+a cerebral print halloween special (2004)	|	0.00000031
+blur (2004)	|	0.00000029
+le grand voyage de giovanni (2008)	|	0.00000029
+master of the game (2002)	|	0.00000029
+reservations (2003)	|	0.00000029
+hum (2002)	|	0.00000028
+changing spots (2006)	|	0.00000026
+huo yuan jia (2006)	|	0.00000025
+the duel (2006)	|	0.00000025
+the british man vs cash dispenser (2005)	|	0.00000024
+pie wars (2004)	|	0.00000024
+lucy's piano (2006)	|	0.00000024
+happy tree friends: ski patrol (2006)	|	0.00000024
+tofu the vegan zombie in zombie dearest (2007)	|	0.00000024
+truth hall (2008)	|	0.00000022
+studio (2007)	|	0.00000022
+let's talk (2006)	|	0.00000022
+hobo heaven (2002)	|	0.00000022
+mascara diablo (2005)	|	0.00000022
+dear jimmy (2005)	|	0.00000022
+november (2005)	|	0.00000022
+clancy (2009)	|	0.00000021
+the god complex (2009)	|	0.00000021
+the whizzard of ow (2003)	|	0.00000020
+eating out 2: sloppy seconds (2006)	|	0.00000019
+cottonmouth (2009)	|	0.00000019
+four more years of vader (2005)	|	0.00000018
+can i get a pickle? (2005)	|	0.00000018
+dirty habit (2006)	|	0.00000018
+hope and play (2004)	|	0.00000015
+the profit (2001)	|	0.00000015
+run leia run (2003)	|	0.00000015
+mind machine (2009)	|	0.00000014
+return to innocence (2001)	|	0.00000014
+still the drums (2009)	|	0.00000013
+the red line (2008)	|	0.00000013
+bloodbath (2007)	|	0.00000012
+jealous (2009)	|	0.00000012
+the krone experiment (2005)	|	0.00000010
+sons of the rodeo (2005)	|	0.00000010
+the chipotle diamonds (2005)	|	0.00000010
+tom's wife (2004)	|	0.00000010
+return of the ghostbusters (2007)	|	0.00000010
+freddy vs ghostbusters (2004)	|	0.00000010
+indie film adventures (2005)	|	0.00000010
+artsy fartsy (2004)	|	0.00000010
+spin (2005)	|	0.00000010
+pat gets a cat (2005)	|	0.00000006
+brooklyn force (2008)	|	0.00000006
+date double (2002)	|	0.00000006
+love: the movie (2004)	|	0.00000006
+sparky (2003)	|	0.00000006

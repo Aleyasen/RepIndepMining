@@ -1,0 +1,1999 @@
+Ian Davidson	|	0.9326
+William Webber	|	0.9091
+Malú Castellanos	|	0.9068
+Jon M. Kleinberg	|	0.9048
+Reynold Cheng	|	0.8856
+Xiaokui Xiao	|	0.8848
+Jing Gao	|	0.8846
+Carlo Zaniolo	|	0.8786
+Michalis Vazirgiannis	|	0.8776
+Phokion G. Kolaitis	|	0.8774
+Eric Lo	|	0.8769
+Wynne Hsu	|	0.8765
+Wei Ding 0003	|	0.8741
+Naren Ramakrishnan	|	0.8739
+Ihab F. Ilyas	|	0.8706
+Longbing Cao	|	0.8671
+Kevyn Collins-Thompson	|	0.8652
+Jian-Yun Nie	|	0.8651
+David W. Cheung	|	0.8633
+Stefan Manegold	|	0.8630
+David Carmel	|	0.8629
+Martin L. Kersten	|	0.8588
+Chengqi Zhang	|	0.8571
+Bin Cui	|	0.8571
+Ravishankar Ramamurthy	|	0.8571
+Alok N. Choudhary	|	0.8571
+Benny Kimelfeld	|	0.8556
+Mong-Li Lee	|	0.8554
+Gianluca Demartini	|	0.8531
+Aidong Zhang	|	0.8504
+Li Xiong	|	0.8480
+Yiqun Liu	|	0.8478
+Georges Dupret	|	0.8475
+Tat-Seng Chua	|	0.8451
+Jun Wang	|	0.8451
+Ambuj K. Singh	|	0.8447
+Ulf Leser	|	0.8435
+L. Venkata Subramaniam	|	0.8413
+Hua Lu	|	0.8400
+Paolo Rosso	|	0.8387
+Christopher Ré	|	0.8387
+Peter A. Boncz	|	0.8383
+Amol Deshpande	|	0.8370
+Bernhard Seeger	|	0.8358
+Yongluan Zhou	|	0.8346
+Zhenjie Zhang	|	0.8333
+Feifei Li	|	0.8325
+Gustavo Alonso	|	0.8324
+Jun Zhang	|	0.8319
+Qiaozhu Mei	|	0.8316
+Sourav S. Bhowmick	|	0.8300
+Ingmar Weber	|	0.8285
+Leonid Libkin	|	0.8280
+Sameep Mehta	|	0.8276
+Shuigeng Zhou	|	0.8271
+Allan Hanbury	|	0.8246
+Nivio Ziviani	|	0.8235
+Alkis Simitsis	|	0.8229
+ErHeng Zhong	|	0.8226
+Huiji Gao	|	0.8174
+Raffaele Perego	|	0.8154
+Shaoping Ma	|	0.8148
+Xindong Wu	|	0.8148
+Daqing He	|	0.8140
+Sara Cohen	|	0.8136
+James Cheng	|	0.8129
+Jennifer Neville	|	0.8120
+William W. Cohen	|	0.8108
+Johannes Leveling	|	0.8105
+Rainer Gemulla	|	0.8099
+Jing Jiang	|	0.8095
+Jieping Ye	|	0.8074
+Hanan Samet	|	0.8072
+Tetsuya Sakai	|	0.8060
+Michael J. Franklin	|	0.8042
+Wilfred Ng	|	0.8035
+Masaru Kitsuregawa	|	0.8033
+Xingquan Zhu	|	0.8032
+Eric Horvitz	|	0.8025
+Torben Bach Pedersen	|	0.8000
+Rimma V. Nehme	|	0.8000
+Fabian M. Suchanek	|	0.8000
+Theo Härder	|	0.8000
+Enhong Chen	|	0.8000
+Magdalena Balazinska	|	0.8000
+Wei Liu	|	0.8000
+Boris Koldehofe	|	0.7967
+Katja Hose	|	0.7966
+Ronald Fagin	|	0.7966
+Jussi Karlgren	|	0.7966
+Min Zhang 0006	|	0.7961
+Sandeep Pandey	|	0.7937
+Yangqiu Song	|	0.7931
+Javed A. Aslam	|	0.7915
+Bill Howe	|	0.7914
+Gao Cong	|	0.7907
+Michael Gertz	|	0.7907
+Kyriakos Mouratidis	|	0.7895
+Jianfeng Gao	|	0.7895
+Georgia Koutrika	|	0.7892
+Panayiotis Tsaparas	|	0.7887
+Amr Ahmed	|	0.7887
+Ping Luo	|	0.7879
+Éric Gaussier	|	0.7852
+Raghav Kaushik	|	0.7840
+Aoying Zhou	|	0.7821
+Jiafeng Guo	|	0.7814
+Birger Larsen	|	0.7810
+Jagan Sankaranarayanan	|	0.7805
+Martin Theobald	|	0.7799
+Wolf-Tilo Balke	|	0.7794
+Vivek R. Narasayya	|	0.7778
+Lukasz Golab	|	0.7763
+Jaideep Srivastava	|	0.7759
+Arvind Arasu	|	0.7758
+Yu Zheng	|	0.7758
+Cyrus Shahabi	|	0.7745
+Alessandro Moschitti	|	0.7742
+Susan B. Davidson	|	0.7717
+Sang-Wook Kim	|	0.7714
+Ben Kao	|	0.7701
+Sihem Amer-Yahia	|	0.7692
+Chen Li	|	0.7676
+Marianne Winslett	|	0.7671
+Peter Christen	|	0.7671
+Jianmin Wang 0001	|	0.7669
+Dirk Habich	|	0.7651
+Ankit Agrawal	|	0.7647
+Alon Y. Halevy	|	0.7639
+Ingemar J. Cox	|	0.7627
+Steven C. H. Hoi	|	0.7619
+Feida Zhu	|	0.7597
+Shivnath Babu	|	0.7593
+Benjamin Schlegel	|	0.7591
+Xiaozhong Liu	|	0.7586
+Xiang Wang	|	0.7573
+Man Lung Yiu	|	0.7568
+Jiliang Tang	|	0.7564
+Vagelis Hristidis	|	0.7558
+Philippe Cudré-Mauroux	|	0.7547
+Hongning Wang	|	0.7545
+Carlos Castillo	|	0.7538
+Yin Yang	|	0.7536
+Hui Yang	|	0.7536
+Krisztian Balog	|	0.7528
+Kotagiri Ramamohanarao	|	0.7525
+Min-Yen Kan	|	0.7523
+Mourad Ouzzani	|	0.7521
+Huan Liu	|	0.7520
+Yu Cheng	|	0.7519
+Anish Das Sarma	|	0.7513
+Meichun Hsu	|	0.7513
+Yanyan Lan	|	0.7500
+Lei Li	|	0.7500
+Tim Kraska	|	0.7486
+Thomas S. Huang	|	0.7463
+Ying Zhang	|	0.7454
+Ke Zhou	|	0.7436
+Jimeng Sun	|	0.7430
+Tomoharu Iwata	|	0.7429
+Zhi-Hua Zhou	|	0.7429
+Xuanjing Huang	|	0.7419
+Henning Müller	|	0.7419
+Diane Kelly	|	0.7413
+Bin Gao	|	0.7407
+Yannis Kotidis	|	0.7397
+Foto N. Afrati	|	0.7395
+Hideo Joho	|	0.7385
+Leman Akoglu	|	0.7385
+Floris Geerts	|	0.7383
+Gonzalo Navarro	|	0.7378
+Guido Moerkotte	|	0.7377
+Vipin Kumar	|	0.7351
+Dong Wang	|	0.7344
+Thomas Heinis	|	0.7339
+Dolf Trieschnigg	|	0.7338
+Rahul Shah	|	0.7324
+Xiaohui Yu	|	0.7321
+Ling Chen	|	0.7317
+Wai Lam	|	0.7308
+Yun Chi	|	0.7303
+Yannis Manolopoulos	|	0.7302
+Philip A. Bernstein	|	0.7302
+Nan Zhang 0004	|	0.7299
+Philipp Rösch	|	0.7292
+Lars Backstrom	|	0.7288
+Kurt Rothermel	|	0.7288
+Ashwin Machanavajjhala	|	0.7287
+Christos Doulkeridis	|	0.7273
+Lise Getoor	|	0.7273
+Thorsten Joachims	|	0.7273
+Thomas Kissinger	|	0.7273
+Jan Van den Bussche	|	0.7273
+Il-Yeol Song	|	0.7273
+Chi Wang	|	0.7265
+Tingjian Ge	|	0.7258
+Hady Wirawan Lauw	|	0.7257
+Kesheng Wu	|	0.7257
+Tok Wang Ling	|	0.7241
+Ke Chen 0005	|	0.7241
+Wei Chen	|	0.7237
+Stanley B. Zdonik	|	0.7232
+Dimitrios Gunopulos	|	0.7222
+Alexander S. Szalay	|	0.7222
+Paul N. Bennett	|	0.7220
+Wen-Chih Peng	|	0.7213
+Bo Zhang	|	0.7209
+Nesime Tatbul	|	0.7207
+Rina Panigrahy	|	0.7207
+Chang-Tien Lu	|	0.7200
+Arthur Zimek	|	0.7188
+Jiaheng Lu	|	0.7188
+Fabrizio Silvestri	|	0.7186
+Joseph M. Hellerstein	|	0.7186
+Gerome Miklau	|	0.7179
+Mohamed A. Sharaf	|	0.7156
+Mark D. Smucker	|	0.7153
+Jianzhong Li	|	0.7143
+Vibhor Rastogi	|	0.7143
+Karl Aberer	|	0.7138
+Makoto P. Kato	|	0.7129
+Edgar Meij	|	0.7129
+Klaus Berberich	|	0.7111
+Bin Wang	|	0.7101
+Stratos Idreos	|	0.7091
+Maria Luisa Sapino	|	0.7087
+Eric P. Xing	|	0.7087
+Inderjit S. Dhillon	|	0.7087
+Pang-Ning Tan	|	0.7081
+Soumen Chakrabarti	|	0.7077
+Kai-Uwe Sattler	|	0.7069
+Ismail Sengör Altingövde	|	0.7065
+David Bainbridge	|	0.7065
+Evimaria Terzi	|	0.7059
+Peter J. Haas	|	0.7051
+Wei Wang 0009	|	0.7051
+Ling Liu	|	0.7048
+Takehiro Yamamoto	|	0.7048
+Mauricio Marín	|	0.7048
+Jennifer Widom	|	0.7033
+Jianliang Xu	|	0.7030
+Kai Zheng	|	0.7027
+Michail Vlachos	|	0.7021
+Jens Teubner	|	0.7020
+Ahmed K. Elmagarmid	|	0.7018
+Ricardo da Silva Torres	|	0.7015
+Xiaofeng Meng	|	0.7013
+Milad Shokouhi	|	0.7009
+Song Wang	|	0.6992
+Xiaoyan Zhu	|	0.6990
+Wei Wang 0011	|	0.6984
+Francesco Bonchi	|	0.6978
+Johann Gamper	|	0.6977
+Akrivi Vlachou	|	0.6977
+Kaushik Chakrabarti	|	0.6972
+Tina Eliassi-Rad	|	0.6972
+Xue Li	|	0.6970
+Heiko Schuldt	|	0.6964
+Yang Song	|	0.6962
+Andreas Rauber	|	0.6961
+Frank Neven	|	0.6957
+Nieves R. Brisaboa	|	0.6957
+Xiangnan Kong	|	0.6952
+Jun Wang 0012	|	0.6951
+Tobias Emrich	|	0.6951
+Foster J. Provost	|	0.6947
+Shou-De Lin	|	0.6942
+Ion Stoica	|	0.6931
+Carlos Ordonez	|	0.6928
+Salvatore Orlando	|	0.6923
+Yan Liu	|	0.6923
+Douglas W. Oard	|	0.6920
+Cong Yu	|	0.6919
+Pierre Senellart	|	0.6917
+Yi Zhang 0001	|	0.6917
+Ralf Schenkel	|	0.6917
+Buyue Qian	|	0.6916
+Dennis Shasha	|	0.6909
+Kai Yu	|	0.6909
+Klemens Böhm	|	0.6903
+Feng Chen	|	0.6903
+Zbigniew Jerzak	|	0.6897
+Haesun Park	|	0.6897
+Hanghang Tong	|	0.6891
+Nicola Tonellotto	|	0.6891
+Zografoula Vagena	|	0.6885
+Zhongfei (Mark) Zhang	|	0.6880
+Wei Fan	|	0.6879
+Gilad Mishne	|	0.6870
+Markus Schedl	|	0.6869
+Jing He	|	0.6866
+Bogdan Cautis	|	0.6863
+Katsumi Tanaka	|	0.6859
+Ji Zhang	|	0.6857
+Yuchen Zhao	|	0.6857
+Ullas Nambiar	|	0.6847
+Sai Wu	|	0.6847
+Pauli Miettinen	|	0.6847
+Jignesh M. Patel	|	0.6844
+Wei-Shinn Ku	|	0.6842
+Marc Najork	|	0.6842
+Sreenivas Gollapudi	|	0.6824
+Aijun An	|	0.6815
+Dacheng Tao	|	0.6813
+Ce Zhang	|	0.6809
+Ronny Lempel	|	0.6806
+Mukesh K. Mohania	|	0.6806
+Bing Liu 0001	|	0.6805
+Shuo Shang	|	0.6800
+Edleno Silva de Moura	|	0.6800
+Virgiliu Pavlu	|	0.6800
+Arindam Banerjee	|	0.6800
+Jaewon Yang	|	0.6796
+Le Gruenwald	|	0.6795
+Stefano Ceri	|	0.6789
+Yizhou Sun	|	0.6784
+Michael L. Nelson	|	0.6783
+Guido Zuccon	|	0.6780
+Dario Colazzo	|	0.6777
+Dan Roth	|	0.6777
+Goce Trajcevski	|	0.6774
+Emine Yilmaz	|	0.6769
+Gang Wang	|	0.6766
+Yashar Moshfeghi	|	0.6763
+Lidan Shou	|	0.6761
+Aristides Gionis	|	0.6755
+Alfons Kemper	|	0.6744
+Laks V. S. Lakshmanan	|	0.6737
+Gautam Das	|	0.6734
+Mohamed Y. Eltabakh	|	0.6733
+Jeffrey D. Ullman	|	0.6733
+Rakesh Agrawal	|	0.6732
+Wei Chu	|	0.6729
+Chengfei Liu	|	0.6726
+Erhard Rahm	|	0.6726
+Lars Kulik	|	0.6726
+Frank McCown	|	0.6726
+Xia Hu	|	0.6719
+Hong Cheng	|	0.6717
+Peter Triantafillou	|	0.6715
+Kenneth A. Ross	|	0.6713
+Xiaofei He	|	0.6713
+James Caverlee	|	0.6705
+Torsten Suel	|	0.6703
+Xing Xie	|	0.6700
+Claudia Hauff	|	0.6700
+Jure Leskovec	|	0.6699
+Junghoo Cho	|	0.6667
+Umeshwar Dayal	|	0.6667
+Apostolos N. Papadopoulos	|	0.6667
+Manolis Koubarakis	|	0.6667
+Michael H. Böhlen	|	0.6667
+Balder ten Cate	|	0.6667
+Chris Jermaine	|	0.6667
+Anirban Dasgupta	|	0.6667
+Adam Jatowt	|	0.6667
+Tie-Yan Liu	|	0.6667
+Marco Pennacchiotti	|	0.6667
+Marc Bron	|	0.6667
+Jiangqin Wu	|	0.6667
+Jie Yin	|	0.6667
+Jianyong Wang	|	0.6646
+Vassilis J. Tsotras	|	0.6630
+Michael Stonebraker	|	0.6623
+Yannis Theodoridis	|	0.6620
+Julia Stoyanovich	|	0.6618
+Themis Palpanas	|	0.6618
+Thomas Neumann 0001	|	0.6617
+Fei Wang	|	0.6617
+Fusheng Wang	|	0.6614
+Bernhard Mitschang	|	0.6613
+Amr El Abbadi	|	0.6612
+Justin J. Levandoski	|	0.6612
+Nut Limsopatham	|	0.6610
+Emmanuel Müller	|	0.6609
+Chetan Gupta	|	0.6609
+Stéphane Bressan	|	0.6609
+Marie-Francine Moens	|	0.6602
+Wim Martens	|	0.6602
+Guo-Jun Qi	|	0.6602
+Michael I. Jordan	|	0.6602
+Gleb Gusev	|	0.6602
+Srikanta J. Bedathur	|	0.6601
+Nick Craswell	|	0.6600
+Gabriella Kazai	|	0.6599
+Fernando Diaz	|	0.6596
+Ana-Maria Popescu	|	0.6596
+Graham Cormode	|	0.6580
+Alexandros Labrinidis	|	0.6579
+Lizhu Zhou	|	0.6570
+Vasudeva Varma	|	0.6567
+Elisa Bertino	|	0.6565
+Raymond Chi-Wing Wong	|	0.6556
+Kunal Punera	|	0.6555
+Atish Das Sarma	|	0.6555
+Dmitry Lagun	|	0.6555
+Alexander G. Gray	|	0.6555
+Mounia Lalmas	|	0.6554
+Ophir Frieder	|	0.6553
+Alfredo Cuzzocrea	|	0.6552
+Shixia Liu	|	0.6552
+Fabio Crestani	|	0.6551
+Lars Schmidt-Thieme	|	0.6549
+Jaime Arguello	|	0.6545
+Alin Deutsch	|	0.6543
+Farhan Tauheed	|	0.6542
+Stefan Siersdorfer	|	0.6542
+Gregor Hackenbroich	|	0.6538
+Elad Yom-Tov	|	0.6538
+Ke Wang	|	0.6535
+George H. L. Fletcher	|	0.6535
+Frederick Reiss	|	0.6535
+Andrew Tomkins	|	0.6532
+Riddhiman Ghosh	|	0.6531
+Rui Li	|	0.6531
+Chunxiao Xing	|	0.6531
+Chandan K. Reddy	|	0.6531
+Milos Hauskrecht	|	0.6531
+Deng Cai	|	0.6525
+Oren Kurland	|	0.6509
+Nicolas Bruno	|	0.6504
+Wenjie Zhang	|	0.6500
+Norbert Fuhr	|	0.6500
+J. Stephen Downie	|	0.6500
+Claudia Plant	|	0.6494
+Qi Zhang	|	0.6494
+Anastasios Tombros	|	0.6491
+Can Wang	|	0.6486
+Andreas Behrend	|	0.6486
+David J. DeWitt	|	0.6484
+Sarana Nutanong	|	0.6481
+Wang Chiew Tan	|	0.6481
+Venkatesh Ganti	|	0.6481
+Rui Zhang	|	0.6481
+Yehoshua Sagiv	|	0.6479
+Barzan Mozafari	|	0.6476
+Herbert Van de Sompel	|	0.6475
+Christian S. Jensen	|	0.6473
+Ashraf Aboulnaga	|	0.6471
+Liang Tang	|	0.6471
+Yan Huang	|	0.6466
+Jeff G. Schneider	|	0.6465
+Anastasios Kementsietsidis	|	0.6462
+Michael Hartung	|	0.6458
+Deepak Agarwal	|	0.6457
+Wenfei Fan	|	0.6457
+Anastasia Ailamaki	|	0.6456
+Hwanjo Yu	|	0.6456
+Yannis Sismanis	|	0.6452
+Junjie Wu	|	0.6452
+Kian-Lee Tan	|	0.6443
+Shuicheng Yan	|	0.6443
+Kevin Wilkinson	|	0.6441
+Lillian N. Cassel	|	0.6435
+Toon Calders	|	0.6435
+Filip Radlinski	|	0.6434
+Lu Qin	|	0.6429
+Ting Wang	|	0.6429
+Adam Silberstein	|	0.6429
+Falk Scholer	|	0.6426
+Xiaohua Hu	|	0.6425
+Norman W. Paton	|	0.6423
+Özgür Ulusoy	|	0.6423
+Chong-Wah Ngo	|	0.6422
+Cristina Ribeiro	|	0.6422
+Charles L. A. Clarke	|	0.6418
+Krishnaram Kenthapadi	|	0.6415
+Samuel Madden	|	0.6409
+Chinya V. Ravishankar	|	0.6408
+Curtis E. Dyreson	|	0.6408
+Anlei Dong	|	0.6408
+K. Selçuk Candan	|	0.6405
+Siegfried Nijssen	|	0.6400
+Jilles Vreeken	|	0.6400
+Cecilia M. Procopiuc	|	0.6392
+Brigitte Boden	|	0.6392
+Nazli Goharian	|	0.6392
+Yanen Li	|	0.6392
+Kun-Lung Wu	|	0.6389
+Katja Hofmann	|	0.6389
+Cornelia Caragea	|	0.6383
+Peng Zhang	|	0.6383
+Susan T. Dumais	|	0.6374
+Ugur Çetintemel	|	0.6369
+Sebastian Michel	|	0.6367
+Fiana Raiber	|	0.6364
+Volker Markl	|	0.6355
+Zachary G. Ives	|	0.6345
+Wendy Hui Wang	|	0.6337
+Ulrike Fischer	|	0.6337
+Georg Buscher	|	0.6337
+Aditya G. Parameswaran	|	0.6333
+Daniel J. Abadi	|	0.6331
+Christopher Leckie	|	0.6327
+Erich Schubert	|	0.6325
+Xin Li	|	0.6316
+Qi Guo	|	0.6316
+Donald Kossmann	|	0.6310
+Evaggelia Pitoura	|	0.6296
+Sudipto Das	|	0.6296
+Franz Färber	|	0.6296
+Yabo Xu	|	0.6296
+Padmini Srinivasan	|	0.6296
+Nicola Ferro	|	0.6291
+Paul Clough	|	0.6291
+Sharma V. Thankachan	|	0.6290
+Yiming Yang	|	0.6290
+Bugra Gedik	|	0.6286
+Rasmus Pagh	|	0.6286
+Jialie Shen	|	0.6286
+Yannis E. Ioannidis	|	0.6282
+Dou Shen	|	0.6277
+Antonios Deligiannakis	|	0.6275
+Lidan Wang	|	0.6275
+Hsin-Hsi Chen	|	0.6272
+M. Tamer Özsu	|	0.6270
+Byron Choi	|	0.6269
+Jianhua Feng	|	0.6267
+Renée J. Miller	|	0.6257
+Franciska de Jong	|	0.6250
+Bart Goethals	|	0.6250
+Morgan Harvey	|	0.6250
+Jiepu Jiang	|	0.6250
+Udo Kruschwitz	|	0.6239
+Chin-Wan Chung	|	0.6237
+Mayu Iwata	|	0.6237
+Yuefeng Li	|	0.6230
+Kira Radinsky	|	0.6226
+Jimmy Lin	|	0.6220
+Peter M. Fischer	|	0.6214
+Christopher M. Jermaine	|	0.6214
+Jayant Madhavan	|	0.6214
+Junjie Yao	|	0.6214
+Xiaojun Wan	|	0.6211
+Min Wang	|	0.6207
+Evangelos Kanoulas	|	0.6203
+Sunil Prabhakar	|	0.6202
+Michael J. Carey	|	0.6202
+Thanh Tran	|	0.6200
+Dino Pedreschi	|	0.6200
+Luc Segoufin	|	0.6200
+Nilesh N. Dalvi	|	0.6197
+Yi Chang	|	0.6196
+Tamara Sumner	|	0.6195
+Min Song	|	0.6190
+Hyun Jin Moon	|	0.6186
+Wang-Pin Hsiung	|	0.6186
+Matteo Magnani	|	0.6186
+Yu Wang	|	0.6186
+Arnold P. Boedihardjo	|	0.6186
+Giuseppe Manco	|	0.6186
+Robert Gwadera	|	0.6186
+Theodore Johnson	|	0.6184
+Anthony K. H. Tung	|	0.6179
+Murat Kantarcioglu	|	0.6179
+Ada Wai-Chee Fu	|	0.6172
+Qiang Yang 0001	|	0.6171
+Christian Böhm	|	0.6170
+Carlos Guestrin	|	0.6170
+Mihai Lupu	|	0.6170
+Qi Tian	|	0.6170
+Ke Yi	|	0.6168
+Marco Cristo	|	0.6168
+David D. Lewis	|	0.6168
+Jamie Callan	|	0.6161
+Murali Mani	|	0.6154
+Bee-Chung Chen	|	0.6154
+Yang Yang	|	0.6154
+Xifeng Yan	|	0.6144
+Louiqa Raschid	|	0.6142
+Eugene Agichtein	|	0.6141
+Jun Zhao	|	0.6140
+Wenjie Li	|	0.6139
+Bo Liu	|	0.6139
+Chris H. Q. Ding	|	0.6136
+Jimmy J. Lin	|	0.6136
+Shashi Shekhar	|	0.6131
+Goetz Graefe	|	0.6129
+Yan Zhang	|	0.6129
+Alistair Moffat	|	0.6122
+Mohamed F. Mokbel	|	0.6116
+Daniela Nicklas	|	0.6111
+Carlotta Domeniconi	|	0.6111
+Richard Furuta	|	0.6109
+Zhongzhi Shi	|	0.6105
+Claudio Lucchese	|	0.6102
+Jeong-Hyon Hwang	|	0.6095
+Natasa Milic-Frayling	|	0.6094
+Ian Soboroff	|	0.6093
+Yufei Tao	|	0.6092
+Peter Buneman	|	0.6087
+Hiroyuki Kitagawa	|	0.6078
+Adriano Veloso	|	0.6078
+Qi He	|	0.6074
+Nikolaj Tatti	|	0.6071
+Neoklis Polyzotis	|	0.6069
+Xiao Yu	|	0.6065
+Dell Zhang	|	0.6061
+Nenad Stojanovic	|	0.6061
+Alan Fekete	|	0.6055
+Kjetil Nørvåg	|	0.6053
+Badrish Chandramouli	|	0.6050
+Jun'ichi Tatemura	|	0.6049
+Michael Bendersky	|	0.6047
+Makoto Onizuka	|	0.6042
+Nina Mishra	|	0.6042
+Djoerd Hiemstra	|	0.6039
+Francesco Gullo	|	0.6038
+Arnab Nandi	|	0.6038
+Xuanhui Wang	|	0.6036
+Fosca Giannotti	|	0.6034
+Jun Yang 0001	|	0.6034
+Xiaoxiao Shi	|	0.6034
+Georg Gottlob	|	0.6029
+Giorgio Maria Di Nunzio	|	0.6029
+Ronan Cummins	|	0.6027
+David Maier	|	0.6026
+Felix Naumann	|	0.6024
+Manoj Syamala	|	0.6022
+Padhraic Smyth	|	0.6022
+Weiyi Meng	|	0.6020
+Jun Zhu	|	0.6019
+Stavros Harizopoulos	|	0.6018
+Yanlei Diao	|	0.6018
+Tao Cheng	|	0.6000
+Hari Sundaram	|	0.6000
+Hussein Suleman	|	0.6000
+Arjen P. de Vries	|	0.6000
+Wei Wang	|	0.6000
+Wolfgang Nejdl	|	0.5990
+Dawei Song	|	0.5989
+Chengkai Li	|	0.5984
+Jöran Beel	|	0.5981
+Michael Benedikt	|	0.5979
+Sally Jo Cunningham	|	0.5968
+Annika Hinze	|	0.5962
+Norman May	|	0.5962
+Marcin Zukowski	|	0.5962
+Pierre Bourhis	|	0.5957
+Yiping Ke	|	0.5954
+Hector Garcia-Molina	|	0.5946
+Wouter Weerkamp	|	0.5946
+Lars Dannecker	|	0.5941
+Praveen Chandar	|	0.5941
+Rich Caruana	|	0.5941
+Brian D. Davison 0001	|	0.5936
+Mokrane Bouzeghoub	|	0.5934
+Michael Khoo	|	0.5934
+Pavel Zezula	|	0.5934
+Abdullah Mueen	|	0.5932
+Hongyuan Zha	|	0.5926
+Peter M. G. Apers	|	0.5918
+Ira Assent	|	0.5914
+Wang-Chien Lee	|	0.5909
+Heng Tao Shen	|	0.5909
+Hui Xiong	|	0.5901
+Luo Si	|	0.5897
+Mitch Cherniack	|	0.5895
+Guy M. Lohman	|	0.5895
+Guoliang Li	|	0.5894
+Quanquan Gu	|	0.5893
+Yunjun Gao	|	0.5882
+Nikos Pelekis	|	0.5882
+I. V. Ramakrishnan	|	0.5882
+Dennis Fetterly	|	0.5882
+Mohand Boughanem	|	0.5882
+Manos Tsagkias	|	0.5876
+Bela Stantic	|	0.5872
+Xiang Zhang	|	0.5865
+Yang Liu	|	0.5865
+Hakan Hacigümüs	|	0.5864
+Di Jiang	|	0.5859
+Ya Zhang	|	0.5859
+Alejandro Jaimes	|	0.5859
+Daniel Kifer	|	0.5859
+Stephen Robertson	|	0.5857
+Jeffrey F. Naughton	|	0.5852
+Yuqing Wu	|	0.5849
+Christof Fetzer	|	0.5841
+Dan Suciu	|	0.5836
+Himanshu Gupta	|	0.5833
+Zhifeng Bao	|	0.5833
+Marijn Koolen	|	0.5833
+Charalampos E. Tsourakakis	|	0.5833
+De-Nian Yang	|	0.5833
+Donghui Zhang	|	0.5821
+Sanjay Chawla	|	0.5818
+Dong Xin	|	0.5816
+Ming-Syan Chen	|	0.5816
+Martin Potthast	|	0.5816
+Rifat Ozcan	|	0.5812
+Lois M. L. Delcambre	|	0.5812
+Massih-Reza Amini	|	0.5812
+Juliana Freire	|	0.5809
+Xiangliang Zhang	|	0.5806
+Jeff M. Phillips	|	0.5806
+Eric SanJuan	|	0.5806
+Peng Cui	|	0.5806
+Richard D. Lawrence	|	0.5806
+Kun Zhang	|	0.5806
+Sergei Vassilvitskii	|	0.5802
+Maya Ramanath	|	0.5794
+David Jensen	|	0.5794
+Haibo Hu	|	0.5789
+Gareth J. F. Jones	|	0.5787
+Rong Jin	|	0.5780
+Tova Milo	|	0.5779
+Marina Drosou	|	0.5778
+René Müller	|	0.5773
+Wen-Syan Li	|	0.5773
+Qing Li	|	0.5772
+S. Muthukrishnan	|	0.5769
+Byron J. Gao	|	0.5769
+Chengxiang Zhai	|	0.5769
+Jaap Kamps	|	0.5758
+Xin Chen	|	0.5758
+Dongwon Lee	|	0.5747
+Ippokratis Pandis	|	0.5745
+Panos K. Chrysanthis	|	0.5745
+Patrice Bellot	|	0.5745
+Leif Azzopardi	|	0.5744
+Tanveer A. Faruquie	|	0.5743
+Luc Bouganim	|	0.5743
+Anna Shtok	|	0.5741
+Opher Etzion	|	0.5739
+Xiangji Huang	|	0.5737
+Vijayshankar Raman	|	0.5736
+Bertram Ludäscher	|	0.5733
+Mauricio A. Hernández	|	0.5714
+Stefan Kramer	|	0.5714
+Marcel Karnstedt	|	0.5714
+Kyu-Young Whang	|	0.5714
+Michael J. Cafarella	|	0.5714
+Jiyin He	|	0.5714
+Arno J. Knobbe	|	0.5714
+Hang Li	|	0.5705
+Belle L. Tseng	|	0.5699
+Ines Färber	|	0.5694
+Stijn Vansummeren	|	0.5692
+Vishal Sikka	|	0.5684
+Peter Baumann	|	0.5684
+Svetha Venkatesh	|	0.5684
+Catherine C. Marshall	|	0.5682
+Huawei Shen	|	0.5682
+Elke Achtert	|	0.5679
+Zaiqing Nie	|	0.5667
+Yi Fang	|	0.5660
+Martin Ester	|	0.5659
+Kalervo Järvelin	|	0.5657
+Rada Chirkova	|	0.5652
+Patrick Gallinari	|	0.5652
+Randal C. Burns	|	0.5652
+Stephan Günnemann	|	0.5647
+Panagiotis G. Ipeirotis	|	0.5636
+Weining Qian	|	0.5636
+Francisco Claude	|	0.5631
+Victor Vianu	|	0.5631
+Klaus-Dieter Schewe	|	0.5631
+Jimmy Xiangji Huang	|	0.5631
+Jun Ma	|	0.5630
+Matthias Renz	|	0.5628
+Rajasekar Krishnamurthy	|	0.5625
+Claudia Perlich	|	0.5625
+George Buchanan	|	0.5622
+Nikos Mamoulis	|	0.5621
+Pankaj K. Agarwal	|	0.5620
+Amit Goyal 0002	|	0.5618
+Geoffrey I. Webb	|	0.5618
+George Karypis	|	0.5614
+Carson Kai-Sang Leung	|	0.5614
+Bolin Ding	|	0.5612
+Alberto H. F. Laender	|	0.5604
+Panos Kalnis	|	0.5600
+Heng Ji	|	0.5600
+Andreas Nürnberger	|	0.5600
+Spiros Papadimitriou	|	0.5596
+Paolo Papotti	|	0.5593
+Patrick Pantel	|	0.5593
+Johannes Niedermayer	|	0.5591
+Tao Yang	|	0.5591
+Xiang Lian	|	0.5588
+Lucian Popa	|	0.5586
+B. Aditya Prakash	|	0.5586
+Rafael Berlanga Llavori	|	0.5581
+Xuemin Lin	|	0.5577
+Rui Zhang 0003	|	0.5577
+Zhenhui Li	|	0.5577
+Hongbo Deng	|	0.5574
+Sihong Xie	|	0.5567
+Yueguo Chen	|	0.5567
+Aixin Sun	|	0.5566
+Christoph Koch	|	0.5564
+Matthias Schubert	|	0.5561
+Ioana Manolescu	|	0.5559
+Veli Bicer	|	0.5556
+Yaron Kanza	|	0.5556
+Andreas Züfle	|	0.5556
+Jussara M. Almeida	|	0.5556
+Julio Gonzalo	|	0.5550
+Jaime Teevan	|	0.5548
+Davood Rafiei	|	0.5545
+Ruihua Song	|	0.5538
+Gabriel Ghinita	|	0.5536
+Deepayan Chakrabarti	|	0.5536
+Shuang-Hong Yang	|	0.5536
+Ruoming Jin	|	0.5532
+Yanchun Zhang	|	0.5532
+Rosie Jones	|	0.5528
+Hua Wang	|	0.5528
+Frans Coenen	|	0.5528
+Yin Leng Theng	|	0.5524
+Wessel Kraaij	|	0.5524
+Thanawin Rakthanmanon	|	0.5524
+Hao Ma	|	0.5517
+Hiroshi Nakagawa	|	0.5517
+Florin Rusu	|	0.5517
+Heikki Mannila	|	0.5514
+Ouri Wolfson	|	0.5505
+Shawn Bowers	|	0.5505
+Pavel Serdyukov	|	0.5501
+Flip Korn	|	0.5500
+Yi-Cheng Tu	|	0.5495
+Zhaohui Wu	|	0.5495
+Ko Fujimura	|	0.5495
+Chia-Jung Lee	|	0.5495
+Walid G. Aref	|	0.5492
+George Forman	|	0.5490
+David Elsweiler	|	0.5490
+Haggai Roitman	|	0.5484
+Stephen Tomlinson	|	0.5481
+Marcelo Arenas	|	0.5474
+François Bry	|	0.5474
+Benjamin C. M. Fung	|	0.5472
+Xin Luna Dong	|	0.5472
+Paul Thomas	|	0.5472
+Yasushi Sakurai	|	0.5470
+Songbo Tan	|	0.5470
+Berkant Barla Cambazoglu	|	0.5462
+Dieter Pfoser	|	0.5455
+Li Guo	|	0.5455
+Vanessa Murdock	|	0.5455
+Atsuhiro Takasu	|	0.5455
+Stefan M. Rüger	|	0.5455
+Yinan Li	|	0.5455
+Jun Xu 0001	|	0.5455
+Naoki Abe	|	0.5455
+Nitesh V. Chawla	|	0.5441
+Peter Scheuermann	|	0.5437
+Wei Lu	|	0.5437
+Ben Carterette	|	0.5437
+Mohammed J. Zaki	|	0.5435
+Masayuki Takeda	|	0.5435
+Dan Olteanu	|	0.5429
+Bo Long	|	0.5426
+Xueqi Cheng	|	0.5421
+Hui Fang	|	0.5419
+Marios Hadjieleftheriou	|	0.5417
+Marco Brambilla	|	0.5417
+Shigeo Sugimoto	|	0.5417
+Peng Wang	|	0.5417
+Ahmed Hassan Awadallah	|	0.5412
+Jie Tang	|	0.5410
+Hisashi Kashima	|	0.5410
+James Allan	|	0.5409
+Surajit Chaudhuri	|	0.5407
+Tian Xia	|	0.5405
+Jaime G. Carbonell	|	0.5401
+Hong Gao	|	0.5400
+Carlo Curino	|	0.5400
+Mohammad Al Hasan	|	0.5400
+Yue Xu	|	0.5400
+Philippe Bonnet	|	0.5393
+Shojiro Nishio	|	0.5393
+Paolo Ferragina	|	0.5393
+Christos Papatheodorou	|	0.5393
+Xiaoming Jin	|	0.5393
+Chao Li	|	0.5393
+Franco Maria Nardini	|	0.5393
+Kenji Yamanishi	|	0.5393
+Chei Sian Lee	|	0.5391
+Panagiotis Karras	|	0.5385
+Qiong Luo	|	0.5381
+Suresh Venkatasubramanian	|	0.5376
+Giridhar Kumaran	|	0.5376
+Matthew O. Ward	|	0.5370
+Liangjie Hong	|	0.5370
+Alexander J. Smola	|	0.5366
+Christopher C. Yang	|	0.5366
+Altigran Soares da Silva	|	0.5364
+Denilson Barbosa	|	0.5361
+Andrea Tagarelli	|	0.5361
+Mark James Carman	|	0.5359
+Xiaofang Zhou	|	0.5359
+Andrey Balmin	|	0.5357
+Vahab S. Mirrokni	|	0.5357
+Yehuda Koren	|	0.5357
+Haibin Cheng	|	0.5357
+Marcus Fontoura	|	0.5354
+Duen Horng Chau	|	0.5347
+Dietrich Klakow	|	0.5347
+Tak-Lam Wong	|	0.5347
+Peer Kröger	|	0.5345
+Pável Calado	|	0.5345
+Divyakant Agrawal	|	0.5337
+Sandeep Tata	|	0.5333
+Sebastian Link	|	0.5333
+Alessandro Bozzon	|	0.5333
+Kyuseok Shim	|	0.5333
+Bhavani M. Thuraisingham	|	0.5333
+Tom M. Mitchell	|	0.5333
+Kevin Chen-Chuan Chang	|	0.5325
+Theodoros Lappas	|	0.5323
+Alvaro Barreiro	|	0.5321
+Dirk Van Gucht	|	0.5319
+Jin-Cheon Na	|	0.5319
+Kuansan Wang	|	0.5312
+Wagner Meira Jr.	|	0.5309
+Jun Huan	|	0.5306
+Qi Li	|	0.5306
+Tingting He	|	0.5306
+Eamonn J. Keogh	|	0.5302
+Amit P. Sheth	|	0.5299
+Per-Åke Larson	|	0.5294
+Tim Weninger	|	0.5294
+Ariel Fuxman	|	0.5289
+Sergey Melnik	|	0.5289
+Daniel P. Huttenlocher	|	0.5287
+Seyed M. M. Tahaghoghi	|	0.5287
+Xiaoyong Du	|	0.5283
+Avi Arampatzis	|	0.5280
+Charles X. Ling	|	0.5280
+Ji-Rong Wen	|	0.5278
+Caetano Traina Jr.	|	0.5274
+Ryen W. White	|	0.5273
+Ben He	|	0.5268
+Hans-Arno Jacobsen	|	0.5267
+Quan Z. Sheng	|	0.5263
+Bo Pang	|	0.5263
+Partha Pratim Talukdar	|	0.5263
+Robert Capra	|	0.5263
+Nattiya Kanhabua	|	0.5254
+Ziyang Liu	|	0.5253
+Jagannathan Srinivasan	|	0.5253
+Joydeep Ghosh	|	0.5243
+Cheng Long	|	0.5243
+Xiaoming Li	|	0.5238
+Prasenjit Mitra	|	0.5235
+Wook-Shin Han	|	0.5234
+Gregory Crane	|	0.5234
+Nikolaus Augsten	|	0.5227
+Shuming Shi	|	0.5225
+Lei Tang	|	0.5225
+Jorge Pérez 0001	|	0.5217
+Kamesh Munagala	|	0.5217
+Erik Wilde	|	0.5217
+Kuiyu Chang	|	0.5217
+Srinivasan Parthasarathy	|	0.5215
+Pablo Castells	|	0.5210
+Neal Lathia	|	0.5208
+Peter Bailey	|	0.5208
+Zhicheng Dou	|	0.5208
+Jingrui He	|	0.5208
+H. V. Jagadish	|	0.5202
+Claudiu S. Firan	|	0.5200
+Jinyoung Kim	|	0.5200
+Wolfgang Lehner	|	0.5197
+Zhen Hua Liu	|	0.5192
+Yinghui Wu	|	0.5192
+Yong Liu	|	0.5192
+Miles Efron	|	0.5192
+Ljiljana Stojanovic	|	0.5192
+Edward Y. Chang	|	0.5191
+William R. Hersh	|	0.5191
+Anand Ranganathan	|	0.5185
+Jong-Hyeok Lee	|	0.5185
+David B. Lomet	|	0.5179
+Robert Villa	|	0.5179
+Omar Alonso	|	0.5176
+Ray R. Larson	|	0.5175
+Frank M. Shipman III	|	0.5175
+Lijun Chang	|	0.5172
+Sudipto Guha	|	0.5172
+Rafael Muñoz	|	0.5172
+Alan F. Smeaton	|	0.5170
+Michael W. Mahoney	|	0.5169
+Lu Wang	|	0.5169
+Jing Liu	|	0.5169
+Yuhong Xiong	|	0.5167
+Richard T. Snodgrass	|	0.5161
+Wei Wu	|	0.5161
+Luis Leopoldo Perez	|	0.5161
+Douglas Stott Parker Jr.	|	0.5161
+Lei Zhang	|	0.5161
+Jianying Hu	|	0.5161
+Gunter Saake	|	0.5155
+Yi-Dong Shen	|	0.5155
+Zhen Yue	|	0.5155
+Jayavel Shanmugasundaram	|	0.5150
+Bongki Moon	|	0.5149
+Srikanta Tirthapura	|	0.5149
+Roi Blanco	|	0.5148
+Steffen Rendle	|	0.5143
+Martin Halvey	|	0.5143
+Rohini K. Srihari	|	0.5143
+Dingding Wang	|	0.5143
+Qiankun Zhao	|	0.5138
+Liyun Ru	|	0.5138
+Anselmo Peñas	|	0.5138
+Carsten Eickhoff	|	0.5137
+Theodore Dalamagas	|	0.5133
+David Hawking	|	0.5128
+Yue Liu	|	0.5128
+Chee-Yong Chan	|	0.5106
+Arnab Bhattacharya 0001	|	0.5106
+Alejandro P. Buchmann	|	0.5102
+Yannis Papakonstantinou	|	0.5102
+Sebastiano Vigna	|	0.5102
+Aris Anagnostopoulos	|	0.5102
+Jianwu Yang	|	0.5102
+Nan Tang 0001	|	0.5102
+Baihua Zheng	|	0.5098
+Flavio Chierichetti	|	0.5098
+Manabu Okumura	|	0.5098
+Masatoshi Yoshikawa	|	0.5098
+Zhiyong Shen	|	0.5098
+Zhou Zhao	|	0.5094
+Paolo Boldi	|	0.5094
+Lei Chen 0002	|	0.5091
+Yong Ge	|	0.5091
+Sharad Mehrotra	|	0.5089
+Shenghuo Zhu	|	0.5089
+Jun Guo	|	0.5072
+Stéphane Clinchant	|	0.5055
+Gang Chen 0001	|	0.5054
+Laura Chiticariu	|	0.5053
+Manfred Hauswirth	|	0.5053
+Vivien Petras	|	0.5053
+Ting Yu	|	0.5051
+David Vallet	|	0.5051
+Chang Liu	|	0.5051
+Alexandros Kalousis	|	0.5051
+Hugo Zaragoza	|	0.5050
+Zhendong Niu	|	0.5049
+Elke A. Rundensteiner	|	0.5048
+Ping Li 0001	|	0.5047
+Juanzi Li	|	0.5045
+Richard McCreadie	|	0.5045
+Calisto Zuzarte	|	0.5043
+Robert B. Allen	|	0.5043
+Bingsheng He	|	0.5041
+Donald Metzler	|	0.5035
+Jun Yan	|	0.5032
+Rajeev Rastogi	|	0.5030
+Jiajun Bu	|	0.5029
+José Luis Borbinha	|	0.5025
+Jian-Tao Sun	|	0.5019
+Marcos R. Vieira	|	0.5000
+Pinar Tözün	|	0.5000
+Jiong Yang	|	0.5000
+Oliver Spatscheck	|	0.5000
+Philippe Pucheral	|	0.5000
+Gagan Agrawal	|	0.5000
+Xiangdong Zhou	|	0.5000
+Jiang Bian	|	0.5000
+Hongbo Xu	|	0.5000
+Johan Bollen	|	0.5000
+Wai Gen Yee	|	0.5000
+Jacques Savoy	|	0.5000
+Peter Wilkins	|	0.5000
+Calton Pu	|	0.5000
+Limsoon Wong	|	0.5000
+Arie Shoshani	|	0.5000
+Vincent S. Tseng	|	0.5000
+Jinyan Li	|	0.4956
+Roelof van Zwol	|	0.4952
+Carl-Christian Kanne	|	0.4950
+Luis Gravano	|	0.4950
+Eugene J. Shekita	|	0.4948
+Hongrae Lee	|	0.4948
+Bamshad Mobasher	|	0.4948
+Vana Kalogeraki	|	0.4946
+Yossi Matias	|	0.4946
+Shuai Ma	|	0.4946
+Liadh Kelly	|	0.4946
+Lu An Tang	|	0.4946
+Barbara Carminati	|	0.4946
+Elena Ferrari	|	0.4946
+Andrew McGregor	|	0.4946
+Ruilin Liu	|	0.4944
+Nalini Venkatasubramanian	|	0.4944
+Anne H. H. Ngu	|	0.4944
+Nuno Freire	|	0.4923
+Avigdor Gal	|	0.4921
+Vasilis Vassalos	|	0.4918
+Baile Shi	|	0.4918
+Torsten Grust	|	0.4912
+Maarten Marx	|	0.4912
+Chun Chen	|	0.4906
+Mariano P. Consens	|	0.4906
+Craig Macdonald	|	0.4905
+Oded Shmueli	|	0.4902
+Dimitris Papadias	|	0.4900
+Da Yan	|	0.4898
+Robert Sanderson	|	0.4898
+Richard F. E. Sutcliffe	|	0.4898
+Thomas Mandl	|	0.4895
+Eibe Frank	|	0.4894
+Wei Peng	|	0.4894
+Wen-Chi Hou	|	0.4889
+César A. Galindo-Legaria	|	0.4889
+Kazuhiro Seki	|	0.4889
+Jiefeng Cheng	|	0.4884
+Seung-won Hwang	|	0.4870
+Debora Donato	|	0.4870
+Lipyeow Lim	|	0.4868
+Suman Nath	|	0.4868
+Chirag Shah	|	0.4868
+Serge Abiteboul	|	0.4867
+Dmitri V. Kalashnikov	|	0.4854
+Subbarao Kambhampati	|	0.4854
+Alan Hanjalic	|	0.4854
+Marina Danilevsky	|	0.4854
+Ian H. Witten	|	0.4851
+Chris Clifton	|	0.4842
+Hanqing Lu	|	0.4842
+Ying Li	|	0.4842
+Ann Blandford	|	0.4842
+Sascha Tönnies	|	0.4835
+Mitsunori Ogihara	|	0.4835
+Peifeng Yin	|	0.4835
+Ye Chen	|	0.4835
+Jalal Mahmud	|	0.4828
+Weizhu Chen	|	0.4828
+Mark Baillie	|	0.4828
+David Newman	|	0.4828
+Maristella Agosti	|	0.4821
+Yunbo Cao	|	0.4818
+Benjamin Piwowarski	|	0.4815
+Lei Zhang 0001	|	0.4811
+Dion Hoe-Lian Goh	|	0.4804
+Haixun Wang	|	0.4803
+Johannes Gehrke	|	0.4800
+Ling Feng	|	0.4800
+Fabrizio Sebastiani 0001	|	0.4800
+Wayne Xin Zhao	|	0.4800
+Jean-Pierre Chevallet	|	0.4793
+Nicolas Anciaux	|	0.4792
+Ninghui Li	|	0.4792
+Thomas Schwentick	|	0.4792
+Olivier Verscheure	|	0.4792
+Fredric C. Gey	|	0.4792
+Benno Stein	|	0.4790
+Raghu Ramakrishnan	|	0.4789
+Robin Aly	|	0.4783
+Bin Cao	|	0.4783
+Prem Melville	|	0.4783
+Clement T. Yu	|	0.4780
+Agma J. M. Traina	|	0.4778
+Dik Lun Lee	|	0.4776
+Yi Chen 0001	|	0.4774
+Kostas Stefanidis	|	0.4773
+Tore Risch	|	0.4773
+Arpita Ghosh	|	0.4773
+Utkarsh Srivastava	|	0.4771
+Amarnath Gupta	|	0.4771
+Tao Mei	|	0.4771
+Yoelle Maarek	|	0.4770
+Luciano Barbosa	|	0.4762
+Erik Vee	|	0.4762
+Bettina Kemme	|	0.4752
+Evangelos E. Milios	|	0.4752
+Takashi Washio	|	0.4752
+Philippe Rigaux	|	0.4750
+Jaideep Vaidya	|	0.4746
+Amélie Marian	|	0.4742
+Ziyu Guan	|	0.4742
+Rodrygo L. T. Santos	|	0.4740
+Andrew Turpin	|	0.4734
+Joemon M. Jose	|	0.4733
+Angela Bonifati	|	0.4731
+Chao Wang	|	0.4731
+Christos Tryfonopoulos	|	0.4731
+Adish Singla	|	0.4731
+Conglei Yao	|	0.4731
+Fazli Can	|	0.4731
+Keke Chen	|	0.4731
+Chunxia Zhang	|	0.4731
+Guodong Zhou	|	0.4731
+Chotirat Ann Ratanamahatana	|	0.4731
+David R. Karger	|	0.4727
+Ramesh Jain	|	0.4727
+Xiangyang Xue	|	0.4727
+Ian Ruthven	|	0.4720
+Paolo Atzeni	|	0.4719
+Qing Zhang	|	0.4719
+Srivatsan Laxman	|	0.4719
+Heikki Keskustalo	|	0.4719
+Sharma Chakravarthy	|	0.4719
+Jan Hidders	|	0.4719
+Yixin Chen	|	0.4719
+Jörg Sander	|	0.4717
+Carlos Garcia-Alvarado	|	0.4717
+Glenn Fung	|	0.4717
+Minos N. Garofalakis	|	0.4701
+Ning Liu	|	0.4700
+Martha Larson	|	0.4697
+Kevin S. Beyer	|	0.4696
+Olga Papaemmanouil	|	0.4694
+Martin Klein	|	0.4694
+Seungwon Yang	|	0.4694
+Andrew McCallum	|	0.4691
+Krithi Ramamritham	|	0.4688
+Ying Yan	|	0.4685
+Jin Huang	|	0.4681
+Thomas Roelleke	|	0.4681
+Arun Kumar	|	0.4673
+Milena Ivanova	|	0.4667
+Sriram Raghavan	|	0.4667
+Ken C. K. Lee	|	0.4662
+Shivakumar Vaithyanathan	|	0.4662
+Kostas Patroumpas	|	0.4660
+Chiara Renso	|	0.4651
+Divesh Srivastava	|	0.4647
+Daxin Jiang	|	0.4643
+Davide Buscaldi	|	0.4643
+Jeffrey Scott Vitter	|	0.4632
+Raymond T. Ng	|	0.4630
+Peter Brusilovsky	|	0.4628
+Markus Schneider 0001	|	0.4628
+Muhammad Aamir Cheema	|	0.4615
+Mor Naaman	|	0.4615
+Prabhakar Raghavan	|	0.4615
+Arnd Christian König	|	0.4615
+Spiridon Bakiras	|	0.4615
+Baogang Wei	|	0.4615
+Sudeepa Roy	|	0.4602
+Kristen LeFevre	|	0.4600
+AnHai Doan	|	0.4600
+Bo-June Paul Hsu	|	0.4600
+Enrique Amigó	|	0.4600
+Lei Shi	|	0.4600
+Toralf Kirsten	|	0.4600
+Jun Liu	|	0.4600
+Ido Guy	|	0.4598
+Vo Ngoc Anh	|	0.4587
+Boualem Benatallah	|	0.4586
+Shenghua Bao	|	0.4586
+Duo Zhang	|	0.4583
+Michael G. Christel	|	0.4576
+Vitor R. Carvalho	|	0.4571
+Silviu Cucerzan	|	0.4571
+Patrick Ruch	|	0.4567
+Khalid Belhajjame	|	0.4565
+Rui Zhou 0001	|	0.4565
+Jérôme Kunegis	|	0.4565
+Jianwen Su	|	0.4565
+Chin-Yew Lin	|	0.4565
+Yanif Ahmad	|	0.4565
+Gu Xu	|	0.4565
+Luc De Raedt	|	0.4565
+Huanhuan Cao	|	0.4561
+Sarantos Kapidakis	|	0.4554
+John R. Smith	|	0.4554
+Bin Wu	|	0.4545
+Xiao Bai 0002	|	0.4545
+Frank Wm. Tompa	|	0.4545
+HweeHwa Pang	|	0.4545
+Philip Bohannon	|	0.4545
+Gary Marchionini	|	0.4545
+Massimo Melucci	|	0.4545
+John Tait	|	0.4545
+Marcos André Gonçalves	|	0.4539
+Ding Zhou	|	0.4538
+Vishwa Vinay	|	0.4538
+Zi Huang	|	0.4536
+Maximilian Eibl	|	0.4536
+Egemen Tanin	|	0.4536
+Fei Wang 0001	|	0.4530
+Olfa Nasraoui	|	0.4528
+Xintao Wu	|	0.4528
+Gordon V. Cormack	|	0.4526
+Bruno Martins	|	0.4526
+Wentao Wu	|	0.4516
+Alex Delis	|	0.4516
+Olga Vechtomova	|	0.4516
+Changshui Zhang	|	0.4507
+Hugo Manguinhas	|	0.4505
+Rianne Kaptein	|	0.4505
+Paolo Missier	|	0.4494
+Yu-Ru Lin	|	0.4494
+Frank McSherry	|	0.4494
+Euripides G. M. Petrakis	|	0.4494
+Sebastian Maneth	|	0.4494
+Lin Qiao	|	0.4494
+Alan Halverson	|	0.4494
+Kuniaki Uehara	|	0.4494
+R. Manmatha	|	0.4494
+Ching-Yung Lin	|	0.4493
+Mário J. Silva	|	0.4493
+Vinayak R. Borkar	|	0.4490
+Hongyan Liu	|	0.4490
+Jingjing Liu	|	0.4490
+Georges Quénot	|	0.4490
+Tamara G. Kolda	|	0.4490
+Alvaro A. A. Fernandes	|	0.4486
+Charu C. Aggarwal	|	0.4485
+Weiguo Fan	|	0.4485
+Xiaodan Zhang	|	0.4483
+Thomas Heinze	|	0.4468
+Bin Yang 0002	|	0.4468
+Raymond K. Wong	|	0.4468
+Gabriel David	|	0.4468
+Ge Yu	|	0.4468
+Juan L. Reutter	|	0.4468
+Kazunari Sugiyama	|	0.4468
+Eric Nyberg	|	0.4468
+Andrei Z. Broder	|	0.4466
+Yin Zhang	|	0.4466
+Michael R. Lyu	|	0.4460
+Mark Sanderson	|	0.4453
+Hakan Ferhatosmanoglu	|	0.4444
+Guoren Wang	|	0.4444
+Nicola Barbieri	|	0.4444
+Zhong Su	|	0.4444
+Isaac G. Councill	|	0.4444
+Jianhan Zhu	|	0.4444
+Osmar R. Zaïane	|	0.4444
+Wei Wang 0010	|	0.4444
+Simon J. Puglisi	|	0.4444
+Alexander G. Hauptmann	|	0.4426
+Jan Rittinger	|	0.4425
+Jens Dittrich	|	0.4423
+Jing Bai	|	0.4421
+Christopher S. G. Khoo	|	0.4421
+Andrea Esuli	|	0.4421
+Ahmed Eldawy	|	0.4421
+Peter Bruza	|	0.4421
+Gjergji Kasneci	|	0.4407
+Walid Magdy	|	0.4407
+Ely Porat	|	0.4407
+Tao Li	|	0.4401
+Christian Bauckhage	|	0.4400
+Stewart Whiting	|	0.4400
+Robert Neumayer	|	0.4400
+George Valkanas	|	0.4396
+Dongxiang Zhang	|	0.4396
+Ying Chen	|	0.4396
+Guan Wang	|	0.4396
+Robin D. Burke	|	0.4396
+Cyril Goutte	|	0.4396
+Edward A. Fox	|	0.4390
+Mao Ye	|	0.4390
+Timos K. Sellis	|	0.4382
+Thore Graepel	|	0.4381
+Felisa Verdejo	|	0.4380
+Ingo Frommholz	|	0.4375
+Richard Lenz	|	0.4375
+Hillol Kargupta	|	0.4375
+Jianmin Li	|	0.4375
+Beng Chin Ooi	|	0.4368
+Nicole Bidoit	|	0.4368
+Lillian Lee	|	0.4368
+Takahiro Hara	|	0.4368
+Minlie Huang	|	0.4368
+Ee-Peng Lim	|	0.4364
+Dean Jacobs	|	0.4364
+Vasant Honavar	|	0.4356
+Amihood Amir	|	0.4356
+Thomas Seidl	|	0.4355
+Barry Smyth	|	0.4354
+Christian A. Lang	|	0.4348
+Anastasios Arvanitis	|	0.4348
+Rajeev Motwani	|	0.4348
+Michael E. Houle	|	0.4348
+Bart Kuijpers	|	0.4348
+Yasin N. Silva	|	0.4340
+Ming Zhang	|	0.4340
+Vassilis Plachouras	|	0.4337
+Henrique Andrade	|	0.4330
+Young-In Song	|	0.4330
+Ihab Al Kabary	|	0.4330
+Mohamed S. Kamel	|	0.4330
+Shipeng Yu	|	0.4330
+Ricardo A. Baeza-Yates	|	0.4328
+Iadh Ounis	|	0.4326
+Yunyao Li	|	0.4324
+Jie Peng	|	0.4324
+Senjuti Basu Roy	|	0.4314
+Sunita Sarawagi	|	0.4314
+Slobodan Vucetic	|	0.4314
+Stefan Büttcher	|	0.4306
+Justin Zobel	|	0.4304
+Uma Murthy	|	0.4301
+David P. Woodruff	|	0.4301
+Hao Huang	|	0.4301
+Srujana Merugu	|	0.4301
+Michael R. Berthold	|	0.4301
+Shuiwang Ji	|	0.4301
+Xiaohua Zhou	|	0.4299
+Ravi Kumar	|	0.4294
+Satoshi Nakamura	|	0.4286
+Satoshi Oyama	|	0.4286
+Vincent Oria	|	0.4286
+Paraschos Koutris	|	0.4286
+Yu Zhang	|	0.4286
+Nicholas J. Belkin	|	0.4286
+Abdul Sattar	|	0.4286
+Mostafa Keikha	|	0.4274
+Krysta Marie Svore	|	0.4272
+Martin Scholz	|	0.4272
+Filippo Menczer	|	0.4270
+Massimiliano Ciaramita	|	0.4270
+Mohamed Aly	|	0.4270
+Liang Zhang	|	0.4270
+Elias Frentzos	|	0.4270
+Xi Chen	|	0.4270
+Mohammed Javeed Zaki	|	0.4265
+Erik Buchmann	|	0.4259
+Paul McNamee	|	0.4259
+Shimin Chen	|	0.4255
+George Kollios	|	0.4255
+Hasso Plattner	|	0.4248
+Flavio Junqueira	|	0.4248
+Bin Liu	|	0.4242
+Alan Nash	|	0.4242
+Amol Ghoting	|	0.4242
+Meng Wang	|	0.4242
+Gordon Sun	|	0.4242
+Rui Yan	|	0.4242
+Qing Yang	|	0.4242
+Ming Li	|	0.4238
+Thomas Deselaers	|	0.4231
+Lidong Bing	|	0.4231
+Pinar Donmez	|	0.4231
+Daniel Deutch	|	0.4225
+Yueting Zhuang	|	0.4222
+Chee Yong Chan	|	0.4220
+Berthier A. Ribeiro-Neto	|	0.4220
+Anupam Joshi	|	0.4211
+Yue Lu	|	0.4211
+Bela Gipp	|	0.4211
+Yulan He	|	0.4211
+Kaizhu Huang	|	0.4211
+Carla E. Brodley	|	0.4211
+Kun-Ta Chuang	|	0.4200
+Xin-Jing Wang	|	0.4200
+Dimitri Theodoratos	|	0.4200
+Michael D. Lieberman	|	0.4200
+Dejing Dou	|	0.4190
+Arbee L. P. Chen	|	0.4186
+Olivier Chapelle	|	0.4182
+Luis Alfonso Ureña López	|	0.4177
+Mo Liu	|	0.4176
+Harumi A. Kuno	|	0.4176
+Junyu Niu	|	0.4176
+Emanuele Di Buccio	|	0.4176
+Marcel Worring	|	0.4176
+Miguel Angel García Cumbreras	|	0.4172
+Ling Wang	|	0.4167
+Hema Raghavan	|	0.4167
+Bo Chen	|	0.4167
+David M. Nichols	|	0.4167
+Carol Peters	|	0.4160
+Kenneth Wai-Ting Leung	|	0.4158
+Cédric du Mouza	|	0.4158
+Alejandro A. Vaisman	|	0.4158
+Jae-Gil Lee	|	0.4158
+Christoph Becker 0001	|	0.4158
+Dongqing Yang	|	0.4158
+Irwin King	|	0.4156
+Johannes Aßfalg	|	0.4151
+Colm O'Riordan	|	0.4151
+Zhoujun Li	|	0.4151
+Arno Siebes	|	0.4151
+Theodora Tsikrika	|	0.4138
+Pablo Barceló	|	0.4138
+Erietta Liarou	|	0.4130
+Georg Lausen	|	0.4130
+Yanghua Xiao	|	0.4130
+Kenneth Salem	|	0.4130
+Vikas Sindhwani	|	0.4130
+Roger S. Barga	|	0.4130
+Ying Liu	|	0.4127
+Omid Madani	|	0.4124
+Jing Peng	|	0.4124
+Jiannan Wang	|	0.4124
+Javier Parapar	|	0.4124
+Ziv Bar-Yossef	|	0.4118
+Krishna Yeswanth Kamath	|	0.4118
+Christina Lioma	|	0.4118
+Hector Gonzalez	|	0.4112
+Anitha Kannan	|	0.4112
+Xian-Sheng Hua	|	0.4112
+Kyle Williams	|	0.4112
+Rong Yan	|	0.4098
+W. Bruce Croft	|	0.4098
+Huiping Cao	|	0.4091
+Paul-Alexandru Chirita	|	0.4088
+Cathal Gurrin	|	0.4088
+Hsiao-Wuen Hon	|	0.4086
+Noriko Kando	|	0.4086
+Qi Liu	|	0.4086
+Saharon Rosset	|	0.4086
+Holger Schwarz	|	0.4082
+Simonas Saltenis	|	0.4082
+Josiane Xavier Parreira	|	0.4082
+Yuanhua Lv	|	0.4082
+Farnoush Banaei Kashani	|	0.4082
+Noel E. O'Connor	|	0.4082
+Songyun Duan	|	0.4078
+Latifur Khan	|	0.4078
+Adrian Popescu	|	0.4074
+Peter Kunath	|	0.4064
+Vanja Josifovski	|	0.4059
+Hinrich Schütze	|	0.4045
+Elio Masciari	|	0.4045
+Wenjun Zhou	|	0.4045
+Verena Kantere	|	0.4043
+Alexander Tuzhilin	|	0.4043
+Gene Golovchinsky	|	0.4043
+Lei Zou	|	0.4040
+Mohamed Sarwat	|	0.4040
+Wenliang Du	|	0.4040
+Mingfang Wu	|	0.4040
+Chao Liu 0001	|	0.4038
+Thomas Gottron	|	0.4038
+Maria E. Orlowska	|	0.4038
+Srinivasan H. Sengamedu	|	0.4038
+Shima Gerani	|	0.4038
+Mario A. Nascimento	|	0.4037
+Ali Dasdan	|	0.4037
+Jeremy Pickens	|	0.4037
+Carl Lagoze	|	0.4032
+Zhaohui Zheng	|	0.4029
+Alan J. Demers	|	0.4024
+Jian Pei	|	0.4022
+Xin Jin	|	0.4022
+Dimitris Sacharidis	|	0.4000
+Philipp Kranen	|	0.4000
+Vivekanand Gopalkrishnan	|	0.4000
+Federica Mandreoli	|	0.4000
+Riccardo Martoglia	|	0.4000
+Petko Bakalov	|	0.4000
+Eduardo Mena	|	0.4000
+Nicoleta Preda	|	0.4000
+Wen Jin	|	0.4000
+Mohamed H. Ali	|	0.4000
+Nitin Gupta 0003	|	0.4000
+Xin Fu	|	0.4000
+Pu-Jen Cheng	|	0.4000
+Frank Hopfgartner	|	0.4000
+Alexandros Nanopoulos	|	0.4000
+Kristian Kersting	|	0.3966
+Yannis Velegrakis	|	0.3964
+Kristina Lerman	|	0.3962
+Alex Thomo	|	0.3960
+Hardy Kremer	|	0.3958
+Chen Wang	|	0.3958
+Jasmine Novak	|	0.3958
+Gang Wu	|	0.3958
+Zi Yang	|	0.3958
+Christoph F. Eick	|	0.3958
+Shady Elbassuoni	|	0.3958
+Fatma Özcan	|	0.3956
+Souripriya Das	|	0.3956
+Mirek Riedewald	|	0.3942
+Hua-Jun Zeng	|	0.3939
+Rao Shen	|	0.3934
+Matthias Böhm 0001	|	0.3932
+Yihong Gong	|	0.3932
+Jilei Tian	|	0.3925
+Jonathan L. Elsas	|	0.3925
+Börkur Sigurbjörnsson	|	0.3922
+Ellen M. Voorhees	|	0.3922
+Gui-Rong Xue	|	0.3920
+Chen Chen	|	0.3918
+Huizhong Duan	|	0.3918
+Yutaka Matsuo	|	0.3918
+Jianqiang Wang	|	0.3918
+Ram Akella	|	0.3918
+Nick Koudas	|	0.3913
+Ganesh Ramakrishnan	|	0.3913
+Elisa Noguera	|	0.3913
+Kurt Stockinger	|	0.3913
+Indrajit Bhattacharya	|	0.3913
+Daisy Zhe Wang	|	0.3908
+Xiaolei Li	|	0.3906
+Andreas Thor	|	0.3898
+Boon Thau Loo	|	0.3894
+Jing Zhang 0001	|	0.3889
+Zheng Ye	|	0.3889
+Benyu Zhang	|	0.3881
+Anwitaman Datta	|	0.3878
+Bin Tan	|	0.3878
+Kareem Darwish	|	0.3878
+Carlos A. Heuser	|	0.3871
+Christa Womser-Hacker	|	0.3871
+Anne Schuth	|	0.3871
+Sameh Elnikety	|	0.3871
+Michal Shmueli-Scheuer	|	0.3871
+Arlindo L. Oliveira	|	0.3871
+Szymon Jaroszewicz	|	0.3871
+Ad Feelders	|	0.3871
+Maurice van Keulen	|	0.3864
+Ziming Zhuang	|	0.3860
+Cindy Xide Lin	|	0.3860
+Christopher Olston	|	0.3857
+Weiming Hu	|	0.3853
+Ralf Hartmut Güting	|	0.3846
+Ahmed Metwally	|	0.3838
+Jorge-Arnulfo Quiané-Ruiz	|	0.3838
+Xiao Li	|	0.3838
+Yosi Mass	|	0.3838
+Tsuyoshi Idé	|	0.3838
+Mohamed E. Khalefa	|	0.3838
+Weiran Xu	|	0.3833
+Alin Dobra	|	0.3830
+Maxim Gurevich	|	0.3830
+Peter Mika	|	0.3830
+Shlomo Argamon	|	0.3826
+Bogdan Alexe	|	0.3820
+Stelios Paparizos	|	0.3820
+George Samaras	|	0.3820
+Nematollaah Shiri	|	0.3820
+Jianting Zhang	|	0.3820
+Gabriella Pasi	|	0.3820
+Sugato Basu	|	0.3820
+Peixiang Zhao	|	0.3800
+Ou Wu	|	0.3800
+Zhiyuan Cheng	|	0.3800
+Nuno Cardoso	|	0.3800
+Flavio Paiva Junqueira	|	0.3784
+Dan Zhang	|	0.3780
+James Cheney	|	0.3778
+Victor Muntés-Mulero	|	0.3778
+Ramaswamy Hariharan	|	0.3778
+Angelika Reiser	|	0.3778
+Sang-Won Lee	|	0.3778
+Le Zhao	|	0.3778
+Fernando Llopis	|	0.3776
+Yongdong Zhang	|	0.3774
+Jiang-Ming Yang	|	0.3774
+Marius Pasca	|	0.3770
+Yong Yu	|	0.3768
+Bo Zhao	|	0.3762
+Laurianne Sitbon	|	0.3762
+Naga Srinivas Vemuri	|	0.3761
+David Fuhry	|	0.3750
+Todd J. Green	|	0.3750
+Miguel E. Ruiz	|	0.3750
+Roger Zimmermann	|	0.3750
+Issei Sato	|	0.3750
+Alexey Pryakhin	|	0.3745
+Prasan Roy	|	0.3736
+Deepak S. Turaga	|	0.3736
+Robert Ikeda	|	0.3736
+Yuanyuan Tian	|	0.3736
+Michael Huggett	|	0.3736
+Pascal Poncelet	|	0.3736
+Andrew Trotman	|	0.3736
+Ning Ruan	|	0.3736
+Mohammad Sadoghi	|	0.3731
+Alton Yeow-Kuan Chua	|	0.3725
+Carlo Sartiani	|	0.3721
+Valentin Jijkoun	|	0.3718
+S. Sudarshan 0001	|	0.3717
+Jayant R. Haritsa	|	0.3711
+Berthold Reinwald	|	0.3711
+Songting Chen	|	0.3711
+Zhen Wen	|	0.3711
+Dragomir Yankov	|	0.3711
+Xin Zhou	|	0.3711
+Stefan Böttcher	|	0.3711
+John Dunnion	|	0.3711
+Neel Sundaresan	|	0.3704
+Ciya Liao	|	0.3704
+Shuaiqiang Wang	|	0.3704
+Tianyi Wu	|	0.3696
+Hamid Pirahesh	|	0.3696
+Chi-Yin Chow	|	0.3696
+Sergey Chernov	|	0.3696
+Shlomo Geva	|	0.3696
+See-Kiong Ng	|	0.3696
+Gad M. Landau	|	0.3696
+U. Kang	|	0.3692
+Arturo Montejo Ráez	|	0.3689
+Manuel Montes-y-Gómez	|	0.3689
+Luis Villaseñor Pineda	|	0.3689
+Evgeniy Gabrilovich	|	0.3679
+Brian Gallagher	|	0.3678
+David M. Eyers	|	0.3678
+Inderpal Narang	|	0.3673
+Michael J. Taylor	|	0.3673
+Paul H. Lewis	|	0.3673
+Michael J. Cole	|	0.3673
+Diana Santos	|	0.3673
+Shantanu Godbole	|	0.3673
+Michael Daum	|	0.3673
+Yefei Peng	|	0.3670
+Schubert Shou-Boon Foo	|	0.3670
+Anastassia Ailamaki	|	0.3663
+Dina Demner-Fushman	|	0.3656
+James A. Thom	|	0.3656
+Vladislav Shkapenyuk	|	0.3654
+Linjun Yang	|	0.3652
+Ismail Ari	|	0.3636
+Richi Nayak	|	0.3636
+Jingren Zhou	|	0.3636
+Palakorn Achananuparp	|	0.3636
+Yang Xiang	|	0.3636
+Matthias Hagen	|	0.3621
+Sarah Cohen Boulakia	|	0.3617
+Mauro Sozio	|	0.3617
+Furu Wei	|	0.3617
+Hongliang Fei	|	0.3617
+ChengXiang Zhai	|	0.3612
+Jeffrey Xu Yu	|	0.3609
+Noriaki Kawamae	|	0.3600
+Elaine G. Toms	|	0.3600
+Tao Tao	|	0.3600
+David E. Losada	|	0.3600
+Sumit Negi	|	0.3596
+John Cieslewicz	|	0.3596
+Gang Luo	|	0.3586
+Naga K. Govindaraju	|	0.3579
+Julien Gobeill	|	0.3579
+Ronen Feldman	|	0.3579
+Wei-Ying Ma	|	0.3569
+Li Wei	|	0.3564
+Jean-Michel Renders	|	0.3564
+Jian Chen	|	0.3564
+Shih-Fu Chang	|	0.3564
+Franz Graf	|	0.3559
+Olivier Pivert	|	0.3556
+Demetrios Zeinalipour-Yazti	|	0.3556
+Julio Villena-Román	|	0.3556
+Rui Cai	|	0.3548
+Suzanne M. Embury	|	0.3542
+David Hannah	|	0.3540
+Huajing Li	|	0.3529
+Xiaoxin Yin	|	0.3529
+Chew-Hung Chang	|	0.3529
+Henning Rode	|	0.3529
+J. Shane Culpepper	|	0.3529
+Josep-Lluis Larriba-Pey	|	0.3516
+Marta Mattoso	|	0.3516
+Guimei Liu	|	0.3516
+Jinze Liu	|	0.3516
+Guihong Cao	|	0.3516
+Karsten M. Borgwardt	|	0.3516
+Seung-Hoon Na	|	0.3511
+Sarvjeet Singh	|	0.3505
+Ryan Johnson	|	0.3505
+Panos Vassiliadis	|	0.3505
+Bernhard Pfahringer	|	0.3505
+Xiaoming Yu	|	0.3500
+Jian Huang 0002	|	0.3497
+Stavros Papadopoulos	|	0.3495
+Jing Li	|	0.3495
+Aris Gkoulalas-Divanis	|	0.3488
+Eugene Wu 0002	|	0.3486
+Feng Pan	|	0.3486
+Trond Aalberg	|	0.3478
+Wei Gao	|	0.3478
+Dipanjan Chakraborty 0001	|	0.3469
+Gultekin Özsoyoglu	|	0.3469
+Bishwaranjan Bhattacharjee	|	0.3469
+Günter Neumann	|	0.3469
+Mirco Nanni	|	0.3448
+Xianchao Zhang	|	0.3448
+Alex Dekhtyar	|	0.3443
+Hetal Thakkar	|	0.3441
+D. Sivakumar	|	0.3441
+David M. Mimno	|	0.3441
+Bogdan Sacaleanu	|	0.3441
+James Mayfield	|	0.3441
+Christopher G. Harris 0001	|	0.3441
+Sachindra Joshi	|	0.3441
+Stefano Mizzaro	|	0.3441
+José Carlos González Cristóbal	|	0.3438
+Matthias Bender	|	0.3434
+Nitendra Rajput	|	0.3434
+Karl Gyllstrom	|	0.3434
+Marcos Antonio Vaz Salles	|	0.3429
+Taneli Mielikäinen	|	0.3429
+Apostol Natsev	|	0.3429
+Jean-Marc Petit	|	0.3409
+Sven Hartmann	|	0.3409
+Val Tannen	|	0.3407
+Radu Sion	|	0.3404
+Stratis Viglas	|	0.3404
+Raj Bhatnagar	|	0.3404
+Gerhard Weikum	|	0.3404
+Maarten de Rijke	|	0.3401
+Abhay Mehta	|	0.3400
+Christopher Re	|	0.3400
+Bipin C. Desai	|	0.3400
+Hongfei Yan	|	0.3393
+Masashi Sugiyama	|	0.3393
+Mirna Adriani	|	0.3390
+Patrick Valduriez	|	0.3378
+Hiroya Takamura	|	0.3371
+Honglei Guo	|	0.3368
+Zhili Guo	|	0.3368
+Carlos Monroy	|	0.3368
+Myra Spiliopoulou	|	0.3368
+Marcelo Mendoza	|	0.3366
+Xiaobing Xue	|	0.3366
+Richard Glassey	|	0.3364
+Fabio Casati	|	0.3356
+Ming Hua	|	0.3333
+Sougata Mukherjea	|	0.3333
+Barbara Poblete	|	0.3333
+Matthew Richardson	|	0.3333
+Matthew Lease	|	0.3333
+Jiuyong Li	|	0.3333
+Aleksander Kolcz	|	0.3333
+R. Bharat Rao	|	0.3333
+H. Bast	|	0.3301
+Peiya Liu	|	0.3299
+Shengliang Xu	|	0.3299
+Chao Shen	|	0.3299
+Giovanna Guerrini	|	0.3297
+Yu Xu	|	0.3297
+Doron Rotem	|	0.3297
+Maryam Karimzadehgan	|	0.3297
+Gilberto Pedrosa	|	0.3297
+Jacek Gwizdka	|	0.3297
+Jonathan Goldstein	|	0.3297
+Dijun Luo	|	0.3297
+Yong Shi	|	0.3297
+Chun Kit Chui	|	0.3297
+Craig A. Knoblock	|	0.3297
+Marc-Allen Cartright	|	0.3297
+Thomas Bernecker	|	0.3279
+Jangwon Seo	|	0.3276
+Xiaodan Song	|	0.3269
+Aparna S. Varde	|	0.3265
+Kien A. Hua	|	0.3261
+Xiuzhen Zhang	|	0.3261
+Warren Shen	|	0.3238
+Einoshin Suzuki	|	0.3238
+Xing Wei	|	0.3226
+Ruofei Zhang	|	0.3226
+Chedy Raïssi	|	0.3226
+Lyle H. Ungar	|	0.3226
+Alexandros Ntoulas	|	0.3214
+Haofen Wang	|	0.3200
+Paul Logasa Bogen II	|	0.3191
+Christos Faloutsos	|	0.3191
+Hsinchun Chen	|	0.3188
+Chavdar Botev	|	0.3182
+Jiebo Luo	|	0.3178
+Víctor Peinado	|	0.3178
+Abdur Chowdhury	|	0.3178
+José M. Perea-Ortega	|	0.3168
+Xuehua Shen	|	0.3168
+Dmitri Roussinov	|	0.3168
+Heng Huang	|	0.3165
+Antti Ukkonen	|	0.3158
+Joo-Hwee Lim	|	0.3158
+Sven Hartrumpf	|	0.3158
+Yongchun Xu	|	0.3158
+Martin Pfeifle	|	0.3151
+Zhiwei Li	|	0.3146
+Xing Yi	|	0.3146
+Tanya Y. Berger-Wolf	|	0.3146
+Shaoxu Song	|	0.3146
+Mark McKenney	|	0.3146
+Moshe Lewenstein	|	0.3146
+Anil K. Jain	|	0.3146
+Ralph Krieger	|	0.3130
+Nikos Ntarmos	|	0.3125
+Adrian Paschke	|	0.3125
+Jie Liu	|	0.3125
+Hao Wu	|	0.3125
+Bin He	|	0.3119
+Michael Schmidt	|	0.3111
+Dawei Yin	|	0.3107
+Mohamed A. Soliman	|	0.3093
+Michalis Petropoulos	|	0.3093
+Zheng Chen	|	0.3080
+Jianxin Li	|	0.3077
+Shijie Zhang	|	0.3077
+Nicola Onose	|	0.3077
+Mikhail Bilenko	|	0.3077
+Manuel Carlos Díaz-Galiano	|	0.3077
+George A. Mihaila	|	0.3077
+Won Suk Lee	|	0.3077
+Shin Ando	|	0.3077
+C. Lee Giles	|	0.3063
+Arjun Dasgupta	|	0.3061
+David Lo	|	0.3061
+Hans-Peter Kriegel	|	0.3051
+Venkatesh Raghavan	|	0.3043
+Janet L. Wiener	|	0.3030
+Shi-Yong Neo	|	0.3030
+Yandong Liu	|	0.3030
+Riccardo Torlone	|	0.3023
+Pierre-Alain Moëllic	|	0.3019
+András A. Benczúr	|	0.3011
+Wei Jiang	|	0.3011
+Marco A. Casanova	|	0.3011
+Kanishka Bhaduri	|	0.3011
+Kam-Fai Wong	|	0.3008
+Arijit Khan	|	0.3000
+Pedro Bizarro	|	0.3000
+Sara Lana-Serrano	|	0.3000
+Feiping Nie	|	0.3000
+Wei Zheng	|	0.2991
+David A. Smith	|	0.2991
+Christine L. Borgman	|	0.2979
+João Magalhães	|	0.2979
+Gianluigi Greco	|	0.2970
+Régis Saint-Paul	|	0.2957
+Debabrata Dash	|	0.2955
+Rajesh Bordawekar	|	0.2955
+Manish Gupta	|	0.2951
+Yan Qi 0002	|	0.2947
+Tomás Skopal	|	0.2947
+José Miguel Goñi-Menoyo	|	0.2947
+Jordi Turmo	|	0.2947
+Yael Amsterdamer	|	0.2947
+Claudia Niederée	|	0.2941
+Laurence A. F. Park	|	0.2941
+Zhijun Yin	|	0.2931
+Sundararajan Sellamanickam	|	0.2913
+Yi Zhang	|	0.2913
+Ming Zhou	|	0.2909
+Koji Tsuda	|	0.2885
+Wei Jin	|	0.2880
+Niels Nes	|	0.2857
+Lukas Blunschi	|	0.2857
+Shuai Ding	|	0.2857
+Nish Parikh	|	0.2857
+Andruid Kerne	|	0.2857
+Jennifer Chu-Carroll	|	0.2857
+Michael Steinbach	|	0.2826
+Tao Qin	|	0.2810
+Bin Zhou 0002	|	0.2804
+Jian Hu	|	0.2804
+Juan-Zi Li	|	0.2804
+Fan Wang	|	0.2800
+Eli Upfal	|	0.2796
+Esther Pacitti	|	0.2796
+Adam Marcus 0002	|	0.2796
+Steffen Staab	|	0.2796
+Jens Kürsten	|	0.2796
+Milind R. Naphade	|	0.2796
+Hongfei Lin	|	0.2781
+Alpa Jain	|	0.2778
+Yanjun Qi	|	0.2778
+Seyda Ertekin	|	0.2772
+Noureddine Mouaddib	|	0.2737
+Guillaume Raschia	|	0.2737
+Kalyani Chatterjea	|	0.2727
+Walker M. White	|	0.2720
+Karen Pinel-Sauvagnat	|	0.2718
+Keith van Rijsbergen	|	0.2703
+Debapriyo Majumdar	|	0.2697
+Christian Mathis	|	0.2697
+Leila De Floriani	|	0.2697
+Parisa Haghani	|	0.2667
+Wing-Kai Hon	|	0.2667
+Chiranjib Bhattacharyya	|	0.2655
+Wei Wei	|	0.2653
+Yuan Lin	|	0.2642
+Shirish Tatikonda	|	0.2637
+Srinivas Vadrevu	|	0.2637
+Bingjun Sun	|	0.2626
+Azin Ashkan	|	0.2626
+Samuel Ieong	|	0.2623
+Yan Liu 0002	|	0.2617
+Daniel Zinn	|	0.2609
+Lei Ji	|	0.2600
+Timothy M. McPhillips	|	0.2581
+Jing Dai	|	0.2581
+Kun Liu	|	0.2581
+Roberto De Virgilio	|	0.2558
+Lei Wang	|	0.2526
+Jens-Peter Dittrich	|	0.2524
+Wolfgang Gatterbauer	|	0.2500
+Shalini R. Urs	|	0.2481
+Tamer Elsayed	|	0.2449
+Ching-man Au Yeung	|	0.2407
+Sriram Padmanabhan	|	0.2391
+Mirella Moura Moro	|	0.2373
+Lyublena Antova	|	0.2342
+Jarek Gryz	|	0.2326
+Chotirat (Ann) Ratanamahatana	|	0.2270
+Guang Chen	|	0.2264
+David N. Milne	|	0.2105
+Jun Zhang 0005	|	0.2051
+Jiawei Han	|	0.2042
+Cheng Sheng	|	0.2037
+Aniruddha S. Gokhale	|	0.1895
+Philip S. Yu	|	0.1839
+Keke Cai	|	0.1731
+Di Yang	|	0.1720

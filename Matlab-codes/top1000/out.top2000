@@ -1,0 +1,22 @@
+# Node files = 4
+# Edge files = 4
+dataReader : read /srv/data/projects/apps/RepIndep_CIDR/fullgraph/top2000/movie.txt to type of movie
+Exception in thread "main" java.io.FileNotFoundException: /srv/data/projects/apps/RepIndep_CIDR/fullgraph/top2000/movie.txt (No such file or directory)
+	at java.io.FileInputStream.open(Native Method)
+	at java.io.FileInputStream.<init>(FileInputStream.java:146)
+	at java.io.FileInputStream.<init>(FileInputStream.java:101)
+	at java.io.FileReader.<init>(FileReader.java:58)
+	at edu.ui.commons.Utility.nodeReader(Utility.java:29)
+	at edu.ui.commons.Utility.dataFullReader(Utility.java:10)
+	at edu.ui.experiments.SimilarityTester.main(SimilarityTester.java:56)
+# Node files = 4
+# Edge files = 4
+dataReader : read /srv/data/projects/apps/RepIndep_CIDR/fullgraph/top2000/movie.txt to type of movie
+Exception in thread "main" java.io.FileNotFoundException: /srv/data/projects/apps/RepIndep_CIDR/fullgraph/top2000/movie.txt (No such file or directory)
+	at java.io.FileInputStream.open(Native Method)
+	at java.io.FileInputStream.<init>(FileInputStream.java:146)
+	at java.io.FileInputStream.<init>(FileInputStream.java:101)
+	at java.io.FileReader.<init>(FileReader.java:58)
+	at edu.ui.commons.Utility.nodeReader(Utility.java:29)
+	at edu.ui.commons.Utility.dataFullReader(Utility.java:10)
+	at edu.ui.experiments.SimilarityTester.main(SimilarityTester.java:56)

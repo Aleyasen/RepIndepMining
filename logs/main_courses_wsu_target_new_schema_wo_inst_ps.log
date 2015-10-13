@@ -1,0 +1,123 @@
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2014 The MathWorks, Inc.
+                    R2014a (8.3.0.532) 64-bit (glnxa64)
+                             February 11, 2014
+
+
+	This is a Classroom License for instructional use only.
+	Research and commercial use is prohibited.
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+nodesReader : read /srv/data/projects/apps/RepIndep_CIDR/output-wsu1/course.txt
+nodesReader : read /srv/data/projects/apps/RepIndep_CIDR/output-wsu1/offer.txt
+nodesReader : read /srv/data/projects/apps/RepIndep_CIDR/output-wsu1/subject.txt
+edgesReader : read /srv/data/projects/apps/RepIndep_CIDR/output-wsu1/course_offer.txt
+edgesReader : read /srv/data/projects/apps/RepIndep_CIDR/output-wsu1/course_subject.txt
+There are 920 isolated nodes in G.
+Data size is |V|=3762 |E|=7278
+>> running PathSim
+-- processing "[W] INTRO WRTG"
+-- processing "[P] INTRO GEOL"
+-- processing "[C] PUBLIC SPKNG"
+-- processing "[B] INTRO BIOL"
+-- processing "[P] PRINCIPLES I"
+-- processing "FRES SEMINAR"
+-- processing "[P] INTRO CHEM"
+-- processing "[B] GEN BIOLOGY"
+-- processing "WT TRAINING"
+-- processing "[W] TECH/PRO WRT"
+-- processing "NO DEGREE CR"
+-- processing "MASS COM TH"
+-- processing "[N] CALCULUS I"
+-- processing "DAILY LIVING"
+-- processing "[S] INTRO PSYCH"
+-- processing "ELEM FUNCTNS"
+-- processing "POCKET BILL"
+-- processing "SCUBA DIVING"
+-- processing "[W] WRTG&RESERCH"
+-- processing "[N] STAT METHODS"
+-- processing "AEROBIC DAN"
+-- processing "[W] RHETOR CONVN"
+-- processing "BEG GOLF"
+-- processing "COND SWIM"
+-- processing "[P] PRINCIPLS II"
+-- processing "CALCULUS II"
+-- processing "AM SOC DAN"
+-- processing "GR MIC ANAT"
+-- processing "[N] INTRODUCTION"
+-- processing "LEARNING&DEV"
+-- processing "[B] INTRO BOTANY"
+-- processing "BEG KARATE"
+-- processing "TCH INC CLSS"
+-- processing "DESIGN I"
+-- processing "MATERIAL LAB"
+-- processing "ENG GRAPHICS"
+-- processing "[H] MYTHOLOGY"
+-- processing "MICROPR SYST"
+-- processing "MEDIA CRITIC"
+-- processing "BEG FENCING"
+-- processing "DATA STRUCT"
+-- processing "[M] CLASSRM MGT"
+-- processing "ATH INJURIES"
+-- processing "TEACHING APP"
+-- processing "PLANT PHYS"
+-- processing "SP POPLTN PR"
+-- processing "ELEM TCH I"
+-- processing "GRAPHIC COM"
+-- processing "OVERV ARMY"
+-- processing "INTRO CONST"
+-- processing "ASL I"
+-- processing "EL READ METH"
+-- processing "GRAD SCULPT"
+-- processing "[P] PRN HONORS I"
+-- processing "GRAD PAINTNG"
+-- processing "BEG RACQUET"
+-- processing "CIRCUITS LAB"
+-- processing "CPTR IN ENGL"
+-- processing "GR ELEC IMAG"
+-- processing "GRAD PHOTOGR"
+-- processing "MUS FOR TCHR"
+-- processing "ELEC IMG INT"
+-- processing "CPT AID DSN"
+-- processing "GRAD PRINT"
+-- processing "HUMN ANATOMY"
+-- processing "WEEDS"
+-- processing "ADV WRIT TUT"
+-- processing "ORG CHEM LAB"
+-- processing "FINITE MATH"
+-- processing "INNOV IN DES"
+-- processing "BEG BOWLING"
+-- processing "GRAD CERAMIC"
+-- processing "AIR GEOMORPH"
+-- processing "INT GOLF"
+-- processing "CPTS IN AGHE"
+-- processing "[M] AD COPY STRA"
+-- processing "GRAD DRAWING"
+-- processing "[M] PARASITOLOGY"
+-- processing "[N] ELEM TCH II"
+-- processing "LA PL MAT I"
+-- processing "TOPICS NAT R"
+-- processing "WATER AEROBC"
+-- processing "BEG JUDO"
+-- processing "CASE ST RES"
+-- processing "CHILDREN LIT"
+-- processing "LIFEGUARDING"
+-- processing "TUBA"
+-- processing "NAZI GERMANY"
+-- processing "E E LAB I"
+-- processing "[M] CH E LAB I"
+-- processing "PROF SKILLS"
+-- processing "GYMNASTICS"
+-- processing "SIM METH"
+-- processing "INTERN THEAT"
+-- processing "STDO TV PROD"
+-- processing "SYMPHON ORCH"
+-- processing "LITHIC TECH"
+-- processing "METH TCH SCI"
+-- processing "[M] POST HARVEST"
+-- processing "SPEC PROB"
+pathsim: elapsed time = 52.4746
+---------------------------------------------------------------

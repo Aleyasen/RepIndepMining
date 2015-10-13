@@ -1,0 +1,319 @@
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2014 The MathWorks, Inc.
+                    R2014a (8.3.0.532) 64-bit (glnxa64)
+                             February 11, 2014
+
+
+	This is a Classroom License for instructional use only.
+	Research and commercial use is prohibited.
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+nodesReader : read /srv/data/projects/apps/RepIndep_CIDR/fullgraph/top2000/movie.txt
+nodesReader : read /srv/data/projects/apps/RepIndep_CIDR/fullgraph/top2000/actor.txt
+nodesReader : read /srv/data/projects/apps/RepIndep_CIDR/fullgraph/top2000/director.txt
+nodesReader : read /srv/data/projects/apps/RepIndep_CIDR/fullgraph/top2000/starring.txt
+nodesReader : read /srv/data/projects/apps/RepIndep_CIDR/fullgraph/top2000/character.txt
+nodesReader : read /srv/data/projects/apps/RepIndep_CIDR/fullgraph/top2000/directedby.txt
+edgesReader : read /srv/data/projects/apps/RepIndep_CIDR/fullgraph/top2000/starring_actor.txt
+edgesReader : read /srv/data/projects/apps/RepIndep_CIDR/fullgraph/top2000/starring_movie.txt
+edgesReader : read /srv/data/projects/apps/RepIndep_CIDR/fullgraph/top2000/starring_character.txt
+edgesReader : read /srv/data/projects/apps/RepIndep_CIDR/fullgraph/top2000/directedby_director.txt
+edgesReader : read /srv/data/projects/apps/RepIndep_CIDR/fullgraph/top2000/directedby_movie.txt
+There are 0 isolated nodes in G.
+Data size is |V|=41385 |E|=116444
+data_mp length = 10
+mp = movie starring
+mp = movie directedby
+mp = actor starring
+mp = director directedby
+mp = directedby movie
+mp = directedby director
+mp = starring movie
+mp = starring character
+mp = starring actor
+mp = character starring
+movie starring
+    'movie'    'starring'
+
+N=
+
+ans =
+
+     1     1
+
+
+ans =
+
+       41385       41385
+
+CM_size = 
+
+ans =
+
+       41385       41385
+
+Qs_size
+
+ans =
+
+        2850           1
+
+    'movie'    'starring'    '	time= '    '10.0943'
+
+movie directedby
+    'movie'    'directedby'
+
+N=
+
+ans =
+
+     1     1
+
+
+ans =
+
+       41385       41385
+
+CM_size = 
+
+ans =
+
+       41385       41385
+
+Qs_size
+
+ans =
+
+        2850           1
+
+    'movie'    'directedby'    '	time= '    '7.359'
+
+actor starring
+    'actor'    'starring'
+
+N=
+
+ans =
+
+     1     1
+
+
+ans =
+
+       41385       41385
+
+CM_size = 
+
+ans =
+
+       41385       41385
+
+Qs_size
+
+ans =
+
+        2000           1
+
+    'actor'    'starring'    '	time= '    '9.0343'
+
+director directedby
+    'director'    'directedby'
+
+N=
+
+ans =
+
+     1     1
+
+
+ans =
+
+       41385       41385
+
+CM_size = 
+
+ans =
+
+       41385       41385
+
+Qs_size
+
+ans =
+
+        2416           1
+
+    'director'    'directedby'    '	time= '    '7.3263'
+
+directedby movie
+    'directedby'    'movie'
+
+N=
+
+ans =
+
+     1     1
+
+
+ans =
+
+       41385       41385
+
+CM_size = 
+
+ans =
+
+       41385       41385
+
+Qs_size
+
+ans =
+
+        3137           1
+
+    'directedby'    'movie'    '	time= '    '23.33'
+
+directedby director
+    'directedby'    'director'
+
+N=
+
+ans =
+
+     1     1
+
+
+ans =
+
+       41385       41385
+
+CM_size = 
+
+ans =
+
+       41385       41385
+
+Qs_size
+
+ans =
+
+        3137           1
+
+    'directedby'    'director'    '	time= '    '26.2213'
+
+starring movie
+    'starring'    'movie'
+
+N=
+
+ans =
+
+     1     1
+
+
+ans =
+
+       41385       41385
+
+CM_size = 
+
+ans =
+
+       41385       41385
+
+Qs_size
+
+ans =
+
+       17316           1
+
+    'starring'    'movie'    '	time= '    '19.9377'
+
+starring character
+    'starring'    'character'
+
+N=
+
+ans =
+
+     1     1
+
+
+ans =
+
+       41385       41385
+
+CM_size = 
+
+ans =
+
+       41385       41385
+
+Qs_size
+
+ans =
+
+       17316           1
+
+    'starring'    'character'    '	time= '    '22.8231'
+
+starring actor
+    'starring'    'actor'
+
+N=
+
+ans =
+
+     1     1
+
+
+ans =
+
+       41385       41385
+
+CM_size = 
+
+ans =
+
+       41385       41385
+
+Qs_size
+
+ans =
+
+       17316           1
+
+    'starring'    'actor'    '	time= '    '19.9612'
+
+character starring
+    'character'    'starring'
+
+N=
+
+ans =
+
+     1     1
+
+
+ans =
+
+       41385       41385
+
+CM_size = 
+
+ans =
+
+       41385       41385
+
+Qs_size
+
+ans =
+
+       13666           1
+
+    'character'    'starring'    '	time= '    '31.3526'
+
+pathsim: elapsed time = 177.4647
+---------------------------------------------------------------

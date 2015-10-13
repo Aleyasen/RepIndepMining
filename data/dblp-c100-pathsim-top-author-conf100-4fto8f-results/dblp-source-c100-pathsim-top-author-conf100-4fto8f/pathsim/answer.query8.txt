@@ -1,0 +1,1999 @@
+Elisa Bertino	|	0.96176130
+Jaap Kamps	|	0.95486936
+Elke A. Rundensteiner	|	0.94939759
+Divesh Srivastava	|	0.94860335
+W. Bruce Croft	|	0.94069530
+Yong Yu	|	0.93946290
+Ravi Kumar	|	0.93222506
+Tao Li	|	0.93130572
+Marcos André Gonçalves	|	0.92177314
+Xiaofang Zhou	|	0.91856287
+Wolfgang Nejdl	|	0.91778976
+Kian-Lee Tan	|	0.91411411
+Gerhard Weikum	|	0.90781140
+Zheng Chen	|	0.90556901
+Jeffrey Xu Yu	|	0.90534351
+ChengXiang Zhai	|	0.90438059
+Hans-Peter Kriegel	|	0.90368272
+Peer Kröger	|	0.89509537
+Haixun Wang	|	0.89357218
+Christos Faloutsos	|	0.88989442
+Lei Chen 0002	|	0.88308458
+Qiang Yang 0001	|	0.88162198
+Nick Koudas	|	0.88063337
+Iadh Ounis	|	0.87834427
+Maarten de Rijke	|	0.87724138
+Wang-Chien Lee	|	0.87607362
+Matthias Renz	|	0.87144790
+Xuemin Lin	|	0.86849795
+Ee-Peng Lim	|	0.86650185
+Aoying Zhou	|	0.86307592
+Beng Chin Ooi	|	0.86216216
+Surajit Chaudhuri	|	0.86085076
+Ricardo A. Baeza-Yates	|	0.85568327
+Eamonn J. Keogh	|	0.85134250
+Ralf Schenkel	|	0.84714829
+Edward A. Fox	|	0.84537313
+Joemon M. Jose	|	0.84169454
+Katsumi Tanaka	|	0.84088076
+C. Lee Giles	|	0.83623418
+Nicola Ferro	|	0.82611886
+Yufei Tao	|	0.82253086
+Charu C. Aggarwal	|	0.82155689
+Wolfgang Lehner	|	0.81799163
+Leif Azzopardi	|	0.81530343
+Fabio Crestani	|	0.81410727
+Lizhu Zhou	|	0.81404421
+James Allan	|	0.81172161
+Mohand Boughanem	|	0.81108680
+Christian S. Jensen	|	0.80645161
+Craig Macdonald	|	0.80607083
+Arjen P. de Vries	|	0.80590717
+Prasenjit Mitra	|	0.80550098
+Hang Li	|	0.80410742
+Thomas Seidl	|	0.80176211
+Patrick Gallinari	|	0.79938744
+Jie Tang	|	0.79894529
+Gareth J. F. Jones	|	0.79857651
+Djoerd Hiemstra	|	0.79773692
+Divyakant Agrawal	|	0.79627164
+Xueqi Cheng	|	0.79078229
+Anthony K. H. Tung	|	0.78947368
+Jianhua Feng	|	0.78906250
+K. Selçuk Candan	|	0.78802206
+Hui Xiong	|	0.78646617
+Ge Yu	|	0.78614257
+John Mylopoulos	|	0.78374456
+Ming-Syan Chen	|	0.77855478
+Qing Li	|	0.77769732
+Aixin Sun	|	0.77674085
+Vanja Josifovski	|	0.77306003
+Xifeng Yan	|	0.77237491
+Jamie Callan	|	0.77184466
+Amr El Abbadi	|	0.77014043
+Guoliang Li	|	0.76796715
+Johannes Gehrke	|	0.76568133
+Hector Garcia-Molina	|	0.76220472
+Mounia Lalmas	|	0.76184123
+Kai-Uwe Sattler	|	0.75953566
+Graham Cormode	|	0.75945294
+Ji-Rong Wen	|	0.75921569
+Dan Suciu	|	0.75800447
+Chun Chen	|	0.75706215
+Jianyong Wang	|	0.75396825
+Wei-Ying Ma	|	0.75389105
+Jianzhong Li	|	0.75382263
+Wei Wang 0009	|	0.75299401
+Raghu Ramakrishnan	|	0.75133894
+Jun Yan	|	0.75038760
+Sourav S. Bhowmick	|	0.74962293
+Serge Abiteboul	|	0.74881517
+Aristides Gionis	|	0.74769231
+Gui-Rong Xue	|	0.74598071
+Ke Wang	|	0.74551387
+Charles L. A. Clarke	|	0.74446987
+Dongqing Yang	|	0.74326241
+Sebastian Michel	|	0.74024896
+Xiaofeng Meng	|	0.73981191
+Donald Kossmann	|	0.73937450
+Bin Cui	|	0.73658927
+Nick Craswell	|	0.73495935
+Samuel Madden	|	0.73469388
+Chris H. Q. Ding	|	0.73417722
+Karl Aberer	|	0.73103448
+Alan F. Smeaton	|	0.72699387
+Ryen W. White	|	0.72195122
+Nikos Mamoulis	|	0.72123177
+Wei Fan	|	0.71383148
+Chengfei Liu	|	0.71336554
+Alistair Moffat	|	0.71169687
+Eugene Agichtein	|	0.71093750
+Dion Hoe-Lian Goh	|	0.71042471
+Mong-Li Lee	|	0.70789260
+Jimeng Sun	|	0.70769231
+Alon Y. Halevy	|	0.70746018
+Falk Scholer	|	0.70654810
+Douglas W. Oard	|	0.70607827
+Xing Xie	|	0.70598007
+Wil M. P. van der Aalst	|	0.70560379
+Cyrus Shahabi	|	0.70422535
+Masaru Kitsuregawa	|	0.70181219
+Shlomo Geva	|	0.70085470
+Timos K. Sellis	|	0.69793323
+Min Zhang 0006	|	0.69650122
+Wenfei Fan	|	0.69628433
+Clement T. Yu	|	0.69393939
+Michael L. Nelson	|	0.69262635
+Hongyuan Zha	|	0.69148056
+H. V. Jagadish	|	0.69141531
+Yehoshua Sagiv	|	0.69118905
+Gautam Das	|	0.69099757
+Krisztian Balog	|	0.69045643
+Ruoming Jin	|	0.69005848
+Shaoping Ma	|	0.68925620
+Bing Liu 0001	|	0.68913227
+Justin Zobel	|	0.68468468
+Jiawei Han	|	0.68133403
+Mark Sanderson	|	0.67906225
+Ling Liu	|	0.67694944
+Xiangji Huang	|	0.67612688
+Jian-Yun Nie	|	0.67598684
+Andrew Tomkins	|	0.67586207
+Paul Clough	|	0.67517007
+Xiaoyong Du	|	0.67408585
+Mohamed F. Mokbel	|	0.67336683
+Ophir Frieder	|	0.67284992
+Laks V. S. Lakshmanan	|	0.67272727
+Ray R. Larson	|	0.67207792
+Irwin King	|	0.67049180
+Ying Zhang	|	0.66981875
+Tova Milo	|	0.66517857
+Boualem Benatallah	|	0.66497031
+Dawei Song	|	0.66284779
+Kotagiri Ramamohanarao	|	0.65859983
+Chen Li	|	0.65729350
+Michael R. Lyu	|	0.65378151
+Ada Wai-Chee Fu	|	0.65245902
+Walid G. Aref	|	0.65224626
+Martin Theobald	|	0.65205960
+Ben Carterette	|	0.65192465
+Wai Lam	|	0.65168539
+Donald Metzler	|	0.65054212
+Panos K. Chrysanthis	|	0.64746946
+Heng Tao Shen	|	0.64328486
+Ian H. Witten	|	0.64298094
+Wynne Hsu	|	0.64144454
+Francesco Bonchi	|	0.64090177
+Kjetil Nørvåg	|	0.63993949
+Wei Wang 0010	|	0.63895681
+Tie-Yan Liu	|	0.63826232
+Shojiro Nishio	|	0.63718264
+AnHai Doan	|	0.63696370
+Hiroyuki Kitagawa	|	0.63605442
+Paolo Rosso	|	0.63500440
+Andrei Z. Broder	|	0.63310580
+Wilfred Ng	|	0.63247863
+Tok Wang Ling	|	0.63226863
+Ben He	|	0.63222417
+Hanan Samet	|	0.63204225
+Christian Böhm	|	0.63192721
+Hans-Arno Jacobsen	|	0.63106796
+Susan T. Dumais	|	0.62998405
+Qiong Luo	|	0.62946818
+Shashi Shekhar	|	0.62786596
+Xiaohua Hu	|	0.62668919
+Srinivasan Parthasarathy	|	0.62452399
+Stefan M. Rüger	|	0.62435678
+Wouter Weerkamp	|	0.61799660
+Jure Leskovec	|	0.61771385
+Umeshwar Dayal	|	0.61396131
+Philip S. Yu	|	0.61393700
+Christoph Koch	|	0.61298274
+Huan Liu	|	0.61275272
+Weiyi Meng	|	0.61262799
+Wei Wang 0011	|	0.61034483
+Gabriella Kazai	|	0.60929432
+David Bainbridge	|	0.60916442
+Juliana Freire	|	0.60877193
+Tat-Seng Chua	|	0.60444444
+Jaime G. Carbonell	|	0.60400348
+Pavel Serdyukov	|	0.60186916
+Thomas Mandl	|	0.60099338
+Mukesh K. Mohania	|	0.60000000
+Luo Si	|	0.59803922
+Yiqun Liu	|	0.59746835
+Thomas Neumann 0001	|	0.59691809
+Vagelis Hristidis	|	0.59667542
+Masatoshi Yoshikawa	|	0.59444942
+Dongwon Lee	|	0.59369527
+Ira Assent	|	0.59366980
+Theresa A. Pardo	|	0.59265585
+Kevin Chen-Chuan Chang	|	0.59241324
+Hsin-Hsi Chen	|	0.59135040
+Baile Shi	|	0.59127625
+Javed A. Aslam	|	0.59110724
+Takahiro Hara	|	0.59086994
+M. Tamer Özsu	|	0.59042553
+Hong Cheng	|	0.58882402
+Jun Yang 0001	|	0.58843831
+Benny Kimelfeld	|	0.58750000
+Ioana Manolescu	|	0.58570198
+Man Lung Yiu	|	0.58514493
+Xiaojun Wan	|	0.58399296
+Dimitrios Gunopulos	|	0.58318739
+Vassilis J. Tsotras	|	0.58295964
+Alberto H. F. Laender	|	0.58191585
+Alkis Simitsis	|	0.58143608
+Heikki Mannila	|	0.57904085
+Andreas Rauber	|	0.57894737
+Xindong Wu	|	0.57854077
+Carlo Zaniolo	|	0.57809695
+Shivnath Babu	|	0.57801418
+Guoren Wang	|	0.57788945
+Andrew Trotman	|	0.57777778
+Theo Härder	|	0.57648099
+Le Gruenwald	|	0.57524488
+S. Muthukrishnan	|	0.57497782
+Min Wang	|	0.57435090
+Avigdor Gal	|	0.57347670
+Gao Cong	|	0.57264231
+Jignesh M. Patel	|	0.57167986
+Torsten Suel	|	0.57142857
+George Buchanan	|	0.57065217
+Neoklis Polyzotis	|	0.56970740
+Baihua Zheng	|	0.56963163
+Edgar Meij	|	0.56787933
+Shan Wang	|	0.56747405
+Sharma Chakravarthy	|	0.56569343
+Felix Naumann	|	0.56392887
+Qiaozhu Mei	|	0.56327986
+Caetano Traina Jr.	|	0.56244385
+Jean-Pierre Chevallet	|	0.56244385
+Seung-won Hwang	|	0.56112577
+Gang Chen 0001	|	0.55986219
+Bin Wang	|	0.55864979
+Sharad Mehrotra	|	0.55862069
+Min-Yen Kan	|	0.55818023
+Jeffrey F. Naughton	|	0.55764513
+Ben Kao	|	0.55716878
+Spiros Papadimitriou	|	0.55714286
+Ning Liu	|	0.55693950
+Sihem Amer-Yahia	|	0.55606199
+Jieping Ye	|	0.55499154
+Fei Wang 0001	|	0.55497382
+Erhard Rahm	|	0.55440415
+Norbert Fuhr	|	0.55433867
+Richi Nayak	|	0.55303717
+Martin Ester	|	0.55143339
+Zhi-Hua Zhou	|	0.55128205
+Richard Furuta	|	0.55082537
+Gonzalo Navarro	|	0.55057168
+Wei Liu	|	0.55040872
+Evgeniy Gabrilovich	|	0.54952077
+Renée J. Miller	|	0.54826958
+Bo Zhang	|	0.54642857
+Weiguo Fan	|	0.54515327
+Michael H. Böhlen	|	0.54513585
+Carlos Castillo	|	0.54185419
+Hui Fang	|	0.53987730
+Rakesh Agrawal	|	0.53839365
+Qi Zhang	|	0.53776978
+Johannes Leveling	|	0.53705318
+Patrick Valduriez	|	0.53688889
+Dimitris Papadias	|	0.53597122
+José Luis Borbinha	|	0.53533569
+Jacques Savoy	|	0.53443526
+Belle L. Tseng	|	0.53393665
+Georgia Koutrika	|	0.53357532
+Jiajun Bu	|	0.52977778
+Evimaria Terzi	|	0.52956752
+Jianliang Xu	|	0.52914798
+David Carmel	|	0.52840397
+Reynold Cheng	|	0.52830189
+Feifei Li	|	0.52809991
+Xue Li	|	0.52765186
+Lei Zhang 0001	|	0.52669039
+Changshui Zhang	|	0.52622222
+Peter A. Boncz	|	0.52420091
+Alfredo Cuzzocrea	|	0.52415027
+Ke Yi	|	0.52397869
+Ambuj K. Singh	|	0.52236136
+Andrew Turpin	|	0.52236136
+Emine Yilmaz	|	0.52213189
+Rajeev Rastogi	|	0.52189455
+Yannis E. Ioannidis	|	0.52165899
+Vijayalakshmi Atluri	|	0.52069917
+Philip A. Bernstein	|	0.51773050
+Matthias Schubert	|	0.51754386
+Bruno Martins	|	0.51743119
+Jimmy J. Lin	|	0.51654412
+Jian-Tao Sun	|	0.51579846
+Yun Chi	|	0.51559633
+Stanley B. Zdonik	|	0.51423324
+Yanchun Zhang	|	0.51343837
+Xiaoming Li	|	0.51286449
+Brian D. Davison 0001	|	0.51282051
+Michalis Vazirgiannis	|	0.51083032
+Rong Jin	|	0.51059908
+Marijn Koolen	|	0.50998185
+Yi Chen 0001	|	0.50922509
+Altigran Soares da Silva	|	0.50835532
+David Maier	|	0.50813743
+Alin Deutsch	|	0.50693802
+Rafael Muñoz	|	0.50646950
+Zhong Su	|	0.50572687
+Michail Vlachos	|	0.50494160
+Gordon V. Cormack	|	0.50453721
+Hua Lu	|	0.50444050
+Benno Stein	|	0.50405186
+Lois M. L. Delcambre	|	0.50403587
+José Ramón Gil-García	|	0.50389610
+Amol Deshpande	|	0.50364964
+Xin Li	|	0.50279330
+Hanghang Tong	|	0.50260870
+Éric Gaussier	|	0.50184502
+Claudia Hauff	|	0.50089445
+Hsinchun Chen	|	0.50041563
+Jiaheng Lu	|	0.50000000
+Norman W. Paton	|	0.49769585
+Xingquan Zhu	|	0.49612403
+Sunil Prabhakar	|	0.49405306
+Daqing He	|	0.49405306
+Torben Bach Pedersen	|	0.49403122
+Giorgio Maria Di Nunzio	|	0.49403122
+Ming Li	|	0.49304912
+Bernhard Mitschang	|	0.49299720
+Michael J. Franklin	|	0.49261084
+Shenghua Bao	|	0.49225160
+Yannis Theodoridis	|	0.49201878
+Lise Getoor	|	0.49147982
+Gang Wang	|	0.49107143
+Guido Moerkotte	|	0.49094203
+Alfons Kemper	|	0.49059829
+Satoshi Nakamura	|	0.48983364
+Volker Markl	|	0.48951049
+Maristella Agosti	|	0.48916968
+Jon M. Kleinberg	|	0.48888889
+Hongfei Lin	|	0.48884924
+Shenghuo Zhu	|	0.48843663
+Milad Shokouhi	|	0.48720212
+Gustavo Alonso	|	0.48663594
+Deepak Agarwal	|	0.48634361
+Il-Yeol Song	|	0.48604860
+Juan Trujillo	|	0.48547329
+Yin Leng Theng	|	0.48484848
+Yan Zhang	|	0.48384279
+Floris Geerts	|	0.48384118
+Arthur Zimek	|	0.48151488
+Shiwei Tang	|	0.48122867
+Diane Kelly	|	0.48080439
+Wagner Meira Jr.	|	0.48044693
+Fabio Casati	|	0.47971145
+Susan B. Davidson	|	0.47877145
+Dong Xin	|	0.47833935
+Carson Kai-Sang Leung	|	0.47761194
+Krithi Ramamritham	|	0.47750230
+Malú Castellanos	|	0.47747748
+Stephen Robertson	|	0.47725162
+Jaideep Vaidya	|	0.47723133
+Satoshi Oyama	|	0.47689464
+Oren Kurland	|	0.47680000
+Xiaokui Xiao	|	0.47652790
+Gagan Agrawal	|	0.47610294
+Chengqi Zhang	|	0.47584973
+Minos N. Garofalakis	|	0.47533632
+Kam-Fai Wong	|	0.47479377
+Michael Gertz	|	0.47470101
+Zhaohui Zheng	|	0.47394958
+Marianne Winslett	|	0.47343896
+Edward Y. Chang	|	0.47323944
+Klemens Böhm	|	0.47304348
+Phokion G. Kolaitis	|	0.47235239
+Cong Yu	|	0.47219690
+Jing Gao	|	0.47195013
+Calisto Zuzarte	|	0.47178538
+Edleno Silva de Moura	|	0.47122302
+Louiqa Raschid	|	0.47114475
+Dirk Habich	|	0.47080630
+Julio Gonzalo	|	0.47048301
+Vassilis Plachouras	|	0.46938776
+Hideo Joho	|	0.46936852
+Magdalena Balazinska	|	0.46918123
+Alexey Pryakhin	|	0.46911519
+Zachary G. Ives	|	0.46736045
+Hong Chen	|	0.46441948
+Xuanhui Wang	|	0.46438483
+Pang-Ning Tan	|	0.46411929
+Hongbo Xu	|	0.46408840
+Mário J. Silva	|	0.46361186
+Fernando Diaz	|	0.46321526
+Jennifer Widom	|	0.46252285
+Fabrizio Silvestri	|	0.46235607
+Evangelos Kanoulas	|	0.46223840
+Andreas Henrich	|	0.46082090
+Luis Alfonso Ureña López	|	0.46069470
+Bertram Ludäscher	|	0.46025878
+Xian-Sheng Hua	|	0.46003552
+Junhu Wang	|	0.45910781
+Hugo Zaragoza	|	0.45895852
+Ashraf Aboulnaga	|	0.45844749
+Raghav Kaushik	|	0.45739910
+Philippe Mulhem	|	0.45660377
+Adam Jatowt	|	0.45656192
+Ugur Çetintemel	|	0.45650140
+Michel Beigbeder	|	0.45650140
+Hongyan Liu	|	0.45623836
+Roi Blanco	|	0.45604874
+Alexandros Labrinidis	|	0.45479963
+Gianluca Demartini	|	0.45454545
+Ming Zhang	|	0.45396536
+Enhong Chen	|	0.45369584
+Ninghui Li	|	0.45244691
+Yannis Papakonstantinou	|	0.45167286
+Georg Gottlob	|	0.45149254
+Emmanuel Müller	|	0.44964029
+Ian Davidson	|	0.44954128
+Ingmar Weber	|	0.44901457
+Carol Peters	|	0.44852941
+Vipin Kumar	|	0.44849590
+Luis F. Luna-Reyes	|	0.44734552
+Kun-Lung Wu	|	0.44654683
+Frank Neven	|	0.44654683
+Wolf-Tilo Balke	|	0.44589552
+Ian Ruthven	|	0.44547135
+Peng Zhang	|	0.44544635
+Patrice Bellot	|	0.44523598
+Ting Wang	|	0.44423792
+Peter Kunath	|	0.44367418
+Bernhard Seeger	|	0.44362970
+William Webber	|	0.44257703
+James Bailey	|	0.44220183
+Yannis Kotidis	|	0.44214487
+David J. DeWitt	|	0.44183950
+Anastasia Ailamaki	|	0.44110276
+Murali Mani	|	0.44003777
+Maarten Marx	|	0.43981043
+Martin L. Kersten	|	0.43956044
+Jayavel Shanmugasundaram	|	0.43929564
+Massih-Reza Amini	|	0.43920829
+Dik Lun Lee	|	0.43884220
+Virgiliu Pavlu	|	0.43879473
+Ian Soboroff	|	0.43838194
+Yue Liu	|	0.43784787
+Meichun Hsu	|	0.43739280
+Jun Guo	|	0.43691149
+Kenneth A. Ross	|	0.43601896
+Christos Doulkeridis	|	0.43560606
+Derong Shen	|	0.43549863
+Xuanjing Huang	|	0.43494777
+Jens Teubner	|	0.43461900
+Xin Chen	|	0.43461900
+Rada Chirkova	|	0.43412322
+James Cheng	|	0.43391067
+Yuefeng Li	|	0.43233083
+Klaus Berberich	|	0.43169399
+Weining Qian	|	0.43137255
+Peter J. Haas	|	0.43071161
+Aijun An	|	0.43071161
+James A. Thom	|	0.43062201
+Anish Das Sarma	|	0.43051771
+Marlon Dumas	|	0.43047619
+Raymond K. Wong	|	0.43030870
+Panos Kalnis	|	0.43018868
+Marios Hadjieleftheriou	|	0.42992424
+Xiaofei He	|	0.42843602
+Andrew McCallum	|	0.42830540
+Jan Mendling	|	0.42767296
+Mathias Weske	|	0.42700730
+Manfred Reichert	|	0.42698706
+David W. Cheung	|	0.42681775
+Jong-Hyeok Lee	|	0.42632067
+Shuicheng Yan	|	0.42601320
+Fabian M. Suchanek	|	0.42595978
+Xiang Lian	|	0.42561205
+Nivio Ziviani	|	0.42557252
+Chirag Shah	|	0.42497670
+Yi Chang	|	0.42330763
+Agma J. M. Traina	|	0.42307692
+Leonid Libkin	|	0.42271881
+Jiyin He	|	0.42222222
+Bugra Gedik	|	0.42194891
+Srikanta J. Bedathur	|	0.42180518
+Miguel Angel García Cumbreras	|	0.42173112
+Fosca Giannotti	|	0.42074928
+Mark Baillie	|	0.41932543
+Kamesh Munagala	|	0.41904762
+Sang-Wook Kim	|	0.41843318
+Jun Ma	|	0.41834862
+Bhavani M. Thuraisingham	|	0.41791045
+Omar Alonso	|	0.41735919
+Arindam Banerjee	|	0.41619586
+Ismail Sengör Altingövde	|	0.41577061
+Wei-Shinn Ku	|	0.41570881
+Massimo Melucci	|	0.41509434
+Lars Schmidt-Thieme	|	0.41491396
+Paul N. Bennett	|	0.41457069
+Anastassia Ailamaki	|	0.41433566
+Tetsuya Sakai	|	0.41428571
+Soumen Chakrabarti	|	0.41418984
+Sreenivas Gollapudi	|	0.41246563
+Tengjiao Wang	|	0.41231343
+Ihab F. Ilyas	|	0.41219963
+Fernando Llopis	|	0.41100917
+Rosie Jones	|	0.41069723
+Wei Lu	|	0.41069723
+Mariano P. Consens	|	0.41030534
+Maria Luisa Sapino	|	0.40986717
+Jun Wang 0012	|	0.40955005
+Jun'ichi Tatemura	|	0.40950640
+Carlos Ordonez	|	0.40934579
+Akrivi Vlachou	|	0.40878701
+Jianhan Zhu	|	0.40866290
+Junghoo Cho	|	0.40793201
+Erik Wilde	|	0.40761905
+Ken C. K. Lee	|	0.40754717
+Panayiotis Tsaparas	|	0.40751174
+Rahul Shah	|	0.40751174
+Seung-Hoon Na	|	0.40744186
+Christopher Olston	|	0.40684411
+Bo Chen	|	0.40671642
+Longbing Cao	|	0.40619308
+Moira C. Norrie	|	0.40613027
+Jun He	|	0.40571429
+William W. Cohen	|	0.40566038
+Raffaele Perego	|	0.40520446
+David Hawking	|	0.40460211
+Andreas Züfle	|	0.40425532
+Dou Shen	|	0.40363636
+Ruihua Song	|	0.40305635
+L. Venkata Subramaniam	|	0.40301318
+Jianwu Yang	|	0.40299906
+Davide Buscaldi	|	0.40228789
+Ouri Wolfson	|	0.40191388
+Herbert Van de Sompel	|	0.40152236
+Stefan Böttcher	|	0.40112465
+Dimitri Theodoratos	|	0.40076702
+Stephen Tomlinson	|	0.39923591
+Aidong Zhang	|	0.39889197
+Tiezheng Nie	|	0.39887640
+Klaus-Dieter Schewe	|	0.39886040
+Yizhou Sun	|	0.39859526
+Byron Choi	|	0.39848197
+Yu Zheng	|	0.39669421
+Johann Gamper	|	0.39660057
+Ricardo da Silva Torres	|	0.39620853
+Wee Keong Ng	|	0.39615385
+Karen Pinel-Sauvagnat	|	0.39566396
+Yannis Manolopoulos	|	0.39503817
+Yan Jia	|	0.39499037
+Stéphane Bressan	|	0.39433962
+Wen-Chih Peng	|	0.39365672
+Alan J. Demers	|	0.39219331
+Joseph M. Hellerstein	|	0.39110287
+Bolin Ding	|	0.39093484
+Juanzi Li	|	0.39074074
+Olivier Pivert	|	0.39056604
+Yi Zhang 0001	|	0.39056604
+Nabil R. Adam	|	0.39015152
+Schahram Dustdar	|	0.38989170
+Marijn Janssen	|	0.38987816
+Roger Zimmermann	|	0.38958534
+Stephan Günnemann	|	0.38851351
+Song Wang	|	0.38800375
+Jinyan Li	|	0.38783270
+Hong Gao	|	0.38721461
+Elke Achtert	|	0.38667900
+Martha Larson	|	0.38625812
+Yongluan Zhou	|	0.38563327
+Lu Qin	|	0.38563327
+Yasushi Sakurai	|	0.38498556
+Sameep Mehta	|	0.38468900
+Claudia Plant	|	0.38461538
+Paul Thomas	|	0.38461538
+Steven C. H. Hoi	|	0.38418079
+Marcus Fontoura	|	0.38306064
+Eduard H. Hovy	|	0.38200184
+Theodore Dalamagas	|	0.38187078
+Hui Yang	|	0.38183503
+Raymond Chi-Wing Wong	|	0.38173516
+Shawn Bowers	|	0.38150289
+Evaggelia Pitoura	|	0.38141336
+Nilesh N. Dalvi	|	0.38140417
+Yin Yang	|	0.38140417
+Hwanjo Yu	|	0.38130841
+Shuigeng Zhou	|	0.38086304
+Özgür Ulusoy	|	0.38068182
+Dong Wang	|	0.38041431
+Dolf Trieschnigg	|	0.38014981
+Deng Cai	|	0.37986705
+Hiroaki Ohshima	|	0.37858509
+Jagan Sankaranarayanan	|	0.37786260
+Jiafeng Guo	|	0.37781629
+Stefano Ceri	|	0.37764933
+Kesheng Wu	|	0.37754114
+Natasa Milic-Frayling	|	0.37692308
+Bo Long	|	0.37656100
+Valentin Jijkoun	|	0.37651445
+Sally Jo Cunningham	|	0.37644788
+Gang Luo	|	0.37618147
+Pascal Poncelet	|	0.37512148
+Ingemar J. Cox	|	0.37428023
+Daniel J. Abadi	|	0.37297812
+Lidan Shou	|	0.37243948
+Anastasios Kementsietsidis	|	0.37236084
+Qi Guo	|	0.37222758
+Nicolas Bruno	|	0.37101449
+Donghui Zhang	|	0.37093690
+Jing Peng	|	0.37093690
+James Caverlee	|	0.37050691
+Mohammed Javeed Zaki	|	0.37022901
+Bingsheng He	|	0.36902486
+Andreas Hotho	|	0.36896878
+Jing He	|	0.36707663
+Cathal Gurrin	|	0.36700649
+Claudio Lucchese	|	0.36695485
+Juan-Zi Li	|	0.36666667
+Jun Huan	|	0.36638338
+Birger Larsen	|	0.36632747
+Oscar Pastor	|	0.36625120
+Alvaro A. A. Fernandes	|	0.36606292
+Haggai Roitman	|	0.36606292
+Philippe Rigaux	|	0.36567164
+Mark James Carman	|	0.36567164
+Atsuhiro Takasu	|	0.36538462
+Yunbo Cao	|	0.36483932
+P. Sreenivasa Kumar	|	0.36469447
+George Kollios	|	0.36467236
+Bernhard Thalheim	|	0.36451302
+Barry Smyth	|	0.36431227
+Yang Song	|	0.36414048
+Jaime Teevan	|	0.36363636
+Ping Luo	|	0.36363636
+Zhoujun Li	|	0.36363636
+Wenjie Zhang	|	0.36298932
+Liyun Ru	|	0.36294896
+Suman Nath	|	0.36278195
+Kunal Punera	|	0.36275461
+Yiping Ke	|	0.36259542
+Patrick Pantel	|	0.36241611
+Jiong Yang	|	0.36240310
+Zhaohui Wu	|	0.36210131
+Jinxiang Dong	|	0.36148955
+Michael J. Carey	|	0.36137667
+Patrick Ruch	|	0.36137667
+Nenad Stojanovic	|	0.36113657
+Egemen Tanin	|	0.36065574
+Roelof van Zwol	|	0.35976789
+Yan Huang	|	0.35912130
+Yiming Yang	|	0.35907336
+Sara Cohen	|	0.35892514
+Ely Porat	|	0.35887488
+Jing Jiang	|	0.35877863
+Foto N. Afrati	|	0.35838150
+Gary Marchionini	|	0.35818006
+Weiran Xu	|	0.35769231
+Jianmin Wang 0001	|	0.35753176
+Benyu Zhang	|	0.35753176
+Vijayshankar Raman	|	0.35734870
+S. Sudarshan 0001	|	0.35645472
+Daniela Nicklas	|	0.35632184
+Rui Zhou 0001	|	0.35593220
+Katja Hose	|	0.35589942
+Markus Schneider 0001	|	0.35564054
+Stefan Manegold	|	0.35559737
+Hiroshi Nakagawa	|	0.35521236
+Bart Goethals	|	0.35499515
+Charles X. Ling	|	0.35486982
+Lipyeow Lim	|	0.35483871
+Yoshiharu Ishikawa	|	0.35477583
+Peter Buneman	|	0.35465116
+Nuno Freire	|	0.35462345
+Thorsten Joachims	|	0.35440613
+Hua Wang	|	0.35416667
+Sanjay Kumar Madria	|	0.35406699
+Dan Olteanu	|	0.35361217
+Osmar R. Zaïane	|	0.35327635
+Yuqing Wu	|	0.35305344
+Arbee L. P. Chen	|	0.35271318
+Hua-Jun Zeng	|	0.35261708
+Manabu Okumura	|	0.35260116
+Peter Triantafillou	|	0.35171103
+Anastasios Tombros	|	0.35137702
+Hussein Suleman	|	0.35124760
+Jun Zhao	|	0.35081030
+Anil K. Jain	|	0.35081030
+Rodrygo L. T. Santos	|	0.35023041
+Marcel Karnstedt	|	0.35009671
+Rainer Gemulla	|	0.35009671
+Ladjel Bellatreche	|	0.34985968
+Michael G. Christel	|	0.34951456
+Goetz Graefe	|	0.34938621
+Qiming Chen	|	0.34899329
+Zaiqing Nie	|	0.34883721
+J. Stephen Downie	|	0.34883721
+Sanjay Chawla	|	0.34874759
+Byron J. Gao	|	0.34831461
+Hisashi Kashima	|	0.34816248
+Panagiotis Karras	|	0.34790875
+Arthur H. M. ter Hofstede	|	0.34740883
+Manos Tsagkias	|	0.34710744
+Eric SanJuan	|	0.34707574
+Henning Müller	|	0.34641148
+Tao Qin	|	0.34633682
+Georges Quénot	|	0.34630350
+Ronald Fagin	|	0.34563107
+Mor Naaman	|	0.34429400
+Jun Zhu	|	0.34396135
+Songbo Tan	|	0.34396135
+Taro Tezuka	|	0.34375000
+Jun Zhang	|	0.34354689
+Kyriakos Mouratidis	|	0.34307992
+Franciska de Jong	|	0.34225621
+Frans Coenen	|	0.34215501
+Ding Zhou	|	0.34197887
+Lei Li	|	0.34181818
+Deepayan Chakrabarti	|	0.34179688
+Jing Li	|	0.34136933
+Yunjun Gao	|	0.34109972
+Vivek R. Narasayya	|	0.34104046
+Shivakumar Vaithyanathan	|	0.34066986
+Michael Stonebraker	|	0.34054563
+Theodore Johnson	|	0.34038462
+Chee Yong Chan	|	0.34009662
+Ulf Leser	|	0.33994334
+Padmini Srinivasan	|	0.33951220
+Mark D. Smucker	|	0.33937083
+Berkant Barla Cambazoglu	|	0.33913043
+Paolo Manghi	|	0.33901515
+Chen Wang	|	0.33881897
+Daling Wang	|	0.33805477
+Toon Calders	|	0.33786408
+Joo-Hwee Lim	|	0.33776091
+Maria E. Orlowska	|	0.33739456
+Yansheng Lu	|	0.33690360
+Qiang Zhu	|	0.33690360
+Vasilis Vassalos	|	0.33655706
+Fusheng Wang	|	0.33644860
+Tomás Skopal	|	0.33624879
+Xavier Franch	|	0.33593750
+Jussi Karlgren	|	0.33592233
+Bee-Chung Chen	|	0.33589251
+Tamara Sumner	|	0.33560976
+William R. Hersh	|	0.33557047
+Goce Trajcevski	|	0.33554502
+Ahmed K. Elmagarmid	|	0.33528265
+Torsten Grust	|	0.33495618
+Mirna Adriani	|	0.33492823
+Zografoula Vagena	|	0.33491912
+Benjamin Piwowarski	|	0.33397683
+Panos Vassiliadis	|	0.33365292
+Sandeep Pandey	|	0.33333333
+Christophe Claramunt	|	0.33333333
+Katja Hofmann	|	0.33301798
+Xiaoling Wang	|	0.33301618
+Ariel Fuxman	|	0.33301065
+Peter Christen	|	0.33271375
+Alessandro Moschitti	|	0.33269962
+Carl-Christian Kanne	|	0.33140655
+Dino Pedreschi	|	0.33104799
+Martin Potthast	|	0.33050047
+Robert B. Allen	|	0.33011583
+Xiaolei Li	|	0.32983794
+Gabriel Ghinita	|	0.32977692
+Vishwa Vinay	|	0.32977692
+Curtis E. Dyreson	|	0.32913843
+Panagiotis G. Ipeirotis	|	0.32876712
+Julio Villena-Román	|	0.32855778
+Keun Ho Ryu	|	0.32855778
+Zhendong Niu	|	0.32853026
+Xiaodan Zhang	|	0.32827324
+Hari Sundaram	|	0.32821497
+Naren Ramakrishnan	|	0.32818533
+Limsoon Wong	|	0.32786885
+Ying Liu	|	0.32755299
+Weizhu Chen	|	0.32734153
+Jennifer Neville	|	0.32727273
+Shuming Shi	|	0.32649071
+Xin Jin	|	0.32645740
+Yu Zhang	|	0.32637571
+Yaron Kanza	|	0.32625483
+Hongzhi Wang	|	0.32610745
+Stavros Harizopoulos	|	0.32585366
+Claudiu S. Firan	|	0.32558140
+Leonardo Candela	|	0.32553606
+Nicola Orio	|	0.32553606
+Rajeev Motwani	|	0.32540438
+Stijn Vansummeren	|	0.32535885
+Chengkai Li	|	0.32504780
+Wenjie Li	|	0.32421875
+Nan Zhang 0004	|	0.32411821
+Chang-Tien Lu	|	0.32401157
+Yue Xu	|	0.32395732
+Ching-Yung Lin	|	0.32380952
+Venkatesh Ganti	|	0.32352941
+Peter Scheuermann	|	0.32338787
+Régis Saint-Paul	|	0.32333011
+Mark Roantree	|	0.32264334
+Filip Radlinski	|	0.32227488
+Gilad Mishne	|	0.32214765
+Prabhakar Raghavan	|	0.32208293
+Xiaohui Yu	|	0.32195122
+Ravishankar Ramamurthy	|	0.32190476
+Alan Fekete	|	0.32170543
+Demetrios Zeinalipour-Yazti	|	0.32170543
+Kuiyu Chang	|	0.32159848
+Eric P. Xing	|	0.32146295
+Bo Pang	|	0.32129278
+Pierre Senellart	|	0.32098765
+Kai Yu	|	0.32093933
+Alexandros Ntoulas	|	0.32077295
+Qi He	|	0.32061069
+Vasudeva Varma	|	0.31992516
+Gerd Stumme	|	0.31992337
+Xintao Wu	|	0.31992149
+Pável Calado	|	0.31976744
+Marc Najork	|	0.31968811
+Yuanhua Lv	|	0.31916903
+Eric Lo	|	0.31861804
+Rianne Kaptein	|	0.31861804
+Li Xiong	|	0.31800766
+Sadok Ben Yahia	|	0.31800766
+Pedro Furtado	|	0.31782946
+Wang Chiew Tan	|	0.31764706
+Debora Donato	|	0.31742941
+Nitesh V. Chawla	|	0.31658768
+Dario Colazzo	|	0.31629701
+Jorge Lobo	|	0.31629701
+Hao Ma	|	0.31629701
+Zhongfei (Mark) Zhang	|	0.31629701
+Jan Rittinger	|	0.31609756
+Vivekanand Gopalkrishnan	|	0.31589147
+Chris Jermaine	|	0.31578947
+Peter Wilkins	|	0.31568627
+Alvaro Barreiro	|	0.31537708
+Bin Gao	|	0.31425800
+Hajo A. Reijers	|	0.31395349
+Geert-Jan Houben	|	0.31357553
+Kevin S. Beyer	|	0.31353457
+Hai Jin	|	0.31322957
+Michael Bendersky	|	0.31316042
+Jan Van den Bussche	|	0.31267874
+Jilles Vreeken	|	0.31261770
+Stefan Büttcher	|	0.31250000
+David B. Lomet	|	0.31231814
+Michela Bertolotto	|	0.31219512
+Kostas Patroumpas	|	0.31201550
+Sudipto Guha	|	0.31128405
+Peter Bruza	|	0.31128405
+Jian Chen	|	0.31115460
+Jialie Shen	|	0.31111111
+Ludovic Denoyer	|	0.31094050
+Jian Huang 0002	|	0.31090047
+Olga Vechtomova	|	0.31081081
+Murat Kantarcioglu	|	0.31069767
+Soon Ae Chun	|	0.31021195
+Christopher Ré	|	0.31018078
+Arno Siebes	|	0.30950049
+Rui Li	|	0.30945559
+Yue Kou	|	0.30945559
+George H. L. Fletcher	|	0.30842912
+Flavius Frasincar	|	0.30842912
+Jianfeng Gao	|	0.30813953
+Flip Korn	|	0.30813953
+Dell Zhang	|	0.30799220
+Andrey Balmin	|	0.30769231
+Sergey Melnik	|	0.30710173
+Daxin Jiang	|	0.30709427
+Dimitris Sacharidis	|	0.30694037
+Lucian Popa	|	0.30694037
+Wen-Chi Hou	|	0.30620155
+Nuno Cardoso	|	0.30604288
+Lars Kulik	|	0.30590513
+Ying Li	|	0.30574489
+Dieter Pfoser	|	0.30558276
+Xiang Zhang	|	0.30537229
+Sharon S. Dawes	|	0.30528376
+Yihong Gong	|	0.30515063
+Ullas Nambiar	|	0.30498534
+Lei Tang	|	0.30498534
+Paolo Papotti	|	0.30488974
+Jun Gao	|	0.30459770
+Petko Bakalov	|	0.30451866
+Yang Liu	|	0.30447193
+Yanlei Diao	|	0.30439024
+Anne Laurent	|	0.30392157
+Carlotta Domeniconi	|	0.30392157
+Opher Etzion	|	0.30350195
+Rui Zhang 0003	|	0.30332681
+Felisa Verdejo	|	0.30314585
+Rui Cai	|	0.30308880
+Yabo Xu	|	0.30303030
+Elisa Noguera	|	0.30291627
+Chetan Gupta	|	0.30199430
+José Carlos González Cristóbal	|	0.30192308
+Jing Zhang 0001	|	0.30181471
+Dmitri V. Kalashnikov	|	0.30107527
+Jagannathan Srinivasan	|	0.30107527
+Gjergji Kasneci	|	0.30097087
+Gregory Crane	|	0.30029441
+Amit P. Sheth	|	0.30009681
+Ronny Lempel	|	0.29924242
+Andrea Tagarelli	|	0.29912023
+Salvatore Orlando	|	0.29902913
+Jinli Cao	|	0.29891839
+Wessel Kraaij	|	0.29891839
+Lynda Tamine	|	0.29873909
+Simon J. Puglisi	|	0.29853659
+Chi Wang	|	0.29850746
+Gang Li	|	0.29844961
+Inderjit S. Dhillon	|	0.29836381
+Jianxin Li	|	0.29795521
+Utkarsh Srivastava	|	0.29774731
+Ling Feng	|	0.29770992
+Alejandro A. Vaisman	|	0.29766537
+Wim Martens	|	0.29766537
+Kyu-Young Whang	|	0.29708738
+Won Suk Lee	|	0.29708738
+Christa Womser-Hacker	|	0.29701061
+Marie-Francine Moens	|	0.29679922
+Frank McCown	|	0.29658537
+George Karypis	|	0.29629630
+Haofen Wang	|	0.29615385
+Johan Bollen	|	0.29571984
+Jaideep Srivastava	|	0.29571984
+Min Song	|	0.29551954
+Haruo Yokota	|	0.29543246
+Xiaohua Zhou	|	0.29536680
+Lars Backstrom	|	0.29514563
+Ying Yan	|	0.29492188
+Mohamed A. Sharaf	|	0.29479769
+Alberto Del Bimbo	|	0.29457364
+Bongki Moon	|	0.29428848
+Alexander G. Hauptmann	|	0.29400387
+Latifur Khan	|	0.29382958
+Manuel Palomar	|	0.29382958
+Paul-Alexandru Chirita	|	0.29361296
+Dan Lin	|	0.29354207
+Haibo Hu	|	0.29320388
+Kalervo Järvelin	|	0.29301868
+Pasquale Pagano	|	0.29273084
+Philip Bohannon	|	0.29268293
+Thomas S. Huang	|	0.29254302
+Manuel Montes-y-Gómez	|	0.29244357
+Luis Villaseñor Pineda	|	0.29244357
+David Jensen	|	0.29244357
+Marius Pasca	|	0.29206963
+Adriano Veloso	|	0.29191321
+Riccardo Torlone	|	0.29158513
+Loïc Maisonnasse	|	0.29158513
+Giuseppe Amato	|	0.29122469
+Martin Pfeifle	|	0.29074074
+Wook-Shin Han	|	0.29073171
+Robert Villa	|	0.29073171
+Wei Ding 0003	|	0.29035339
+Victor Vianu	|	0.29019608
+Donatella Castelli	|	0.28994083
+Gabriel Pui Cheong Fung	|	0.28937008
+Avi Arampatzis	|	0.28929605
+Lukasz Golab	|	0.28875969
+David Hannah	|	0.28875969
+Mario A. Nascimento	|	0.28849903
+Andrea Calì	|	0.28823529
+Rohini K. Srihari	|	0.28823529
+Eric Horvitz	|	0.28811974
+Robert Sanderson	|	0.28795299
+Dirk Van Gucht	|	0.28795299
+Börkur Sigurbjörnsson	|	0.28792271
+Matthew Lease	|	0.28761905
+Stefan Siersdorfer	|	0.28737864
+Georges Dupret	|	0.28737864
+Nikos Pelekis	|	0.28711898
+Patrick Bosc	|	0.28682927
+Qiankun Zhao	|	0.28654971
+Henning Rode	|	0.28654405
+Rong Yan	|	0.28626692
+Douglas Stott Parker Jr.	|	0.28599606
+Indrakshi Ray	|	0.28599412
+Jangwon Seo	|	0.28599222
+Arnd Christian König	|	0.28571429
+Johann Eder	|	0.28571429
+Tian Xia	|	0.28543689
+Ernest Teniente	|	0.28543307
+Xiaoxin Yin	|	0.28516004
+Nicolas Usunier	|	0.28487230
+Zhifeng Bao	|	0.28435115
+Nieves R. Brisaboa	|	0.28432327
+Tim Kraska	|	0.28383459
+Qing Zhang	|	0.28377065
+Gerome Miklau	|	0.28377065
+Yosi Mass	|	0.28377065
+Dean Jacobs	|	0.28375734
+Diana Santos	|	0.28347996
+Giovanni Semeraro	|	0.28346457
+Dingding Wang	|	0.28326996
+Ling Wang	|	0.28320312
+Dennis Fetterly	|	0.28318584
+Ralf Hartmut Güting	|	0.28292683
+George Samaras	|	0.28290766
+Shuang-Hong Yang	|	0.28267183
+Philippe Pucheral	|	0.28235294
+Anand Ranganathan	|	0.28235294
+Dong-Hong Ji	|	0.28195489
+Mourad Ouzzani	|	0.28182702
+Jie Peng	|	0.28152493
+Matthias Böhm 0001	|	0.28131021
+Adam Silberstein	|	0.28125000
+Xiangdong Zhou	|	0.28121927
+Christopher B. Jones	|	0.28100775
+Arnab Bhattacharya 0001	|	0.28097561
+Jaime Arguello	|	0.28097561
+Paolo Boldi	|	0.28094303
+Srinath Srinivasa	|	0.28042843
+Jun Wang	|	0.28037383
+Themis Palpanas	|	0.28030303
+Guandong Xu	|	0.28019324
+Wei Jin	|	0.27969349
+Rina Panigrahy	|	0.27956989
+Ronan Cummins	|	0.27932961
+Haibin Cheng	|	0.27929688
+Yang-Sae Moon	|	0.27925270
+Kevin Wilkinson	|	0.27911453
+Susanne Boll	|	0.27902439
+Tobias Emrich	|	0.27881041
+Julia Stoyanovich	|	0.27862595
+Floriana Esposito	|	0.27857829
+Elaine G. Toms	|	0.27815867
+Yannis Velegrakis	|	0.27799228
+Rifat Ozcan	|	0.27793975
+Stratos Idreos	|	0.27788650
+Alex Thomo	|	0.27701375
+Neel Sundaresan	|	0.27698185
+Manfred Hauswirth	|	0.27674190
+Georg Lausen	|	0.27640671
+Christoph F. Eick	|	0.27559055
+Yukiko Kawai	|	0.27552987
+Oded Shmueli	|	0.27531957
+Weiwei Sun	|	0.27531957
+Lei Zou	|	0.27526468
+Zhi-Hong Deng	|	0.27512195
+Benjamin C. M. Fung	|	0.27504912
+Bin Wu	|	0.27477920
+Maya Ramanath	|	0.27477920
+Brigitte Grau	|	0.27477920
+John Tait	|	0.27466151
+Johannes Aßfalg	|	0.27458617
+Yu Gu 0002	|	0.27458617
+Nan Tang 0001	|	0.27450980
+See-Kiong Ng	|	0.27450980
+Noel E. O'Connor	|	0.27450980
+Mostafa Keikha	|	0.27439614
+Zhenjie Zhang	|	0.27436140
+Reda Alhajj	|	0.27431907
+Cristina Ribeiro	|	0.27424094
+Nicolas Spyratos	|	0.27416174
+I. V. Ramakrishnan	|	0.27416174
+Juan M. Fernández-Luna	|	0.27416174
+Juan F. Huete	|	0.27416174
+Victor Muntés-Mulero	|	0.27362205
+Wen Jin	|	0.27333975
+Seungwon Yang	|	0.27317073
+Mingfang Wu	|	0.27308448
+Nicholas J. Belkin	|	0.27281460
+Hongbo Deng	|	0.27272727
+Mirek Riedewald	|	0.27264061
+Sergei Vassilvitskii	|	0.27229147
+Berthier A. Ribeiro-Neto	|	0.27228208
+Wen-Syan Li	|	0.27218935
+Tak-Lam Wong	|	0.27218935
+Vanessa Murdock	|	0.27201566
+Philipp Cimiano	|	0.27192118
+Joydeep Ghosh	|	0.27192118
+Sumit Negi	|	0.27165354
+Óscar Ferrández	|	0.27148438
+Silviu Cucerzan	|	0.27138643
+Giovanna Guerrini	|	0.27111984
+Antoine Doucet	|	0.27111984
+Feida Zhu	|	0.27109005
+Frederick Reiss	|	0.27048371
+Sang-Won Lee	|	0.27048371
+Chong-Wah Ngo	|	0.27032321
+Bo Xu	|	0.27021696
+Sunita Sarawagi	|	0.27016521
+Andrés Montoyo	|	0.26979472
+Lynda Tamine-Lechani	|	0.26979472
+Vladislav Shkapenyuk	|	0.26968504
+David E. Losada	|	0.26968504
+Chew-Hung Chang	|	0.26964113
+In-Su Kang	|	0.26959847
+Dietrich Klakow	|	0.26941986
+Val Tannen	|	0.26934097
+Amélie Marian	|	0.26930693
+Frank M. Shipman III	|	0.26919431
+Changjie Tang	|	0.26850938
+Yangqiu Song	|	0.26848249
+Kien A. Hua	|	0.26822157
+Shixia Liu	|	0.26822157
+Vincent Claveau	|	0.26822157
+Hausi A. Müller	|	0.26808100
+Anirban Mondal	|	0.26771654
+Ziming Zhuang	|	0.26770126
+Yehuda Koren	|	0.26757812
+Mengchi Liu	|	0.26756497
+J. Wenny Rahayu	|	0.26745329
+Zhongzhi Shi	|	0.26744186
+Boon Thau Loo	|	0.26731707
+Per-Åke Larson	|	0.26717557
+Marco Brambilla	|	0.26692836
+Ralph Krieger	|	0.26679649
+Guang Qiu	|	0.26679649
+Myra Spiliopoulou	|	0.26653696
+Yunyao Li	|	0.26653696
+Randal C. Burns	|	0.26653504
+Toshiyuki Amagasa	|	0.26627219
+Kristian Kersting	|	0.26576140
+Siegfried Nijssen	|	0.26574803
+Jiangqin Wu	|	0.26550388
+Jayant R. Haritsa	|	0.26536585
+Paolo Giorgini	|	0.26536585
+Rafael Berlanga Llavori	|	0.26522593
+Michael Grossniklaus	|	0.26510721
+Uwe Röhm	|	0.26496565
+David Lazer	|	0.26487524
+José M. Perea-Ortega	|	0.26484907
+Adrian Popescu	|	0.26470588
+Luis Gravano	|	0.26456071
+Hang Guo	|	0.26456071
+Michael D. Lieberman	|	0.26418787
+Kevyn Collins-Thompson	|	0.26400760
+Oliver Spatscheck	|	0.26377953
+Barbara Carminati	|	0.26367188
+Elena Ferrari	|	0.26367188
+Laurence A. F. Park	|	0.26367188
+Takehiro Yamamoto	|	0.26356589
+Andreas Behrend	|	0.26315789
+Jun Liu	|	0.26290166
+Cuiping Li	|	0.26274510
+Paul McNamee	|	0.26274510
+Bill Howe	|	0.26260704
+Bettina Kemme	|	0.26258638
+Anselmo Peñas	|	0.26248776
+Qiang Ma 0001	|	0.26232742
+Marco A. Casanova	|	0.26206897
+Nesime Tatbul	|	0.26197458
+Jae-Gil Lee	|	0.26181102
+Young-In Song	|	0.26181102
+Andrea L. Kavanaugh	|	0.26171875
+Evangelos E. Milios	|	0.26155359
+Vinod Muthusamy	|	0.26155359
+Hady Wirawan Lauw	|	0.26146341
+Huajing Li	|	0.26120858
+James Cheney	|	0.26104024
+Himanshu Gupta	|	0.26086957
+Gang Wu	|	0.26078431
+Martin Klein	|	0.26061204
+Vasant Honavar	|	0.26044704
+Walker M. White	|	0.26036644
+Jean-François Boulicaut	|	0.26009852
+Elad Yom-Tov	|	0.25984252
+Giorgio Ghelli	|	0.25978988
+Nikolaj Tatti	|	0.25976562
+Jian Yin	|	0.25958702
+Vitor R. Carvalho	|	0.25958702
+Thomas Bernecker	|	0.25936599
+Zhijun Yin	|	0.25875486
+Farnoush Banaei Kashani	|	0.25857003
+Hongyan Li	|	0.25857003
+Yueguo Chen	|	0.25843780
+Yalou Huang	|	0.25831703
+Martin Scholz	|	0.25812808
+Yuan An	|	0.25806452
+Sara Lana-Serrano	|	0.25775194
+Palakorn Achananuparp	|	0.25762045
+Rimma V. Nehme	|	0.25736739
+Xiuzhen Zhang	|	0.25736739
+Davide Martinenghi	|	0.25717112
+Zi Huang	|	0.25705940
+Wenliang Du	|	0.25691700
+Toralf Kirsten	|	0.25691700
+Yue Pan	|	0.25666338
+Yutaka Matsuo	|	0.25661117
+Isaac G. Councill	|	0.25655977
+Ziv Bar-Yossef	|	0.25641026
+Mathias Géry	|	0.25641026
+Ryoji Kataoka	|	0.25615764
+Thijs Westerveld	|	0.25601540
+Yan Liu	|	0.25596944
+Thomas Deselaers	|	0.25590551
+Radu Sion	|	0.25585938
+Peng Wang	|	0.25560976
+José Luis Ambite	|	0.25560976
+Ashwin Machanavajjhala	|	0.25552354
+Glenn Fung	|	0.25540275
+Jonathan L. Elsas	|	0.25515211
+Patrick Martin	|	0.25511198
+Denilson Barbosa	|	0.25490196
+Mauricio Marín	|	0.25490196
+Li Guo	|	0.25486381
+Peter M. G. Apers	|	0.25468904
+Apostolos N. Papadopoulos	|	0.25465230
+P. Krishna Reddy	|	0.25465230
+Raluca Paiu	|	0.25465230
+Yoelle Maarek	|	0.25460931
+Richard Hull	|	0.25443787
+Josep-Lluis Larriba-Pey	|	0.25440313
+Dingyi Han	|	0.25418719
+Uma Murthy	|	0.25396825
+Euripides G. M. Petrakis	|	0.25396825
+Prasad M. Deshpande	|	0.25393701
+David W. Embley	|	0.25393701
+Holger Schwarz	|	0.25365854
+Justin J. Levandoski	|	0.25363020
+Yuhong Xiong	|	0.25363020
+Philippe Cudré-Mauroux	|	0.25343811
+Christopher C. Yang	|	0.25314010
+Manuel A. Pérez-Quiñones	|	0.25244618
+Heiko Schuldt	|	0.25242718
+Stefano Ferilli	|	0.25242718
+Yong Zhang	|	0.25240848
+Sebastian Link	|	0.25219941
+Daniel Deutch	|	0.25213270
+Peixiang Zhao	|	0.25196850
+Michael Benedikt	|	0.25196850
+Dennis Shasha	|	0.25170732
+Laurianne Sitbon	|	0.25168108
+Badrish Chandramouli	|	0.25145068
+Tsuyoshi Idé	|	0.25123640
+Carlo Curino	|	0.25122669
+Jing Bai	|	0.25098814
+Yong Liu	|	0.25098039
+Steffen Staab	|	0.25049310
+Antonios Deligiannakis	|	0.25049310
+Krishnaram Kenthapadi	|	0.25024438
+Andreas Nürnberger	|	0.25000000
+Kamalakar Karlapalem	|	0.25000000
+Shalini R. Urs	|	0.24975985
+Kehong Wang	|	0.24975610
+Marin Litoiu	|	0.24975223
+Seon Ho Kim	|	0.24951644
+Alok N. Choudhary	|	0.24930748
+Marco Cristo	|	0.24926398
+Claudia Niederée	|	0.24901961
+Alexander Hinneburg	|	0.24878523
+Erich Schubert	|	0.24878523
+Feng Pan	|	0.24877571
+Erwin Leonardi	|	0.24853229
+Le Sun	|	0.24852071
+Carl Lagoze	|	0.24832856
+Can Wang	|	0.24828935
+Pu-Jen Cheng	|	0.24804688
+Josiane Mothe	|	0.24803150
+Paolo Atzeni	|	0.24727992
+Ke Zhou	|	0.24719101
+Oscar Díaz	|	0.24703557
+Hiroyuki Toda	|	0.24703557
+Verena Kantere	|	0.24654832
+Pablo Castells	|	0.24588577
+Jie Liu	|	0.24564797
+Anirban Dasgupta	|	0.24561404
+Yang Zhang	|	0.24530168
+Matthias Brantner	|	0.24509804
+Marc H. Scholl	|	0.24489796
+David R. Karger	|	0.24461840
+David Vallet	|	0.24457594
+Jayant Madhavan	|	0.24433498
+Bin Zhou 0002	|	0.24414062
+Sung-Hyon Myaeng	|	0.24409449
+Flavio Junqueira	|	0.24390244
+Peter M. Fischer	|	0.24361493
+Bogdan Cautis	|	0.24361493
+Carlos A. Heuser	|	0.24356436
+Chei Sian Lee	|	0.24342746
+Jian Hu	|	0.24337586
+Calton Pu	|	0.24332344
+Chuan Xiao	|	0.24324324
+Subbarao Kambhampati	|	0.24313725
+Luc Bouganim	|	0.24284304
+Huajun Chen	|	0.24284304
+Qiang Wang	|	0.24284304
+Sergio Greco	|	0.24284304
+Amarnath Gupta	|	0.24266145
+Vo Ngoc Anh	|	0.24266145
+Carlo Sartiani	|	0.24242424
+Hakim Hacid	|	0.24218750
+Jeong-Hyon Hwang	|	0.24188791
+Gianmaria Silvello	|	0.24154589
+Shichao Zhang	|	0.24144487
+Arvind Arasu	|	0.24108004
+Peiquan Jin	|	0.24101069
+Emanuele Di Buccio	|	0.24094025
+Hans Jochen Scholl	|	0.24086871
+Ingo Frommholz	|	0.24063116
+Matthew Richardson	|	0.24063116
+Wei Peng	|	0.24063116
+Diego Calvanese	|	0.24039409
+Abdur Chowdhury	|	0.24038462
+Marco Dussin	|	0.24031008
+Feng Chen	|	0.24000000
+Yuan Lin	|	0.23992322
+Inderpal Narang	|	0.23992134
+Luciano Barbosa	|	0.23992134
+Craig A. Knoblock	|	0.23984143
+Christopher S. G. Khoo	|	0.23960396
+Tingjian Ge	|	0.23938224
+Wei Zheng	|	0.23938224
+Jiang Bian	|	0.23921569
+Mohamed H. Ali	|	0.23913043
+Ming Hua	|	0.23898139
+Zhanhuai Li	|	0.23889437
+George Forman	|	0.23865878
+Stefan Kramer	|	0.23842365
+Arturo Montejo Ráez	|	0.23842365
+Franck Ravat	|	0.23818898
+Olivier Teste	|	0.23818898
+Kurt Rothermel	|	0.23800384
+Warren Shen	|	0.23795477
+Matteo Golfarelli	|	0.23772102
+Mohammed Belkhatir	|	0.23772102
+Jan Hidders	|	0.23758520
+Guillaume Raschia	|	0.23738872
+Gultekin Özsoyoglu	|	0.23738872
+Xiaoyan Zhu	|	0.23725490
+Christine Largeron	|	0.23692004
+Shih-Fu Chang	|	0.23692004
+Songyun Duan	|	0.23645320
+Hongfei Yan	|	0.23643411
+Angela Bonifati	|	0.23634558
+Zhen Hua Liu	|	0.23622047
+Marcin Zukowski	|	0.23622047
+Christoph Becker 0001	|	0.23622047
+Chao Liu 0001	|	0.23598820
+Noriko Kando	|	0.23598820
+Shipeng Yu	|	0.23587711
+Jingren Zhou	|	0.23563218
+Yi-Cheng Tu	|	0.23541048
+Lei Zheng	|	0.23541048
+Julien Gobeill	|	0.23517787
+Maguelonne Teisseire	|	0.23517787
+Davood Rafiei	|	0.23506366
+Tina Eliassi-Rad	|	0.23506366
+Harumi A. Kuno	|	0.23494571
+Bin He	|	0.23483366
+Ramesh Jain	|	0.23483366
+Marco Mesiti	|	0.23471400
+Ah Chung Tsoi	|	0.23448276
+Jovan Pehcevski	|	0.23448276
+Aleksander Kolcz	|	0.23448276
+Ting Yu	|	0.23426912
+Chinya V. Ravishankar	|	0.23425197
+Vincent Oria	|	0.23425197
+François Bry	|	0.23412698
+Yi-Dong Shen	|	0.23402163
+Steffen Rendle	|	0.23402163
+Stéphane Clinchant	|	0.23389495
+Nematollaah Shiri	|	0.23389495
+Bernhard Pfahringer	|	0.23389495
+Colm O'Riordan	|	0.23369036
+Sebastiano Vigna	|	0.23366337
+Alan Nash	|	0.23343225
+Gordon Sun	|	0.23343225
+Milos Hauskrecht	|	0.23343225
+Michal Shmueli-Scheuer	|	0.23320158
+Bamshad Mobasher	|	0.23320158
+Vinayak R. Borkar	|	0.23297137
+Sarantos Kapidakis	|	0.23297137
+Amihood Amir	|	0.23297137
+Dipanjan Chakraborty 0001	|	0.23274162
+SangKeun Lee	|	0.23274162
+Xuan Zhou	|	0.23255814
+Cédric du Mouza	|	0.23251232
+Kunqing Xie	|	0.23251232
+Peter Brusilovsky	|	0.23233301
+Josiane Xavier Parreira	|	0.23205506
+Stefano Rizzi	|	0.23205506
+Eugene J. Shekita	|	0.23191278
+Ken Barker	|	0.23191278
+Mizuho Iwaihara	|	0.23191278
+David Taniar	|	0.23145401
+Ke Chen 0005	|	0.23143684
+Anupam Joshi	|	0.23137255
+Georgina Ramírez	|	0.23129252
+Luc De Raedt	|	0.23122530
+Guido Zuccon	|	0.23120301
+Weiming Hu	|	0.23114594
+Ali Dasdan	|	0.23114594
+Alex Dekhtyar	|	0.23113658
+Jérôme Siméon	|	0.23091977
+Le Zhao	|	0.23084577
+Flavio Chierichetti	|	0.23076923
+Richard Chbeir	|	0.23062016
+Sven Helmer	|	0.23054187
+Lide Wu	|	0.23038729
+Apostol Natsev	|	0.23008850
+Jin-Cheon Na	|	0.22993062
+Dan Zhang	|	0.22988506
+Sarvjeet Singh	|	0.22986248
+Stuart W. Shulman	|	0.22986248
+Mauricio A. Hernández	|	0.22970297
+Bo Liu	|	0.22963690
+Alpa Jain	|	0.22941176
+Robin Aly	|	0.22902270
+Gencai Chen	|	0.22902270
+Miro Lehtonen	|	0.22902270
+Chen Chen	|	0.22857143
+Miguel E. Ruiz	|	0.22851562
+Ganesh Ramakrishnan	|	0.22840119
+Claudia Roncancio	|	0.22840119
+Cheng Luo	|	0.22834646
+Gillian Dobbie	|	0.22823985
+Gunter Saake	|	0.22784810
+Linjun Yang	|	0.22784810
+Einoshin Suzuki	|	0.22784810
+Ziyang Liu	|	0.22749753
+Spiridon Bakiras	|	0.22749753
+Jörg Sander	|	0.22722821
+Eugene Wu 0002	|	0.22722821
+Fazli Can	|	0.22704837
+Jiuyong Li	|	0.22700587
+Yashar Moshfeghi	|	0.22645100
+Annika Hinze	|	0.22637795
+Hamid R. Motahari Nezhad	|	0.22637795
+Elias Frentzos	|	0.22596630
+Robert Gwadera	|	0.22596630
+Suresh Venkatasubramanian	|	0.22574257
+Christos Tryfonopoulos	|	0.22574257
+Aris Anagnostopoulos	|	0.22574257
+Nitin Gupta 0003	|	0.22529644
+Keke Cai	|	0.22526934
+Jeremy Pickens	|	0.22526934
+Takashi Washio	|	0.22507404
+Xiao Zhang	|	0.22504892
+James R. Cordy	|	0.22487562
+Chris Clifton	|	0.22485207
+Fabrizio Sebastiani 0001	|	0.22463054
+Pankaj K. Agarwal	|	0.22458858
+Dan Roth	|	0.22458858
+Xiaoming Yu	|	0.22458858
+Alexander F. Gelbukh	|	0.22442900
+Wai Gen Yee	|	0.22440945
+Christof Fetzer	|	0.22439024
+Marcos Antonio Vaz Salles	|	0.22418879
+Ke Deng	|	0.22398414
+Sven Hartmann	|	0.22396857
+Peter Baumann	|	0.22396857
+Matthew O. Ward	|	0.22395326
+Xiaoming Jin	|	0.22376238
+Matthias Bender	|	0.22374877
+Zohra Bellahsene	|	0.22309970
+Wendy Hui Wang	|	0.22287968
+Gianluigi Greco	|	0.22287968
+Alejandro P. Buchmann	|	0.22287390
+Ling Chen	|	0.22285714
+Djamal Benslimane	|	0.22266010
+Udo Kruschwitz	|	0.22264875
+Leman Akoglu	|	0.22264875
+Xin Zhou	|	0.22222222
+Nalini Venkatasubramanian	|	0.22200198
+Kurt Stockinger	|	0.22200198
+Shengliang Xu	|	0.22200198
+Lijun Chang	|	0.22178988
+Daniel Kifer	|	0.22156281
+Thomas Gottron	|	0.22135162
+Chen Lin	|	0.22134387
+Jun Xu 0001	|	0.22134387
+Xiaoying Wu	|	0.22112537
+Liang Zhang	|	0.22112537
+Slobodan Vucetic	|	0.22090730
+Hakan Ferhatosmanoglu	|	0.22089552
+Kenneth Salem	|	0.22089552
+Qing Yang	|	0.22070312
+Stavros Papadopoulos	|	0.22068966
+Xavier Tannier	|	0.22047244
+Ann Blandford	|	0.22045680
+Flavio Rizzolo	|	0.22001982
+Nazli Goharian	|	0.22001982
+Wei Chu	|	0.21982336
+Kun Zhang	|	0.21980198
+Ahmed Metwally	|	0.21958457
+Naoki Abe	|	0.21958457
+Gilles Zurfluh	|	0.21958457
+Shengrui Wang	|	0.21958457
+Stefanie Rinderle-Ma	|	0.21944177
+Guy M. Lohman	|	0.21936759
+Lihua Yue	|	0.21868787
+Tianyi Wu	|	0.21847071
+Laura Chiticariu	|	0.21847071
+Jin Huang	|	0.21832359
+Noureddine Mouaddib	|	0.21825397
+Shazia Wasim Sadiq	|	0.21807466
+Tereza Iofciu	|	0.21803766
+Andreas Broschart	|	0.21803766
+Sai Wu	|	0.21789883
+Alex Delis	|	0.21782178
+Arnab Nandi	|	0.21743389
+Carsten Eickhoff	|	0.21735160
+Monica Landoni	|	0.21734796
+Walid Magdy	|	0.21726479
+Alexander G. Gray	|	0.21726479
+David Lo	|	0.21717670
+David Pinto	|	0.21717670
+Jordi Cabot	|	0.21713147
+Chin-Wan Chung	|	0.21696252
+Heng Huang	|	0.21693625
+Amr Ahmed	|	0.21631879
+Kostas Kontogiannis	|	0.21616358
+Zhiguo Gong	|	0.21605550
+Joanna Ng	|	0.21589794
+Sachindra Joshi	|	0.21562809
+Christopher Leckie	|	0.21499014
+Omar Boussaid	|	0.21499014
+Jorge Bernardino	|	0.21492537
+Keke Chen	|	0.21492537
+Luanne Freund	|	0.21492537
+Saharon Rosset	|	0.21492537
+Jeffrey Scott Vitter	|	0.21471173
+Kerstin Bischoff	|	0.21456693
+Martin Halvey	|	0.21435595
+Giancarlo Guizzardi	|	0.21435595
+Stefan Conrad	|	0.21428571
+Carlos Garcia-Alvarado	|	0.21414538
+Huanhuan Cao	|	0.21408451
+Zhiwei Li	|	0.21407334
+Zbigniew Jerzak	|	0.21400778
+Arun Kumar	|	0.21393523
+Seyed M. M. Tahaghoghi	|	0.21386139
+Alexandros Kalousis	|	0.21364985
+Chunxiao Xing	|	0.21351616
+Paavo Arvola	|	0.21343874
+Jaewoo Kang	|	0.21338506
+Jose-Norberto Mazón	|	0.21322804
+Pavel Zezula	|	0.21259843
+Gu Xu	|	0.21251241
+Abhay Mehta	|	0.21238938
+Wei Wu	|	0.21238938
+Dejing Dou	|	0.21238938
+Yan Qi 0002	|	0.21230159
+Rajasekar Krishnamurthy	|	0.21230159
+Lei Wang	|	0.21218075
+Andreas Thor	|	0.21215043
+Vijay Atluri	|	0.21209118
+Mathieu Roche	|	0.21209118
+Suzanne M. Embury	|	0.21188119
+Simonas Saltenis	|	0.21188119
+Joshua Zhexue Huang	|	0.21167161
+Kuansan Wang	|	0.21153846
+Eduardo Mena	|	0.21146245
+Raman Adaikkalavan	|	0.21136590
+Federica Mandreoli	|	0.21125370
+Riccardo Martoglia	|	0.21125370
+Marcelo Mendoza	|	0.21125370
+Michael Schrefl	|	0.21125370
+Peiya Liu	|	0.21114370
+U. Kang	|	0.21113244
+Lidan Wang	|	0.21104536
+Yannis Sismanis	|	0.21094527
+Quanquan Gu	|	0.21093750
+Tanveer A. Faruquie	|	0.21062992
+Allan Hanbury	|	0.21052632
+Qi Tian	|	0.21052632
+Trent Jaeger	|	0.21031746
+Peter Bailey	|	0.21031746
+Eric S. K. Yu	|	0.21031746
+Letizia Tanca	|	0.21021611
+Filippo Furfaro	|	0.21010902
+Alexander J. Smola	|	0.21003717
+Tomoharu Iwata	|	0.20950533
+Zhewei Jiang	|	0.20948617
+Xiao Yu	|	0.20934579
+Zheng Ye	|	0.20918866
+Hao Wang	|	0.20907298
+Matthias Weidlich	|	0.20903955
+Conglei Yao	|	0.20895522
+Alexandra Poulovassilis	|	0.20895522
+Alexandros Nanopoulos	|	0.20886700
+Hao Wu	|	0.20866142
+Vivien Petras	|	0.20854022
+Erik Vee	|	0.20845624
+Remco M. Dijkman	|	0.20825147
+Chunxia Zhang	|	0.20771513
+Aparna S. Varde	|	0.20750988
+Karl Gyllstrom	|	0.20750988
+Michael Khoo	|	0.20737787
+Manolis Koubarakis	|	0.20730503
+Ellen M. Voorhees	|	0.20710059
+Wolfgang Gatterbauer	|	0.20703125
+Sherif Sakr	|	0.20689655
+Jianwen Su	|	0.20655412
+Philipp Rösch	|	0.20634921
+John Dunnion	|	0.20614470
+Hae-Chang Rim	|	0.20614470
+Ping Li 0001	|	0.20608440
+Anwitaman Datta	|	0.20594059
+Andrea Esuli	|	0.20594059
+Raymond T. Ng	|	0.20588235
+Ya Zhang	|	0.20573689
+Mirco Nanni	|	0.20558882
+Kareem Darwish	|	0.20553360
+Mohammad Al Hasan	|	0.20553360
+Xiaobing Xue	|	0.20533070
+Pauli Miettinen	|	0.20527859
+Marcelo Arenas	|	0.20456802
+Zhiyong Shen	|	0.20452311
+Jiefeng Cheng	|	0.20436508
+Francesco Gullo	|	0.20432220
+Yin Zhang	|	0.20432220
+Haesun Park	|	0.20428016
+Maosong Sun	|	0.20416254
+Jianguo Xiao	|	0.20412169
+Xiangnan Kong	|	0.20382166
+Yannis Tzitzikas	|	0.20375865
+Kaushik Chakrabarti	|	0.20372184
+Maria-Esther Vidal	|	0.20335637
+Christina Lioma	|	0.20315582
+Bela Stantic	|	0.20312500
+Shima Gerani	|	0.20275591
+Chaokun Wang	|	0.20270270
+Khalid Belhajjame	|	0.20238095
+Xiang Li	|	0.20238095
+Jixue Liu	|	0.20235756
+Lin Liu 0001	|	0.20198020
+Erik Buchmann	|	0.20176298
+Kokou Yétongnon	|	0.20174588
+Mariam Daoud	|	0.20158103
+Sougata Mukherjea	|	0.20158103
+Mohamed Y. Eltabakh	|	0.20138203
+Thomas Schwentick	|	0.20138203
+John R. Smith	|	0.20138203
+Balder ten Cate	|	0.20118343
+Richard D. Lawrence	|	0.20099502
+Philipp Kranen	|	0.20098522
+Francisco Claude	|	0.20098522
+Michael I. Jordan	|	0.20098522
+Sarah Cohen Boulakia	|	0.20079523
+Cindy Xide Lin	|	0.20077973
+Henrique Andrade	|	0.20019822
+Berthold Reinwald	|	0.20019822
+Ziyu Guan	|	0.20019822
+Maximilian Eibl	|	0.20019822
+Indrajit Bhattacharya	|	0.20019822
+Mingjing Li	|	0.19980601
+Xiaochun Yang	|	0.19980218
+Jens Kürsten	|	0.19960474
+Muhammad Aamir Cheema	|	0.19941917
+Wei Wei	|	0.19941349
+Bishwaranjan Bhattacharjee	|	0.19940770
+Todd Eavis	|	0.19940770
+Christopher M. Jermaine	|	0.19901478
+Lei Ji	|	0.19901478
+Srujana Merugu	|	0.19900498
+Padhraic Smyth	|	0.19900498
+Giridhar Kumaran	|	0.19900498
+Teresa M. Harrison	|	0.19883041
+Chengxiang Zhai	|	0.19881890
+Yun Sing Koh	|	0.19880716
+Baogang Wei	|	0.19862340
+Gabriella Pasi	|	0.19823356
+Sergio Flesca	|	0.19821606
+Ryan Johnson	|	0.19821606
+Carlo Combi	|	0.19821606
+Nattiya Kanhabua	|	0.19805825
+Carlo Tasso	|	0.19701493
+Esther Pacitti	|	0.19662363
+Danilo Montesi	|	0.19642857
+Marc Bron	|	0.19630709
+Tingting He	|	0.19627085
+Yossi Matias	|	0.19588639
+Tao Mei	|	0.19588639
+Giuseppe De Giacomo	|	0.19584570
+Irini Fundulaki	|	0.19545903
+Vahab S. Mirrokni	|	0.19531250
+Guodong Zhou	|	0.19526627
+Mohammed J. Zaki	|	0.19521912
+Xin Luna Dong	|	0.19512195
+Sudipto Das	|	0.19512195
+Chiranjib Bhattacharyya	|	0.19512195
+Anne-Laure Ligozat	|	0.19502488
+Yulan He	|	0.19488189
+Lillian N. Cassel	|	0.19474197
+Mitch Cherniack	|	0.19463754
+Roberto De Virgilio	|	0.19444444
+Shigeo Sugimoto	|	0.19444444
+Jorge-Arnulfo Quiané-Ruiz	|	0.19430815
+Zi Yang	|	0.19425173
+Giuseppe Manco	|	0.19405941
+Tamara G. Kolda	|	0.19405941
+Ruixuan Li	|	0.19379845
+Li Chen	|	0.19367589
+Li Zhang	|	0.19367589
+Vana Kalogeraki	|	0.19348470
+Yiu-Kai Ng	|	0.19341974
+Fei Wang	|	0.19324578
+Kostas Stefanidis	|	0.19322709
+Andreas Wombacher	|	0.19303483
+Hector Gonzalez	|	0.19298246
+Nish Parikh	|	0.19272370
+Fabiano Dalpiaz	|	0.19272370
+Bin Yang 0002	|	0.19234544
+David D. Lewis	|	0.19234544
+Barbara Poblete	|	0.19226957
+Jun Zhang 0005	|	0.19212296
+Yubin Bao	|	0.19207921
+Kevin Lü	|	0.19196866
+Meng Wang	|	0.19169960
+Ce Zhang	|	0.19132150
+Christian A. Lang	|	0.19123506
+Jérôme Gensel	|	0.19113300
+Daniel Klan	|	0.19104478
+Kazutoshi Sumiya	|	0.19085487
+Senjuti Basu Roy	|	0.19075713
+Lei Shi	|	0.19075713
+Elio Masciari	|	0.19009901
+Amol Ghoting	|	0.18991098
+Mokrane Bouzeghoub	|	0.18972332
+Lyublena Antova	|	0.18963832
+Michael Granitzer	|	0.18962076
+Jingjing Liu	|	0.18953603
+Jing Liu	|	0.18943170
+Dacheng Tao	|	0.18943170
+Guillaume Cabanac	|	0.18934911
+Makoto Onizuka	|	0.18916256
+Andrew McGregor	|	0.18905473
+Chao Li	|	0.18886680
+Yi Fang	|	0.18860511
+Olfa Nasraoui	|	0.18853256
+Xiaoyang Sean Wang	|	0.18830525
+Ki-Joune Li	|	0.18811881
+Kun-Ta Chuang	|	0.18774704
+Michael J. Cafarella	|	0.18743769
+Leonidas Fegaras	|	0.18725100
+Wei Wang	|	0.18707811
+Jinchuan Chen	|	0.18687873
+Mihai Lupu	|	0.18687873
+Xiaoxiao Shi	|	0.18677043
+Wei Yu	|	0.18669315
+Theodora Tsikrika	|	0.18669315
+Zhiyong Peng	|	0.18650794
+Jingrui He	|	0.18650794
+R. Uday Kiran	|	0.18645731
+Alexander S. Szalay	|	0.18627451
+Olga Papaemmanouil	|	0.18613861
+Alessandro Bozzon	|	0.18613861
+Marcello La Rosa	|	0.18595450
+Thanh Tran	|	0.18577075
+Janet L. Wiener	|	0.18577075
+Richard McCreadie	|	0.18572825
+Mohammad Sadoghi	|	0.18546845
+Subhash Bhalla	|	0.18525896
+Donato Malerba	|	0.18507463
+Zhicheng Dou	|	0.18503937
+Miles Efron	|	0.18503937
+Kuo Zhang	|	0.18500487
+Jiepu Jiang	|	0.18500487
+Deepak Padmanabhan	|	0.18489066
+Qin Zhang	|	0.18470705
+Rodrigo Sandoval-Almazán	|	0.18464529
+Claudia Perlich	|	0.18452381
+Abdullah Mueen	|	0.18446602
+Azadeh Shakery	|	0.18434093
+Atish Das Sarma	|	0.18428710
+Junjie Wu	|	0.18415842
+Ko Fujimura	|	0.18397626
+Xiangyang Xue	|	0.18395303
+Wang-Pin Hsiung	|	0.18379447
+Kristen LeFevre	|	0.18379447
+HweeHwa Pang	|	0.18377322
+Svetha Venkatesh	|	0.18361303
+Ying Chen	|	0.18344965
+Lian'en Huang	|	0.18325123
+Alan Hanjalic	|	0.18325123
+Kazuhiro Seki	|	0.18272095
+Yasin N. Silva	|	0.18271120
+Arnold P. Boedihardjo	|	0.18235877
+Michael J. Cole	|	0.18217822
+Luc Segoufin	|	0.18181818
+Hongning Wang	|	0.18164968
+Jihong Guan	|	0.18163870
+Roberto Trasarti	|	0.18127490
+Hakan Hacigümüs	|	0.18115942
+Chaofeng Sha	|	0.18110236
+Trond Aalberg	|	0.18109453
+Shuai Ma	|	0.18091451
+Matteo Magnani	|	0.18074656
+Yue Lu	|	0.18073486
+Jiebo Luo	|	0.18056919
+Xiaojie Yuan	|	0.18056919
+David A. Smith	|	0.18056919
+Michael Hartung	|	0.18037661
+Michalis Petropoulos	|	0.18037661
+Qi Li	|	0.18019802
+Markus Schedl	|	0.18001978
+Huiping Cao	|	0.18000000
+Qing He	|	0.17931034
+Rasmus Pagh	|	0.17895772
+Bin Cao	|	0.17874876
+Jin Zhang	|	0.17843137
+Jussara M. Almeida	|	0.17843137
+Vibhor Rastogi	|	0.17821782
+Chandan K. Reddy	|	0.17821782
+Vincent S. Tseng	|	0.17804154
+Jean-Michel Renders	|	0.17769003
+Srikanta Tirthapura	|	0.17769003
+Fatma Özcan	|	0.17729084
+Qing Wang	|	0.17711443
+Wentao Wu	|	0.17693837
+Carlos Guestrin	|	0.17693837
+Yanjun Qi	|	0.17647059
+Stratis Viglas	|	0.17641229
+Wei Chen	|	0.17614679
+Jeff G. Schneider	|	0.17606330
+Sharma V. Thankachan	|	0.17567568
+Yong Ge	|	0.17526777
+Marcos R. Vieira	|	0.17512438
+Nina Mishra	|	0.17460317
+Thanawin Rakthanmanon	|	0.17433888
+Thomas Roelleke	|	0.17425743
+Chaoyi Pang	|	0.17408506
+Yinan Li	|	0.17408506
+Chang Liu	|	0.17408506
+Samuel Ieong	|	0.17408124
+Rich Caruana	|	0.17374136
+Quan Z. Sheng	|	0.17357763
+Liang Tang	|	0.17322835
+Peter Mika	|	0.17279047
+Carla E. Brodley	|	0.17279047
+Benjamin Schlegel	|	0.17267552
+Xia Hu	|	0.17257910
+Mohamed A. Soliman	|	0.17244797
+Ching-man Au Yeung	|	0.17238002
+Sehl Mellouli	|	0.17210682
+Yang Yang	|	0.17198068
+Wei Gao	|	0.17193676
+Ian Molloy	|	0.17058824
+Hyun Jin Moon	|	0.17046581
+Sebastian Maneth	|	0.17046581
+Laure Berti-Equille	|	0.17029703
+Ahmed Hassan Awadallah	|	0.16989843
+Theodoros Lappas	|	0.16968541
+Krysta Marie Svore	|	0.16945813
+Debasis Ganguly	|	0.16831683
+Tao Cheng	|	0.16829746
+Duen Horng Chau	|	0.16781836
+Debapriyo Majumdar	|	0.16766467
+Zhenhui Li	|	0.16732283
+Kristina Lerman	|	0.16699411
+Kyuseok Shim	|	0.16683217
+Antti Ukkonen	|	0.16683217
+Kuniaki Uehara	|	0.16683217
+Foster J. Provost	|	0.16683217
+Zhihui Wang	|	0.16666667
+Franz Färber	|	0.16666667
+René Müller	|	0.16650149
+Huizhong Duan	|	0.16650149
+Makoto P. Kato	|	0.16634051
+Jinyoung Kim	|	0.16600791
+De-Nian Yang	|	0.16600791
+Hasso Plattner	|	0.16585366
+Christopher Re	|	0.16584403
+Praveen Chandar	|	0.16584403
+Yueting Zhuang	|	0.16566866
+Frank Wm. Tompa	|	0.16550349
+Jens Dittrich	|	0.16486752
+Chao Wang	|	0.16435644
+Paolo Missier	|	0.16367265
+Anlei Dong	|	0.16354680
+Basit Shafiq	|	0.16350947
+Tieyun Qian	|	0.16350947
+Ippokratis Pandis	|	0.16302187
+Dimitris Plexousakis	|	0.16285998
+Mohamed S. Kamel	|	0.16253717
+Sudeepa Roy	|	0.16247582
+Elsa Estevez	|	0.16189536
+Rui Yan	|	0.16153846
+Arno J. Knobbe	|	0.16151545
+Barzan Mozafari	|	0.16125860
+Pierre Bourhis	|	0.16103380
+Nicolas Anciaux	|	0.16071429
+B. Aditya Prakash	|	0.16031281
+Robert Neumayer	|	0.15960591
+Anitha Kannan	|	0.15953307
+Matthias Hagen	|	0.15953307
+Jeff M. Phillips	|	0.15920398
+Hardy Kremer	|	0.15873016
+Ming Zhou	|	0.15851272
+ErHeng Zhong	|	0.15830116
+Tao Yang	|	0.15754083
+Liangjie Hong	|	0.15686275
+Morgan Harvey	|	0.15625000
+Lei Zhang	|	0.15597236
+Huiji Gao	|	0.15579357
+Carlo Meghini	|	0.15491559
+Cecilia M. Procopiuc	|	0.15460852
+Mao Ye	|	0.15458937
+Norman May	|	0.15444770
+Georg Buscher	|	0.15399803
+Thore Graepel	|	0.15339233
+Junjie Yao	|	0.15324165
+Lidong Bing	|	0.15324165
+J. Shane Culpepper	|	0.15309127
+Hui Li	|	0.15232443
+Yi Zhuang	|	0.15217391
+Yi Zhang	|	0.15172414
+Sandeep Tata	|	0.15169661
+Ulrike Fischer	|	0.15127701
+Jöran Beel	|	0.15112856
+Dongyan Zhao	|	0.15083252
+Adegboyega K. Ojo	|	0.15004936
+Abdul Sattar	|	0.15004936
+Jun Han	|	0.14945919
+Aris Gkoulalas-Divanis	|	0.14940239
+Srinivasan H. Sengamedu	|	0.14843750
+Bo Zhao	|	0.14807502
+John Carlo Bertot	|	0.14734774
+David Elsweiler	|	0.14595661
+Franz Graf	|	0.14563107
+Yuexian Hou	|	0.14538310
+Yanghua Xiao	|	0.14527363
+Florin Rusu	|	0.14498510
+Sarana Nutanong	|	0.14495593
+Xiaozhong Liu	|	0.14492754
+Dawei Yin	|	0.14384236
+Aditya G. Parameswaran	|	0.14341085
+Shimin Chen	|	0.14314115
+Shuaiqiang Wang	|	0.14271750
+Qi Liu	|	0.14271556
+Riddhiman Ghosh	|	0.14257426
+Sheng Li	|	0.14243902
+Paul T. Jaeger	|	0.14243902
+Zhiyuan Cheng	|	0.14215202
+Shou-De Lin	|	0.14133591
+Jilei Tian	|	0.14111007
+Boris Koldehofe	|	0.14106280
+Dirk Fahland	|	0.14003945
+Ljiljana Stojanovic	|	0.13894325
+Jiliang Tang	|	0.13793103
+Rui Zhang	|	0.13786408
+Shi Feng	|	0.13555992
+Flavio Paiva Junqueira	|	0.13489736
+Chiara Renso	|	0.13346614
+Adam J. Lee	|	0.13306852
+Wayne Xin Zhao	|	0.13281250
+Zhong Chen	|	0.13216715
+Chee-Yong Chan	|	0.13121272
+Sihong Xie	|	0.13082260
+Jimmy Lin	|	0.13011152
+Gregor Hackenbroich	|	0.12992126
+Heng Ji	|	0.12992126
+Anne Schuth	|	0.12884044
+Yue Wang	|	0.12845850
+Kyle Williams	|	0.12757605
+Xiang Wang	|	0.12610837
+Yuchen Zhao	|	0.12586037
+Partha Pratim Talukdar	|	0.12512413
+Kazunari Sugiyama	|	0.12462908
+Jorge Pérez 0001	|	0.12350598
+Ion Stoica	|	0.12240869
+Kai Zheng	|	0.12121212
+Jiannan Wang	|	0.11892963
+Nicola Tonellotto	|	0.11639185
+Alejandro Jaimes	|	0.11614173
+Kenneth Wai-Ting Leung	|	0.11591356
+Xin Wang	|	0.11591356
+Stewart Whiting	|	0.11579980
+Fiana Raiber	|	0.11494253
+Yanyan Lan	|	0.11476952
+Jeffrey D. Ullman	|	0.11451135
+Thomas Heinis	|	0.11361410
+Djoko Sigit Sayogo	|	0.11350294
+Dmitry Lagun	|	0.11057226
+Yinghui Wu	|	0.11023622
+Weiren Yu	|	0.10880317
+Shuo Shang	|	0.10474308
+Bin Liu	|	0.10465116
+Yu Cheng	|	0.10334928
+Chuan Shi	|	0.10297030
+Jaewon Yang	|	0.10049261
+Ankit Agrawal	|	0.09923664
+Jimmy Xiangji Huang	|	0.09852217
+Edward Curry	|	0.09551657
+Siyuan Liu	|	0.09476802
+Manish Gupta	|	0.09284333
+Thomas Kissinger	|	0.08518877

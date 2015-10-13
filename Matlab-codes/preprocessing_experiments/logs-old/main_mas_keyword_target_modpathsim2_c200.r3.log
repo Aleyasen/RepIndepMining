@@ -1,0 +1,29 @@
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2014 The MathWorks, Inc.
+                    R2014a (8.3.0.532) 64-bit (glnxa64)
+                             February 11, 2014
+
+
+	This is a Classroom License for instructional use only.
+	Research and commercial use is prohibited.
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+[Warning: Directory already exists.] 
+[> In main_mas_keyword_modpathsim2 at 5] 
+nodesReader : read /srv/data/projects/apps/RepIndep_CIDR/dblp/data/mas/paper.txt
+nodesReader : read /srv/data/projects/apps/RepIndep_CIDR/dblp/data/mas/conf.txt
+nodesReader : read /srv/data/projects/apps/RepIndep_CIDR/dblp/data/mas/domain.txt
+nodesReader : read /srv/data/projects/apps/RepIndep_CIDR/dblp/data/mas/keyword.txt
+edgesReader : read /srv/data/projects/apps/RepIndep_CIDR/dblp/data/mas/paper_domain.txt
+edgesReader : read /srv/data/projects/apps/RepIndep_CIDR/dblp/data/mas/paper_conf.txt
+edgesReader : read /srv/data/projects/apps/RepIndep_CIDR/dblp/data/mas/domain_keyword.txt
+There are 5589 isolated nodes in G.
+Data size is |V|=89538 |E|=379152
+>>> calculating Mod2-PathSim <<<
+-- processing "TREC"
+-- processing "KDD"
+modpathsim2: elapsed time = 118.384
+---------------------------------------------------------------

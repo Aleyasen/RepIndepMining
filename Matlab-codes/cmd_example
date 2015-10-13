@@ -1,0 +1,14 @@
+module load matlab/R2014a
+matlab
+
+nohup matlab -nodisplay -nosplash -r matlab_command > outfile.txt &
+
+src_niagara_rwr 10955
+target_niagar_rwr 11428
+src_niagara_sr
+target_niagara_sr
+
+./compare.sh /srv/data/projects/apps/RepIndep_CIDR/MATLAB/aale/simtest-freebase/top2000_niagara_source_results /srv/data/projects/apps/RepIndep_CIDR/MATLAB/aale/simtest-freebase/top2000_niagara_target_results rwr
+
+
+

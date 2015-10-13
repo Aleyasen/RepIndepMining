@@ -1,0 +1,187 @@
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2014 The MathWorks, Inc.
+                    R2014a (8.3.0.532) 64-bit (glnxa64)
+                             February 11, 2014
+
+
+	This is a Classroom License for instructional use only.
+	Research and commercial use is prohibited.
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+nodesReader : read /srv/data/projects/apps/RepIndep_CIDR/fullgraph/top5000/movie.txt
+nodesReader : read /srv/data/projects/apps/RepIndep_CIDR/fullgraph/top5000/actor.txt
+nodesReader : read /srv/data/projects/apps/RepIndep_CIDR/fullgraph/top5000/character.txt
+edgesReader : read /srv/data/projects/apps/RepIndep_CIDR/fullgraph/top5000/movie_actor.txt
+edgesReader : read /srv/data/projects/apps/RepIndep_CIDR/fullgraph/top5000/movie_character.txt
+edgesReader : read /srv/data/projects/apps/RepIndep_CIDR/fullgraph/top5000/actor_character.txt
+There are 0 isolated nodes in G.
+Data size is |V|=31195 |E|=176984
+---------------------------------------------------------------
+---------------------------------------------------------------
+>> running PathSim
+-- processing "williams, michelle (i)"
+-- processing "roberts, julia (i)"
+-- processing "ventimiglia, john"
+-- processing "swinton, tilda"
+-- processing "wright, tom (i)"
+-- processing "goodman, john (i)"
+-- processing "altman, bruce"
+-- processing "bradley, brendan"
+-- processing "segan, noah"
+-- processing "oldman, gary"
+-- processing "blanchett, cate"
+-- processing "mcgill, bruce"
+-- processing "lefevre, adam"
+-- processing "caan, scott"
+-- processing "streep, meryl"
+-- processing "depp, johnny"
+-- processing "ferguson, liam (i)"
+-- processing "woller, kirk b.r."
+-- processing "griffin, douglas m."
+-- processing "steenburgen, mary"
+-- processing "kristofferson, kris (i)"
+-- processing "devito, danny"
+-- processing "hatosy, shawn"
+-- processing "barrymore, drew (i)"
+-- processing "lee, stan (i)"
+-- processing "hurt, william"
+-- processing "nelson, tim blake"
+-- processing "downey jr., robert"
+-- processing "graham, stephen (i)"
+-- processing "watson, emily (i)"
+-- processing "bale, christian"
+-- processing "williams, michael k."
+-- processing "rosemont, romy"
+-- processing "daniel, thomas (i)"
+-- processing "stewart, kristen (i)"
+-- processing "stiles, julia"
+-- processing "fanning, dakota"
+-- processing "de paul, vincent (i)"
+-- processing "shannon, michael (v)"
+-- processing "garrett, spencer (i)"
+-- processing "carrey, jim"
+-- processing "leblanc, cynthia"
+-- processing "mckean, michael (i)"
+-- processing "knights, christopher"
+-- processing "cheadle, don"
+-- processing "diaz, cameron"
+-- processing "cage, nicolas"
+-- processing "conley, jack"
+-- processing "jackman, hugh"
+-- processing "cumming, alan"
+pathsim: elapsed time = 2346.9681
+---------------------------------------------------------------
+>>> calculating Random Walk With Restart <<<
+-- processing "williams, michelle (i)"
+-- processing "roberts, julia (i)"
+-- processing "ventimiglia, john"
+-- processing "swinton, tilda"
+-- processing "wright, tom (i)"
+-- processing "goodman, john (i)"
+-- processing "altman, bruce"
+-- processing "bradley, brendan"
+-- processing "segan, noah"
+-- processing "oldman, gary"
+-- processing "blanchett, cate"
+-- processing "mcgill, bruce"
+-- processing "lefevre, adam"
+-- processing "caan, scott"
+-- processing "streep, meryl"
+-- processing "depp, johnny"
+-- processing "ferguson, liam (i)"
+-- processing "woller, kirk b.r."
+-- processing "griffin, douglas m."
+-- processing "steenburgen, mary"
+-- processing "kristofferson, kris (i)"
+-- processing "devito, danny"
+-- processing "hatosy, shawn"
+-- processing "barrymore, drew (i)"
+-- processing "lee, stan (i)"
+-- processing "hurt, william"
+-- processing "nelson, tim blake"
+-- processing "downey jr., robert"
+-- processing "graham, stephen (i)"
+-- processing "watson, emily (i)"
+-- processing "bale, christian"
+-- processing "williams, michael k."
+-- processing "rosemont, romy"
+-- processing "daniel, thomas (i)"
+-- processing "stewart, kristen (i)"
+-- processing "stiles, julia"
+-- processing "fanning, dakota"
+-- processing "de paul, vincent (i)"
+-- processing "shannon, michael (v)"
+-- processing "garrett, spencer (i)"
+-- processing "carrey, jim"
+-- processing "leblanc, cynthia"
+-- processing "mckean, michael (i)"
+-- processing "knights, christopher"
+-- processing "cheadle, don"
+-- processing "diaz, cameron"
+-- processing "cage, nicolas"
+-- processing "conley, jack"
+-- processing "jackman, hugh"
+-- processing "cumming, alan"
+rwr: elapsed time = 4311.7125
+---------------------------------------------------------------
+>>> calculating SimRank <<<
+SR iter = 1 : time=6884.26
+SR iter = 6 : time=7739.44
+SR iter = 11 : time=8783.75
+SR iter = 16 : time=9808.67
+SR iter = 21 : time=10819.9
+-- processing "williams, michelle (i)"
+-- processing "roberts, julia (i)"
+-- processing "ventimiglia, john"
+-- processing "swinton, tilda"
+-- processing "wright, tom (i)"
+-- processing "goodman, john (i)"
+-- processing "altman, bruce"
+-- processing "bradley, brendan"
+-- processing "segan, noah"
+-- processing "oldman, gary"
+-- processing "blanchett, cate"
+-- processing "mcgill, bruce"
+-- processing "lefevre, adam"
+-- processing "caan, scott"
+-- processing "streep, meryl"
+-- processing "depp, johnny"
+-- processing "ferguson, liam (i)"
+-- processing "woller, kirk b.r."
+-- processing "griffin, douglas m."
+-- processing "steenburgen, mary"
+-- processing "kristofferson, kris (i)"
+-- processing "devito, danny"
+-- processing "hatosy, shawn"
+-- processing "barrymore, drew (i)"
+-- processing "lee, stan (i)"
+-- processing "hurt, william"
+-- processing "nelson, tim blake"
+-- processing "downey jr., robert"
+-- processing "graham, stephen (i)"
+-- processing "watson, emily (i)"
+-- processing "bale, christian"
+-- processing "williams, michael k."
+-- processing "rosemont, romy"
+-- processing "daniel, thomas (i)"
+-- processing "stewart, kristen (i)"
+-- processing "stiles, julia"
+-- processing "fanning, dakota"
+-- processing "de paul, vincent (i)"
+-- processing "shannon, michael (v)"
+-- processing "garrett, spencer (i)"
+-- processing "carrey, jim"
+-- processing "leblanc, cynthia"
+-- processing "mckean, michael (i)"
+-- processing "knights, christopher"
+-- processing "cheadle, don"
+-- processing "diaz, cameron"
+-- processing "cage, nicolas"
+-- processing "conley, jack"
+-- processing "jackman, hugh"
+-- processing "cumming, alan"
+simrank: elapsed time = 4883.8523
+---------------------------------------------------------------

@@ -1,0 +1,1423 @@
+query 1
+General Physics I | 1.00000000	 <
+General Physics II | 1.00000000	 <
+Electrodynamics I | 1.00000000	Electrodynamics I | 1.00000000
+Electrodynamics II | 1.00000000	Electrodynamics II | 1.00000000
+Optics | 1.00000000	Optics | 1.00000000
+Advanced Laboratory I | 1.00000000	 <
+Advanced Laboratory II | 1.00000000	 <
+Quantum Mechanics I | 1.00000000	Quantum Mechanics I | 1.00000000
+Thermal Physics | 1.00000000	Thermal Physics | 1.00000000
+Solid State Physics | 1.00000000	Solid State Physics | 1.00000000
+Elementary Particles | 1.00000000	Elementary Particles | 1.00000000
+Scientific Computation | 1.00000000	Scientific Computation | 1.00000000
+Classical Mechanics II | 1.00000000	Classical Mechanics II | 1.00000000
+Quantum Mechanics II | 1.00000000	Quantum Mechanics II | 1.00000000
+ >	Advanced Laboratory I | 0.60000000
+ >	Advanced Laboratory II | 0.60000000
+ >	General Physics II | 0.47058824
+ >	General Physics I | 0.12451362
+
+
+query 2
+Aerobics | 1.00000000	 <
+African Dance | 1.00000000	African Dance | 1.00000000
+Aikido | 1.00000000	Aikido | 1.00000000
+Archery | 1.00000000	Archery | 1.00000000
+Bellydance | 1.00000000	Bellydance | 1.00000000
+Ballroom Dance-Beginning | 1.00000000	Ballroom Dance-Beginning | 1.00000000
+Ballroom Dance-Intermediate | 1.00000000	Ballroom Dance-Intermediate | 1.00000000
+Canoeing | 1.00000000	 <
+Fencing | 1.00000000	Fencing | 1.00000000
+Folkdance | 1.00000000	 <
+Golf | 1.00000000	 <
+Yoga-Hatha | 1.00000000	Yoga-Hatha | 1.00000000
+Judo | 1.00000000	Judo | 1.00000000
+Juggling | 1.00000000	Juggling | 1.00000000
+Jitterbug | 1.00000000	Jitterbug | 1.00000000
+Yoga-Kundilini | 1.00000000	 <
+Kayaking-Intermediate | 1.00000000	 <
+Lifeguard Training | 1.00000000	Lifeguard Training | 1.00000000
+Yoga-Relaxaion | 1.00000000	 <
+Rock Climbing | 1.00000000	Rock Climbing | 1.00000000
+Rugby-Men and Women | 1.00000000	Rugby-Men and Women | 1.00000000
+Rowing-Beginning | 1.00000000	 <
+Rowing-Intermediate | 1.00000000	 <
+Softball | 1.00000000	 <
+Squash-Beginning | 1.00000000	 <
+Squash-Intermediate | 1.00000000	Squash-Intermediate | 1.00000000
+Sailing | 1.00000000	 <
+Tai Chi-Beginning | 1.00000000	Tai Chi-Beginning | 1.00000000
+Tai Chi-Intermediate | 1.00000000	Tai Chi-Intermediate | 1.00000000
+Tennis-Advanced | 1.00000000	 <
+Tennis-Beginning | 1.00000000	 <
+Tennis-Intermediate | 1.00000000	 <
+Ultimate Frisbee | 1.00000000	Ultimate Frisbee | 1.00000000
+White Water Rafting | 1.00000000	 <
+Badminton | 1.00000000	Badminton | 1.00000000
+Basketball-Coed | 1.00000000	 | Sailing | 0.92307692
+Backcountry Navigation | 1.00000000	 | Aerobics | 0.80000000
+Bowling | 1.00000000	 | Canoeing | 0.80000000
+Folkdancing | 1.00000000	 | Folkdance | 0.80000000
+Hiking Around Portland | 1.00000000	 | Golf | 0.80000000
+Yoga-Kundlini | 1.00000000	 | Yoga-Kundilini | 0.80000000
+Modern Dance | 1.00000000	 | Kayaking-Intermediate | 0.80000000
+Yoga-Relaxation | 1.00000000	 | Yoga-Relaxaion | 0.80000000
+Raquetball-Beginning | 1.00000000	 | Rowing-Beginning | 0.80000000
+Squash-beginning | 1.00000000	 | Rowing-Intermediate | 0.80000000
+ >	Softball | 0.80000000
+ >	Squash-Beginning | 0.80000000
+ >	Tennis-Advanced | 0.80000000
+ >	Tennis-Beginning | 0.80000000
+ >	Tennis-Intermediate | 0.80000000
+ >	White Water Rafting | 0.80000000
+ >	Basketball-Coed | 0.80000000
+ >	Backcountry Navigation | 0.80000000
+ >	Bowling | 0.80000000
+ >	Folkdancing | 0.80000000
+ >	Hiking Around Portland | 0.80000000
+ >	Yoga-Kundlini | 0.80000000
+ >	Modern Dance | 0.80000000
+ >	Yoga-Relaxation | 0.80000000
+ >	Raquetball-Beginning | 0.80000000
+ >	Squash-beginning | 0.80000000
+
+
+query 3
+General Physics I | 1.00000000	 <
+General Physics II | 1.00000000	 <
+Classical Mechanics I | 1.00000000	Classical Mechanics I | 1.00000000
+Electrodynamics I | 1.00000000	Electrodynamics I | 1.00000000
+Electrodynamics II | 1.00000000	Electrodynamics II | 1.00000000
+Optics | 1.00000000	Optics | 1.00000000
+Advanced Laboratory I | 1.00000000	 <
+Advanced Laboratory II | 1.00000000	 <
+Quantum Mechanics I | 1.00000000	Quantum Mechanics I | 1.00000000
+Thermal Physics | 1.00000000	Thermal Physics | 1.00000000
+Solid State Physics | 1.00000000	Solid State Physics | 1.00000000
+Elementary Particles | 1.00000000	Elementary Particles | 1.00000000
+Scientific Computation | 1.00000000	Scientific Computation | 1.00000000
+Classical Mechanics II | 1.00000000	Classical Mechanics II | 1.00000000
+ >	Advanced Laboratory I | 0.60000000
+ >	Advanced Laboratory II | 0.60000000
+ >	General Physics II | 0.47058824
+ >	General Physics I | 0.12451362
+
+
+query 4
+Aerobics | 1.00000000	 <
+African Dance | 1.00000000	 <
+Aikido | 1.00000000	 <
+Archery | 1.00000000	 <
+Bellydance | 1.00000000	 <
+Ballroom Dance-Beginning | 1.00000000	 <
+Ballroom Dance-Intermediate | 1.00000000	 <
+Canoeing | 1.00000000	Canoeing | 1.00000000
+Self Defense | 1.00000000	 <
+Fencing | 1.00000000	 <
+Folkdance | 1.00000000	Folkdance | 1.00000000
+Golf | 1.00000000	Golf | 1.00000000
+Yoga-Hatha | 1.00000000	 <
+Judo | 1.00000000	 <
+Juggling | 1.00000000	 <
+Jitterbug | 1.00000000	 <
+Yoga-Kundilini | 1.00000000	Yoga-Kundilini | 1.00000000
+Kayaking-Intermediate | 1.00000000	Kayaking-Intermediate | 1.00000000
+Lifeguard Training | 1.00000000	 <
+Rock Climbing | 1.00000000	 <
+Rugby-Men and Women | 1.00000000	 <
+Rowing-Beginning | 1.00000000	Rowing-Beginning | 1.00000000
+Rowing-Intermediate | 1.00000000	Rowing-Intermediate | 1.00000000
+Softball | 1.00000000	Softball | 1.00000000
+Squash-Beginning | 1.00000000	Squash-Beginning | 1.00000000
+Squash-Intermediate | 1.00000000	 <
+Sailing | 1.00000000	 <
+Tai Chi-Beginning | 1.00000000	 <
+Tai Chi-Intermediate | 1.00000000	 <
+Tennis-Advanced | 1.00000000	Tennis-Advanced | 1.00000000
+Tennis-Beginning | 1.00000000	Tennis-Beginning | 1.00000000
+Tennis-Intermediate | 1.00000000	Tennis-Intermediate | 1.00000000
+Ultimate Frisbee | 1.00000000	 <
+White Water Rafting | 1.00000000	White Water Rafting | 1.00000000
+Badminton | 1.00000000	 <
+Basketball-Coed | 1.00000000	Basketball-Coed | 1.00000000
+Backcountry Navigation | 1.00000000	Backcountry Navigation | 1.00000000
+Bowling | 1.00000000	Bowling | 1.00000000
+Folkdancing | 1.00000000	Folkdancing | 1.00000000
+Hiking Around Portland | 1.00000000	Hiking Around Portland | 1.00000000
+Yoga-Kundlini | 1.00000000	Yoga-Kundlini | 1.00000000
+Modern Dance | 1.00000000	Modern Dance | 1.00000000
+Yoga-Relaxation | 1.00000000	Yoga-Relaxation | 1.00000000
+Raquetball-Beginning | 1.00000000	Raquetball-Beginning | 1.00000000
+Squash-beginning | 1.00000000	Squash-beginning | 1.00000000
+ >	African Dance | 0.80000000
+ >	Aikido | 0.80000000
+ >	Archery | 0.80000000
+ >	Bellydance | 0.80000000
+ >	Ballroom Dance-Beginning | 0.80000000
+ >	Ballroom Dance-Intermediate | 0.80000000
+ >	Self Defense | 0.80000000
+ >	Fencing | 0.80000000
+ >	Yoga-Hatha | 0.80000000
+ >	Judo | 0.80000000
+ >	Juggling | 0.80000000
+ >	Jitterbug | 0.80000000
+ >	Lifeguard Training | 0.80000000
+ >	Rock Climbing | 0.80000000
+ >	Rugby-Men and Women | 0.80000000
+ >	Squash-Intermediate | 0.80000000
+ >	Tai Chi-Beginning | 0.80000000
+ >	Tai Chi-Intermediate | 0.80000000
+ >	Ultimate Frisbee | 0.80000000
+ >	Badminton | 0.80000000
+ >	Sailing | 0.60000000
+ >	Aerobics | 0.47058824
+
+
+query 5
+Intro to Psychology I | 1.00000000	Intro to Psychology I | 1.00000000
+Intro to Psychology | 1.00000000	 <
+Intro to Psychology II | 1.00000000	 <
+Social Psychology | 1.00000000	Social Psychology | 1.00000000
+Health Psychology | 1.00000000	Health Psychology | 1.00000000
+Social Development | 1.00000000	Social Development | 1.00000000
+Community Psychology | 1.00000000	Community Psychology | 1.00000000
+Neuropsychology | 1.00000000	Neuropsychology | 1.00000000
+Psychopharmacology | 1.00000000	 <
+Thinking | 1.00000000	Thinking | 1.00000000
+Research Design  and  DataAnalysi | 1.00000000    <
+Psychopathology | 1.00000000	Psychopathology | 1.00000000
+Human Development | 1.00000000	Human Development | 1.00000000
+Cognitive Processes | 1.00000000	 <
+Learning | 1.00000000	Learning | 1.00000000
+Music Perception | 1.00000000	Music Perception | 1.00000000
+Cross-Cultural Psychology | 1.00000000	Cross-Cultural Psychology | 1.00000000
+Junior Seminar | 1.00000000	Junior Seminar | 1.00000000
+Clinical Psychology | 1.00000000	Clinical Psychology | 1.00000000
+ >	Psychopharmacology | 0.60000000
+ >	Research Design  and  DataAnalysi | 0.60000000
+ >	Cognitive Processes | 0.60000000
+ >	Intro to Psychology | 0.47058824
+ >	Intro to Psychology II | 0.38461538
+
+
+query 6
+Race and Ethnicity | 1.00000000	 <
+Sociology of Religion | 1.00000000	 <
+American Capitalism | 1.00000000	American Capitalism | 1.00000000
+ >	Race and Ethnicity | 0.80000000
+ >	Sociology of Religion | 0.80000000
+
+
+query 7
+Languages the Americas:Mayan | 1.00000000	 <
+Anthropology of Europe | 1.00000000	 <
+Prob in IndonesianEthnography | 1.00000000	 <
+Gender and Ethnicity China, Tibet | 1.00000000    <
+Myth | 1.00000000	 <
+Media  and  Culture Post-MaoChina | 1.00000000    <
+Indians  and  Northrn NativeAmers | 1.00000000    <
+Urban Anthropology | 1.00000000	 <
+Nature, Cult  and Envirnmentalism | 1.00000000    <
+Structuralism and Semiotics | 1.00000000	Structuralism and Semiotics | 1.00000000
+Theories of Culture | 1.00000000	 | Languages the Americas:Mayan | 0.80000000
+Language in Society | 1.00000000	 | Anthropology of Europe | 0.80000000
+Ethnic  and  Nation France  and  NAfr | 1.00000000    | Prob in IndonesianEthnography | 0.80000000
+ >	Gender and Ethnicity China, Tibet | 0.80000000
+ >	Myth | 0.80000000
+ >	Media  and  Culture Post-MaoChina | 0.80000000
+ >	Indians  and  Northrn NativeAmers | 0.80000000
+ >	Urban Anthropology | 0.80000000
+ >	Nature, Cult  and Envirnmentalism | 0.80000000
+ >	Theories of Culture | 0.80000000
+ >	Language in Society | 0.80000000
+ >	Ethnic  and  Nation France  and  NAfr | 0.80000000
+
+
+query 8
+General Physics I | 1.00000000	 <
+General Physics II | 1.00000000	 <
+Classical Mechanics I | 1.00000000	Classical Mechanics I | 1.00000000
+Electrodynamics I | 1.00000000	Electrodynamics I | 1.00000000
+Electrodynamics II | 1.00000000	Electrodynamics II | 1.00000000
+Optics | 1.00000000	Optics | 1.00000000
+Advanced Laboratory I | 1.00000000	 <
+Advanced Laboratory II | 1.00000000	 <
+Quantum Mechanics I | 1.00000000	Quantum Mechanics I | 1.00000000
+Thermal Physics | 1.00000000	Thermal Physics | 1.00000000
+Elementary Particles | 1.00000000	Elementary Particles | 1.00000000
+Scientific Computation | 1.00000000	Scientific Computation | 1.00000000
+Classical Mechanics II | 1.00000000	Classical Mechanics II | 1.00000000
+Quantum Mechanics II | 1.00000000	Quantum Mechanics II | 1.00000000
+ >	Advanced Laboratory I | 0.60000000
+ >	Advanced Laboratory II | 0.60000000
+ >	General Physics II | 0.47058824
+ >	General Physics I | 0.12451362
+
+
+query 9
+Logic | 1.00000000	Logic | 1.00000000
+Post-Kantian Continental Phil | 1.00000000	Post-Kantian Continental Phil | 1.00000000
+Metaphysics | 1.00000000	Metaphysics | 1.00000000
+Epistemology | 1.00000000	Epistemology | 1.00000000
+Ethics | 1.00000000	Ethics | 1.00000000
+Philosophy of Mind | 1.00000000	Philosophy of Mind | 1.00000000
+Adv Topics:APrior,Nec,Anlytic | 1.00000000	Adv Topics:APrior,Nec,Anlytic | 1.00000000
+Advanced Topics:Phil of Mind | 1.00000000	Advanced Topics:Phil of Mind | 1.00000000
+Advanced Topics: Epistemology | 1.00000000	Advanced Topics: Epistemology | 1.00000000
+Adv Topics: Ethics | 1.00000000	Adv Topics: Ethics | 1.00000000
+Major Figures:Existentialists | 1.00000000	Major Figures:Existentialists | 1.00000000
+Major Figures: Davidson | 1.00000000	Major Figures: Davidson | 1.00000000
+Major Figures: Hume | 1.00000000	Major Figures: Hume | 1.00000000
+
+
+query 10
+Logic | 1.00000000	Logic | 1.00000000
+Ancient Philosophy | 1.00000000	Ancient Philosophy | 1.00000000
+Post-Kantian Continental Phil | 1.00000000	Post-Kantian Continental Phil | 1.00000000
+Metaphysics | 1.00000000	Metaphysics | 1.00000000
+Epistemology | 1.00000000	Epistemology | 1.00000000
+Ethics | 1.00000000	Ethics | 1.00000000
+Philosophy of Mind | 1.00000000	Philosophy of Mind | 1.00000000
+Adv Topics:APrior,Nec,Anlytic | 1.00000000	Adv Topics:APrior,Nec,Anlytic | 1.00000000
+Advanced Topics:Phil of Mind | 1.00000000	Advanced Topics:Phil of Mind | 1.00000000
+Advanced Topics: Epistemology | 1.00000000	Advanced Topics: Epistemology | 1.00000000
+Adv Topics: Ethics | 1.00000000	Adv Topics: Ethics | 1.00000000
+Major Figures: Davidson | 1.00000000	Major Figures: Davidson | 1.00000000
+Major Figures: Hume | 1.00000000	Major Figures: Hume | 1.00000000
+
+
+query 11
+Aerobics | 1.00000000	 <
+African Dance | 1.00000000	African Dance | 1.00000000
+Aikido | 1.00000000	Aikido | 1.00000000
+Archery | 1.00000000	Archery | 1.00000000
+Bellydance | 1.00000000	Bellydance | 1.00000000
+Ballroom Dance-Beginning | 1.00000000	Ballroom Dance-Beginning | 1.00000000
+Ballroom Dance-Intermediate | 1.00000000	Ballroom Dance-Intermediate | 1.00000000
+Canoeing | 1.00000000	 <
+Self Defense | 1.00000000	Self Defense | 1.00000000
+Fencing | 1.00000000	Fencing | 1.00000000
+Folkdance | 1.00000000	 <
+Golf | 1.00000000	 <
+Yoga-Hatha | 1.00000000	Yoga-Hatha | 1.00000000
+Judo | 1.00000000	Judo | 1.00000000
+Juggling | 1.00000000	Juggling | 1.00000000
+Jitterbug | 1.00000000	Jitterbug | 1.00000000
+Yoga-Kundilini | 1.00000000	 <
+Kayaking-Intermediate | 1.00000000	 <
+Lifeguard Training | 1.00000000	Lifeguard Training | 1.00000000
+Yoga-Relaxaion | 1.00000000	 <
+Rock Climbing | 1.00000000	Rock Climbing | 1.00000000
+Rowing-Beginning | 1.00000000	 <
+Rowing-Intermediate | 1.00000000	 <
+Softball | 1.00000000	 <
+Squash-Beginning | 1.00000000	 <
+Squash-Intermediate | 1.00000000	Squash-Intermediate | 1.00000000
+Sailing | 1.00000000	 <
+Tai Chi-Beginning | 1.00000000	Tai Chi-Beginning | 1.00000000
+Tai Chi-Intermediate | 1.00000000	Tai Chi-Intermediate | 1.00000000
+Tennis-Advanced | 1.00000000	 <
+Tennis-Beginning | 1.00000000	 <
+Tennis-Intermediate | 1.00000000	 <
+Ultimate Frisbee | 1.00000000	Ultimate Frisbee | 1.00000000
+White Water Rafting | 1.00000000	 <
+Badminton | 1.00000000	Badminton | 1.00000000
+Basketball-Coed | 1.00000000	 | Sailing | 0.92307692
+Backcountry Navigation | 1.00000000	 | Aerobics | 0.80000000
+Bowling | 1.00000000	 | Canoeing | 0.80000000
+Folkdancing | 1.00000000	 | Folkdance | 0.80000000
+Hiking Around Portland | 1.00000000	 | Golf | 0.80000000
+Yoga-Kundlini | 1.00000000	 | Yoga-Kundilini | 0.80000000
+Modern Dance | 1.00000000	 | Kayaking-Intermediate | 0.80000000
+Yoga-Relaxation | 1.00000000	 | Yoga-Relaxaion | 0.80000000
+Raquetball-Beginning | 1.00000000	 | Rowing-Beginning | 0.80000000
+Squash-beginning | 1.00000000	 | Rowing-Intermediate | 0.80000000
+ >	Softball | 0.80000000
+ >	Squash-Beginning | 0.80000000
+ >	Tennis-Advanced | 0.80000000
+ >	Tennis-Beginning | 0.80000000
+ >	Tennis-Intermediate | 0.80000000
+ >	White Water Rafting | 0.80000000
+ >	Basketball-Coed | 0.80000000
+ >	Backcountry Navigation | 0.80000000
+ >	Bowling | 0.80000000
+ >	Folkdancing | 0.80000000
+ >	Hiking Around Portland | 0.80000000
+ >	Yoga-Kundlini | 0.80000000
+ >	Modern Dance | 0.80000000
+ >	Yoga-Relaxation | 0.80000000
+ >	Raquetball-Beginning | 0.80000000
+ >	Squash-beginning | 0.80000000
+
+
+query 12
+Sex and Gender | 1.00000000	 <
+Languages the Americas:Mayan | 1.00000000	Languages the Americas:Mayan | 1.00000000
+Anthropology of Europe | 1.00000000	Anthropology of Europe | 1.00000000
+Prob in IndonesianEthnography | 1.00000000	Prob in IndonesianEthnography | 1.00000000
+Gender and Ethnicity China, Tibet | 1.00000000	Gender and Ethnicity China, Tibet | 1.00000000
+Myth | 1.00000000	Myth | 1.00000000
+Media  and  Culture Post-MaoChina | 1.00000000	Media  and  Culture Post-MaoChina | 1.00000000
+Indians  and  Northrn NativeAmers | 1.00000000	Indians  and  Northrn NativeAmers | 1.00000000
+Urban Anthropology | 1.00000000	Urban Anthropology | 1.00000000
+Nature, Cult  and Envirnmentalism | 1.00000000	Nature, Cult  and Envirnmentalism | 1.00000000
+Structuralism and Semiotics | 1.00000000	 <
+Language in Society | 1.00000000	Language in Society | 1.00000000
+Ethnic  and  Nation France  and  NAfr | 1.00000000	Ethnic  and  Nation France  and  NAfr | 1.00000000
+ >	Sex and Gender | 0.80000000
+ >	Structuralism and Semiotics | 0.80000000
+
+
+query 13
+Aerobics | 1.00000000	 <
+African Dance | 1.00000000	 <
+Aikido | 1.00000000	 <
+Archery | 1.00000000	 <
+Bellydance | 1.00000000	 <
+Ballroom Dance-Beginning | 1.00000000	 <
+Ballroom Dance-Intermediate | 1.00000000	 <
+Canoeing | 1.00000000	Canoeing | 1.00000000
+Self Defense | 1.00000000	 <
+Fencing | 1.00000000	 <
+Folkdance | 1.00000000	Folkdance | 1.00000000
+Golf | 1.00000000	Golf | 1.00000000
+Yoga-Hatha | 1.00000000	 <
+Judo | 1.00000000	 <
+Juggling | 1.00000000	 <
+Jitterbug | 1.00000000	 <
+Yoga-Kundilini | 1.00000000	Yoga-Kundilini | 1.00000000
+Kayaking-Intermediate | 1.00000000	Kayaking-Intermediate | 1.00000000
+Lifeguard Training | 1.00000000	 <
+Yoga-Relaxaion | 1.00000000	Yoga-Relaxaion | 1.00000000
+Rock Climbing | 1.00000000	 <
+Rugby-Men and Women | 1.00000000	 <
+Rowing-Beginning | 1.00000000	Rowing-Beginning | 1.00000000
+Rowing-Intermediate | 1.00000000	Rowing-Intermediate | 1.00000000
+Softball | 1.00000000	Softball | 1.00000000
+Squash-Beginning | 1.00000000	Squash-Beginning | 1.00000000
+Squash-Intermediate | 1.00000000	 <
+Sailing | 1.00000000	 <
+Tai Chi-Beginning | 1.00000000	 <
+Tai Chi-Intermediate | 1.00000000	 <
+Tennis-Advanced | 1.00000000	Tennis-Advanced | 1.00000000
+Tennis-Beginning | 1.00000000	Tennis-Beginning | 1.00000000
+Tennis-Intermediate | 1.00000000	Tennis-Intermediate | 1.00000000
+Ultimate Frisbee | 1.00000000	 <
+White Water Rafting | 1.00000000	White Water Rafting | 1.00000000
+Badminton | 1.00000000	 <
+Backcountry Navigation | 1.00000000	Backcountry Navigation | 1.00000000
+Bowling | 1.00000000	Bowling | 1.00000000
+Folkdancing | 1.00000000	Folkdancing | 1.00000000
+Hiking Around Portland | 1.00000000	Hiking Around Portland | 1.00000000
+Yoga-Kundlini | 1.00000000	Yoga-Kundlini | 1.00000000
+Modern Dance | 1.00000000	Modern Dance | 1.00000000
+Yoga-Relaxation | 1.00000000	Yoga-Relaxation | 1.00000000
+Raquetball-Beginning | 1.00000000	Raquetball-Beginning | 1.00000000
+Squash-beginning | 1.00000000	Squash-beginning | 1.00000000
+ >	African Dance | 0.80000000
+ >	Aikido | 0.80000000
+ >	Archery | 0.80000000
+ >	Bellydance | 0.80000000
+ >	Ballroom Dance-Beginning | 0.80000000
+ >	Ballroom Dance-Intermediate | 0.80000000
+ >	Self Defense | 0.80000000
+ >	Fencing | 0.80000000
+ >	Yoga-Hatha | 0.80000000
+ >	Judo | 0.80000000
+ >	Juggling | 0.80000000
+ >	Jitterbug | 0.80000000
+ >	Lifeguard Training | 0.80000000
+ >	Rock Climbing | 0.80000000
+ >	Rugby-Men and Women | 0.80000000
+ >	Squash-Intermediate | 0.80000000
+ >	Tai Chi-Beginning | 0.80000000
+ >	Tai Chi-Intermediate | 0.80000000
+ >	Ultimate Frisbee | 0.80000000
+ >	Badminton | 0.80000000
+ >	Sailing | 0.60000000
+ >	Aerobics | 0.47058824
+
+
+query 14
+MolecularStructure and Properties | 1.00000000    <
+Chemical Reactivity | 1.00000000	 <
+Organic Chemistry I | 1.00000000	 <
+Organic Chemistry II | 1.00000000	 <
+Intro Inorganic Chemistry | 1.00000000	 <
+Analytical Chemistry | 1.00000000	 <
+Physical Chemistry Laboratory | 1.00000000	Physical Chemistry Laboratory | 1.00000000
+Computational Organic Chem | 1.00000000	Computational Organic Chem | 1.00000000
+Statistical Thermodynamics | 1.00000000	Statistical Thermodynamics | 1.00000000
+Quantum Mechanics  and  MolStruct | 1.00000000	Quantum Mechanics  and  MolStruct | 1.00000000
+Advanced Inorganic Chemistry | 1.00000000	Advanced Inorganic Chemistry | 1.00000000
+Adv Synth Organic Chemistry | 1.00000000	Adv Synth Organic Chemistry | 1.00000000
+Structural Biochemistry | 1.00000000	 <
+Metabolic Biochemistry | 1.00000000	Metabolic Biochemistry | 1.00000000
+Biochemical Methods | 1.00000000	 | Intro Inorganic Chemistry | 0.60000000
+ >	Analytical Chemistry | 0.60000000
+ >	Structural Biochemistry | 0.60000000
+ >	Biochemical Methods | 0.60000000
+ >	Organic Chemistry I | 0.24615385
+ >	Organic Chemistry II | 0.24615385
+ >	Chemical Reactivity | 0.18032787
+ >	MolecularStructure and Properties | 0.11724138
+
+
+query 15
+Introduction to Computing | 1.00000000	 <
+Introduction to Combinatorics | 1.00000000	Introduction to Combinatorics | 1.00000000
+Intro to Probability  and Statist | 1.00000000    <
+Complex Analysis | 1.00000000	Complex Analysis | 1.00000000
+Advanced Calculus | 1.00000000	Advanced Calculus | 1.00000000
+Abstract Algebra | 1.00000000	Abstract Algebra | 1.00000000
+Geometry | 1.00000000	Geometry | 1.00000000
+Combinatorics | 1.00000000	Combinatorics | 1.00000000
+Data Structure  and  Algorithm | 1.00000000	Data Structure  and  Algorithm | 1.00000000
+Computer Graphics | 1.00000000	Computer Graphics | 1.00000000
+Probability | 1.00000000	Probability | 1.00000000
+Topics in Advanced AnalysisII | 1.00000000	Topics in Advanced AnalysisII | 1.00000000
+Elemetary Number Theory | 1.00000000	Elemetary Number Theory | 1.00000000
+Topics In Computer Theory | 1.00000000	Topics In Computer Theory | 1.00000000
+Ornamental Art | 1.00000000	Ornamental Art | 1.00000000
+ >	Introduction to Computing | 0.47058824
+ >	Intro to Probability  and Statist | 0.38461538
+
+
+query 16
+Aerobics | 1.00000000	 <
+African Dance | 1.00000000	African Dance | 1.00000000
+Aikido | 1.00000000	Aikido | 1.00000000
+Archery | 1.00000000	Archery | 1.00000000
+Bellydance | 1.00000000	Bellydance | 1.00000000
+Ballroom Dance-Intermediate | 1.00000000	Ballroom Dance-Intermediate | 1.00000000
+Canoeing | 1.00000000	 <
+Self Defense | 1.00000000	Self Defense | 1.00000000
+Fencing | 1.00000000	Fencing | 1.00000000
+Folkdance | 1.00000000	 <
+Golf | 1.00000000	 <
+Yoga-Hatha | 1.00000000	Yoga-Hatha | 1.00000000
+Judo | 1.00000000	Judo | 1.00000000
+Juggling | 1.00000000	Juggling | 1.00000000
+Jitterbug | 1.00000000	Jitterbug | 1.00000000
+Yoga-Kundilini | 1.00000000	 <
+Kayaking-Intermediate | 1.00000000	 <
+Lifeguard Training | 1.00000000	Lifeguard Training | 1.00000000
+Yoga-Relaxaion | 1.00000000	 <
+Rock Climbing | 1.00000000	Rock Climbing | 1.00000000
+Rugby-Men and Women | 1.00000000	Rugby-Men and Women | 1.00000000
+Rowing-Beginning | 1.00000000	 <
+Rowing-Intermediate | 1.00000000	 <
+Softball | 1.00000000	 <
+Squash-Beginning | 1.00000000	 <
+Squash-Intermediate | 1.00000000	Squash-Intermediate | 1.00000000
+Sailing | 1.00000000	 <
+Tai Chi-Beginning | 1.00000000	Tai Chi-Beginning | 1.00000000
+Tai Chi-Intermediate | 1.00000000	Tai Chi-Intermediate | 1.00000000
+Tennis-Advanced | 1.00000000	 <
+Tennis-Beginning | 1.00000000	 <
+Tennis-Intermediate | 1.00000000	 <
+Ultimate Frisbee | 1.00000000	Ultimate Frisbee | 1.00000000
+White Water Rafting | 1.00000000	 <
+Badminton | 1.00000000	Badminton | 1.00000000
+Basketball-Coed | 1.00000000	 | Sailing | 0.92307692
+Backcountry Navigation | 1.00000000	 | Aerobics | 0.80000000
+Bowling | 1.00000000	 | Canoeing | 0.80000000
+Folkdancing | 1.00000000	 | Folkdance | 0.80000000
+Hiking Around Portland | 1.00000000	 | Golf | 0.80000000
+Yoga-Kundlini | 1.00000000	 | Yoga-Kundilini | 0.80000000
+Modern Dance | 1.00000000	 | Kayaking-Intermediate | 0.80000000
+Yoga-Relaxation | 1.00000000	 | Yoga-Relaxaion | 0.80000000
+Raquetball-Beginning | 1.00000000	 | Rowing-Beginning | 0.80000000
+Squash-beginning | 1.00000000	 | Rowing-Intermediate | 0.80000000
+ >	Softball | 0.80000000
+ >	Squash-Beginning | 0.80000000
+ >	Tennis-Advanced | 0.80000000
+ >	Tennis-Beginning | 0.80000000
+ >	Tennis-Intermediate | 0.80000000
+ >	White Water Rafting | 0.80000000
+ >	Basketball-Coed | 0.80000000
+ >	Backcountry Navigation | 0.80000000
+ >	Bowling | 0.80000000
+ >	Folkdancing | 0.80000000
+ >	Hiking Around Portland | 0.80000000
+ >	Yoga-Kundlini | 0.80000000
+ >	Modern Dance | 0.80000000
+ >	Yoga-Relaxation | 0.80000000
+ >	Raquetball-Beginning | 0.80000000
+ >	Squash-beginning | 0.80000000
+
+
+query 17
+Intro Poetry Writing | 1.00000000	 <
+Intro to Fiction Writing | 1.00000000	Intro to Fiction Writing | 1.00000000
+Intermediate Poetry: StudioII | 1.00000000	Intermediate Poetry: StudioII | 1.00000000
+Intro to ScreenwritingWrkshop | 1.00000000	Intro to ScreenwritingWrkshop | 1.00000000
+Adv Poet Writng: SequentVoice | 1.00000000	Adv Poet Writng: SequentVoice | 1.00000000
+Adv Poet Writing:NaturalVoice | 1.00000000	Adv Poet Writing:NaturalVoice | 1.00000000
+Advanced Fiction Writing | 1.00000000	 | Intro Poetry Writing | 0.80000000
+ >	Advanced Fiction Writing | 0.80000000
+
+
+query 18
+Introduction to Computing | 1.00000000	 <
+Introduction to Combinatorics | 1.00000000	Introduction to Combinatorics | 1.00000000
+Intro to Probability  and Statist | 1.00000000    <
+Complex Analysis | 1.00000000	Complex Analysis | 1.00000000
+Advanced Calculus | 1.00000000	Advanced Calculus | 1.00000000
+Abstract Algebra | 1.00000000	Abstract Algebra | 1.00000000
+Geometry | 1.00000000	Geometry | 1.00000000
+Combinatorics | 1.00000000	Combinatorics | 1.00000000
+Data Structure  and  Algorithm | 1.00000000	Data Structure  and  Algorithm | 1.00000000
+Probability | 1.00000000	Probability | 1.00000000
+Topics in Advanced AnalysisII | 1.00000000	Topics in Advanced AnalysisII | 1.00000000
+Elemetary Number Theory | 1.00000000	Elemetary Number Theory | 1.00000000
+Algebraic Structures | 1.00000000	Algebraic Structures | 1.00000000
+Topics In Computer Theory | 1.00000000	Topics In Computer Theory | 1.00000000
+Ornamental Art | 1.00000000	Ornamental Art | 1.00000000
+ >	Introduction to Computing | 0.47058824
+ >	Intro to Probability  and Statist | 0.38461538
+
+
+query 19
+20-Cent Chin Fiction, 1919-49 | 1.00000000	20-Cent Chin Fiction, 1919-49 | 1.00000000
+20-Century Chinese Poetry | 1.00000000	20-Century Chinese Poetry | 1.00000000
+Russian Lit:Chekhov toPresent | 1.00000000	Russian Lit:Chekhov toPresent | 1.00000000
+The Myth of St. Petersburg | 1.00000000	The Myth of St. Petersburg | 1.00000000
+German Thought Postmod Era | 1.00000000	German Thought Postmod Era | 1.00000000
+Russian Lit:Gogol  and Dostoevsky | 1.00000000	Russian Lit:Gogol  and Dostoevsky | 1.00000000
+Russ Decadent/SymbolistCultur | 1.00000000	Russ Decadent/SymbolistCultur | 1.00000000
+20th C Russian CriticalTheory | 1.00000000	20th C Russian CriticalTheory | 1.00000000
+Don Quixote  and  Narr. Theory | 1.00000000	Don Quixote  and  Narr. Theory | 1.00000000
+
+
+query 20
+Intro Narr:Native AmericanLit | 1.00000000	Intro Narr:Native AmericanLit | 1.00000000
+Intro Narr: Telling Lives | 1.00000000	Intro Narr: Telling Lives | 1.00000000
+Intro Narrative: The Essay | 1.00000000	Intro Narrative: The Essay | 1.00000000
+Intro Fict:Colonl and LaterNovels | 1.00000000	Intro Fict:Colonl and LaterNovels | 1.00000000
+Intro Fict:Portraits ofLadies | 1.00000000	Intro Fict:Portraits ofLadies | 1.00000000
+Intro Fict: The Short Story | 1.00000000	Intro Fict: The Short Story | 1.00000000
+Intro to Drama: The 1990s | 1.00000000	Intro to Drama: The 1990s | 1.00000000
+Intro Drama:Conventn  and Inovatn | 1.00000000    <
+Jun Sem: Epic and Novel | 1.00000000	Jun Sem: Epic and Novel | 1.00000000
+Amer. Studies Seminar: TheEnd | 1.00000000	Amer. Studies Seminar: TheEnd | 1.00000000
+Fict:Wolff,Forster,Bloomsbury | 1.00000000	Fict:Wolff,Forster,Bloomsbury | 1.00000000
+Fict: Novel  and  Theory Mimesis | 1.00000000	Fict: Novel  and  Theory Mimesis | 1.00000000
+Mod Fict:Representing Mothers | 1.00000000	Mod Fict:Representing Mothers | 1.00000000
+American Lit: Race in America | 1.00000000	American Lit: Race in America | 1.00000000
+Amer Lit: The James Brothers | 1.00000000	Amer Lit: The James Brothers | 1.00000000
+American Lit: Speaking ofRace | 1.00000000	American Lit: Speaking ofRace | 1.00000000
+20th Cent African-Amercan Lit | 1.00000000	20th Cent African-Amercan Lit | 1.00000000
+Love in Shakespeare | 1.00000000	Love in Shakespeare | 1.00000000
+Skepticism in Shakespeare | 1.00000000	Skepticism in Shakespeare | 1.00000000
+Poetry: Pound and H.D. | 1.00000000	Poetry: Pound and H.D. | 1.00000000
+Poetry  and  History:Contemp Amer | 1.00000000	Poetry  and  History:Contemp Amer | 1.00000000
+Literary Theory:EthicsReading | 1.00000000	Literary Theory:EthicsReading | 1.00000000
+ >	Intro Drama:Conventn  and Inovatn | 0.80000000
+
+
+query 21
+Logic | 1.00000000	Logic | 1.00000000
+Ancient Philosophy | 1.00000000	Ancient Philosophy | 1.00000000
+Metaphysics | 1.00000000	Metaphysics | 1.00000000
+Epistemology | 1.00000000	Epistemology | 1.00000000
+Ethics | 1.00000000	Ethics | 1.00000000
+Philosophy of Mind | 1.00000000	Philosophy of Mind | 1.00000000
+Adv Topics:APrior,Nec,Anlytic | 1.00000000	Adv Topics:APrior,Nec,Anlytic | 1.00000000
+Advanced Topics:Phil of Mind | 1.00000000	Advanced Topics:Phil of Mind | 1.00000000
+Advanced Topics: Epistemology | 1.00000000	Advanced Topics: Epistemology | 1.00000000
+Adv Topics: Ethics | 1.00000000	Adv Topics: Ethics | 1.00000000
+Major Figures:Existentialists | 1.00000000	Major Figures:Existentialists | 1.00000000
+Major Figures: Davidson | 1.00000000	Major Figures: Davidson | 1.00000000
+Major Figures: Hume | 1.00000000	Major Figures: Hume | 1.00000000
+
+
+query 22
+Spanish Short Story | 1.00000000	Spanish Short Story | 1.00000000
+Modern Peninsular Drama | 1.00000000	Modern Peninsular Drama | 1.00000000
+Mod Spanish American Drama | 1.00000000	Mod Spanish American Drama | 1.00000000
+Penin Lit: Dogma  and  Disbelief | 1.00000000	Penin Lit: Dogma  and  Disbelief | 1.00000000
+The City in Span Amer Lit | 1.00000000	The City in Span Amer Lit | 1.00000000
+Lit Responses to Dictatorship | 1.00000000	Lit Responses to Dictatorship | 1.00000000
+
+
+query 23
+Spanish Short Story | 1.00000000	Spanish Short Story | 1.00000000
+Mod Spanish American Drama | 1.00000000	Mod Spanish American Drama | 1.00000000
+Penin Lit: Dogma  and  Disbelief | 1.00000000	Penin Lit: Dogma  and  Disbelief | 1.00000000
+Spl Tops Span Amer Lit:Borges | 1.00000000	Spl Tops Span Amer Lit:Borges | 1.00000000
+The City in Span Amer Lit | 1.00000000	The City in Span Amer Lit | 1.00000000
+Lit Responses to Dictatorship | 1.00000000	Lit Responses to Dictatorship | 1.00000000
+
+
+query 24
+Race and Ethnicity | 1.00000000	Race and Ethnicity | 1.00000000
+American Capitalism | 1.00000000	 | American Capitalism | 0.80000000
+Sociology of Culture | 1.00000000	 | Sociology of Culture | 0.80000000
+
+
+query 25
+Late Imperial China | 1.00000000	 <
+Modern China | 1.00000000	 <
+Cultr  and  Society 19 CentAmerca | 1.00000000    <
+Culture and Society 20 Cent Amer | 1.00000000    <
+Introduction to Judaism | 1.00000000	 <
+Spcl Tops: Vietnam War | 1.00000000	Spcl Tops: Vietnam War | 1.00000000
+Subaltern Stds Historiography | 1.00000000	 <
+The Family in China and Japan | 1.00000000	 <
+Devel of Britain 1700-1830 | 1.00000000	 <
+The Russian Revolution | 1.00000000	The Russian Revolution | 1.00000000
+Weimar:State,Society  and Culture | 1.00000000    <
+Old Regime France 1600-1750 | 1.00000000	 <
+The French Enlightenment | 1.00000000	 <
+Civil War and Reconstruction | 1.00000000	 <
+Gender and History | 1.00000000	Gender and History | 1.00000000
+American Slavery | 1.00000000	 <
+Mexico: Indepdence toRevolutn | 1.00000000	Mexico: Indepdence toRevolutn | 1.00000000
+Mexico  and  the Spanish Conquest | 1.00000000	Mexico  and  the Spanish Conquest | 1.00000000
+Jun Sem: Depression Era U.S. | 1.00000000	 | Late Imperial China | 0.80000000
+Sem: Comty, Auth, Cult15-1700 | 1.00000000	 | Modern China | 0.80000000
+Topics in FrenchEnlightenment | 1.00000000	 | Cultr  and  Society 19 CentAmerca | 0.80000000
+ >	Culture and Society 20 Cent Amer | 0.80000000
+ >	Introduction to Judaism | 0.80000000
+ >	Subaltern Stds Historiography | 0.80000000
+ >	The Family in China and Japan | 0.80000000
+ >	Devel of Britain 1700-1830 | 0.80000000
+ >	Weimar:State,Society  and Culture | 0.80000000
+ >	Old Regime France 1600-1750 | 0.80000000
+ >	The French Enlightenment | 0.80000000
+ >	Civil War and Reconstruction | 0.80000000
+ >	American Slavery | 0.80000000
+ >	Jun Sem: Depression Era U.S. | 0.80000000
+ >	Sem: Comty, Auth, Cult15-1700 | 0.80000000
+ >	Topics in FrenchEnlightenment | 0.80000000
+
+
+query 26
+Introduction to Computing | 1.00000000	 <
+Introduction to Combinatorics | 1.00000000	Introduction to Combinatorics | 1.00000000
+Intro to Probability  and Statist | 1.00000000    <
+Complex Analysis | 1.00000000	Complex Analysis | 1.00000000
+Advanced Calculus | 1.00000000	Advanced Calculus | 1.00000000
+Abstract Algebra | 1.00000000	Abstract Algebra | 1.00000000
+Geometry | 1.00000000	Geometry | 1.00000000
+Combinatorics | 1.00000000	Combinatorics | 1.00000000
+Data Structure  and  Algorithm | 1.00000000	Data Structure  and  Algorithm | 1.00000000
+Computer Graphics | 1.00000000	Computer Graphics | 1.00000000
+Probability | 1.00000000	Probability | 1.00000000
+Topics in Advanced AnalysisII | 1.00000000	Topics in Advanced AnalysisII | 1.00000000
+Algebraic Structures | 1.00000000	Algebraic Structures | 1.00000000
+Topics In Computer Theory | 1.00000000	Topics In Computer Theory | 1.00000000
+Ornamental Art | 1.00000000	Ornamental Art | 1.00000000
+ >	Introduction to Computing | 0.47058824
+ >	Intro to Probability  and Statist | 0.38461538
+
+
+query 27
+Intro to Psychology I | 1.00000000	Intro to Psychology I | 1.00000000
+Intro to Psychology | 1.00000000	 <
+Intro to Psychology II | 1.00000000	 <
+Social Psychology | 1.00000000	Social Psychology | 1.00000000
+Health Psychology | 1.00000000	Health Psychology | 1.00000000
+Social Development | 1.00000000	Social Development | 1.00000000
+Community Psychology | 1.00000000	Community Psychology | 1.00000000
+Psychopharmacology | 1.00000000	 <
+Thinking | 1.00000000	Thinking | 1.00000000
+Research Design  and  DataAnalysi | 1.00000000    <
+Psychopathology | 1.00000000	Psychopathology | 1.00000000
+Human Development | 1.00000000	Human Development | 1.00000000
+Cognitive Processes | 1.00000000	 <
+Learning | 1.00000000	Learning | 1.00000000
+Music Perception | 1.00000000	Music Perception | 1.00000000
+Cross-Cultural Psychology | 1.00000000	Cross-Cultural Psychology | 1.00000000
+Junior Seminar | 1.00000000	Junior Seminar | 1.00000000
+Psychobiology Research | 1.00000000	Psychobiology Research | 1.00000000
+Clinical Psychology | 1.00000000	Clinical Psychology | 1.00000000
+ >	Psychopharmacology | 0.60000000
+ >	Research Design  and  DataAnalysi | 0.60000000
+ >	Cognitive Processes | 0.60000000
+ >	Intro to Psychology | 0.47058824
+ >	Intro to Psychology II | 0.38461538
+
+
+query 28
+Russian Short Fiction | 1.00000000	Russian Short Fiction | 1.00000000
+20-Cent Chin Fiction, 1919-49 | 1.00000000	20-Cent Chin Fiction, 1919-49 | 1.00000000
+20-Century Chinese Poetry | 1.00000000	20-Century Chinese Poetry | 1.00000000
+Russian Lit:Chekhov toPresent | 1.00000000	Russian Lit:Chekhov toPresent | 1.00000000
+The Myth of St. Petersburg | 1.00000000	The Myth of St. Petersburg | 1.00000000
+German Thought Postmod Era | 1.00000000	German Thought Postmod Era | 1.00000000
+Russian Lit:Gogol  and Dostoevsky | 1.00000000	Russian Lit:Gogol  and Dostoevsky | 1.00000000
+Russ Decadent/SymbolistCultur | 1.00000000	Russ Decadent/SymbolistCultur | 1.00000000
+Don Quixote  and  Narr. Theory | 1.00000000	Don Quixote  and  Narr. Theory | 1.00000000
+
+
+query 29
+African Dance | 1.00000000	 | Sailing | 0.96000000
+Aikido | 1.00000000	 | African Dance | 0.80000000
+Archery | 1.00000000	 | Aikido | 0.80000000
+Bellydance | 1.00000000	 | Archery | 0.80000000
+Ballroom Dance-Beginning | 1.00000000	 | Bellydance | 0.80000000
+Ballroom Dance-Intermediate | 1.00000000	 | Ballroom Dance-Beginning | 0.80000000
+Canoeing | 1.00000000	 | Ballroom Dance-Intermediate | 0.80000000
+Self Defense | 1.00000000	 | Self Defense | 0.80000000
+Fencing | 1.00000000	 | Fencing | 0.80000000
+Folkdance | 1.00000000	 | Yoga-Hatha | 0.80000000
+Golf | 1.00000000	 | Judo | 0.80000000
+Yoga-Hatha | 1.00000000	 | Juggling | 0.80000000
+Judo | 1.00000000	 | Jitterbug | 0.80000000
+Juggling | 1.00000000	 | Lifeguard Training | 0.80000000
+Jitterbug | 1.00000000	 | Rock Climbing | 0.80000000
+Yoga-Kundilini | 1.00000000	 | Rugby-Men and Women | 0.80000000
+Kayaking-Intermediate | 1.00000000	 | Squash-Intermediate | 0.80000000
+Lifeguard Training | 1.00000000	 | Tai Chi-Beginning | 0.80000000
+Yoga-Relaxaion | 1.00000000	 | Tai Chi-Intermediate | 0.80000000
+Rock Climbing | 1.00000000	 | Ultimate Frisbee | 0.80000000
+Rugby-Men and Women | 1.00000000	 | Badminton | 0.80000000
+Rowing-Beginning | 1.00000000	 | Canoeing | 0.47058824
+Rowing-Intermediate | 1.00000000	 | Folkdance | 0.47058824
+Softball | 1.00000000	 | Golf | 0.47058824
+Squash-Beginning | 1.00000000	 | Yoga-Kundilini | 0.47058824
+Squash-Intermediate | 1.00000000	 | Kayaking-Intermediate | 0.47058824
+Sailing | 1.00000000	 | Yoga-Relaxaion | 0.47058824
+Tai Chi-Beginning | 1.00000000	 | Rowing-Beginning | 0.47058824
+Tai Chi-Intermediate | 1.00000000	 | Rowing-Intermediate | 0.47058824
+Tennis-Advanced | 1.00000000	 | Softball | 0.47058824
+Tennis-Beginning | 1.00000000	 | Squash-Beginning | 0.47058824
+Tennis-Intermediate | 1.00000000	 | Tennis-Advanced | 0.47058824
+Ultimate Frisbee | 1.00000000	 | Tennis-Beginning | 0.47058824
+White Water Rafting | 1.00000000	 | Tennis-Intermediate | 0.47058824
+Badminton | 1.00000000	 | White Water Rafting | 0.47058824
+Basketball-Coed | 1.00000000	 | Basketball-Coed | 0.47058824
+Backcountry Navigation | 1.00000000	 | Backcountry Navigation | 0.47058824
+Bowling | 1.00000000	 | Bowling | 0.47058824
+Folkdancing | 1.00000000	 | Folkdancing | 0.47058824
+Hiking Around Portland | 1.00000000	 | Hiking Around Portland | 0.47058824
+Yoga-Kundlini | 1.00000000	 | Yoga-Kundlini | 0.47058824
+Modern Dance | 1.00000000	 | Modern Dance | 0.47058824
+Yoga-Relaxation | 1.00000000	 | Yoga-Relaxation | 0.47058824
+Raquetball-Beginning | 1.00000000	 | Raquetball-Beginning | 0.47058824
+Squash-beginning | 1.00000000	 | Squash-beginning | 0.47058824
+
+
+query 30
+Introduction to Theatre | 1.00000000	Introduction to Theatre | 1.00000000
+Masks  and  Make-up Design | 1.00000000	Masks  and  Make-up Design | 1.00000000
+Design for the Theatre: Sets | 1.00000000	Design for the Theatre: Sets | 1.00000000
+Costume History  and  Design | 1.00000000	Costume History  and  Design | 1.00000000
+Design for Theatre: Lights | 1.00000000	Design for Theatre: Lights | 1.00000000
+Plays and Playhouses | 1.00000000	Plays and Playhouses | 1.00000000
+Intercultr ExperimentsTheatre | 1.00000000	Intercultr ExperimentsTheatre | 1.00000000
+Playwriting | 1.00000000	Playwriting | 1.00000000
+Techniques of Acting | 1.00000000	Techniques of Acting | 1.00000000
+Directing I | 1.00000000	Directing I | 1.00000000
+Special Problems in Directing | 1.00000000	Special Problems in Directing | 1.00000000
+Experiments Intercult Theatre | 1.00000000	Experiments Intercult Theatre | 1.00000000
+
+
+query 31
+Late Imperial China | 1.00000000	Late Imperial China | 1.00000000
+Modern China | 1.00000000	Modern China | 1.00000000
+Cultr  and  Society 19 CentAmerca | 1.00000000	Cultr  and  Society 19 CentAmerca | 1.00000000
+Culture and Society 20 Cent Amer | 1.00000000	Culture and Society 20 Cent Amer | 1.00000000
+Introduction to Judaism | 1.00000000	Introduction to Judaism | 1.00000000
+Spcl Tops: Vietnam War | 1.00000000	 <
+Subaltern Stds Historiography | 1.00000000	Subaltern Stds Historiography | 1.00000000
+The Family in China and Japan | 1.00000000	The Family in China and Japan | 1.00000000
+Devel of Britain 1700-1830 | 1.00000000	Devel of Britain 1700-1830 | 1.00000000
+The Third Reich | 1.00000000	 <
+The Russian Revolution | 1.00000000	 <
+Weimar:State,Society  and Culture | 1.00000000	Weimar:State,Society  and Culture | 1.00000000
+Old Regime France 1600-1750 | 1.00000000	Old Regime France 1600-1750 | 1.00000000
+The French Enlightenment | 1.00000000	The French Enlightenment | 1.00000000
+Civil War and Reconstruction | 1.00000000	Civil War and Reconstruction | 1.00000000
+Gender and History | 1.00000000	 <
+Mexico: Indepdence toRevolutn | 1.00000000	 <
+Mexico  and  the Spanish Conquest | 1.00000000    <
+Jun Sem: Depression Era U.S. | 1.00000000	Jun Sem: Depression Era U.S. | 1.00000000
+Sem: Comty, Auth, Cult15-1700 | 1.00000000	Sem: Comty, Auth, Cult15-1700 | 1.00000000
+Topics in FrenchEnlightenment | 1.00000000	Topics in FrenchEnlightenment | 1.00000000
+ >	Spcl Tops: Vietnam War | 0.80000000
+ >	The Third Reich | 0.80000000
+ >	The Russian Revolution | 0.80000000
+ >	Gender and History | 0.80000000
+ >	Mexico: Indepdence toRevolutn | 0.80000000
+ >	Mexico  and  the Spanish Conquest | 0.80000000
+
+
+query 32
+Aerobics | 1.00000000	 <
+Aikido | 1.00000000	Aikido | 1.00000000
+Archery | 1.00000000	Archery | 1.00000000
+Bellydance | 1.00000000	Bellydance | 1.00000000
+Ballroom Dance-Beginning | 1.00000000	Ballroom Dance-Beginning | 1.00000000
+Ballroom Dance-Intermediate | 1.00000000	Ballroom Dance-Intermediate | 1.00000000
+Canoeing | 1.00000000	 <
+Self Defense | 1.00000000	Self Defense | 1.00000000
+Fencing | 1.00000000	Fencing | 1.00000000
+Folkdance | 1.00000000	 <
+Golf | 1.00000000	 <
+Yoga-Hatha | 1.00000000	Yoga-Hatha | 1.00000000
+Judo | 1.00000000	Judo | 1.00000000
+Juggling | 1.00000000	Juggling | 1.00000000
+Jitterbug | 1.00000000	Jitterbug | 1.00000000
+Yoga-Kundilini | 1.00000000	 <
+Kayaking-Intermediate | 1.00000000	 <
+Lifeguard Training | 1.00000000	Lifeguard Training | 1.00000000
+Yoga-Relaxaion | 1.00000000	 <
+Rock Climbing | 1.00000000	Rock Climbing | 1.00000000
+Rugby-Men and Women | 1.00000000	Rugby-Men and Women | 1.00000000
+Rowing-Beginning | 1.00000000	 <
+Rowing-Intermediate | 1.00000000	 <
+Softball | 1.00000000	 <
+Squash-Beginning | 1.00000000	 <
+Squash-Intermediate | 1.00000000	Squash-Intermediate | 1.00000000
+Sailing | 1.00000000	 <
+Tai Chi-Beginning | 1.00000000	Tai Chi-Beginning | 1.00000000
+Tai Chi-Intermediate | 1.00000000	Tai Chi-Intermediate | 1.00000000
+Tennis-Advanced | 1.00000000	 <
+Tennis-Beginning | 1.00000000	 <
+Tennis-Intermediate | 1.00000000	 <
+Ultimate Frisbee | 1.00000000	Ultimate Frisbee | 1.00000000
+White Water Rafting | 1.00000000	 <
+Badminton | 1.00000000	Badminton | 1.00000000
+Basketball-Coed | 1.00000000	 | Sailing | 0.92307692
+Backcountry Navigation | 1.00000000	 | Aerobics | 0.80000000
+Bowling | 1.00000000	 | Canoeing | 0.80000000
+Folkdancing | 1.00000000	 | Folkdance | 0.80000000
+Hiking Around Portland | 1.00000000	 | Golf | 0.80000000
+Yoga-Kundlini | 1.00000000	 | Yoga-Kundilini | 0.80000000
+Modern Dance | 1.00000000	 | Kayaking-Intermediate | 0.80000000
+Yoga-Relaxation | 1.00000000	 | Yoga-Relaxaion | 0.80000000
+Raquetball-Beginning | 1.00000000	 | Rowing-Beginning | 0.80000000
+Squash-beginning | 1.00000000	 | Rowing-Intermediate | 0.80000000
+ >	Softball | 0.80000000
+ >	Squash-Beginning | 0.80000000
+ >	Tennis-Advanced | 0.80000000
+ >	Tennis-Beginning | 0.80000000
+ >	Tennis-Intermediate | 0.80000000
+ >	White Water Rafting | 0.80000000
+ >	Basketball-Coed | 0.80000000
+ >	Backcountry Navigation | 0.80000000
+ >	Bowling | 0.80000000
+ >	Folkdancing | 0.80000000
+ >	Hiking Around Portland | 0.80000000
+ >	Yoga-Kundlini | 0.80000000
+ >	Modern Dance | 0.80000000
+ >	Yoga-Relaxation | 0.80000000
+ >	Raquetball-Beginning | 0.80000000
+ >	Squash-beginning | 0.80000000
+
+
+query 33
+Survey of Econometric Methods | 1.00000000	Survey of Econometric Methods | 1.00000000
+Theory and  Practice Econometrics | 1.00000000	Theory and  Practice Econometrics | 1.00000000
+Microeconomic Theory | 1.00000000	Microeconomic Theory | 1.00000000
+History of Economic Thought | 1.00000000	History of Economic Thought | 1.00000000
+Monetary and Fiscal Policy | 1.00000000	Monetary and Fiscal Policy | 1.00000000
+International Macroeconomics | 1.00000000	International Macroeconomics | 1.00000000
+Economics of the PublicSector | 1.00000000	Economics of the PublicSector | 1.00000000
+Environment  and  Nat Resrce Econ | 1.00000000	Environment  and  Nat Resrce Econ | 1.00000000
+Economics of Development | 1.00000000	Economics of Development | 1.00000000
+International Trade | 1.00000000	International Trade | 1.00000000
+Seminar: Unemployment | 1.00000000	Seminar: Unemployment | 1.00000000
+Economics  and  Game Theory | 1.00000000	Economics  and  Game Theory | 1.00000000
+Econ Envirn, Intl Trade,Devel | 1.00000000	Econ Envirn, Intl Trade,Devel | 1.00000000
+Economic Growth | 1.00000000	Economic Growth | 1.00000000
+
+
+query 34
+First Year French | 1.00000000	 <
+Stylistics and Composition | 1.00000000	Stylistics and Composition | 1.00000000
+Lit  and  Society (16th Century) | 1.00000000	Lit  and  Society (16th Century) | 1.00000000
+Lit  and  Society (18th Century) | 1.00000000	Lit  and  Society (18th Century) | 1.00000000
+Early Modern French Narrative | 1.00000000	Early Modern French Narrative | 1.00000000
+17th Cent French Drama | 1.00000000	17th Cent French Drama | 1.00000000
+20th C French Poetry  and Poetics | 1.00000000	20th C French Poetry  and Poetics | 1.00000000
+20th Century French Theatre | 1.00000000	20th Century French Theatre | 1.00000000
+ >	First Year French | 0.60000000
+
+
+query 35
+General Physics II | 1.00000000	 | General Physics II | 0.47058824
+Classical Mechanics I | 1.00000000	 | Advanced Laboratory I | 0.36226415
+Electrodynamics I | 1.00000000	 | Advanced Laboratory II | 0.36226415
+Electrodynamics II | 1.00000000	 | Classical Mechanics I | 0.12451362
+Optics | 1.00000000	 | Electrodynamics I | 0.12451362
+Advanced Laboratory I | 1.00000000	 | Electrodynamics II | 0.12451362
+Advanced Laboratory II | 1.00000000	 | Optics | 0.12451362
+Quantum Mechanics I | 1.00000000	 | Quantum Mechanics I | 0.12451362
+Thermal Physics | 1.00000000	 | Thermal Physics | 0.12451362
+Solid State Physics | 1.00000000	 | Solid State Physics | 0.12451362
+Elementary Particles | 1.00000000	 | Elementary Particles | 0.12451362
+Scientific Computation | 1.00000000	 | Scientific Computation | 0.12451362
+Classical Mechanics II | 1.00000000	 | Classical Mechanics II | 0.12451362
+Quantum Mechanics II | 1.00000000	 | Quantum Mechanics II | 0.12451362
+
+
+query 36
+Intro Narr:Native AmericanLit | 1.00000000	Intro Narr:Native AmericanLit | 1.00000000
+Intro Narr: Telling Lives | 1.00000000	Intro Narr: Telling Lives | 1.00000000
+Intro Narrative: The Essay | 1.00000000	Intro Narrative: The Essay | 1.00000000
+Intro Fict:Colonl and LaterNovels | 1.00000000	Intro Fict:Colonl and LaterNovels | 1.00000000
+Intro Fict:Portraits ofLadies | 1.00000000	Intro Fict:Portraits ofLadies | 1.00000000
+Intro Fict: The Short Story | 1.00000000	Intro Fict: The Short Story | 1.00000000
+Intro to Drama: The 1990s | 1.00000000	Intro to Drama: The 1990s | 1.00000000
+Intro Drama:Conventn  and Inovatn | 1.00000000    <
+Jun Sem: Epic and Novel | 1.00000000	Jun Sem: Epic and Novel | 1.00000000
+Jun Sem:Irony, Allegory, Epic | 1.00000000	Jun Sem:Irony, Allegory, Epic | 1.00000000
+Amer. Studies Seminar: TheEnd | 1.00000000	Amer. Studies Seminar: TheEnd | 1.00000000
+Fict:Wolff,Forster,Bloomsbury | 1.00000000	Fict:Wolff,Forster,Bloomsbury | 1.00000000
+Fict: Novel  and  Theory Mimesis | 1.00000000	Fict: Novel  and  Theory Mimesis | 1.00000000
+Mod Fict:Representing Mothers | 1.00000000	Mod Fict:Representing Mothers | 1.00000000
+Amer Lit: The James Brothers | 1.00000000	Amer Lit: The James Brothers | 1.00000000
+American Lit: Speaking ofRace | 1.00000000	American Lit: Speaking ofRace | 1.00000000
+20th Cent African-Amercan Lit | 1.00000000	20th Cent African-Amercan Lit | 1.00000000
+Love in Shakespeare | 1.00000000	Love in Shakespeare | 1.00000000
+Skepticism in Shakespeare | 1.00000000	Skepticism in Shakespeare | 1.00000000
+Poetry: Pound and H.D. | 1.00000000	Poetry: Pound and H.D. | 1.00000000
+Poetry  and  History:Contemp Amer | 1.00000000	Poetry  and  History:Contemp Amer | 1.00000000
+Literary Theory:EthicsReading | 1.00000000	Literary Theory:EthicsReading | 1.00000000
+ >	Intro Drama:Conventn  and Inovatn | 0.80000000
+
+
+query 37
+Field Biology of Amphibians | 1.00000000	 <
+Bacterial Pathogenesis | 1.00000000	 <
+Seminar in Biology | 1.00000000	 <
+Animal Behav.  and  Behav.Ecology | 1.00000000	Animal Behav.  and  Behav.Ecology | 1.00000000
+Developmental Biology | 1.00000000	Developmental Biology | 1.00000000
+Genetics and Gene Regulation | 1.00000000	Genetics and Gene Regulation | 1.00000000
+Genetics and MolecularBiology | 1.00000000	 <
+Population Bio:Ecolgy and Evolutn | 1.00000000	Population Bio:Ecolgy and Evolutn | 1.00000000
+Cellular Biology | 1.00000000	Cellular Biology | 1.00000000
+Animal Physiology | 1.00000000	Animal Physiology | 1.00000000
+Evolutionary Biology | 1.00000000	Evolutionary Biology | 1.00000000
+ >	Genetics and MolecularBiology | 0.96000000
+ >	Field Biology of Amphibians | 0.60000000
+ >	Bacterial Pathogenesis | 0.60000000
+ >	Seminar in Biology | 0.60000000
+
+
+query 38
+Secnd Yr Ger:CultralPerspctvs | 1.00000000	 | Secnd Yr Ger:CultralPerspctvs | 0.80000000
+Adv Conversation and Writing | 1.00000000	 | Adv Conversation and Writing | 0.80000000
+Advancd Conversation and Writing | 1.00000000    | Advancd Conversation and Writing | 0.80000000
+Modernism: Berlin | 1.00000000	 | Modernism: Berlin | 0.80000000
+Contemporary German Prose | 1.00000000	 | Contemporary German Prose | 0.80000000
+Modern German Theatre | 1.00000000	 | Modern German Theatre | 0.80000000
+German Thought Postmodrn Era | 1.00000000	 | German Thought Postmodrn Era | 0.80000000
+German Theory II: Body Media | 1.00000000	 | German Theory II: Body Media | 0.80000000
+
+
+query 39
+Technique, Design  and Compostion | 1.00000000	Technique, Design  and Compostion | 1.00000000
+Improvisation | 1.00000000	Improvisation | 1.00000000
+Adv Techniques  and  CompositionI | 1.00000000	Adv Techniques  and  CompositionI | 1.00000000
+Adv Technique  and  CompositionII | 1.00000000	Adv Technique  and  CompositionII | 1.00000000
+Dance Theory and Criticism | 1.00000000	Dance Theory and Criticism | 1.00000000
+
+
+query 40
+Intro Political Analysis | 1.00000000	Intro Political Analysis | 1.00000000
+Empirical Political Theory | 1.00000000	Empirical Political Theory | 1.00000000
+Classical PoliticalPhilosophy | 1.00000000	Classical PoliticalPhilosophy | 1.00000000
+Modern Political Philosophy | 1.00000000	Modern Political Philosophy | 1.00000000
+Comparative Politics | 1.00000000	Comparative Politics | 1.00000000
+Research Methods | 1.00000000	Research Methods | 1.00000000
+Democratic Theory | 1.00000000	Democratic Theory | 1.00000000
+Politics of Globalization | 1.00000000	Politics of Globalization | 1.00000000
+Environmental Politics | 1.00000000	Environmental Politics | 1.00000000
+States and Illegal Markets | 1.00000000	States and Illegal Markets | 1.00000000
+Approaches to Violence | 1.00000000	Approaches to Violence | 1.00000000
+Pol of Border and US-Mexico | 1.00000000	Pol of Border and US-Mexico | 1.00000000
+Con. Law and JudicialPolitics | 1.00000000	Con. Law and JudicialPolitics | 1.00000000
+Systems of Justice | 1.00000000	Systems of Justice | 1.00000000
+International CriminalJustice | 1.00000000	International CriminalJustice | 1.00000000
+Machiavelli | 1.00000000	Machiavelli | 1.00000000
+Political Philosophies ofWork | 1.00000000	Political Philosophies ofWork | 1.00000000
+
+
+query 41
+Aerobics | 1.00000000	 <
+African Dance | 1.00000000	 <
+Aikido | 1.00000000	 <
+Archery | 1.00000000	 <
+Bellydance | 1.00000000	 <
+Ballroom Dance-Beginning | 1.00000000	 <
+Ballroom Dance-Intermediate | 1.00000000	 <
+Canoeing | 1.00000000	Canoeing | 1.00000000
+Self Defense | 1.00000000	 <
+Fencing | 1.00000000	 <
+Folkdance | 1.00000000	Folkdance | 1.00000000
+Golf | 1.00000000	Golf | 1.00000000
+Yoga-Hatha | 1.00000000	 <
+Judo | 1.00000000	 <
+Juggling | 1.00000000	 <
+Jitterbug | 1.00000000	 <
+Yoga-Kundilini | 1.00000000	Yoga-Kundilini | 1.00000000
+Kayaking-Intermediate | 1.00000000	Kayaking-Intermediate | 1.00000000
+Lifeguard Training | 1.00000000	 <
+Yoga-Relaxaion | 1.00000000	Yoga-Relaxaion | 1.00000000
+Rock Climbing | 1.00000000	 <
+Rugby-Men and Women | 1.00000000	 <
+Rowing-Beginning | 1.00000000	Rowing-Beginning | 1.00000000
+Rowing-Intermediate | 1.00000000	Rowing-Intermediate | 1.00000000
+Softball | 1.00000000	Softball | 1.00000000
+Squash-Beginning | 1.00000000	Squash-Beginning | 1.00000000
+Squash-Intermediate | 1.00000000	 <
+Sailing | 1.00000000	 <
+Tai Chi-Beginning | 1.00000000	 <
+Tai Chi-Intermediate | 1.00000000	 <
+Tennis-Advanced | 1.00000000	Tennis-Advanced | 1.00000000
+Tennis-Intermediate | 1.00000000	Tennis-Intermediate | 1.00000000
+Ultimate Frisbee | 1.00000000	 <
+White Water Rafting | 1.00000000	White Water Rafting | 1.00000000
+Badminton | 1.00000000	 <
+Basketball-Coed | 1.00000000	Basketball-Coed | 1.00000000
+Backcountry Navigation | 1.00000000	Backcountry Navigation | 1.00000000
+Bowling | 1.00000000	Bowling | 1.00000000
+Folkdancing | 1.00000000	Folkdancing | 1.00000000
+Hiking Around Portland | 1.00000000	Hiking Around Portland | 1.00000000
+Yoga-Kundlini | 1.00000000	Yoga-Kundlini | 1.00000000
+Modern Dance | 1.00000000	Modern Dance | 1.00000000
+Yoga-Relaxation | 1.00000000	Yoga-Relaxation | 1.00000000
+Raquetball-Beginning | 1.00000000	Raquetball-Beginning | 1.00000000
+Squash-beginning | 1.00000000	Squash-beginning | 1.00000000
+ >	African Dance | 0.80000000
+ >	Aikido | 0.80000000
+ >	Archery | 0.80000000
+ >	Bellydance | 0.80000000
+ >	Ballroom Dance-Beginning | 0.80000000
+ >	Ballroom Dance-Intermediate | 0.80000000
+ >	Self Defense | 0.80000000
+ >	Fencing | 0.80000000
+ >	Yoga-Hatha | 0.80000000
+ >	Judo | 0.80000000
+ >	Juggling | 0.80000000
+ >	Jitterbug | 0.80000000
+ >	Lifeguard Training | 0.80000000
+ >	Rock Climbing | 0.80000000
+ >	Rugby-Men and Women | 0.80000000
+ >	Squash-Intermediate | 0.80000000
+ >	Tai Chi-Beginning | 0.80000000
+ >	Tai Chi-Intermediate | 0.80000000
+ >	Ultimate Frisbee | 0.80000000
+ >	Badminton | 0.80000000
+ >	Sailing | 0.60000000
+ >	Aerobics | 0.47058824
+
+
+query 42
+Logic | 1.00000000	Logic | 1.00000000
+Ancient Philosophy | 1.00000000	Ancient Philosophy | 1.00000000
+Post-Kantian Continental Phil | 1.00000000	Post-Kantian Continental Phil | 1.00000000
+Metaphysics | 1.00000000	Metaphysics | 1.00000000
+Epistemology | 1.00000000	Epistemology | 1.00000000
+Ethics | 1.00000000	Ethics | 1.00000000
+Philosophy of Mind | 1.00000000	Philosophy of Mind | 1.00000000
+Advanced Topics:Phil of Mind | 1.00000000	Advanced Topics:Phil of Mind | 1.00000000
+Advanced Topics: Epistemology | 1.00000000	Advanced Topics: Epistemology | 1.00000000
+Adv Topics: Ethics | 1.00000000	Adv Topics: Ethics | 1.00000000
+Major Figures:Existentialists | 1.00000000	Major Figures:Existentialists | 1.00000000
+Major Figures: Davidson | 1.00000000	Major Figures: Davidson | 1.00000000
+Major Figures: Hume | 1.00000000	Major Figures: Hume | 1.00000000
+
+
+query 43
+Late Imperial China | 1.00000000	 <
+Modern China | 1.00000000	 <
+Cultr  and  Society 19 CentAmerca | 1.00000000    <
+Culture and Society 20 Cent Amer | 1.00000000    <
+Introduction to Judaism | 1.00000000	 <
+Spcl Tops: Vietnam War | 1.00000000	Spcl Tops: Vietnam War | 1.00000000
+Subaltern Stds Historiography | 1.00000000	 <
+The Family in China and Japan | 1.00000000	 <
+Devel of Britain 1700-1830 | 1.00000000	 <
+The Third Reich | 1.00000000	The Third Reich | 1.00000000
+The Russian Revolution | 1.00000000	The Russian Revolution | 1.00000000
+Weimar:State,Society  and Culture | 1.00000000    <
+Old Regime France 1600-1750 | 1.00000000	 <
+The French Enlightenment | 1.00000000	 <
+Civil War and Reconstruction | 1.00000000	 <
+American Slavery | 1.00000000	 <
+Mexico: Indepdence toRevolutn | 1.00000000	Mexico: Indepdence toRevolutn | 1.00000000
+Mexico  and  the Spanish Conquest | 1.00000000	Mexico  and  the Spanish Conquest | 1.00000000
+Jun Sem: Depression Era U.S. | 1.00000000	 | Late Imperial China | 0.80000000
+Sem: Comty, Auth, Cult15-1700 | 1.00000000	 | Modern China | 0.80000000
+Topics in FrenchEnlightenment | 1.00000000	 | Cultr  and  Society 19 CentAmerca | 0.80000000
+ >	Culture and Society 20 Cent Amer | 0.80000000
+ >	Introduction to Judaism | 0.80000000
+ >	Subaltern Stds Historiography | 0.80000000
+ >	The Family in China and Japan | 0.80000000
+ >	Devel of Britain 1700-1830 | 0.80000000
+ >	Weimar:State,Society  and Culture | 0.80000000
+ >	Old Regime France 1600-1750 | 0.80000000
+ >	The French Enlightenment | 0.80000000
+ >	Civil War and Reconstruction | 0.80000000
+ >	American Slavery | 0.80000000
+ >	Jun Sem: Depression Era U.S. | 0.80000000
+ >	Sem: Comty, Auth, Cult15-1700 | 0.80000000
+ >	Topics in FrenchEnlightenment | 0.80000000
+
+
+query 44
+First Year Chinese | 1.00000000	First Year Chinese | 1.00000000
+Second Year Chinese | 1.00000000	Second Year Chinese | 1.00000000
+Third Year Chinese | 1.00000000	Third Year Chinese | 1.00000000
+Classical Chinese | 1.00000000	Classical Chinese | 1.00000000
+20 Cent Chin Fiction, 1919-49 | 1.00000000	20 Cent Chin Fiction, 1919-49 | 1.00000000
+Yijing: Text and Tradition | 1.00000000	Yijing: Text and Tradition | 1.00000000
+20th Century Chinese Poetry | 1.00000000	20th Century Chinese Poetry | 1.00000000
+
+
+query 45
+Intro Political Analysis | 1.00000000	Intro Political Analysis | 1.00000000
+Empirical Political Theory | 1.00000000	Empirical Political Theory | 1.00000000
+Classical PoliticalPhilosophy | 1.00000000	Classical PoliticalPhilosophy | 1.00000000
+Modern Political Philosophy | 1.00000000	Modern Political Philosophy | 1.00000000
+Comparative Politics | 1.00000000	Comparative Politics | 1.00000000
+Research Methods | 1.00000000	Research Methods | 1.00000000
+Democratic Theory | 1.00000000	Democratic Theory | 1.00000000
+Politics of Globalization | 1.00000000	Politics of Globalization | 1.00000000
+Environmental Politics | 1.00000000	Environmental Politics | 1.00000000
+Pol of Democratic Participatn | 1.00000000	Pol of Democratic Participatn | 1.00000000
+States and Illegal Markets | 1.00000000	States and Illegal Markets | 1.00000000
+Approaches to Violence | 1.00000000	Approaches to Violence | 1.00000000
+Pol of Border and US-Mexico | 1.00000000	Pol of Border and US-Mexico | 1.00000000
+Systems of Justice | 1.00000000	Systems of Justice | 1.00000000
+International CriminalJustice | 1.00000000	International CriminalJustice | 1.00000000
+Machiavelli | 1.00000000	Machiavelli | 1.00000000
+Political Philosophies ofWork | 1.00000000	Political Philosophies ofWork | 1.00000000
+
+
+query 46
+Survey of Econometric Methods | 1.00000000	Survey of Econometric Methods | 1.00000000
+Theory and  Practice Econometrics | 1.00000000	Theory and  Practice Econometrics | 1.00000000
+Microeconomic Theory | 1.00000000	Microeconomic Theory | 1.00000000
+Macroeconomic Theory | 1.00000000	Macroeconomic Theory | 1.00000000
+Monetary and Fiscal Policy | 1.00000000	Monetary and Fiscal Policy | 1.00000000
+International Macroeconomics | 1.00000000	International Macroeconomics | 1.00000000
+Economics of the PublicSector | 1.00000000	Economics of the PublicSector | 1.00000000
+Environment  and  Nat Resrce Econ | 1.00000000	Environment  and  Nat Resrce Econ | 1.00000000
+Economics of Development | 1.00000000	Economics of Development | 1.00000000
+International Trade | 1.00000000	International Trade | 1.00000000
+Seminar: Unemployment | 1.00000000	Seminar: Unemployment | 1.00000000
+Economics  and  Game Theory | 1.00000000	Economics  and  Game Theory | 1.00000000
+Econ Envirn, Intl Trade,Devel | 1.00000000	Econ Envirn, Intl Trade,Devel | 1.00000000
+Economic Growth | 1.00000000	Economic Growth | 1.00000000
+
+
+query 47
+Intro Narr:Native AmericanLit | 1.00000000	Intro Narr:Native AmericanLit | 1.00000000
+Intro Narr: Telling Lives | 1.00000000	Intro Narr: Telling Lives | 1.00000000
+Intro Narrative: The Essay | 1.00000000	Intro Narrative: The Essay | 1.00000000
+Intro Fict:Portraits ofLadies | 1.00000000	Intro Fict:Portraits ofLadies | 1.00000000
+Intro Fict: The Short Story | 1.00000000	Intro Fict: The Short Story | 1.00000000
+Intro to Drama: The 1990s | 1.00000000	Intro to Drama: The 1990s | 1.00000000
+Intro Drama:Conventn  and Inovatn | 1.00000000    <
+Jun Sem: Epic and Novel | 1.00000000	Jun Sem: Epic and Novel | 1.00000000
+Jun Sem:Irony, Allegory, Epic | 1.00000000	Jun Sem:Irony, Allegory, Epic | 1.00000000
+Amer. Studies Seminar: TheEnd | 1.00000000	Amer. Studies Seminar: TheEnd | 1.00000000
+Fict:Wolff,Forster,Bloomsbury | 1.00000000	Fict:Wolff,Forster,Bloomsbury | 1.00000000
+Fict: Novel  and  Theory Mimesis | 1.00000000	Fict: Novel  and  Theory Mimesis | 1.00000000
+Mod Fict:Representing Mothers | 1.00000000	Mod Fict:Representing Mothers | 1.00000000
+American Lit: Race in America | 1.00000000	American Lit: Race in America | 1.00000000
+Amer Lit: The James Brothers | 1.00000000	Amer Lit: The James Brothers | 1.00000000
+American Lit: Speaking ofRace | 1.00000000	American Lit: Speaking ofRace | 1.00000000
+20th Cent African-Amercan Lit | 1.00000000	20th Cent African-Amercan Lit | 1.00000000
+Love in Shakespeare | 1.00000000	Love in Shakespeare | 1.00000000
+Skepticism in Shakespeare | 1.00000000	Skepticism in Shakespeare | 1.00000000
+Poetry: Pound and H.D. | 1.00000000	Poetry: Pound and H.D. | 1.00000000
+Poetry  and  History:Contemp Amer | 1.00000000	Poetry  and  History:Contemp Amer | 1.00000000
+Literary Theory:EthicsReading | 1.00000000	Literary Theory:EthicsReading | 1.00000000
+ >	Intro Drama:Conventn  and Inovatn | 0.80000000
+
+
+query 48
+MolecularStructure and Properties | 1.00000000    <
+Chemical Reactivity | 1.00000000	 <
+Organic Chemistry I | 1.00000000	 <
+Organic Chemistry II | 1.00000000	 <
+Intro Inorganic Chemistry | 1.00000000	Intro Inorganic Chemistry | 1.00000000
+Environmental Chemistry | 1.00000000	 <
+Analytical Chemistry | 1.00000000	Analytical Chemistry | 1.00000000
+Physical Chemistry Laboratory | 1.00000000	 <
+Computational Organic Chem | 1.00000000	 <
+Statistical Thermodynamics | 1.00000000	 <
+Quantum Mechanics  and  MolStruct | 1.00000000    <
+Advanced Inorganic Chemistry | 1.00000000	 <
+Adv Synth Organic Chemistry | 1.00000000	 <
+Metabolic Biochemistry | 1.00000000	 <
+Biochemical Methods | 1.00000000	Biochemical Methods | 1.00000000
+ >	Organic Chemistry I | 0.65753425
+ >	Organic Chemistry II | 0.65753425
+ >	Environmental Chemistry | 0.60000000
+ >	Physical Chemistry Laboratory | 0.60000000
+ >	Computational Organic Chem | 0.60000000
+ >	Statistical Thermodynamics | 0.60000000
+ >	Quantum Mechanics  and  MolStruct | 0.60000000
+ >	Advanced Inorganic Chemistry | 0.60000000
+ >	Adv Synth Organic Chemistry | 0.60000000
+ >	Metabolic Biochemistry | 0.60000000
+ >	Chemical Reactivity | 0.50769231
+ >	MolecularStructure and Properties | 0.34228188
+
+
+query 49
+
+
+query 50
+
+
+query 51
+
+
+query 52
+
+
+query 53
+
+
+query 54
+
+
+query 55
+
+
+query 56
+
+
+query 57
+
+
+query 58
+
+
+query 59
+
+
+query 60
+
+
+query 61
+
+
+query 62
+
+
+query 63
+
+
+query 64
+
+
+query 65
+
+
+query 66
+
+
+query 67
+
+
+query 68
+
+
+query 69
+
+
+query 70
+
+
+query 71
+
+
+query 72
+
+
+query 73
+
+
+query 74
+
+
+query 75
+
+
+query 76
+
+
+query 77
+
+
+query 78
+
+
+query 79
+
+
+query 80
+
+
+query 81
+
+
+query 82
+
+
+query 83
+
+
+query 84
+
+
+query 85
+
+
+query 86
+
+
+query 87
+
+
+query 88
+
+
+query 89
+
+
+query 90
+
+
+query 91
+
+
+query 92
+
+
+query 93
+
+
+query 94
+
+
+query 95
+
+
+query 96
+
+
+query 97
+
+
+query 98
+
+
+query 99
+
+
+query 100
+
+

@@ -1,0 +1,713 @@
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2014 The MathWorks, Inc.
+                    R2014a (8.3.0.532) 64-bit (glnxa64)
+                             February 11, 2014
+
+
+	This is a Classroom License for instructional use only.
+	Research and commercial use is prohibited.
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+nodesReader : read /srv/data/projects/apps/RepIndep_CIDR/fullgraph/top2000/movie.txt
+nodesReader : read /srv/data/projects/apps/RepIndep_CIDR/fullgraph/top2000/actor.txt
+nodesReader : read /srv/data/projects/apps/RepIndep_CIDR/fullgraph/top2000/director.txt
+nodesReader : read /srv/data/projects/apps/RepIndep_CIDR/fullgraph/top2000/starring.txt
+nodesReader : read /srv/data/projects/apps/RepIndep_CIDR/fullgraph/top2000/character.txt
+nodesReader : read /srv/data/projects/apps/RepIndep_CIDR/fullgraph/top2000/directedby.txt
+edgesReader : read /srv/data/projects/apps/RepIndep_CIDR/fullgraph/top2000/starring_actor.txt
+edgesReader : read /srv/data/projects/apps/RepIndep_CIDR/fullgraph/top2000/starring_movie.txt
+edgesReader : read /srv/data/projects/apps/RepIndep_CIDR/fullgraph/top2000/starring_character.txt
+edgesReader : read /srv/data/projects/apps/RepIndep_CIDR/fullgraph/top2000/directedby_director.txt
+edgesReader : read /srv/data/projects/apps/RepIndep_CIDR/fullgraph/top2000/directedby_movie.txt
+There are 0 isolated nodes in G.
+Data size is |V|=41385 |E|=116444
+data_mp length = 36
+mp = starring movie starring movie
+mp = starring movie starring character
+mp = starring movie starring actor
+mp = starring movie directedby movie
+mp = starring movie directedby director
+mp = starring character starring movie
+mp = starring character starring character
+mp = starring character starring actor
+mp = starring actor starring movie
+mp = starring actor starring character
+mp = starring actor starring actor
+mp = movie starring movie starring
+mp = movie starring movie directedby
+mp = movie starring character starring
+mp = movie starring actor starring
+mp = movie directedby movie starring
+mp = movie directedby movie directedby
+mp = movie directedby director directedby
+mp = actor starring movie starring
+mp = actor starring movie directedby
+mp = actor starring character starring
+mp = actor starring actor starring
+mp = director directedby movie starring
+mp = director directedby movie directedby
+mp = director directedby director directedby
+mp = directedby movie starring movie
+mp = directedby movie starring character
+mp = directedby movie starring actor
+mp = directedby movie directedby movie
+mp = directedby movie directedby director
+mp = directedby director directedby movie
+mp = directedby director directedby director
+mp = character starring movie starring
+mp = character starring movie directedby
+mp = character starring character starring
+mp = character starring actor starring
+starring movie starring movie
+    '>> running PathS...'    'starring'    'movie'    'starring'    'movie'
+
+start matrix construction...
+N=ꆩ
+allocate memory DONE
+cacluate commute matrix DONE CM_half size:
+
+ans =
+
+       41385       41385
+
+multiple half matrix DONE
+get index by type DONE Qs Length= 17316
+quick code DONE
+pathsim: elapsed time (so far) = 49.4538
+starring movie starring character
+    '>> running PathS...'    'starring'    'movie'    'starring'    'character'
+
+start matrix construction...
+N=ꆩ
+allocate memory DONE
+cacluate commute matrix DONE CM_half size:
+
+ans =
+
+       41385       41385
+
+multiple half matrix DONE
+get index by type DONE Qs Length= 17316
+quick code DONE
+pathsim: elapsed time (so far) = 98.3652
+starring movie starring actor
+    '>> running PathS...'    'starring'    'movie'    'starring'    'actor'
+
+start matrix construction...
+N=ꆩ
+allocate memory DONE
+cacluate commute matrix DONE CM_half size:
+
+ans =
+
+       41385       41385
+
+multiple half matrix DONE
+get index by type DONE Qs Length= 17316
+quick code DONE
+pathsim: elapsed time (so far) = 144.7627
+starring movie directedby movie
+    '>> running PathS...'    'starring'    'movie'    'directedby'    'movie'
+
+start matrix construction...
+N=ꆩ
+allocate memory DONE
+cacluate commute matrix DONE CM_half size:
+
+ans =
+
+       41385       41385
+
+multiple half matrix DONE
+get index by type DONE Qs Length= 17316
+quick code DONE
+pathsim: elapsed time (so far) = 191.1558
+starring movie directedby director
+  Columns 1 through 4
+
+    '>> running PathS...'    'starring'    'movie'    'directedby'
+
+  Column 5
+
+    'director'
+
+start matrix construction...
+N=ꆩ
+allocate memory DONE
+cacluate commute matrix DONE CM_half size:
+
+ans =
+
+       41385       41385
+
+multiple half matrix DONE
+get index by type DONE Qs Length= 17316
+quick code DONE
+pathsim: elapsed time (so far) = 209.0914
+starring character starring movie
+    '>> running PathS...'    'starring'    'character'    'starring'    'movie'
+
+start matrix construction...
+N=ꆩ
+allocate memory DONE
+cacluate commute matrix DONE CM_half size:
+
+ans =
+
+       41385       41385
+
+multiple half matrix DONE
+get index by type DONE Qs Length= 17316
+quick code DONE
+pathsim: elapsed time (so far) = 257.0388
+starring character starring character
+  Columns 1 through 4
+
+    '>> running PathS...'    'starring'    'character'    'starring'
+
+  Column 5
+
+    'character'
+
+start matrix construction...
+N=ꆩ
+allocate memory DONE
+cacluate commute matrix DONE CM_half size:
+
+ans =
+
+       41385       41385
+
+multiple half matrix DONE
+get index by type DONE Qs Length= 17316
+quick code DONE
+pathsim: elapsed time (so far) = 304.5843
+starring character starring actor
+    '>> running PathS...'    'starring'    'character'    'starring'    'actor'
+
+start matrix construction...
+N=ꆩ
+allocate memory DONE
+cacluate commute matrix DONE CM_half size:
+
+ans =
+
+       41385       41385
+
+multiple half matrix DONE
+get index by type DONE Qs Length= 17316
+quick code DONE
+pathsim: elapsed time (so far) = 352.4611
+starring actor starring movie
+    '>> running PathS...'    'starring'    'actor'    'starring'    'movie'
+
+start matrix construction...
+N=ꆩ
+allocate memory DONE
+cacluate commute matrix DONE CM_half size:
+
+ans =
+
+       41385       41385
+
+multiple half matrix DONE
+get index by type DONE Qs Length= 17316
+quick code DONE
+pathsim: elapsed time (so far) = 398.7048
+starring actor starring character
+    '>> running PathS...'    'starring'    'actor'    'starring'    'character'
+
+start matrix construction...
+N=ꆩ
+allocate memory DONE
+cacluate commute matrix DONE CM_half size:
+
+ans =
+
+       41385       41385
+
+multiple half matrix DONE
+get index by type DONE Qs Length= 17316
+quick code DONE
+pathsim: elapsed time (so far) = 446.5389
+starring actor starring actor
+    '>> running PathS...'    'starring'    'actor'    'starring'    'actor'
+
+start matrix construction...
+N=ꆩ
+allocate memory DONE
+cacluate commute matrix DONE CM_half size:
+
+ans =
+
+       41385       41385
+
+multiple half matrix DONE
+get index by type DONE Qs Length= 17316
+quick code DONE
+pathsim: elapsed time (so far) = 492.3932
+movie starring movie starring
+    '>> running PathS...'    'movie'    'starring'    'movie'    'starring'
+
+start matrix construction...
+N=ꆩ
+allocate memory DONE
+cacluate commute matrix DONE CM_half size:
+
+ans =
+
+       41385       41385
+
+multiple half matrix DONE
+get index by type DONE Qs Length= 2850
+quick code DONE
+pathsim: elapsed time (so far) = 502.1793
+movie starring movie directedby
+    '>> running PathS...'    'movie'    'starring'    'movie'    'directedby'
+
+start matrix construction...
+N=ꆩ
+allocate memory DONE
+cacluate commute matrix DONE CM_half size:
+
+ans =
+
+       41385       41385
+
+multiple half matrix DONE
+get index by type DONE Qs Length= 2850
+quick code DONE
+pathsim: elapsed time (so far) = 512.3451
+movie starring character starring
+    '>> running PathS...'    'movie'    'starring'    'character'    'starring'
+
+start matrix construction...
+N=ꆩ
+allocate memory DONE
+cacluate commute matrix DONE CM_half size:
+
+ans =
+
+       41385       41385
+
+multiple half matrix DONE
+get index by type DONE Qs Length= 2850
+quick code DONE
+pathsim: elapsed time (so far) = 524.0235
+movie starring actor starring
+    '>> running PathS...'    'movie'    'starring'    'actor'    'starring'
+
+start matrix construction...
+N=ꆩ
+allocate memory DONE
+cacluate commute matrix DONE CM_half size:
+
+ans =
+
+       41385       41385
+
+multiple half matrix DONE
+get index by type DONE Qs Length= 2850
+quick code DONE
+pathsim: elapsed time (so far) = 534.0099
+movie directedby movie starring
+    '>> running PathS...'    'movie'    'directedby'    'movie'    'starring'
+
+start matrix construction...
+N=ꆩ
+allocate memory DONE
+cacluate commute matrix DONE CM_half size:
+
+ans =
+
+       41385       41385
+
+multiple half matrix DONE
+get index by type DONE Qs Length= 2850
+quick code DONE
+pathsim: elapsed time (so far) = 544.169
+movie directedby movie directedby
+    '>> running PathS...'    'movie'    'directedby'    'movie'    'directedby'
+
+start matrix construction...
+N=ꆩ
+allocate memory DONE
+cacluate commute matrix DONE CM_half size:
+
+ans =
+
+       41385       41385
+
+multiple half matrix DONE
+get index by type DONE Qs Length= 2850
+quick code DONE
+pathsim: elapsed time (so far) = 551.7993
+movie directedby director directedby
+  Columns 1 through 4
+
+    '>> running PathS...'    'movie'    'directedby'    'director'
+
+  Column 5
+
+    'directedby'
+
+start matrix construction...
+N=ꆩ
+allocate memory DONE
+cacluate commute matrix DONE CM_half size:
+
+ans =
+
+       41385       41385
+
+multiple half matrix DONE
+get index by type DONE Qs Length= 2850
+quick code DONE
+pathsim: elapsed time (so far) = 559.7438
+actor starring movie starring
+    '>> running PathS...'    'actor'    'starring'    'movie'    'starring'
+
+start matrix construction...
+N=ꆩ
+allocate memory DONE
+cacluate commute matrix DONE CM_half size:
+
+ans =
+
+       41385       41385
+
+multiple half matrix DONE
+get index by type DONE Qs Length= 2000
+quick code DONE
+pathsim: elapsed time (so far) = 569.3439
+actor starring movie directedby
+    '>> running PathS...'    'actor'    'starring'    'movie'    'directedby'
+
+start matrix construction...
+N=ꆩ
+allocate memory DONE
+cacluate commute matrix DONE CM_half size:
+
+ans =
+
+       41385       41385
+
+multiple half matrix DONE
+get index by type DONE Qs Length= 2000
+quick code DONE
+pathsim: elapsed time (so far) = 578.8821
+actor starring character starring
+    '>> running PathS...'    'actor'    'starring'    'character'    'starring'
+
+start matrix construction...
+N=ꆩ
+allocate memory DONE
+cacluate commute matrix DONE CM_half size:
+
+ans =
+
+       41385       41385
+
+multiple half matrix DONE
+get index by type DONE Qs Length= 2000
+quick code DONE
+pathsim: elapsed time (so far) = 590.0485
+actor starring actor starring
+    '>> running PathS...'    'actor'    'starring'    'actor'    'starring'
+
+start matrix construction...
+N=ꆩ
+allocate memory DONE
+cacluate commute matrix DONE CM_half size:
+
+ans =
+
+       41385       41385
+
+multiple half matrix DONE
+get index by type DONE Qs Length= 2000
+quick code DONE
+pathsim: elapsed time (so far) = 599.2612
+director directedby movie starring
+  Columns 1 through 4
+
+    '>> running PathS...'    'director'    'directedby'    'movie'
+
+  Column 5
+
+    'starring'
+
+start matrix construction...
+N=ꆩ
+allocate memory DONE
+cacluate commute matrix DONE CM_half size:
+
+ans =
+
+       41385       41385
+
+multiple half matrix DONE
+get index by type DONE Qs Length= 2416
+quick code DONE
+pathsim: elapsed time (so far) = 609.1731
+director directedby movie directedby
+  Columns 1 through 4
+
+    '>> running PathS...'    'director'    'directedby'    'movie'
+
+  Column 5
+
+    'directedby'
+
+start matrix construction...
+N=ꆩ
+allocate memory DONE
+cacluate commute matrix DONE CM_half size:
+
+ans =
+
+       41385       41385
+
+multiple half matrix DONE
+get index by type DONE Qs Length= 2416
+quick code DONE
+pathsim: elapsed time (so far) = 617.0253
+director directedby director directedby
+  Columns 1 through 4
+
+    '>> running PathS...'    'director'    'directedby'    'director'
+
+  Column 5
+
+    'directedby'
+
+start matrix construction...
+N=ꆩ
+allocate memory DONE
+cacluate commute matrix DONE CM_half size:
+
+ans =
+
+       41385       41385
+
+multiple half matrix DONE
+get index by type DONE Qs Length= 2416
+quick code DONE
+pathsim: elapsed time (so far) = 624.5186
+directedby movie starring movie
+    '>> running PathS...'    'directedby'    'movie'    'starring'    'movie'
+
+start matrix construction...
+N=ꆩ
+allocate memory DONE
+cacluate commute matrix DONE CM_half size:
+
+ans =
+
+       41385       41385
+
+multiple half matrix DONE
+get index by type DONE Qs Length= 3137
+quick code DONE
+pathsim: elapsed time (so far) = 644.9683
+directedby movie starring character
+  Columns 1 through 4
+
+    '>> running PathS...'    'directedby'    'movie'    'starring'
+
+  Column 5
+
+    'character'
+
+start matrix construction...
+N=ꆩ
+allocate memory DONE
+cacluate commute matrix DONE CM_half size:
+
+ans =
+
+       41385       41385
+
+multiple half matrix DONE
+get index by type DONE Qs Length= 3137
+quick code DONE
+pathsim: elapsed time (so far) = 666.0936
+directedby movie starring actor
+    '>> running PathS...'    'directedby'    'movie'    'starring'    'actor'
+
+start matrix construction...
+N=ꆩ
+allocate memory DONE
+cacluate commute matrix DONE CM_half size:
+
+ans =
+
+       41385       41385
+
+multiple half matrix DONE
+get index by type DONE Qs Length= 3137
+quick code DONE
+pathsim: elapsed time (so far) = 685.5355
+directedby movie directedby movie
+    '>> running PathS...'    'directedby'    'movie'    'directedby'    'movie'
+
+start matrix construction...
+N=ꆩ
+allocate memory DONE
+cacluate commute matrix DONE CM_half size:
+
+ans =
+
+       41385       41385
+
+multiple half matrix DONE
+get index by type DONE Qs Length= 3137
+quick code DONE
+pathsim: elapsed time (so far) = 703.1328
+directedby movie directedby director
+  Columns 1 through 4
+
+    '>> running PathS...'    'directedby'    'movie'    'directedby'
+
+  Column 5
+
+    'director'
+
+start matrix construction...
+N=ꆩ
+allocate memory DONE
+cacluate commute matrix DONE CM_half size:
+
+ans =
+
+       41385       41385
+
+multiple half matrix DONE
+get index by type DONE Qs Length= 3137
+quick code DONE
+pathsim: elapsed time (so far) = 721.0645
+directedby director directedby movie
+  Columns 1 through 4
+
+    '>> running PathS...'    'directedby'    'director'    'directedby'
+
+  Column 5
+
+    'movie'
+
+start matrix construction...
+N=ꆩ
+allocate memory DONE
+cacluate commute matrix DONE CM_half size:
+
+ans =
+
+       41385       41385
+
+multiple half matrix DONE
+get index by type DONE Qs Length= 3137
+quick code DONE
+pathsim: elapsed time (so far) = 739.0007
+directedby director directedby director
+  Columns 1 through 4
+
+    '>> running PathS...'    'directedby'    'director'    'directedby'
+
+  Column 5
+
+    'director'
+
+start matrix construction...
+N=ꆩ
+allocate memory DONE
+cacluate commute matrix DONE CM_half size:
+
+ans =
+
+       41385       41385
+
+multiple half matrix DONE
+get index by type DONE Qs Length= 3137
+quick code DONE
+pathsim: elapsed time (so far) = 756.542
+character starring movie starring
+    '>> running PathS...'    'character'    'starring'    'movie'    'starring'
+
+start matrix construction...
+N=ꆩ
+allocate memory DONE
+cacluate commute matrix DONE CM_half size:
+
+ans =
+
+       41385       41385
+
+multiple half matrix DONE
+get index by type DONE Qs Length= 13666
+quick code DONE
+pathsim: elapsed time (so far) = 798.1676
+character starring movie directedby
+  Columns 1 through 4
+
+    '>> running PathS...'    'character'    'starring'    'movie'
+
+  Column 5
+
+    'directedby'
+
+start matrix construction...
+N=ꆩ
+allocate memory DONE
+cacluate commute matrix DONE CM_half size:
+
+ans =
+
+       41385       41385
+
+multiple half matrix DONE
+get index by type DONE Qs Length= 13666
+quick code DONE
+pathsim: elapsed time (so far) = 820.9589
+character starring character starring
+  Columns 1 through 4
+
+    '>> running PathS...'    'character'    'starring'    'character'
+
+  Column 5
+
+    'starring'
+
+start matrix construction...
+N=ꆩ
+allocate memory DONE
+cacluate commute matrix DONE CM_half size:
+
+ans =
+
+       41385       41385
+
+multiple half matrix DONE
+get index by type DONE Qs Length= 13666
+quick code DONE
+pathsim: elapsed time (so far) = 862.2785
+character starring actor starring
+    '>> running PathS...'    'character'    'starring'    'actor'    'starring'
+
+start matrix construction...
+N=ꆩ
+allocate memory DONE
+cacluate commute matrix DONE CM_half size:
+
+ans =
+
+       41385       41385
+
+multiple half matrix DONE
+get index by type DONE Qs Length= 13666
+quick code DONE
+pathsim: elapsed time (so far) = 903.9043
+pathsim: elapsed time = 903.9058
+---------------------------------------------------------------

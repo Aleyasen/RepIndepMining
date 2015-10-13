@@ -1,0 +1,199 @@
+ICDM	|	1.0000
+KDD	|	1.0000
+PAKDD	|	1.0000
+PJW	|	1.0000
+PKDD	|	1.0000
+SDM	|	1.0000
+TSDM	|	1.0000
+DASFAA	|	1.0000
+DaWaK	|	1.0000
+DMDW	|	1.0000
+DMKD	|	1.0000
+DOLAP	|	1.0000
+DS	|	1.0000
+Japanese Discovery Science Project	|	1.0000
+ESF Exploratory Workshops	|	1.0000
+FIMI	|	1.0000
+Fuzzy Systems and Knowledge Discovery	|	1.0000
+ICDM	|	1.0000
+ADMA	|	1.0000
+IADT	|	0.4100
+IBM Germany Scientific Symposium Series	|	0.4100
+ICDT	|	0.4100
+ICEIS	|	0.4100
+ICIS	|	0.4100
+ICOD	|	0.4100
+ICSOC	|	0.4100
+IDC(W)	|	0.4100
+IDEAS	|	0.4100
+IDS	|	0.4100
+IGIS	|	0.4100
+IICIS	|	0.4100
+IKE	|	0.4100
+INTEROP	|	0.4100
+IQ	|	0.4100
+ISOOMS	|	0.4100
+IWDM	|	0.4100
+IWDOM/OODBS	|	0.4100
+IW-MMDBBS	|	0.4100
+JBIDI	|	0.4100
+Information Retrieval Conf	|	0.4000
+IuK	|	0.4000
+JCDL	|	0.4000
+SIGIR	|	0.4000
+SPIRE	|	0.4000
+TREC	|	0.4000
+CLEF	|	0.4000
+DL	|	0.4000
+ECDL	|	0.4000
+HIM	|	0.4000
+New Developments in Digital Libraries	|	0.4000
+Dublin Core Conference	|	0.4000
+ECIR	|	0.4000
+ELSNET Summer School	|	0.4000
+ESSIR	|	0.4000
+ICADL	|	0.4000
+IR Workshop	|	0.4000
+Multimedia Information Retrieval	|	0.4000
+Networked Information Retrieval	|	0.4000
+Current Trends in SNePS - Semantic Network Processing System	|	0.4000
+IAWTIC	|	0.2800
+ICOMP	|	0.2800
+ICWE	|	0.2800
+ICWS	|	0.2800
+IICS	|	0.2800
+INET	|	0.2800
+LA-WEB	|	0.2800
+QofIS	|	0.2800
+APWeb	|	0.2800
+ISWC	|	0.2800
+USITS	|	0.2800
+WebDB	|	0.2800
+WebNet	|	0.2800
+CEC(WECWIS)	|	0.2800
+WES	|	0.2800
+WI	|	0.2800
+WIDM	|	0.2800
+WIIW	|	0.2800
+WISE	|	0.2800
+WITASI	|	0.2800
+ICANN	|	0.2400
+MCS	|	0.2400
+MLMTA	|	0.2400
+NC	|	0.2400
+NCI	|	0.2400
+UAI	|	0.2400
+WIRN	|	0.2400
+COLT	|	0.2400
+DAS	|	0.2400
+ECML	|	0.2400
+EuroCOLT	|	0.2400
+Pattern Recognition in Information Systems	|	0.2400
+CIARP	|	0.2400
+AFSS	|	0.2400
+DAGM Symposium Symposium for Pattern Recognition	|	0.2400
+EURASIP Workshop	|	0.2400
+GBR	|	0.2400
+ICAPR	|	0.2400
+ICDAR	|	0.2400
+ICGI	|	0.2400
+IC-AI	|	0.1900
+ICAIL	|	0.1900
+ICAPS(AIPS)	|	0.1900
+ICCBR	|	0.1900
+ICCS	|	0.1900
+ICES	|	0.1900
+ICRA	|	0.1900
+ICTAI	|	0.1900
+IDA	|	0.1900
+IEA/AIE	|	0.1900
+IFSA	|	0.1900
+IJCAI	|	0.1900
+ILP	|	0.1900
+IS/KI	|	0.1900
+ISIPTA	|	0.1900
+ISMIS	|	0.1900
+JELIA	|	0.1900
+KES	|	0.1900
+KI	|	0.1900
+KR	|	0.1900
+LACL	|	0.1800
+NLDB	|	0.1800
+NLULP	|	0.1800
+ACL	|	0.1800
+SCIE	|	0.1800
+TSD	|	0.1800
+COLING	|	0.1800
+EACL	|	0.1800
+Natural Language Understanding and Cognitive Science	|	0.1800
+CICLing	|	0.1800
+EAIA Advanced School on Artificial Intelligence	|	0.1800
+EAMT Workshops	|	0.1800
+EWNLG	|	0.1800
+Gesellschaft f�r Linguistische Datenverarbeitung	|	0.1800
+Graphik	|	0.1800
+AMTA	|	0.1800
+ANLP	|	0.1800
+Innovative Informations-Infrastrukturen	|	0.1800
+IWPT	|	0.1800
+KONVENS - Verarbeitung nat�rlicher Sprache	|	0.1800
+ICMI	|	0.1400
+ICTE	|	0.1400
+IO	|	0.1400
+IUC	|	0.1400
+IUI	|	0.1400
+KDEX	|	0.1400
+MD	|	0.1400
+Mensch & Computer	|	0.1400
+RAW	|	0.1400
+ABIS	|	0.1400
+ASSETS	|	0.1400
+AusWeb	|	0.1400
+AVI	|	0.1400
+SVG.Open	|	0.1400
+TAMODIA	|	0.1400
+UbiComp(HUC)	|	0.1400
+UIDIS	|	0.1400
+UIST	|	0.1400
+UM	|	0.1400
+VCHCI	|	0.1400
+ICCV	|	0.1300
+ACCV	|	0.1300
+AMFG	|	0.1300
+Scale-Space	|	0.1300
+TFCV	|	0.1300
+BMVC	|	0.1300
+ECCV	|	0.1300
+EMMCVPR	|	0.1300
+FGR	|	0.1300
+Computer Vision meets Databases	|	0.1300
+AFPAC	|	0.1300
+CVPR	|	0.1300
+CVRMed	|	0.1300
+DGCI	|	0.1300
+Applications of Invariance in Computer Vision	|	0.1300
+HLK	|	0.1300
+Workshop on Human Motion	|	0.1300
+ICCV Workshops	|	0.1300
+ICVS	|	0.1300
+IWVF	|	0.1300
+ICALP	|	0.1100
+ISAAC	|	0.1100
+ISSAC	|	0.1100
+ISTCS	|	0.1100
+KGC	|	0.1100
+LATIN	|	0.1100
+LFCS	|	0.1100
+LICS	|	0.1100
+LPAR(RCLP)	|	0.1100
+MFCS	|	0.1100
+RelMiCS	|	0.1100
+AAECC	|	0.1100
+ACSD	|	0.1100
+ADG	|	0.1100
+AFPAC	|	0.1100
+AII	|	0.1100
+ALT	|	0.1100
+APN	|	0.1100
+ASIAN	|	0.1100
+ASM	|	0.1100

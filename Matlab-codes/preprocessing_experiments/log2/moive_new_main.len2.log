@@ -1,0 +1,609 @@
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2014 The MathWorks, Inc.
+                    R2014a (8.3.0.532) 64-bit (glnxa64)
+                             February 11, 2014
+
+
+	This is a Classroom License for instructional use only.
+	Research and commercial use is prohibited.
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+nodesReader : read /srv/data/projects/apps/RepIndep_CIDR/fullgraph/top2000/movie.txt
+nodesReader : read /srv/data/projects/apps/RepIndep_CIDR/fullgraph/top2000/actor.txt
+nodesReader : read /srv/data/projects/apps/RepIndep_CIDR/fullgraph/top2000/director.txt
+nodesReader : read /srv/data/projects/apps/RepIndep_CIDR/fullgraph/top2000/starring.txt
+nodesReader : read /srv/data/projects/apps/RepIndep_CIDR/fullgraph/top2000/character.txt
+nodesReader : read /srv/data/projects/apps/RepIndep_CIDR/fullgraph/top2000/directedby.txt
+edgesReader : read /srv/data/projects/apps/RepIndep_CIDR/fullgraph/top2000/starring_actor.txt
+edgesReader : read /srv/data/projects/apps/RepIndep_CIDR/fullgraph/top2000/starring_movie.txt
+edgesReader : read /srv/data/projects/apps/RepIndep_CIDR/fullgraph/top2000/starring_character.txt
+edgesReader : read /srv/data/projects/apps/RepIndep_CIDR/fullgraph/top2000/directedby_director.txt
+edgesReader : read /srv/data/projects/apps/RepIndep_CIDR/fullgraph/top2000/directedby_movie.txt
+There are 0 isolated nodes in G.
+Data size is |V|=41385 |E|=116444
+data_mp length = 20
+mp = starring movie starring
+mp = starring movie directedby
+mp = starring character starring
+mp = starring actor starring
+mp = movie starring movie
+mp = movie starring character
+mp = movie starring actor
+mp = movie directedby movie
+mp = movie directedby director
+mp = actor starring movie
+mp = actor starring character
+mp = actor starring actor
+mp = director directedby movie
+mp = director directedby director
+mp = directedby movie starring
+mp = directedby movie directedby
+mp = directedby director directedby
+mp = character starring movie
+mp = character starring character
+mp = character starring actor
+starring movie starring
+    'starring'    'movie'    'starring'
+
+N=
+
+ans =
+
+     1     1
+
+
+ans =
+
+       41385       41385
+
+CM_size = 
+
+ans =
+
+       41385       41385
+
+Qs_size
+
+ans =
+
+       17316           1
+
+    'starring'    'movie'    'starring'    '	time= '    '49.8738'
+
+starring movie directedby
+    'starring'    'movie'    'directedby'
+
+N=
+
+ans =
+
+     1     1
+
+
+ans =
+
+       41385       41385
+
+CM_size = 
+
+ans =
+
+       41385       41385
+
+Qs_size
+
+ans =
+
+       17316           1
+
+    'starring'    'movie'    'directedby'    '	time= '    '17.6123'
+
+starring character starring
+    'starring'    'character'    'starring'
+
+N=
+
+ans =
+
+     1     1
+
+
+ans =
+
+       41385       41385
+
+CM_size = 
+
+ans =
+
+       41385       41385
+
+Qs_size
+
+ans =
+
+       17316           1
+
+    'starring'    'character'    'starring'    '	time= '    '47.714'
+
+starring actor starring
+    'starring'    'actor'    'starring'
+
+N=
+
+ans =
+
+     1     1
+
+
+ans =
+
+       41385       41385
+
+CM_size = 
+
+ans =
+
+       41385       41385
+
+Qs_size
+
+ans =
+
+       17316           1
+
+    'starring'    'actor'    'starring'    '	time= '    '54.6905'
+
+movie starring movie
+    'movie'    'starring'    'movie'
+
+N=
+
+ans =
+
+     1     1
+
+
+ans =
+
+       41385       41385
+
+CM_size = 
+
+ans =
+
+       41385       41385
+
+Qs_size
+
+ans =
+
+        2850           1
+
+    'movie'    'starring'    'movie'    '	time= '    '10.3018'
+
+movie starring character
+    'movie'    'starring'    'character'
+
+N=
+
+ans =
+
+     1     1
+
+
+ans =
+
+       41385       41385
+
+CM_size = 
+
+ans =
+
+       41385       41385
+
+Qs_size
+
+ans =
+
+        2850           1
+
+    'movie'    'starring'    'character'    '	time= '    '11.0251'
+
+movie starring actor
+    'movie'    'starring'    'actor'
+
+N=
+
+ans =
+
+     1     1
+
+
+ans =
+
+       41385       41385
+
+CM_size = 
+
+ans =
+
+       41385       41385
+
+Qs_size
+
+ans =
+
+        2850           1
+
+    'movie'    'starring'    'actor'    '	time= '    '9.3831'
+
+movie directedby movie
+    'movie'    'directedby'    'movie'
+
+N=
+
+ans =
+
+     1     1
+
+
+ans =
+
+       41385       41385
+
+CM_size = 
+
+ans =
+
+       41385       41385
+
+Qs_size
+
+ans =
+
+        2850           1
+
+    'movie'    'directedby'    'movie'    '	time= '    '8.1571'
+
+movie directedby director
+    'movie'    'directedby'    'director'
+
+N=
+
+ans =
+
+     1     1
+
+
+ans =
+
+       41385       41385
+
+CM_size = 
+
+ans =
+
+       41385       41385
+
+Qs_size
+
+ans =
+
+        2850           1
+
+    'movie'    'directedby'    'director'    '	time= '    '7.2395'
+
+actor starring movie
+    'actor'    'starring'    'movie'
+
+N=
+
+ans =
+
+     1     1
+
+
+ans =
+
+       41385       41385
+
+CM_size = 
+
+ans =
+
+       41385       41385
+
+Qs_size
+
+ans =
+
+        2000           1
+
+    'actor'    'starring'    'movie'    '	time= '    '9.4122'
+
+actor starring character
+    'actor'    'starring'    'character'
+
+N=
+
+ans =
+
+     1     1
+
+
+ans =
+
+       41385       41385
+
+CM_size = 
+
+ans =
+
+       41385       41385
+
+Qs_size
+
+ans =
+
+        2000           1
+
+    'actor'    'starring'    'character'    '	time= '    '10.9225'
+
+actor starring actor
+    'actor'    'starring'    'actor'
+
+N=
+
+ans =
+
+     1     1
+
+
+ans =
+
+       41385       41385
+
+CM_size = 
+
+ans =
+
+       41385       41385
+
+Qs_size
+
+ans =
+
+        2000           1
+
+    'actor'    'starring'    'actor'    '	time= '    '9.7253'
+
+director directedby movie
+    'director'    'directedby'    'movie'
+
+N=
+
+ans =
+
+     1     1
+
+
+ans =
+
+       41385       41385
+
+CM_size = 
+
+ans =
+
+       41385       41385
+
+Qs_size
+
+ans =
+
+        2416           1
+
+    'director'    'directedby'    'movie'    '	time= '    '7.7619'
+
+director directedby director
+    'director'    'directedby'    'director'
+
+N=
+
+ans =
+
+     1     1
+
+
+ans =
+
+       41385       41385
+
+CM_size = 
+
+ans =
+
+       41385       41385
+
+Qs_size
+
+ans =
+
+        2416           1
+
+    'director'    'directedby'    'director'    '	time= '    '8.1757'
+
+directedby movie starring
+    'directedby'    'movie'    'starring'
+
+N=
+
+ans =
+
+     1     1
+
+
+ans =
+
+       41385       41385
+
+CM_size = 
+
+ans =
+
+       41385       41385
+
+Qs_size
+
+ans =
+
+        3137           1
+
+    'directedby'    'movie'    'starring'    '	time= '    '30.5008'
+
+directedby movie directedby
+    'directedby'    'movie'    'directedby'
+
+N=
+
+ans =
+
+     1     1
+
+
+ans =
+
+       41385       41385
+
+CM_size = 
+
+ans =
+
+       41385       41385
+
+Qs_size
+
+ans =
+
+        3137           1
+
+    'directedby'    'movie'    'directedby'    '	time= '    '27.7474'
+
+directedby director directedby
+    'directedby'    'director'    'directedby'
+
+N=
+
+ans =
+
+     1     1
+
+
+ans =
+
+       41385       41385
+
+CM_size = 
+
+ans =
+
+       41385       41385
+
+Qs_size
+
+ans =
+
+        3137           1
+
+    'directedby'    'director'    'directedby'    '	time= '    '27.7152'
+
+character starring movie
+    'character'    'starring'    'movie'
+
+N=
+
+ans =
+
+     1     1
+
+
+ans =
+
+       41385       41385
+
+CM_size = 
+
+ans =
+
+       41385       41385
+
+Qs_size
+
+ans =
+
+       13666           1
+
+    'character'    'starring'    'movie'    '	time= '    '30.363'
+
+character starring character
+    'character'    'starring'    'character'
+
+N=
+
+ans =
+
+     1     1
+
+
+ans =
+
+       41385       41385
+
+CM_size = 
+
+ans =
+
+       41385       41385
+
+Qs_size
+
+ans =
+
+       13666           1
+
+    'character'    'starring'    'character'    '	time= '    '58.21'
+
+character starring actor
+    'character'    'starring'    'actor'
+
+N=
+
+ans =
+
+     1     1
+
+
+ans =
+
+       41385       41385
+
+CM_size = 
+
+ans =
+
+       41385       41385
+
+Qs_size
+
+ans =
+
+       13666           1
+
+    'character'    'starring'    'actor'    '	time= '    '30.8396'
+
+pathsim: elapsed time = 467.4089
+---------------------------------------------------------------

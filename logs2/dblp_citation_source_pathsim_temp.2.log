@@ -1,0 +1,32 @@
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2014 The MathWorks, Inc.
+                    R2014a (8.3.0.532) 64-bit (glnxa64)
+                             February 11, 2014
+
+
+	This is a Classroom License for instructional use only.
+	Research and commercial use is prohibited.
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+[Warning: Directory already exists.] 
+[> In dblp_citation_source_pathsim_temp at 5] 
+nodesReader : read /srv/data/projects/apps/RepIndep_CIDR/fullgraph/dblp_citation_temp/paper.txt
+edgesReader : read /srv/data/projects/apps/RepIndep_CIDR/fullgraph/dblp_citation_temp/paper_paper.txt
+There are 0 isolated nodes in G.
+Data size is |V|=10 |E|=36
+>> running PathSim
+-- processing "p1"
+-- processing "p2"
+-- processing "p3"
+-- processing "p4"
+-- processing "p5"
+-- processing "p6"
+-- processing "p7"
+-- processing "p8"
+-- processing "p9"
+-- processing "p10"
+pathsim: elapsed time = 0.098122
+---------------------------------------------------------------

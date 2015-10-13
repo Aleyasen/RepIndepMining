@@ -1,0 +1,77 @@
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2014 The MathWorks, Inc.
+                    R2014a (8.3.0.532) 64-bit (glnxa64)
+                             February 11, 2014
+
+
+	This is a Classroom License for instructional use only.
+	Research and commercial use is prohibited.
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+[Warning: Directory already exists.] 
+[> In main_mas_keyword_target_pathsim at 5] 
+nodesReader : read /srv/data/projects/apps/RepIndep_CIDR/dblp/data/mas/paper.txt
+nodesReader : read /srv/data/projects/apps/RepIndep_CIDR/dblp/data/mas/conf.txt
+nodesReader : read /srv/data/projects/apps/RepIndep_CIDR/dblp/data/mas/domain.txt
+nodesReader : read /srv/data/projects/apps/RepIndep_CIDR/dblp/data/mas/keyword.txt
+edgesReader : read /srv/data/projects/apps/RepIndep_CIDR/dblp/data/mas/conf_domain.txt
+edgesReader : read /srv/data/projects/apps/RepIndep_CIDR/dblp/data/mas/paper_conf.txt
+edgesReader : read /srv/data/projects/apps/RepIndep_CIDR/dblp/data/mas/domain_keyword.txt
+There are 781 isolated nodes in G.
+Data size is |V|=6709 |E|=14876
+>> running PathSim
+-- processing "NC"
+-- processing "WISE"
+-- processing "Information Retrieval Conf"
+-- processing "IO"
+-- processing "ICES"
+-- processing "Natural Language Understanding and Cognitive Science"
+-- processing "MFCS"
+-- processing "IKE"
+-- processing "SPIRE"
+-- processing "LA-WEB"
+-- processing "ISOOMS"
+-- processing "TFCV"
+-- processing "IR Workshop"
+-- processing "KONVENS - Verarbeitung nat�rlicher Sprache"
+-- processing "ADMA"
+-- processing "Mensch & Computer"
+-- processing "IUC"
+-- processing "TREC"
+-- processing "ISIPTA"
+-- processing "GBR"
+-- processing "ACL"
+-- processing "KDD"
+-- processing "AFPAC"
+-- processing "ASM"
+-- processing "SVG.Open"
+-- processing "IDS"
+-- processing "WITASI"
+-- processing "Multimedia Information Retrieval"
+-- processing "DS"
+-- processing "MCS"
+-- processing "USITS"
+-- processing "AMTA"
+-- processing "CICLing"
+-- processing "ECML"
+-- processing "ICCV Workshops"
+-- processing "ICAIL"
+-- processing "CEC(WECWIS)"
+-- processing "QofIS"
+-- processing "IuK"
+-- processing "TSDM"
+-- processing "IDC(W)"
+-- processing "ISSAC"
+-- processing "IWVF"
+-- processing "SCIE"
+-- processing "BMVC"
+-- processing "LICS"
+-- processing "AFPAC"
+-- processing "ICMI"
+-- processing "NLDB"
+-- processing "IAWTIC"
+pathsim: elapsed time = 5.0762
+---------------------------------------------------------------

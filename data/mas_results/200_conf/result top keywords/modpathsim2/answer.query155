@@ -1,0 +1,175 @@
+ICTE	|	1.0000
+IO	|	1.0000
+IUC	|	1.0000
+MD	|	1.0000
+RAW	|	1.0000
+ABIS	|	1.0000
+AusWeb	|	1.0000
+SVG.Open	|	1.0000
+UbiComp(HUC)	|	1.0000
+UIDIS	|	1.0000
+UM	|	1.0000
+IICS	|	0.2400
+INET	|	0.2400
+LA-WEB	|	0.2400
+QofIS	|	0.2400
+USITS	|	0.2400
+WebDB	|	0.2400
+WebNet	|	0.2400
+CEC(WECWIS)	|	0.2400
+WES	|	0.2400
+WIDM	|	0.2400
+WIIW	|	0.2400
+WITASI	|	0.2400
+IuK	|	0.1900
+SPIRE	|	0.1900
+ECDL	|	0.1900
+New Developments in Digital Libraries	|	0.1900
+Dublin Core Conference	|	0.1900
+ELSNET Summer School	|	0.1900
+ESSIR	|	0.1900
+ICADL	|	0.1900
+Multimedia Information Retrieval	|	0.1900
+IBM Germany Scientific Symposium Series	|	0.1800
+IICIS	|	0.1800
+INTEROP	|	0.1800
+IQ	|	0.1800
+IWDM	|	0.1800
+IWDOM/OODBS	|	0.1800
+JBIDI	|	0.1800
+ICOMP	|	0.1643
+IC-AI	|	0.1643
+ICAIL	|	0.1643
+ICALP	|	0.1643
+ICANN	|	0.1643
+ICCV	|	0.1643
+ICDM	|	0.1643
+ICDT	|	0.1643
+ICEIS	|	0.1643
+ICES	|	0.1643
+ICIS	|	0.1643
+ICMI	|	0.1643
+ICRA	|	0.1643
+ICSOC	|	0.1643
+ICTAI	|	0.1643
+ICWE	|	0.1643
+ICWS	|	0.1643
+IDA	|	0.1643
+IDEAS	|	0.1643
+IDS	|	0.1643
+IEA/AIE	|	0.1643
+IJCAI	|	0.1643
+IKE	|	0.1643
+ISAAC	|	0.1643
+ISSAC	|	0.1643
+IUI	|	0.1643
+JCDL	|	0.1643
+KDD	|	0.1643
+KES	|	0.1643
+KI	|	0.1643
+LATIN	|	0.1643
+LICS	|	0.1643
+LPAR(RCLP)	|	0.1643
+MCS	|	0.1643
+Mensch & Computer	|	0.1643
+MFCS	|	0.1643
+PAKDD	|	0.1643
+RelMiCS	|	0.1643
+AAECC	|	0.1643
+ACCV	|	0.1643
+ACL	|	0.1643
+ACSD	|	0.1643
+ADG	|	0.1643
+ALT	|	0.1643
+APN	|	0.1643
+APWeb	|	0.1643
+ASSETS	|	0.1643
+AVI	|	0.1643
+SDM	|	0.1643
+ISWC	|	0.1643
+SIGIR	|	0.1643
+TREC	|	0.1643
+UAI	|	0.1643
+UIST	|	0.1643
+WI	|	0.1643
+WIRN	|	0.1643
+WISE	|	0.1643
+BMVC	|	0.1643
+CLEF	|	0.1643
+COLING	|	0.1643
+COLT	|	0.1643
+DAS	|	0.1643
+DASFAA	|	0.1643
+DaWaK	|	0.1643
+DL	|	0.1643
+DOLAP	|	0.1643
+DS	|	0.1643
+ECCV	|	0.1643
+ECML	|	0.1643
+FGR	|	0.1643
+EACL	|	0.1643
+Natural Language Understanding and Cognitive Science	|	0.1643
+Pattern Recognition in Information Systems	|	0.1643
+CIARP	|	0.1643
+CICLing	|	0.1643
+CVPR	|	0.1643
+DAGM Symposium Symposium for Pattern Recognition	|	0.1643
+DGCI	|	0.1643
+ECIR	|	0.1643
+GBR	|	0.1643
+AMTA	|	0.1643
+KONVENS - Verarbeitung nat�rlicher Sprache	|	0.1643
+ADMA	|	0.1643
+ICAPS(AIPS)	|	0.1400
+ICCBR	|	0.1400
+ICCS	|	0.1400
+IDEAL	|	0.1400
+IFSA	|	0.1400
+ILP	|	0.1400
+ISIPTA	|	0.1400
+ISMIS	|	0.1400
+JELIA	|	0.1400
+KR	|	0.1400
+PJW	|	0.1400
+PKDD	|	0.1400
+TSDM	|	0.1400
+DMDW	|	0.1400
+DMKD	|	0.1400
+Japanese Discovery Science Project	|	0.1400
+ESF Exploratory Workshops	|	0.1400
+FIMI	|	0.1400
+Fuzzy Systems and Knowledge Discovery	|	0.1400
+ICDM	|	0.1400
+LACL	|	0.0800
+MLMTA	|	0.0800
+NC	|	0.0800
+NCI	|	0.0800
+NLDB	|	0.0800
+NLULP	|	0.0800
+AMFG	|	0.0800
+Scale-Space	|	0.0800
+SCIE	|	0.0800
+TFCV	|	0.0800
+TSD	|	0.0800
+EMMCVPR	|	0.0800
+Computer Vision meets Databases	|	0.0800
+AFPAC	|	0.0800
+AFSS	|	0.0800
+EAMT Workshops	|	0.0800
+EURASIP Workshop	|	0.0800
+EWNLG	|	0.0800
+Gesellschaft f�r Linguistische Datenverarbeitung	|	0.0800
+HLK	|	0.0800
+Workshop on Human Motion	|	0.0800
+ICAPR	|	0.0800
+ICCV Workshops	|	0.0800
+ICDAR	|	0.0800
+ICGI	|	0.0800
+ICVS	|	0.0800
+ANLP	|	0.0800
+IWPT	|	0.0800
+IWVF	|	0.0800
+ISTCS	|	0.0700
+LFCS	|	0.0700
+ASIAN	|	0.0700
+ASM	|	0.0700

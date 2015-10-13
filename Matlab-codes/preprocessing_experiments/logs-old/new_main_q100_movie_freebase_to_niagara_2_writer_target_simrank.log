@@ -1,0 +1,138 @@
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2014 The MathWorks, Inc.
+                    R2014a (8.3.0.532) 64-bit (glnxa64)
+                             February 11, 2014
+
+
+	This is a Classroom License for instructional use only.
+	Research and commercial use is prohibited.
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+nodesReader : read /srv/data/projects/apps/RepIndep_CIDR/fullgraph/top2000/movie.txt
+nodesReader : read /srv/data/projects/apps/RepIndep_CIDR/fullgraph/top2000/actor.txt
+nodesReader : read /srv/data/projects/apps/RepIndep_CIDR/fullgraph/top2000/starring.txt
+nodesReader : read /srv/data/projects/apps/RepIndep_CIDR/fullgraph/top2000/director.txt
+nodesReader : read /srv/data/projects/apps/RepIndep_CIDR/fullgraph/top2000/directedby.txt
+nodesReader : read /srv/data/projects/apps/RepIndep_CIDR/fullgraph/top2000/character.txt
+nodesReader : read /srv/data/projects/apps/RepIndep_CIDR/fullgraph/top2000/writer.txt
+nodesReader : read /srv/data/projects/apps/RepIndep_CIDR/fullgraph/top2000/writedby.txt
+edgesReader : read /srv/data/projects/apps/RepIndep_CIDR/fullgraph/top2000/starring_actor.txt
+edgesReader : read /srv/data/projects/apps/RepIndep_CIDR/fullgraph/top2000/starring_movie.txt
+edgesReader : read /srv/data/projects/apps/RepIndep_CIDR/fullgraph/top2000/directedby_director.txt
+edgesReader : read /srv/data/projects/apps/RepIndep_CIDR/fullgraph/top2000/directedby_movie.txt
+edgesReader : read /srv/data/projects/apps/RepIndep_CIDR/fullgraph/top2000/starring_character.txt
+edgesReader : read /srv/data/projects/apps/RepIndep_CIDR/fullgraph/top2000/writedby_writer.txt
+edgesReader : read /srv/data/projects/apps/RepIndep_CIDR/fullgraph/top2000/writedby_movie.txt
+There are 0 isolated nodes in G.
+Data size is |V|=46938 |E|=128992
+>>> calculating SimRank <<<
+SR iter = 1 : time=401.18
+SR iter = 6 : time=736
+SR iter = 11 : time=1591.88
+SR iter = 16 : time=2438.97
+SR iter = 21 : time=3286.08
+-- processing "the simpsons movie (2007)"
+-- processing "eagle eye (2008)"
+-- processing "walk hard: the dewey cox story (2007)"
+-- processing "spider-man 3 (2007)"
+-- processing "flags of our fathers (2006)"
+-- processing "runaway jury (2003)"
+-- processing "new york, i love you (2009)"
+-- processing "traffic (2000)"
+-- processing "for your consideration (2006)"
+-- processing "grindhouse (2007)"
+-- processing "x-men: the last stand (2006)"
+-- processing "the curious case of benjamin button (2008)"
+-- processing "world trade center (2006)"
+-- processing "the dark knight (2008)"
+-- processing "the animatrix (2003)"
+-- processing "spider-man 2 (2004)"
+-- processing "the departed (2006)"
+-- processing "harry potter and the order of the phoenix (2007)"
+-- processing "public enemies (2009)"
+-- processing "american gangster (2007)"
+-- processing "catch me if you can (2002)"
+-- processing "ocean's thirteen (2007)"
+-- processing "transformers (2007)"
+-- processing "austin powers in goldmember (2002)"
+-- processing "national treasure: book of secrets (2007)"
+-- processing "sin city (2005)"
+-- processing "run ronnie run (2002)"
+-- processing "state of play (2009)"
+-- processing "the soloist (2009)"
+-- processing "transformers: revenge of the fallen (2009)"
+-- processing "x2 (2003)"
+-- processing "cars (2006)"
+-- processing "the express (2008)"
+-- processing "minority report (2002)"
+-- processing "the haunted world of el superbeasto (2009)"
+-- processing "horton hears a who! (2008)"
+-- processing "war of the worlds (2005)"
+-- processing "what just happened (2008)"
+-- processing "harry potter and the chamber of secrets (2002)"
+-- processing "harry potter and the goblet of fire (2005)"
+-- processing "harry potter and the prisoner of azkaban (2004)"
+-- processing "star trek (2009)"
+-- processing "yes man (2008)"
+-- processing "bobby (2006)"
+-- processing "across the universe (2007)"
+-- processing "deja vu (2006)"
+-- processing "enchanted (2007)"
+-- processing "he's just not that into you (2009)"
+-- processing "pirates of the caribbean: at world's end (2007)"
+-- processing "pirates of the caribbean: dead man's chest (2006)"
+-- processing "shrek the third (2007)"
+-- processing "invincible (2006)"
+-- processing "the island (2005)"
+-- processing "harry potter and the half-blood prince (2009)"
+-- processing "syriana (2005)"
+-- processing "the taking of pelham 1 2 3 (2009)"
+-- processing "the terminal (2004)"
+-- processing "glory road (2006)"
+-- processing "i love you phillip morris (2009)"
+-- processing "live free or die hard (2007)"
+-- processing "ocean's twelve (2004)"
+-- processing "synecdoche, new york (2008)"
+-- processing "the good shepherd (2006)"
+-- processing "almost famous (2000)"
+-- processing "american pie 2 (2001)"
+-- processing "anchorman: the legend of ron burgundy (2004)"
+-- processing "changing lanes (2002)"
+-- processing "cold mountain (2003)"
+-- processing "the aviator (2004)"
+-- processing "the manchurian candidate (2004)"
+-- processing "a christmas carol (2009)"
+-- processing "charlie wilson's war (2007)"
+-- processing "harry potter and the sorcerer's stone (2001)"
+-- processing "ice age: the meltdown (2006)"
+-- processing "starsky & hutch (2004)"
+-- processing "artificial intelligence: ai (2001)"
+-- processing "fun with dick and jane (2005)"
+-- processing "spider-man (2002)"
+-- processing "beyond all boundaries (2009)"
+-- processing "collateral (2004)"
+-- processing "kinsey (2004)"
+-- processing "national treasure (2004)"
+-- processing "ocean's eleven (2001)"
+-- processing "the spongebob squarepants movie (2004)"
+-- processing "tropic thunder (2008)"
+-- processing "mystic river (2003)"
+-- processing "the alibi (2006)"
+-- processing "the bad lieutenant: port of call - new orleans (2009)"
+-- processing "the interpreter (2005)"
+-- processing "the invasion (2007)"
+-- processing "going to pieces: the rise and fall of the slasher film (2006)"
+-- processing "harold & kumar escape from guantanamo bay (2008)"
+-- processing "righteous kill (2008)"
+-- processing "the lord of the rings: the return of the king (2003)"
+-- processing "black hawk down (2001)"
+-- processing "duplicity (2009)"
+-- processing "find me guilty (2006)"
+-- processing "in the valley of elah (2007)"
+-- processing "the hoax (2006)"
+-- processing "the laramie project (2002)"
+simrank: elapsed time = 3709.7729
+---------------------------------------------------------------

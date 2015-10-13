@@ -1,0 +1,79 @@
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2014 The MathWorks, Inc.
+                    R2014a (8.3.0.532) 64-bit (glnxa64)
+                             February 11, 2014
+
+
+	This is a Classroom License for instructional use only.
+	Research and commercial use is prohibited.
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+nodesReader : read /srv/data/projects/apps/RepIndep_CIDR/dblp/data/output_y2005_conf50_schema1_top2000/title.txt
+nodesReader : read /srv/data/projects/apps/RepIndep_CIDR/dblp/data/output_y2005_conf50_schema1_top2000/author.txt
+nodesReader : read /srv/data/projects/apps/RepIndep_CIDR/dblp/data/output_y2005_conf50_schema1_top2000/year.txt
+nodesReader : read /srv/data/projects/apps/RepIndep_CIDR/dblp/data/output_y2005_conf50_schema1_top2000/proc.txt
+edgesReader : read /srv/data/projects/apps/RepIndep_CIDR/dblp/data/output_y2005_conf50_schema1_top2000/title_author.txt
+edgesReader : read /srv/data/projects/apps/RepIndep_CIDR/dblp/data/output_y2005_conf50_schema1_top2000/title_proc.txt
+edgesReader : read /srv/data/projects/apps/RepIndep_CIDR/dblp/data/output_y2005_conf50_schema1_top2000/proc_year.txt
+There are 0 isolated nodes in G.
+the following queries do not exist
+    'Peer Kr�ger'
+    'Marcos Andr� Gon�alves'
+
+Data size is |V|=19461 |E|=102642
+---------------------------------------------------------------
+---------------------------------------------------------------
+>> running PathSim
+-- processing "Kian-Lee Tan"
+-- processing "Haixun Wang"
+-- processing "Wang-Chien Lee"
+-- processing "Elke A. Rundensteiner"
+-- processing "Matthias Renz"
+-- processing "Hans-Peter Kriegel"
+-- processing "Thomas Seidl"
+-- processing "Jian Pei"
+-- processing "Nick Koudas"
+-- processing "Philip S. Yu"
+-- processing "Wolfgang Lehner"
+-- processing "Jiawei Han"
+-- processing "Lei Chen 0002"
+-- processing "Beng Chin Ooi"
+-- processing "Xifeng Yan"
+-- processing "Divesh Srivastava"
+-- processing "Jeffrey Xu Yu"
+-- processing "Xuemin Lin"
+-- processing "Johannes Gehrke"
+-- processing "Charu C. Aggarwal"
+-- processing "Gerhard Weikum"
+-- processing "Ricardo A. Baeza-Yates"
+-- processing "Aixin Sun"
+-- processing "Wolfgang Nejdl"
+-- processing "Prasenjit Mitra"
+-- processing "Yong Yu"
+-- processing "Christos Faloutsos"
+-- processing "ChengXiang Zhai"
+-- processing "Eamonn J. Keogh"
+-- processing "Ravi Kumar"
+-- processing "C. Lee Giles"
+-- processing "Joemon M. Jose"
+-- processing "Zheng Chen"
+-- processing "Ryen W. White"
+-- processing "Qiang Yang 0001"
+-- processing "Jie Tang"
+-- processing "Maarten de Rijke"
+-- processing "Xueqi Cheng"
+-- processing "Pavel Serdyukov"
+-- processing "Craig Macdonald"
+-- processing "Iadh Ounis"
+-- processing "Ee-Peng Lim"
+-- processing "Edward A. Fox"
+-- processing "Leif Azzopardi"
+-- processing "Arjen P. de Vries"
+-- processing "W. Bruce Croft"
+-- processing "Tao Li"
+-- processing "James Allan"
+pathsim: elapsed time = 13034.5205
+---------------------------------------------------------------

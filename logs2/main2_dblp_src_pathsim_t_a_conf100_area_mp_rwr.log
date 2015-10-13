@@ -1,0 +1,127 @@
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2014 The MathWorks, Inc.
+                    R2014a (8.3.0.532) 64-bit (glnxa64)
+                             February 11, 2014
+
+
+	This is a Classroom License for instructional use only.
+	Research and commercial use is prohibited.
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+[Warning: Directory already exists.] 
+[> In main_dblp_source_pathsim_t_a_conf100_area_mp_rwr at 5] 
+nodesReader : read /srv/data/projects/apps/RepIndep_CIDR/dblp/data/output_y2005_conf100_new_schema1_top2000/title.txt
+nodesReader : read /srv/data/projects/apps/RepIndep_CIDR/dblp/data/output_y2005_conf100_new_schema1_top2000/author.txt
+nodesReader : read /srv/data/projects/apps/RepIndep_CIDR/dblp/data/output_y2005_conf100_new_schema1_top2000/area.txt
+nodesReader : read /srv/data/projects/apps/RepIndep_CIDR/dblp/data/output_y2005_conf100_new_schema1_top2000/proc.txt
+edgesReader : read /srv/data/projects/apps/RepIndep_CIDR/dblp/data/output_y2005_conf100_new_schema1_top2000/title_author.txt
+edgesReader : read /srv/data/projects/apps/RepIndep_CIDR/dblp/data/output_y2005_conf100_new_schema1_top2000/title_proc.txt
+edgesReader : read /srv/data/projects/apps/RepIndep_CIDR/dblp/data/output_y2005_conf100_new_schema1_top2000/title_area.txt
+There are 0 isolated nodes in G.
+Data size is |V|=24396 |E|=167880
+>>> calculating Random Walk With Restart <<<
+-- processing "CIKM-2012"
+-- processing "CIKM-2011"
+-- processing "CIKM-2013"
+-- processing "CIKM-2009"
+-- processing "CIKM-2010"
+-- processing "ICDE-2008"
+-- processing "SIGIR-2011"
+-- processing "ICDE-2009"
+-- processing "CIKM-2008"
+-- processing "ICDE-2007"
+-- processing "SIGIR-2012"
+-- processing "SIGIR-2014"
+-- processing "SIGIR-2010"
+-- processing "SIGIR-2013"
+-- processing "SIGIR-2009"
+-- processing "WWW-2010"
+-- processing "SIGIR-2008"
+-- processing "KDD-2012"
+-- processing "ICDE-2006"
+-- processing "SIGIR-2007"
+-- processing "SIGMOD Conference-2014"
+-- processing "KDD-2013"
+-- processing "ICDE-2010"
+-- processing "ICDE-2012"
+-- processing "VLDB-2007"
+-- processing "SIGMOD Conference-2013"
+-- processing "ICDE-2013"
+-- processing "SIGMOD Conference-2011"
+-- processing "WWW-2008"
+-- processing "CIKM-2005"
+-- processing "ICDE-2011"
+-- processing "VLDB-2005"
+-- processing "ICDE-2005"
+-- processing "SIGMOD Conference-2007"
+-- processing "ICDE-2014"
+-- processing "SIGMOD Conference-2010"
+-- processing "CIKM-2006"
+-- processing "VLDB-2006"
+-- processing "WWW-2007"
+-- processing "SIGMOD Conference-2008"
+-- processing "SIGIR-2006"
+-- processing "WWW-2009"
+-- processing "KDD-2011"
+-- processing "ICDM-2013"
+-- processing "KDD-2009"
+-- processing "ICDM-2006"
+-- processing "ICDM-2010"
+-- processing "CIKM-2007"
+-- processing "SIGIR-2005"
+-- processing "EDBT-2009"
+-- processing "SIGMOD Conference-2009"
+-- processing "KDD-2008"
+-- processing "ICDM-2008"
+-- processing "ICDM-2012"
+-- processing "ICDM-2011"
+-- processing "ICDM-2009"
+-- processing "KDD-2006"
+-- processing "SIGMOD Conference-2012"
+-- processing "SIGMOD Conference-2005"
+-- processing "KDD-2010"
+-- processing "ICDM-2005"
+-- processing "DASFAA-2007"
+-- processing "TREC-2005"
+-- processing "SIGMOD Conference-2006"
+-- processing "WWW-2006"
+-- processing "SDM-2014"
+-- processing "CLEF-2006"
+-- processing "KDD-2007"
+-- processing "TREC-2011"
+-- processing "ECIR-2013"
+-- processing "TREC-2006"
+-- processing "CLEF-2005"
+-- processing "ECIR-2014"
+-- processing "WSDM-2011"
+-- processing "ECIR-2011"
+-- processing "ECIR-2009"
+-- processing "CLEF-2008"
+-- processing "EDBT-2006"
+-- processing "WSDM-2013"
+-- processing "WWW-2013"
+-- processing "SDM-2013"
+-- processing "EDBT-2014"
+-- processing "SDM-2009"
+-- processing "EDBT-2008"
+-- processing "EDBT-2013"
+-- processing "TREC-2007"
+-- processing "SDM-2012"
+-- processing "ECIR-2008"
+-- processing "APWeb-2006"
+-- processing "WSDM-2012"
+-- processing "DASFAA-2005"
+-- processing "ICDM-2007"
+-- processing "CLEF-2007"
+-- processing "DASFAA-2009"
+-- processing "JCDL-2011"
+-- processing "SDM-2011"
+-- processing "JCDL-2007"
+-- processing "EDBT-2010"
+-- processing "WSDM-2014"
+-- processing "TREC-2009"
+rwr: elapsed time = 6223.3344
+---------------------------------------------------------------

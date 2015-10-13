@@ -1,0 +1,464 @@
+﻿1798	ICDE
+3594	VLDB
+3329	SIGMOD Conference
+3318	SIGIR
+4493	Inf. Process. Manage.
+4751	IEEE Trans. Knowl. Data Eng.
+1046	DEXA
+4524	JASIST
+4698	SIGMOD Record
+597	CIKM
+4523	JASIS
+2504	KDD
+1047	DEXA Workshops
+3771	WWW
+4358	Data Knowl. Eng.
+4497	Inf. Syst.
+1297	ER
+2470	JCDL
+2934	PAKDD
+3027	PODS
+1048	DEXA Workshop
+1801	ICDM
+983	DASFAA
+4354	IEEE Data Eng. Bull.
+1063	DG.O
+3428	SSDBM
+3510	TREC
+1666	Hypertext
+501	CAiSE
+4759	ACM Trans. Database Syst.
+4694	SIGIR Forum
+1305	ECDL
+3011	PKDD
+626	CLEF
+529	CASCON
+1234	EDBT
+3237	SEBD
+1006	DBSec
+385	BDA
+1799	ICDE Workshops
+1723	ICADL
+2001	IDEAS
+294	APWeb
+3706	WISE
+468	BTW
+3230	SDM
+4761	ACM Trans. Inf. Syst.
+123	ADBIS
+988	DaWaK
+4789	VLDB J.
+454	BNCOD
+619	CIVR
+1194	ECIR
+2327	ISI
+4561	J. Intell. Inf. Syst.
+3638	WAIM
+141	ADMA
+1296	ER (Workshops)
+1804	ICDT
+2854	NLDB
+4444	Int. J. Cooperative Inf. Syst.
+4695	SIGKDD Explorations
+4601	Knowl. Inf. Syst.
+2283	IQ
+4362	Distributed and Parallel Databases
+2661	MDM
+690	CoopIS
+3416	SPIRE
+1802	ICDM Workshops
+4353	IEEE Database Eng. Bull.
+4494	Information Storage and Retrieval
+3195	SBBD
+1485	FQAS
+202	AIRS
+1005	DBPL
+3036	POS
+4346	Data Min. Knowl. Discov.
+4495	Inf. Retr.
+2623	LWA
+4404	GeoInformatica
+1560	ACM-GIS
+3779	World Wide Web
+1090	ACM DL
+4549	J. Database Manag.
+2919	OTM Conferences (1)
+4575	Int. J. on Digital Libraries
+3774	WWW (Posters)
+2662	Mobile Data Management
+3707	WISE Workshops
+1561	GIS
+689	CoopIS/DOA/ODBASE
+3777	WWW (Special interest tracks and posters)
+3171	SACMAT
+1240	EDBT Workshops
+3775	WWW (Alternate Track Papers & Posters)
+1466	FODO
+4594	Journal of Systems Integration
+2847	NGITS
+2243	INEX
+3567	VDB
+2975	PDIS
+4446	Int. J. Comput. Proc. Oriental Lang.
+1110	DOOD
+133	ADC
+3425	SSD
+3657	WebDB
+4078	Infoscale
+2550	KRDB
+4364	ACM SIGMOD Digital Review
+1535	GeoInfo
+2802	IEEE Symposium on Mass Storage Systems
+647	CODAS
+1192	ECHT
+132	Australasian Database Conference
+140	ADL
+1109	DOLAP
+2555	LA-WEB
+1001	Databases and Applications
+4762	ACM Trans. Internet Techn.
+3119	RIDE
+2714	Multimedia Information Systems
+4725	ACM Trans. Asian Lang. Inf. Process.
+1461	FMLDO
+3688	WIDM
+1075	DILS
+2466	JBIDI
+2428	IWDM
+1106	DNIS
+3426	SSTD
+4408	International Journal of Geographical Information Systems
+594	CIDR
+3773	WWW Posters
+1298	ER Workshops
+1662	HPTS
+3670	WECWIS
+3640	APWeb/WAIM
+4600	Int. J. Web Service Res.
+3622	W2GIS
+3483	TES
+4599	J. Web Eng.
+1025	DEBS
+2765	MobiDE
+2896	OODBS
+3231	Secure Data Management
+972	DAISD
+3473	IICIS
+2673	MFDBS
+3424	Symposium on Reliability in Distributed Software and Database Systems
+1002	DBISP2P
+2469	JCDKB
+2554	Kyoto International Conference on Digital Libraries
+3331	SIGFIDET Workshop
+4413	Hypermedia
+1687	IADT
+3624	QL
+125	ADBIS Research Communications
+3124	RIDE-IMS
+1097	DMDW
+662	COMAD
+1100	DMKD
+1249	Expert Database Conf.
+2444	IW-MMDBMS
+268	APCCM
+2515	KDID
+3159	Rules in Database Systems
+2005	IDS
+977	DANTE
+1394	East/West Database Workshop
+3709	WISE (2)
+3849	IRAL
+3330	Workshop on Data Abstraction, Databases and Conceptual Modelling
+656	CoLIS
+3140	RSKD
+3728	Workshop on the Management of Replicated Data
+3796	XSym
+1235	EDBT PhD Workshop
+1256	EFIS
+358	AusDM
+692	CoopIS/DOA/ODBASE (1)
+500	EMOI-INTEROP
+2288	IRCDL
+2508	WEBKDD
+1559	GIR
+4439	IJBIDM
+2505	BIOKDD
+2320	ISDB
+4644	Networking and Information Systems
+1300	OOER
+1633	HIM
+3252	SWDB
+4132	DMSN
+1500	Future Databases
+696	CORIA
+3417	SPIRE/CRIWG
+4700	FDT - Bulletin of ACM SIGMOD
+1091	DL
+3153	RTDB
+502	CAiSE Workshops
+499	CAiSE Workshops (3)
+1020	DDB
+3639	Web-Age Information Management
+1089	Digital Libraries
+1195	BCS-IRSG Annual Colloquium on IR Research
+559	CDB
+1024	DDSS
+3653	WDAS
+136	ADCS
+1248	Expert Database Workshop
+2331	IS/KI
+990	On Knowledge Base Management Systems (Islamorada)
+1113	DPDS
+4577	J. Data Semantics
+2509	MDM/KDD
+3120	RIDE-TQP
+3656	WebDB (Informal Proceedings)
+1915	ICOD
+3708	WISE (1)
+3698	WIRI
+2181	IIWeb
+3783	XIME-P
+4649	OMICS
+126	ADBIS-DASFAA
+1041	DELOS Conference
+122	ADB
+3676	WES
+1122	DS-3
+1304	ER (Tutorials, Posters, Panels & Industrial Contributions)
+3595	VLDB Surveys
+2006	International Hong Kong Computer Society Database Workshop
+3526	UIDIS
+304	ARTDB
+412	From Integrated Publication and Information Systems to Virtual Information and Knowledge Environments
+614	CISMOD
+4842	TWEB
+1038	DELOS Workshop: Information Seeking, Searching and Querying in Digital Libraries
+1027	DDLP
+2286	Information Retrieval
+460	BPM
+3037	POS/PJW
+134	Australian Database Conference
+4070	WImBI
+2898	IWDOM
+1087	DIWeb
+2170	IGIS
+1436	FIMI
+3689	Workshop on Web Information and Data Management
+4840	TKDD
+128	ADBIS-DASFAA Symposium
+130	Advances in Data Base Theory
+3332	SIGMOD Workshop, Vol. 1
+3692	Workshop on Information Integration on the Web
+4006	AIRWeb
+1121	DS-6
+4096	WSDM
+471	BTW Workshops
+2746	MMDB
+3038	Data Types and Persistence (Appin), Informal Proceedings
+2258	INTEROP
+357	Selected Papers from AusDM
+3333	Databases for Business and Office Applications
+3344	Conference on Data: Abstraction, Definition and Structure
+505	UMICS
+1562	Spatio-Temporal Reasoning
+3908	IIiX
+1968	ICSNW
+994	Foundations of Knowledge Base Management (Xania)
+1128	DS-8
+1129	DS-4
+3789	XP2 Workshop on Relational Database Theory
+2588	Logic in Databases
+3660	Workshop on Web-based Support Systems
+3629	WACC
+1033	DEEC
+2244	INEX Workshop
+2284	IQIS
+1301	Conceptual Modeling
+3346	SIGSMALL/SIGMOD Symposium
+3787	XP7.52 Workshop on Database Theory
+601	PIKM
+752	CVDB
+991	PRISMA Workshop
+1130	DS-2
+2485	Web, Web-Services, and Database Systems
+2830	NDDL
+2914	ORM
+975	DaMoN
+1026	Workshop on Deductive Databases, JICSLP
+3121	RIDE-ADS
+2677	Mobile HCI Workshop on Mobile and Ubiquitous Information Access
+1126	IFIP TC-2 Special Working Conference on Data Base Description
+1127	DS-9
+1124	DS-7
+1037	DELOS Workshop: Digital Library Architectures
+3226	Semantics in Databases
+1029	Workshop on Programming with Logic Databases (Informal Proceedings), ILPS
+129	ADBIS (local proceedings)
+3152	Real-Time Database Systems
+1204	MCD
+3521	UDM
+3478	Temporal Databases
+3334	Data Bases for Interactive Design
+4612	Advanced Database Systems
+3268	Semantic Web Challenge
+1131	IFIP Working Conference on Modelling in Data Base Management Systems
+1125	IFIP Working Conference Data Base Management
+127	ADBIS (Local Proceedings)
+1255	EEXTT
+3122	RIDE-DOM
+560	Constraint Databases
+3785	Intelligent Search on XML Data
+2663	The MeDoc Approach
+712	ASIS SIG/CR Classification Research Workshop
+3913	TDM
+993	Data Types and Persistence (Appin)
+996	On Conceptual Modelling (Intervale)
+1132	DS-1
+3323	AND
+1120	DS-5
+1040	DELOS Workshop: Personalisation and Recommender Systems in Digital Libraries
+2316	Integrated Spatial Databases
+435	Data Management in a Connected World
+3797	Xsym
+2711	MIRO
+612	CISM - Advances in Database Systems
+604	Constraint-Based Mining and Inductive Databases
+3123	RIDE-NDS
+2471	Visual Interfaces to Digital Libraries
+2510	Revised Papers from MDM/KDD and PAKDD/KDMCD
+1303	Active Conceptual Modeling of Learning
+1324	Pattern Detection and Discovery
+3398	SOFTEKS Workshop on Incompleteness and Uncertainty in Information Systems
+456	BNCOD Posters
+3655	WebDB (Selected Papers)
+3596	VLDB PhD Workshop
+2945	PARBASE / Databases
+2825	NATO ASI OODBS
+2845	NF�
+900	Digital Historical Corpora
+1997	ICWS-Europe
+1111	KDOOD/TDOOD
+3125	RIDE-DM
+4149	IWRIDL
+3568	VDMB
+3479	Temporal Aspects in Information Systems
+605	Database Support for Data Mining Applications
+1702	IBM Symposium: Data Base Systems
+831	Temporal Databases, Dagstuhl
+998	Pictorial Information Systems
+1039	DELOS Workshop: Digital Library Architectures - LNCS Volume
+3487	TFAIS
+2747	MMGPS
+3782	LocWeb
+3788	XP1 Workshop on Database Theory
+2135	Methods and Associated Tools for the Information Systems Life Cycle
+3575	VIEWS
+1709	IBM Symposium: Database Systems of the 90s
+3597	Databases in Telecommunications
+1916	ICOD-2 Workshop on New Applications of Data Bases
+2947	PARBASE
+843	Local Pattern Detection
+844	Logics for Databases and Information Systems
+2897	Objects and Databases
+1101	ACM SIGMOD Workshop on Research Issues in Data Mining and Knowledge Discovery
+1088	WOWS
+4426	IEEE Concurrency
+2506	Large-Scale Parallel Data Mining
+3438	Spatio-Temporal Database Management
+1462	FMLDO - Selected Papers
+3795	XSW
+714	Computerized Assistance During the Information Systems Life Cycle
+800	Transactions and Change in Logic Databases
+841	Mobile Information Management
+1008	Databases in Telecommunications
+1102	1999 ACM SIGMOD Workshop on Research Issues in Data Mining and Knowledge Discovery
+1123	IFIP TC-2 Working Conference on Data Base Architecture
+3321	Distributed Multimedia Information Retrieval
+1028	Workshop on Programming with Logic Databases (Book), ILPS
+3249	RuleML
+3257	SWSWPC
+1399	EWMF/KDO
+1288	PODDP
+2516	KDXD
+1330	ESSIR
+3515	TSDM
+3341	DBTest
+1595	Relational Databases and their Extensions
+1554	Workshop Data Mining und Data Warehousing
+2625	Database Mechanisms for Mobile Applications
+3003	PGLDB
+4016	BIRTE
+1098	DMG
+1031	Workshop on Deductive Databases and Logic Programming
+1398	EWMF
+2514	WebKDD
+455	BNOD
+602	CIMS
+685	CIR
+713	Information Systems Design Methodologies: Improving the Practice
+1003	Advanced Database Machine Architecture
+989	Formal Methods in Databases and Software Engineering
+3320	SIGIR Workshop: Information Retrieval Techniques for Speech Applications
+1237	DaMaP
+1239	SSPS
+4578	J. Data Semantics IV
+1212	ECOOP Workshop on Object-Oriented Databases
+4214	Globe
+3439	STDBM
+2712	MIRA
+625	CleanDB
+2954	PaRMa
+876	Event Processing
+1792	ICDCS Workshop of Knowledge Discovery and Data Mining in the World-Wide Web
+1991	AEWSE
+1004	Database Machine Performance
+1231	COOPER
+1238	PAIS
+1257	EFDBS
+4487	Inf. Sci.
+4580	J. Data Semantics VI
+4581	J. Data Semantics VII
+4579	J. Data Semantics III
+1406	ExpDB
+2513	PinKDD
+512	WISM
+3745	Cross-Organisational Workflow Management and Co-ordination
+3744	Enterprise-wide and Cross-enterprise Workflow Management
+587	Spatio-Temporal Databases: The CHOROCHRONOS Approach
+2624	Mobilit�t und Informationssysteme
+804	Logics for Emerging Applications of Databases
+4008	ODBIS
+1805	EROW
+1800	ICDE Demo Sessions
+907	Scalable Data Management in Evolving Networks
+997	Data Base Design Techniques I
+3319	Workshop on Peer-to-Peer Information Retrieval
+3258	ISWC Workshop on Trust, Security, and Reputation on the Semantic Web
+2285	QDB
+1236	Software Engineering for Tailor-made Data Management
+4576	J. Data Semantics V
+4264	ACM SIGMOD Anthology
+2706	MW4SOC
+4009	SWDB-ODBIS
+3996	WebMine
+2852	Networked Information Retrieval
+1990	MDWE
+1278	ELSNET Summer School
+3336	SIGMOD Workshop, Vol. 2
+3786	XP4.5 Workshop on Database Theory
+3850	HIKM
+1030	Workshop on Deductive Databases
+2511	KDD Tutorials
+2512	KDD Tutorial Notes
+883	Constraint Databases, Geometric Elimination and Geographic Information Systems
+874	Foundations of Semistructured Data
+2937	KDMCD
+149	AFIPS NCC
+4903	Foundations and Trends in Information Retrieval
+4357	ACM SIGMOD Digital Symposium Collection
+965	Data Always and Everywhere - Management of Mobile, Ubiquitous, Pervasive, and Sensor Data
+836	Managing and Mining Genome Information
+960	XQuery Implementation Paradigms
+3427	SSTDi (slides)
+4838	Foundations and Trends in Databases
+2279	IPSJ

@@ -1,0 +1,60 @@
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2014 The MathWorks, Inc.
+                    R2014a (8.3.0.532) 64-bit (glnxa64)
+                             February 11, 2014
+
+
+	This is a Classroom License for instructional use only.
+	Research and commercial use is prohibited.
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+[Warning: Directory already exists.] 
+[> In main_mas_w_citation_modpathsim1 at 5] 
+nodesReader : read /srv/data/projects/apps/RepIndep_CIDR/dblp/data/mas/paper.txt
+nodesReader : read /srv/data/projects/apps/RepIndep_CIDR/dblp/data/mas/conf.txt
+nodesReader : read /srv/data/projects/apps/RepIndep_CIDR/dblp/data/mas/citation.txt
+edgesReader : read /srv/data/projects/apps/RepIndep_CIDR/dblp/data/mas/paper_citation.txt
+edgesReader : read /srv/data/projects/apps/RepIndep_CIDR/dblp/data/mas/paper_conf.txt
+There are 2467 isolated nodes in G.
+Data size is |V|=74018 |E|=233022
+>>> calculating Mod1-PathSim <<<
+-- processing "ISAAC"
+-- processing "ICWE"
+-- processing "ICOMP"
+-- processing "ICCV"
+-- processing "IC-AI"
+-- processing "ICMI"
+-- processing "ACCV"
+-- processing "ICDE"
+-- processing "NIPS"
+-- processing "ACL"
+-- processing "ISSAC"
+-- processing "ICEIS"
+-- processing "ICDM"
+-- processing "ICDT"
+-- processing "ICML"
+-- processing "KDD"
+-- processing "SIGIR"
+-- processing "JCDL"
+-- processing "ICWS"
+-- processing "ICAIL"
+-- processing "MCS"
+-- processing "ICIS"
+-- processing "ICALP"
+-- processing "ICANN"
+-- processing "ICAPS(AIPS)"
+-- processing "ICCBR"
+-- processing "Scale-Space"
+-- processing "SPIRE"
+-- processing "MLDM"
+-- processing "ICCS"
+-- processing "IDEAL"
+-- processing "AMFG"
+-- processing "NLDB"
+-- processing "IICS"
+-- processing "MLMTA"
+modpathsim1: elapsed time = 173.6291
+---------------------------------------------------------------

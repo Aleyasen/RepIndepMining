@@ -1,0 +1,1153 @@
+query 1
+1,2d0
+< General Physics I	|	1.00000000
+< General Physics II	|	1.00000000
+6,7d3
+< Advanced Laboratory I	|	1.00000000
+< Advanced Laboratory II	|	1.00000000
+14a11,14
+> Advanced Laboratory I	|	0.60000000
+> Advanced Laboratory II	|	0.60000000
+> General Physics II	|	0.47058824
+> General Physics I	|	0.12451362
+
+
+query 2
+1d0
+< Aerobics	|	1.00000000
+8d6
+< Canoeing	|	1.00000000
+10,11d7
+< Folkdance	|	1.00000000
+< Golf	|	1.00000000
+16,17d11
+< Yoga-Kundilini	|	1.00000000
+< Kayaking-Intermediate	|	1.00000000
+19d12
+< Yoga-Relaxaion	|	1.00000000
+22,25d14
+< Rowing-Beginning	|	1.00000000
+< Rowing-Intermediate	|	1.00000000
+< Softball	|	1.00000000
+< Squash-Beginning	|	1.00000000
+27d15
+< Sailing	|	1.00000000
+30,32d17
+< Tennis-Advanced	|	1.00000000
+< Tennis-Beginning	|	1.00000000
+< Tennis-Intermediate	|	1.00000000
+34d18
+< White Water Rafting	|	1.00000000
+36,45c20,45
+< Basketball-Coed	|	1.00000000
+< Backcountry Navigation	|	1.00000000
+< Bowling	|	1.00000000
+< Folkdancing	|	1.00000000
+< Hiking Around Portland	|	1.00000000
+< Yoga-Kundlini	|	1.00000000
+< Modern Dance	|	1.00000000
+< Yoga-Relaxation	|	1.00000000
+< Raquetball-Beginning	|	1.00000000
+< Squash-beginning	|	1.00000000
+---
+> Sailing	|	0.92307692
+> Aerobics	|	0.80000000
+> Canoeing	|	0.80000000
+> Folkdance	|	0.80000000
+> Golf	|	0.80000000
+> Yoga-Kundilini	|	0.80000000
+> Kayaking-Intermediate	|	0.80000000
+> Yoga-Relaxaion	|	0.80000000
+> Rowing-Beginning	|	0.80000000
+> Rowing-Intermediate	|	0.80000000
+> Softball	|	0.80000000
+> Squash-Beginning	|	0.80000000
+> Tennis-Advanced	|	0.80000000
+> Tennis-Beginning	|	0.80000000
+> Tennis-Intermediate	|	0.80000000
+> White Water Rafting	|	0.80000000
+> Basketball-Coed	|	0.80000000
+> Backcountry Navigation	|	0.80000000
+> Bowling	|	0.80000000
+> Folkdancing	|	0.80000000
+> Hiking Around Portland	|	0.80000000
+> Yoga-Kundlini	|	0.80000000
+> Modern Dance	|	0.80000000
+> Yoga-Relaxation	|	0.80000000
+> Raquetball-Beginning	|	0.80000000
+> Squash-beginning	|	0.80000000
+
+
+query 3
+1,2d0
+< General Physics I	|	1.00000000
+< General Physics II	|	1.00000000
+7,8d4
+< Advanced Laboratory I	|	1.00000000
+< Advanced Laboratory II	|	1.00000000
+14a11,14
+> Advanced Laboratory I	|	0.60000000
+> Advanced Laboratory II	|	0.60000000
+> General Physics II	|	0.47058824
+> General Physics I	|	0.12451362
+
+
+query 4
+1,7d0
+< Aerobics	|	1.00000000
+< African Dance	|	1.00000000
+< Aikido	|	1.00000000
+< Archery	|	1.00000000
+< Bellydance	|	1.00000000
+< Ballroom Dance-Beginning	|	1.00000000
+< Ballroom Dance-Intermediate	|	1.00000000
+9,10d1
+< Self Defense	|	1.00000000
+< Fencing	|	1.00000000
+13,16d3
+< Yoga-Hatha	|	1.00000000
+< Judo	|	1.00000000
+< Juggling	|	1.00000000
+< Jitterbug	|	1.00000000
+19,21d5
+< Lifeguard Training	|	1.00000000
+< Rock Climbing	|	1.00000000
+< Rugby-Men and Women	|	1.00000000
+26,29d9
+< Squash-Intermediate	|	1.00000000
+< Sailing	|	1.00000000
+< Tai Chi-Beginning	|	1.00000000
+< Tai Chi-Intermediate	|	1.00000000
+33d12
+< Ultimate Frisbee	|	1.00000000
+35d13
+< Badminton	|	1.00000000
+45a24,45
+> African Dance	|	0.80000000
+> Aikido	|	0.80000000
+> Archery	|	0.80000000
+> Bellydance	|	0.80000000
+> Ballroom Dance-Beginning	|	0.80000000
+> Ballroom Dance-Intermediate	|	0.80000000
+> Self Defense	|	0.80000000
+> Fencing	|	0.80000000
+> Yoga-Hatha	|	0.80000000
+> Judo	|	0.80000000
+> Juggling	|	0.80000000
+> Jitterbug	|	0.80000000
+> Lifeguard Training	|	0.80000000
+> Rock Climbing	|	0.80000000
+> Rugby-Men and Women	|	0.80000000
+> Squash-Intermediate	|	0.80000000
+> Tai Chi-Beginning	|	0.80000000
+> Tai Chi-Intermediate	|	0.80000000
+> Ultimate Frisbee	|	0.80000000
+> Badminton	|	0.80000000
+> Sailing	|	0.60000000
+> Aerobics	|	0.47058824
+
+
+query 5
+2,3d1
+< Intro to Psychology	|	1.00000000
+< Intro to Psychology II	|	1.00000000
+9d6
+< Psychopharmacology	|	1.00000000
+11d7
+< Research Design  and  DataAnalysi	|	1.00000000
+14d9
+< Cognitive Processes	|	1.00000000
+19a15,19
+> Psychopharmacology	|	0.60000000
+> Research Design  and  DataAnalysi	|	0.60000000
+> Cognitive Processes	|	0.60000000
+> Intro to Psychology	|	0.47058824
+> Intro to Psychology II	|	0.38461538
+
+
+query 6
+1,2d0
+< Race and Ethnicity	|	1.00000000
+< Sociology of Religion	|	1.00000000
+3a2,3
+> Race and Ethnicity	|	0.80000000
+> Sociology of Religion	|	0.80000000
+
+
+query 7
+1,9d0
+< Languages the Americas:Mayan	|	1.00000000
+< Anthropology of Europe	|	1.00000000
+< Prob in IndonesianEthnography	|	1.00000000
+< Gender and Ethnicity China, Tibet	|	1.00000000
+< Myth	|	1.00000000
+< Media  and  Culture Post-MaoChina	|	1.00000000
+< Indians  and  Northrn NativeAmers	|	1.00000000
+< Urban Anthropology	|	1.00000000
+< Nature, Cult  and Envirnmentalism	|	1.00000000
+11,13c2,13
+< Theories of Culture	|	1.00000000
+< Language in Society	|	1.00000000
+< Ethnic  and  Nation France  and  NAfr	|	1.00000000
+---
+> Languages the Americas:Mayan	|	0.80000000
+> Anthropology of Europe	|	0.80000000
+> Prob in IndonesianEthnography	|	0.80000000
+> Gender and Ethnicity China, Tibet	|	0.80000000
+> Myth	|	0.80000000
+> Media  and  Culture Post-MaoChina	|	0.80000000
+> Indians  and  Northrn NativeAmers	|	0.80000000
+> Urban Anthropology	|	0.80000000
+> Nature, Cult  and Envirnmentalism	|	0.80000000
+> Theories of Culture	|	0.80000000
+> Language in Society	|	0.80000000
+> Ethnic  and  Nation France  and  NAfr	|	0.80000000
+
+
+query 8
+1,2d0
+< General Physics I	|	1.00000000
+< General Physics II	|	1.00000000
+7,8d4
+< Advanced Laboratory I	|	1.00000000
+< Advanced Laboratory II	|	1.00000000
+14a11,14
+> Advanced Laboratory I	|	0.60000000
+> Advanced Laboratory II	|	0.60000000
+> General Physics II	|	0.47058824
+> General Physics I	|	0.12451362
+
+
+query 9
+
+
+query 10
+
+
+query 11
+1d0
+< Aerobics	|	1.00000000
+8d6
+< Canoeing	|	1.00000000
+11,12d8
+< Folkdance	|	1.00000000
+< Golf	|	1.00000000
+17,18d12
+< Yoga-Kundilini	|	1.00000000
+< Kayaking-Intermediate	|	1.00000000
+20d13
+< Yoga-Relaxaion	|	1.00000000
+22,25d14
+< Rowing-Beginning	|	1.00000000
+< Rowing-Intermediate	|	1.00000000
+< Softball	|	1.00000000
+< Squash-Beginning	|	1.00000000
+27d15
+< Sailing	|	1.00000000
+30,32d17
+< Tennis-Advanced	|	1.00000000
+< Tennis-Beginning	|	1.00000000
+< Tennis-Intermediate	|	1.00000000
+34d18
+< White Water Rafting	|	1.00000000
+36,45c20,45
+< Basketball-Coed	|	1.00000000
+< Backcountry Navigation	|	1.00000000
+< Bowling	|	1.00000000
+< Folkdancing	|	1.00000000
+< Hiking Around Portland	|	1.00000000
+< Yoga-Kundlini	|	1.00000000
+< Modern Dance	|	1.00000000
+< Yoga-Relaxation	|	1.00000000
+< Raquetball-Beginning	|	1.00000000
+< Squash-beginning	|	1.00000000
+---
+> Sailing	|	0.92307692
+> Aerobics	|	0.80000000
+> Canoeing	|	0.80000000
+> Folkdance	|	0.80000000
+> Golf	|	0.80000000
+> Yoga-Kundilini	|	0.80000000
+> Kayaking-Intermediate	|	0.80000000
+> Yoga-Relaxaion	|	0.80000000
+> Rowing-Beginning	|	0.80000000
+> Rowing-Intermediate	|	0.80000000
+> Softball	|	0.80000000
+> Squash-Beginning	|	0.80000000
+> Tennis-Advanced	|	0.80000000
+> Tennis-Beginning	|	0.80000000
+> Tennis-Intermediate	|	0.80000000
+> White Water Rafting	|	0.80000000
+> Basketball-Coed	|	0.80000000
+> Backcountry Navigation	|	0.80000000
+> Bowling	|	0.80000000
+> Folkdancing	|	0.80000000
+> Hiking Around Portland	|	0.80000000
+> Yoga-Kundlini	|	0.80000000
+> Modern Dance	|	0.80000000
+> Yoga-Relaxation	|	0.80000000
+> Raquetball-Beginning	|	0.80000000
+> Squash-beginning	|	0.80000000
+
+
+query 12
+1d0
+< Sex and Gender	|	1.00000000
+11d9
+< Structuralism and Semiotics	|	1.00000000
+13a12,13
+> Sex and Gender	|	0.80000000
+> Structuralism and Semiotics	|	0.80000000
+
+
+query 13
+1,7d0
+< Aerobics	|	1.00000000
+< African Dance	|	1.00000000
+< Aikido	|	1.00000000
+< Archery	|	1.00000000
+< Bellydance	|	1.00000000
+< Ballroom Dance-Beginning	|	1.00000000
+< Ballroom Dance-Intermediate	|	1.00000000
+9,10d1
+< Self Defense	|	1.00000000
+< Fencing	|	1.00000000
+13,16d3
+< Yoga-Hatha	|	1.00000000
+< Judo	|	1.00000000
+< Juggling	|	1.00000000
+< Jitterbug	|	1.00000000
+19d5
+< Lifeguard Training	|	1.00000000
+21,22d6
+< Rock Climbing	|	1.00000000
+< Rugby-Men and Women	|	1.00000000
+27,30d10
+< Squash-Intermediate	|	1.00000000
+< Sailing	|	1.00000000
+< Tai Chi-Beginning	|	1.00000000
+< Tai Chi-Intermediate	|	1.00000000
+34d13
+< Ultimate Frisbee	|	1.00000000
+36d14
+< Badminton	|	1.00000000
+45a24,45
+> African Dance	|	0.80000000
+> Aikido	|	0.80000000
+> Archery	|	0.80000000
+> Bellydance	|	0.80000000
+> Ballroom Dance-Beginning	|	0.80000000
+> Ballroom Dance-Intermediate	|	0.80000000
+> Self Defense	|	0.80000000
+> Fencing	|	0.80000000
+> Yoga-Hatha	|	0.80000000
+> Judo	|	0.80000000
+> Juggling	|	0.80000000
+> Jitterbug	|	0.80000000
+> Lifeguard Training	|	0.80000000
+> Rock Climbing	|	0.80000000
+> Rugby-Men and Women	|	0.80000000
+> Squash-Intermediate	|	0.80000000
+> Tai Chi-Beginning	|	0.80000000
+> Tai Chi-Intermediate	|	0.80000000
+> Ultimate Frisbee	|	0.80000000
+> Badminton	|	0.80000000
+> Sailing	|	0.60000000
+> Aerobics	|	0.47058824
+
+
+query 14
+1,6d0
+< MolecularStructure and Properties	|	1.00000000
+< Chemical Reactivity	|	1.00000000
+< Organic Chemistry I	|	1.00000000
+< Organic Chemistry II	|	1.00000000
+< Intro Inorganic Chemistry	|	1.00000000
+< Analytical Chemistry	|	1.00000000
+13d6
+< Structural Biochemistry	|	1.00000000
+15c8,15
+< Biochemical Methods	|	1.00000000
+---
+> Intro Inorganic Chemistry	|	0.60000000
+> Analytical Chemistry	|	0.60000000
+> Structural Biochemistry	|	0.60000000
+> Biochemical Methods	|	0.60000000
+> Organic Chemistry I	|	0.24615385
+> Organic Chemistry II	|	0.24615385
+> Chemical Reactivity	|	0.18032787
+> MolecularStructure and Properties	|	0.11724138
+
+
+query 15
+1d0
+< Introduction to Computing	|	1.00000000
+3d1
+< Intro to Probability  and Statist	|	1.00000000
+15a14,15
+> Introduction to Computing	|	0.47058824
+> Intro to Probability  and Statist	|	0.38461538
+
+
+query 16
+1d0
+< Aerobics	|	1.00000000
+7d5
+< Canoeing	|	1.00000000
+10,11d7
+< Folkdance	|	1.00000000
+< Golf	|	1.00000000
+16,17d11
+< Yoga-Kundilini	|	1.00000000
+< Kayaking-Intermediate	|	1.00000000
+19d12
+< Yoga-Relaxaion	|	1.00000000
+22,25d14
+< Rowing-Beginning	|	1.00000000
+< Rowing-Intermediate	|	1.00000000
+< Softball	|	1.00000000
+< Squash-Beginning	|	1.00000000
+27d15
+< Sailing	|	1.00000000
+30,32d17
+< Tennis-Advanced	|	1.00000000
+< Tennis-Beginning	|	1.00000000
+< Tennis-Intermediate	|	1.00000000
+34d18
+< White Water Rafting	|	1.00000000
+36,45c20,45
+< Basketball-Coed	|	1.00000000
+< Backcountry Navigation	|	1.00000000
+< Bowling	|	1.00000000
+< Folkdancing	|	1.00000000
+< Hiking Around Portland	|	1.00000000
+< Yoga-Kundlini	|	1.00000000
+< Modern Dance	|	1.00000000
+< Yoga-Relaxation	|	1.00000000
+< Raquetball-Beginning	|	1.00000000
+< Squash-beginning	|	1.00000000
+---
+> Sailing	|	0.92307692
+> Aerobics	|	0.80000000
+> Canoeing	|	0.80000000
+> Folkdance	|	0.80000000
+> Golf	|	0.80000000
+> Yoga-Kundilini	|	0.80000000
+> Kayaking-Intermediate	|	0.80000000
+> Yoga-Relaxaion	|	0.80000000
+> Rowing-Beginning	|	0.80000000
+> Rowing-Intermediate	|	0.80000000
+> Softball	|	0.80000000
+> Squash-Beginning	|	0.80000000
+> Tennis-Advanced	|	0.80000000
+> Tennis-Beginning	|	0.80000000
+> Tennis-Intermediate	|	0.80000000
+> White Water Rafting	|	0.80000000
+> Basketball-Coed	|	0.80000000
+> Backcountry Navigation	|	0.80000000
+> Bowling	|	0.80000000
+> Folkdancing	|	0.80000000
+> Hiking Around Portland	|	0.80000000
+> Yoga-Kundlini	|	0.80000000
+> Modern Dance	|	0.80000000
+> Yoga-Relaxation	|	0.80000000
+> Raquetball-Beginning	|	0.80000000
+> Squash-beginning	|	0.80000000
+
+
+query 17
+1d0
+< Intro Poetry Writing	|	1.00000000
+7c6,7
+< Advanced Fiction Writing	|	1.00000000
+---
+> Intro Poetry Writing	|	0.80000000
+> Advanced Fiction Writing	|	0.80000000
+
+
+query 18
+1d0
+< Introduction to Computing	|	1.00000000
+3d1
+< Intro to Probability  and Statist	|	1.00000000
+15a14,15
+> Introduction to Computing	|	0.47058824
+> Intro to Probability  and Statist	|	0.38461538
+
+
+query 19
+
+
+query 20
+8d7
+< Intro Drama:Conventn  and Inovatn	|	1.00000000
+22a22
+> Intro Drama:Conventn  and Inovatn	|	0.80000000
+
+
+query 21
+
+
+query 22
+
+
+query 23
+
+
+query 24
+2,3c2,3
+< American Capitalism	|	1.00000000
+< Sociology of Culture	|	1.00000000
+---
+> American Capitalism	|	0.80000000
+> Sociology of Culture	|	0.80000000
+
+
+query 25
+1,5d0
+< Late Imperial China	|	1.00000000
+< Modern China	|	1.00000000
+< Cultr  and  Society 19 CentAmerca	|	1.00000000
+< Culture and Society 20 Cent Amer	|	1.00000000
+< Introduction to Judaism	|	1.00000000
+7,9d1
+< Subaltern Stds Historiography	|	1.00000000
+< The Family in China and Japan	|	1.00000000
+< Devel of Britain 1700-1830	|	1.00000000
+11,14d2
+< Weimar:State,Society  and Culture	|	1.00000000
+< Old Regime France 1600-1750	|	1.00000000
+< The French Enlightenment	|	1.00000000
+< Civil War and Reconstruction	|	1.00000000
+16d3
+< American Slavery	|	1.00000000
+19,21c6,21
+< Jun Sem: Depression Era U.S.	|	1.00000000
+< Sem: Comty, Auth, Cult15-1700	|	1.00000000
+< Topics in FrenchEnlightenment	|	1.00000000
+---
+> Late Imperial China	|	0.80000000
+> Modern China	|	0.80000000
+> Cultr  and  Society 19 CentAmerca	|	0.80000000
+> Culture and Society 20 Cent Amer	|	0.80000000
+> Introduction to Judaism	|	0.80000000
+> Subaltern Stds Historiography	|	0.80000000
+> The Family in China and Japan	|	0.80000000
+> Devel of Britain 1700-1830	|	0.80000000
+> Weimar:State,Society  and Culture	|	0.80000000
+> Old Regime France 1600-1750	|	0.80000000
+> The French Enlightenment	|	0.80000000
+> Civil War and Reconstruction	|	0.80000000
+> American Slavery	|	0.80000000
+> Jun Sem: Depression Era U.S.	|	0.80000000
+> Sem: Comty, Auth, Cult15-1700	|	0.80000000
+> Topics in FrenchEnlightenment	|	0.80000000
+
+
+query 26
+1d0
+< Introduction to Computing	|	1.00000000
+3d1
+< Intro to Probability  and Statist	|	1.00000000
+15a14,15
+> Introduction to Computing	|	0.47058824
+> Intro to Probability  and Statist	|	0.38461538
+
+
+query 27
+2,3d1
+< Intro to Psychology	|	1.00000000
+< Intro to Psychology II	|	1.00000000
+8d5
+< Psychopharmacology	|	1.00000000
+10d6
+< Research Design  and  DataAnalysi	|	1.00000000
+13d8
+< Cognitive Processes	|	1.00000000
+19a15,19
+> Psychopharmacology	|	0.60000000
+> Research Design  and  DataAnalysi	|	0.60000000
+> Cognitive Processes	|	0.60000000
+> Intro to Psychology	|	0.47058824
+> Intro to Psychology II	|	0.38461538
+
+
+query 28
+
+
+query 29
+1,45c1,45
+< African Dance	|	1.00000000
+< Aikido	|	1.00000000
+< Archery	|	1.00000000
+< Bellydance	|	1.00000000
+< Ballroom Dance-Beginning	|	1.00000000
+< Ballroom Dance-Intermediate	|	1.00000000
+< Canoeing	|	1.00000000
+< Self Defense	|	1.00000000
+< Fencing	|	1.00000000
+< Folkdance	|	1.00000000
+< Golf	|	1.00000000
+< Yoga-Hatha	|	1.00000000
+< Judo	|	1.00000000
+< Juggling	|	1.00000000
+< Jitterbug	|	1.00000000
+< Yoga-Kundilini	|	1.00000000
+< Kayaking-Intermediate	|	1.00000000
+< Lifeguard Training	|	1.00000000
+< Yoga-Relaxaion	|	1.00000000
+< Rock Climbing	|	1.00000000
+< Rugby-Men and Women	|	1.00000000
+< Rowing-Beginning	|	1.00000000
+< Rowing-Intermediate	|	1.00000000
+< Softball	|	1.00000000
+< Squash-Beginning	|	1.00000000
+< Squash-Intermediate	|	1.00000000
+< Sailing	|	1.00000000
+< Tai Chi-Beginning	|	1.00000000
+< Tai Chi-Intermediate	|	1.00000000
+< Tennis-Advanced	|	1.00000000
+< Tennis-Beginning	|	1.00000000
+< Tennis-Intermediate	|	1.00000000
+< Ultimate Frisbee	|	1.00000000
+< White Water Rafting	|	1.00000000
+< Badminton	|	1.00000000
+< Basketball-Coed	|	1.00000000
+< Backcountry Navigation	|	1.00000000
+< Bowling	|	1.00000000
+< Folkdancing	|	1.00000000
+< Hiking Around Portland	|	1.00000000
+< Yoga-Kundlini	|	1.00000000
+< Modern Dance	|	1.00000000
+< Yoga-Relaxation	|	1.00000000
+< Raquetball-Beginning	|	1.00000000
+< Squash-beginning	|	1.00000000
+---
+> Sailing	|	0.96000000
+> African Dance	|	0.80000000
+> Aikido	|	0.80000000
+> Archery	|	0.80000000
+> Bellydance	|	0.80000000
+> Ballroom Dance-Beginning	|	0.80000000
+> Ballroom Dance-Intermediate	|	0.80000000
+> Self Defense	|	0.80000000
+> Fencing	|	0.80000000
+> Yoga-Hatha	|	0.80000000
+> Judo	|	0.80000000
+> Juggling	|	0.80000000
+> Jitterbug	|	0.80000000
+> Lifeguard Training	|	0.80000000
+> Rock Climbing	|	0.80000000
+> Rugby-Men and Women	|	0.80000000
+> Squash-Intermediate	|	0.80000000
+> Tai Chi-Beginning	|	0.80000000
+> Tai Chi-Intermediate	|	0.80000000
+> Ultimate Frisbee	|	0.80000000
+> Badminton	|	0.80000000
+> Canoeing	|	0.47058824
+> Folkdance	|	0.47058824
+> Golf	|	0.47058824
+> Yoga-Kundilini	|	0.47058824
+> Kayaking-Intermediate	|	0.47058824
+> Yoga-Relaxaion	|	0.47058824
+> Rowing-Beginning	|	0.47058824
+> Rowing-Intermediate	|	0.47058824
+> Softball	|	0.47058824
+> Squash-Beginning	|	0.47058824
+> Tennis-Advanced	|	0.47058824
+> Tennis-Beginning	|	0.47058824
+> Tennis-Intermediate	|	0.47058824
+> White Water Rafting	|	0.47058824
+> Basketball-Coed	|	0.47058824
+> Backcountry Navigation	|	0.47058824
+> Bowling	|	0.47058824
+> Folkdancing	|	0.47058824
+> Hiking Around Portland	|	0.47058824
+> Yoga-Kundlini	|	0.47058824
+> Modern Dance	|	0.47058824
+> Yoga-Relaxation	|	0.47058824
+> Raquetball-Beginning	|	0.47058824
+> Squash-beginning	|	0.47058824
+
+
+query 30
+
+
+query 31
+6d5
+< Spcl Tops: Vietnam War	|	1.00000000
+10,11d8
+< The Third Reich	|	1.00000000
+< The Russian Revolution	|	1.00000000
+16,18d12
+< Gender and History	|	1.00000000
+< Mexico: Indepdence toRevolutn	|	1.00000000
+< Mexico  and  the Spanish Conquest	|	1.00000000
+21a16,21
+> Spcl Tops: Vietnam War	|	0.80000000
+> The Third Reich	|	0.80000000
+> The Russian Revolution	|	0.80000000
+> Gender and History	|	0.80000000
+> Mexico: Indepdence toRevolutn	|	0.80000000
+> Mexico  and  the Spanish Conquest	|	0.80000000
+
+
+query 32
+1d0
+< Aerobics	|	1.00000000
+7d5
+< Canoeing	|	1.00000000
+10,11d7
+< Folkdance	|	1.00000000
+< Golf	|	1.00000000
+16,17d11
+< Yoga-Kundilini	|	1.00000000
+< Kayaking-Intermediate	|	1.00000000
+19d12
+< Yoga-Relaxaion	|	1.00000000
+22,25d14
+< Rowing-Beginning	|	1.00000000
+< Rowing-Intermediate	|	1.00000000
+< Softball	|	1.00000000
+< Squash-Beginning	|	1.00000000
+27d15
+< Sailing	|	1.00000000
+30,32d17
+< Tennis-Advanced	|	1.00000000
+< Tennis-Beginning	|	1.00000000
+< Tennis-Intermediate	|	1.00000000
+34d18
+< White Water Rafting	|	1.00000000
+36,45c20,45
+< Basketball-Coed	|	1.00000000
+< Backcountry Navigation	|	1.00000000
+< Bowling	|	1.00000000
+< Folkdancing	|	1.00000000
+< Hiking Around Portland	|	1.00000000
+< Yoga-Kundlini	|	1.00000000
+< Modern Dance	|	1.00000000
+< Yoga-Relaxation	|	1.00000000
+< Raquetball-Beginning	|	1.00000000
+< Squash-beginning	|	1.00000000
+---
+> Sailing	|	0.92307692
+> Aerobics	|	0.80000000
+> Canoeing	|	0.80000000
+> Folkdance	|	0.80000000
+> Golf	|	0.80000000
+> Yoga-Kundilini	|	0.80000000
+> Kayaking-Intermediate	|	0.80000000
+> Yoga-Relaxaion	|	0.80000000
+> Rowing-Beginning	|	0.80000000
+> Rowing-Intermediate	|	0.80000000
+> Softball	|	0.80000000
+> Squash-Beginning	|	0.80000000
+> Tennis-Advanced	|	0.80000000
+> Tennis-Beginning	|	0.80000000
+> Tennis-Intermediate	|	0.80000000
+> White Water Rafting	|	0.80000000
+> Basketball-Coed	|	0.80000000
+> Backcountry Navigation	|	0.80000000
+> Bowling	|	0.80000000
+> Folkdancing	|	0.80000000
+> Hiking Around Portland	|	0.80000000
+> Yoga-Kundlini	|	0.80000000
+> Modern Dance	|	0.80000000
+> Yoga-Relaxation	|	0.80000000
+> Raquetball-Beginning	|	0.80000000
+> Squash-beginning	|	0.80000000
+
+
+query 33
+
+
+query 34
+1d0
+< First Year French	|	1.00000000
+8a8
+> First Year French	|	0.60000000
+
+
+query 35
+1,14c1,14
+< General Physics II	|	1.00000000
+< Classical Mechanics I	|	1.00000000
+< Electrodynamics I	|	1.00000000
+< Electrodynamics II	|	1.00000000
+< Optics	|	1.00000000
+< Advanced Laboratory I	|	1.00000000
+< Advanced Laboratory II	|	1.00000000
+< Quantum Mechanics I	|	1.00000000
+< Thermal Physics	|	1.00000000
+< Solid State Physics	|	1.00000000
+< Elementary Particles	|	1.00000000
+< Scientific Computation	|	1.00000000
+< Classical Mechanics II	|	1.00000000
+< Quantum Mechanics II	|	1.00000000
+---
+> General Physics II	|	0.47058824
+> Advanced Laboratory I	|	0.36226415
+> Advanced Laboratory II	|	0.36226415
+> Classical Mechanics I	|	0.12451362
+> Electrodynamics I	|	0.12451362
+> Electrodynamics II	|	0.12451362
+> Optics	|	0.12451362
+> Quantum Mechanics I	|	0.12451362
+> Thermal Physics	|	0.12451362
+> Solid State Physics	|	0.12451362
+> Elementary Particles	|	0.12451362
+> Scientific Computation	|	0.12451362
+> Classical Mechanics II	|	0.12451362
+> Quantum Mechanics II	|	0.12451362
+
+
+query 36
+8d7
+< Intro Drama:Conventn  and Inovatn	|	1.00000000
+22a22
+> Intro Drama:Conventn  and Inovatn	|	0.80000000
+
+
+query 37
+1,3d0
+< Field Biology of Amphibians	|	1.00000000
+< Bacterial Pathogenesis	|	1.00000000
+< Seminar in Biology	|	1.00000000
+7d3
+< Genetics and MolecularBiology	|	1.00000000
+11a8,11
+> Genetics and MolecularBiology	|	0.96000000
+> Field Biology of Amphibians	|	0.60000000
+> Bacterial Pathogenesis	|	0.60000000
+> Seminar in Biology	|	0.60000000
+
+
+query 38
+1,8c1,8
+< Secnd Yr Ger:CultralPerspctvs	|	1.00000000
+< Adv Conversation and Writing	|	1.00000000
+< Advancd Conversation and Writing	|	1.00000000
+< Modernism: Berlin	|	1.00000000
+< Contemporary German Prose	|	1.00000000
+< Modern German Theatre	|	1.00000000
+< German Thought Postmodrn Era	|	1.00000000
+< German Theory II: Body Media	|	1.00000000
+---
+> Secnd Yr Ger:CultralPerspctvs	|	0.80000000
+> Adv Conversation and Writing	|	0.80000000
+> Advancd Conversation and Writing	|	0.80000000
+> Modernism: Berlin	|	0.80000000
+> Contemporary German Prose	|	0.80000000
+> Modern German Theatre	|	0.80000000
+> German Thought Postmodrn Era	|	0.80000000
+> German Theory II: Body Media	|	0.80000000
+
+
+query 39
+
+
+query 40
+
+
+query 41
+1,7d0
+< Aerobics	|	1.00000000
+< African Dance	|	1.00000000
+< Aikido	|	1.00000000
+< Archery	|	1.00000000
+< Bellydance	|	1.00000000
+< Ballroom Dance-Beginning	|	1.00000000
+< Ballroom Dance-Intermediate	|	1.00000000
+9,10d1
+< Self Defense	|	1.00000000
+< Fencing	|	1.00000000
+13,16d3
+< Yoga-Hatha	|	1.00000000
+< Judo	|	1.00000000
+< Juggling	|	1.00000000
+< Jitterbug	|	1.00000000
+19d5
+< Lifeguard Training	|	1.00000000
+21,22d6
+< Rock Climbing	|	1.00000000
+< Rugby-Men and Women	|	1.00000000
+27,30d10
+< Squash-Intermediate	|	1.00000000
+< Sailing	|	1.00000000
+< Tai Chi-Beginning	|	1.00000000
+< Tai Chi-Intermediate	|	1.00000000
+33d12
+< Ultimate Frisbee	|	1.00000000
+35d13
+< Badminton	|	1.00000000
+45a24,45
+> African Dance	|	0.80000000
+> Aikido	|	0.80000000
+> Archery	|	0.80000000
+> Bellydance	|	0.80000000
+> Ballroom Dance-Beginning	|	0.80000000
+> Ballroom Dance-Intermediate	|	0.80000000
+> Self Defense	|	0.80000000
+> Fencing	|	0.80000000
+> Yoga-Hatha	|	0.80000000
+> Judo	|	0.80000000
+> Juggling	|	0.80000000
+> Jitterbug	|	0.80000000
+> Lifeguard Training	|	0.80000000
+> Rock Climbing	|	0.80000000
+> Rugby-Men and Women	|	0.80000000
+> Squash-Intermediate	|	0.80000000
+> Tai Chi-Beginning	|	0.80000000
+> Tai Chi-Intermediate	|	0.80000000
+> Ultimate Frisbee	|	0.80000000
+> Badminton	|	0.80000000
+> Sailing	|	0.60000000
+> Aerobics	|	0.47058824
+
+
+query 42
+
+
+query 43
+1,5d0
+< Late Imperial China	|	1.00000000
+< Modern China	|	1.00000000
+< Cultr  and  Society 19 CentAmerca	|	1.00000000
+< Culture and Society 20 Cent Amer	|	1.00000000
+< Introduction to Judaism	|	1.00000000
+7,9d1
+< Subaltern Stds Historiography	|	1.00000000
+< The Family in China and Japan	|	1.00000000
+< Devel of Britain 1700-1830	|	1.00000000
+12,16d3
+< Weimar:State,Society  and Culture	|	1.00000000
+< Old Regime France 1600-1750	|	1.00000000
+< The French Enlightenment	|	1.00000000
+< Civil War and Reconstruction	|	1.00000000
+< American Slavery	|	1.00000000
+19,21c6,21
+< Jun Sem: Depression Era U.S.	|	1.00000000
+< Sem: Comty, Auth, Cult15-1700	|	1.00000000
+< Topics in FrenchEnlightenment	|	1.00000000
+---
+> Late Imperial China	|	0.80000000
+> Modern China	|	0.80000000
+> Cultr  and  Society 19 CentAmerca	|	0.80000000
+> Culture and Society 20 Cent Amer	|	0.80000000
+> Introduction to Judaism	|	0.80000000
+> Subaltern Stds Historiography	|	0.80000000
+> The Family in China and Japan	|	0.80000000
+> Devel of Britain 1700-1830	|	0.80000000
+> Weimar:State,Society  and Culture	|	0.80000000
+> Old Regime France 1600-1750	|	0.80000000
+> The French Enlightenment	|	0.80000000
+> Civil War and Reconstruction	|	0.80000000
+> American Slavery	|	0.80000000
+> Jun Sem: Depression Era U.S.	|	0.80000000
+> Sem: Comty, Auth, Cult15-1700	|	0.80000000
+> Topics in FrenchEnlightenment	|	0.80000000
+
+
+query 44
+
+
+query 45
+
+
+query 46
+
+
+query 47
+7d6
+< Intro Drama:Conventn  and Inovatn	|	1.00000000
+22a22
+> Intro Drama:Conventn  and Inovatn	|	0.80000000
+
+
+query 48
+1,4d0
+< MolecularStructure and Properties	|	1.00000000
+< Chemical Reactivity	|	1.00000000
+< Organic Chemistry I	|	1.00000000
+< Organic Chemistry II	|	1.00000000
+6d1
+< Environmental Chemistry	|	1.00000000
+8,14d2
+< Physical Chemistry Laboratory	|	1.00000000
+< Computational Organic Chem	|	1.00000000
+< Statistical Thermodynamics	|	1.00000000
+< Quantum Mechanics  and  MolStruct	|	1.00000000
+< Advanced Inorganic Chemistry	|	1.00000000
+< Adv Synth Organic Chemistry	|	1.00000000
+< Metabolic Biochemistry	|	1.00000000
+15a4,15
+> Organic Chemistry I	|	0.65753425
+> Organic Chemistry II	|	0.65753425
+> Environmental Chemistry	|	0.60000000
+> Physical Chemistry Laboratory	|	0.60000000
+> Computational Organic Chem	|	0.60000000
+> Statistical Thermodynamics	|	0.60000000
+> Quantum Mechanics  and  MolStruct	|	0.60000000
+> Advanced Inorganic Chemistry	|	0.60000000
+> Adv Synth Organic Chemistry	|	0.60000000
+> Metabolic Biochemistry	|	0.60000000
+> Chemical Reactivity	|	0.50769231
+> MolecularStructure and Properties	|	0.34228188
+
+
+query 49
+
+
+query 50
+
+
+query 51
+
+
+query 52
+
+
+query 53
+
+
+query 54
+
+
+query 55
+
+
+query 56
+
+
+query 57
+
+
+query 58
+
+
+query 59
+
+
+query 60
+
+
+query 61
+
+
+query 62
+
+
+query 63
+
+
+query 64
+
+
+query 65
+
+
+query 66
+
+
+query 67
+
+
+query 68
+
+
+query 69
+
+
+query 70
+
+
+query 71
+
+
+query 72
+
+
+query 73
+
+
+query 74
+
+
+query 75
+
+
+query 76
+
+
+query 77
+
+
+query 78
+
+
+query 79
+
+
+query 80
+
+
+query 81
+
+
+query 82
+
+
+query 83
+
+
+query 84
+
+
+query 85
+
+
+query 86
+
+
+query 87
+
+
+query 88
+
+
+query 89
+
+
+query 90
+
+
+query 91
+
+
+query 92
+
+
+query 93
+
+
+query 94
+
+
+query 95
+
+
+query 96
+
+
+query 97
+
+
+query 98
+
+
+query 99
+
+
+query 100
+
+

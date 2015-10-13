@@ -1,0 +1,123 @@
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2014 The MathWorks, Inc.
+                    R2014a (8.3.0.532) 64-bit (glnxa64)
+                             February 11, 2014
+
+
+	This is a Classroom License for instructional use only.
+	Research and commercial use is prohibited.
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+nodesReader : read /srv/data/projects/apps/RepIndep_CIDR/fullgraph/top2000/movie.txt
+nodesReader : read /srv/data/projects/apps/RepIndep_CIDR/fullgraph/top2000/actor.txt
+nodesReader : read /srv/data/projects/apps/RepIndep_CIDR/fullgraph/top2000/director.txt
+edgesReader : read /srv/data/projects/apps/RepIndep_CIDR/fullgraph/top2000/movie_actor.txt
+edgesReader : read /srv/data/projects/apps/RepIndep_CIDR/fullgraph/top2000/movie_director.txt
+There are 0 isolated nodes in G.
+Data size is |V|=7266 |E|=39750
+>>> calculating Random Walk With Restart <<<
+-- processing "testify (2006)"
+-- processing "open season (2006)"
+-- processing "long time no see (2002)"
+-- processing "peripheral vision (2008)"
+-- processing "road to perdition (2002)"
+-- processing "what alice found (2003)"
+-- processing "piñero (2001)"
+-- processing "haiku tunnel (2001)"
+-- processing "vampire hunter d: bloodlust (2000)"
+-- processing "gladiator (2000)"
+-- processing "popcorn shrimp (2001)"
+-- processing "defendor (2009)"
+-- processing "ripley's game (2002)"
+-- processing "the poughkeepsie tapes (2007)"
+-- processing "cordially invited (2007)"
+-- processing "levity (2003)"
+-- processing "as you like it (2006)"
+-- processing "undertow (2004)"
+-- processing "mail order wife (2004)"
+-- processing "wherever you are (2008)"
+-- processing "forgotten (2009)"
+-- processing "other voices (2000)"
+-- processing "extraordinary measures (2010)"
+-- processing "until morning (2002)"
+-- processing "gerry (2002)"
+-- processing "running the sahara (2008)"
+-- processing "the italian job (2003)"
+-- processing "keane (2004)"
+-- processing "the perfect gift (2009)"
+-- processing "the angel doll (2002)"
+-- processing "broken english (2007)"
+-- processing "leaving barstow (2008)"
+-- processing "wicker park (2004)"
+-- processing "the dark knight (2008)"
+-- processing "onion underwater (2006)"
+-- processing "the decay of fiction (2002)"
+-- processing "where the heart is (2000)"
+-- processing "friends and family (2001)"
+-- processing "when you're strange (2009)"
+-- processing "bobby jones: stroke of genius (2004)"
+-- processing "worth (2008)"
+-- processing "sarah silverman: jesus is magic (2005)"
+-- processing "valentine man (2004)"
+-- processing "american icarus (2002)"
+-- processing "last holiday (2006)"
+-- processing "the importance of blind dating (2005)"
+-- processing "seraphim falls (2006)"
+-- processing "dreaming of julia (2003)"
+-- processing "the silencing (2000)"
+-- processing "sleeping dogs lie (2005)"
+-- processing "julie johnson (2001)"
+-- processing "unlikely heroes (2003)"
+-- processing "theodore (2009)"
+-- processing "jack goes boating (2010)"
+-- processing "spartan (2004)"
+-- processing "the bourne ultimatum (2007)"
+-- processing "the butterfly circus (2009)"
+-- processing "nothing like the holidays (2008)"
+-- processing "the grey (2004)"
+-- processing "harold & kumar go to white castle (2004)"
+-- processing "magnus, inc. (2007)"
+-- processing "the last miracle (2006)"
+-- processing "steel city (2006)"
+-- processing "the no sit list (2008)"
+-- processing "padre nuestro (2007)"
+-- processing "mean machine (2001)"
+-- processing "borat: cultural learnings of america for make benefit glorious nation of kazakhstan (2006)"
+-- processing "a prairie home companion (2006)"
+-- processing "back to manhattan (2005)"
+-- processing "the mirror (2007)"
+-- processing "black irish (2007)"
+-- processing "l.i.e. (2001)"
+-- processing "derek & simon: a bee and a cigarette (2006)"
+-- processing "frequency (2000)"
+-- processing "modigliani (2004)"
+-- processing "boppin' at the glue factory (2009)"
+-- processing "delirious (2006)"
+-- processing "shooting livien (2005)"
+-- processing "little chenier (2006)"
+-- processing "the belly of the beast (2007)"
+-- processing "american primitive (2008)"
+-- processing "high falls (2007)"
+-- processing "star trek: nemesis (2002)"
+-- processing "hare and loathing in las vegas (2004)"
+-- processing "snatch. (2000)"
+-- processing "follow the prophet (2009)"
+-- processing "tears of the sun (2003)"
+-- processing "ascension day (2007)"
+-- processing "kinsey (2004)"
+-- processing "charlie bartlett (2007)"
+-- processing "ocean's thirteen (2007)"
+-- processing "before the rains (2007)"
+-- processing "the shabbos bigfoot (2006)"
+-- processing "unbreakable (2000)"
+-- processing "the maiden heist (2009)"
+-- processing "all the real girls (2003)"
+-- processing "blue car (2002)"
+-- processing "spinning boris (2003)"
+-- processing "gotham cafe (2005)"
+-- processing "girlfight (2000)"
+rwr: elapsed time = 559.7332
+---------------------------------------------------------------

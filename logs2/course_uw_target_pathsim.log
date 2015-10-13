@@ -1,0 +1,81 @@
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2014 The MathWorks, Inc.
+                    R2014a (8.3.0.532) 64-bit (glnxa64)
+                             February 11, 2014
+
+
+	This is a Classroom License for instructional use only.
+	Research and commercial use is prohibited.
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+[Warning: Directory already exists.] 
+[> In main_courses_uw_target at 5] 
+nodesReader : read /srv/data/projects/apps/RepIndep_CIDR/courses-uw/course.txt
+nodesReader : read /srv/data/projects/apps/RepIndep_CIDR/courses-uw/offer.txt
+nodesReader : read /srv/data/projects/apps/RepIndep_CIDR/courses-uw/inst.txt
+nodesReader : read /srv/data/projects/apps/RepIndep_CIDR/courses-uw/subject.txt
+edgesReader : read /srv/data/projects/apps/RepIndep_CIDR/courses-uw/course_inst.txt
+edgesReader : read /srv/data/projects/apps/RepIndep_CIDR/courses-uw/course_offer.txt
+edgesReader : read /srv/data/projects/apps/RepIndep_CIDR/courses-uw/course_subject.txt
+There are 156 isolated nodes in G.
+the following queries do not exist
+    'Media and Culture Post-MaoChina'
+    'Theory and Methods in RelStudies'
+
+Data size is |V|=1076 |E|=3310
+[Warning: Directory already exists.] 
+[> In main_courses_uw_target at 30] 
+>> running PathSim
+-- processing "Classical Mechanics I"
+-- processing "Self Defense"
+-- processing "Quantum Mechanics II"
+-- processing "Yoga-Relaxaion"
+-- processing "Psychobiology Research"
+-- processing "Sociology of Culture"
+-- processing "Sex and Gender"
+-- processing "Solid State Physics"
+-- processing "Ancient Philosophy"
+-- processing "Major Figures:Existentialists"
+-- processing "Rugby-Men and Women"
+-- processing "Theories of Culture"
+-- processing "Basketball-Coed"
+-- processing "Environmental Chemistry"
+-- processing "Algebraic Structures"
+-- processing "Ballroom Dance-Beginning"
+-- processing "Intro to Creative Writing"
+-- processing "Computer Graphics"
+-- processing "Russian Short Fiction"
+-- processing "Jun Sem:Irony, Allegory, Epic"
+-- processing "Post-Kantian Continental Phil"
+-- processing "Spl Tops Span Amer Lit:Borges"
+-- processing "Modern Peninsular Drama"
+-- processing "Sociology of Religion"
+-- processing "The Third Reich"
+-- processing "Elemetary Number Theory"
+-- processing "Neuropsychology"
+-- processing "20th C Russian CriticalTheory"
+-- processing "Aerobics"
+-- processing "Acting Laboratory"
+-- processing "American Slavery"
+-- processing "African Dance"
+-- processing "Macroeconomic Theory"
+-- processing "Seminar:Uses of Literature"
+-- processing "General Physics I"
+-- processing "American Lit: Race in America"
+-- processing "Vascular Plant Diversity"
+-- processing "Frst Yr German:A Foundation"
+-- processing "Basic Technique"
+-- processing "Pol of Democratic Participatn"
+-- processing "Tennis-Beginning"
+-- processing "Adv Topics:APrior,Nec,Anlytic"
+-- processing "Gender and History"
+-- processing "Chinese Narrative Tradition"
+-- processing "Con. Law and JudicialPolitics"
+-- processing "History of Economic Thought"
+-- processing "Intro Fict:Colonl and LaterNovels"
+-- processing "Structural Biochemistry"
+pathsim: elapsed time = 3.6449
+---------------------------------------------------------------

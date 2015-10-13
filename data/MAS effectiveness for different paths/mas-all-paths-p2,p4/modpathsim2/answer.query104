@@ -1,0 +1,174 @@
+IWDM	|	0.8
+IWDOM/OODBS	|	0.1327
+PJW	|	0.1929
+IUC	|	0.18
+IO	|	0.18
+SVG.Open	|	0.18
+IICIS	|	0.0689
+ISTCS	|	0.11
+AusWeb	|	0.108
+IBM Germany Scientific Symposium Series	|	0.0488
+EAMT Workshops	|	0.09
+MD	|	0.0847
+ABIS	|	0.0847
+EURASIP Workshop	|	0.08
+NLULP	|	0.072
+ICTE	|	0.0692
+RAW	|	0.0692
+TSDM	|	0.0627
+ELSNET Summer School	|	0.0615
+ICCV Workshops	|	0.054
+ESF Exploratory Workshops	|	0.0481
+ESSIR	|	0.0382
+JBIDI	|	0.0175
+WITASI	|	0.0324
+UIDIS	|	0.0256
+FIMI	|	0.0248
+WES	|	0.0236
+SCIE	|	0.0222
+NC	|	0.0197
+INET	|	0.019
+WIIW	|	0.0181
+USITS	|	0.0162
+HLK	|	0.0162
+DMDW	|	0.0158
+Japanese Discovery Science Project	|	0.0155
+New Developments in Digital Libraries	|	0.0147
+DMKD	|	0.0128
+Dublin Core Conference	|	0.0119
+IuK	|	0.0106
+IQ	|	0.0052
+Gesellschaft f�r Linguistische Datenverarbeitung	|	0.009
+Computer Vision meets Databases	|	0.0075
+AFPAC	|	0.0067
+EWNLG	|	0.006
+QofIS	|	0.0048
+WIDM	|	0.0046
+IICS	|	0.0046
+LACL	|	0.004
+WebDB	|	0.0039
+TFCV	|	0.0037
+Workshop on Human Motion	|	0.0037
+LA-WEB	|	0.0037
+LFCS	|	0.0033
+ISIPTA	|	0.0028
+ICDM	|	9.000000000000001E-4
+IWVF	|	0.0024
+CEC(WECWIS)	|	0.0023
+TAMODIA	|	0.0022
+AFSS	|	0.0022
+Multimedia Information Retrieval	|	0.0021
+AMFG	|	0.002
+ANLP	|	0.002
+IFSA	|	0.0016
+NCI	|	0.0016
+IWPT	|	0.0016
+SPIRE	|	0.0014
+JELIA	|	0.0014
+ILP	|	0.0013
+ICCBR	|	0.0013
+ICCS	|	0.0011
+WebNet	|	0.0011
+KR	|	0.0011
+ASM	|	0.001
+ASIAN	|	0.001
+PKDD	|	0.001
+MLMTA	|	0.001
+UbiComp(HUC)	|	9.0E-4
+UM	|	9.0E-4
+ICGI	|	9.0E-4
+EMMCVPR	|	9.0E-4
+ICAPS(AIPS)	|	9.0E-4
+ISMIS	|	8.0E-4
+IDEAL	|	8.0E-4
+ICADL	|	8.0E-4
+DL	|	3.5E-4
+IDS	|	3.5E-4
+ECDL	|	7.0E-4
+ICVS	|	7.0E-4
+AAECC	|	3.5E-4
+Scale-Space	|	6.0E-4
+RelMiCS	|	3.0E-4
+IDA	|	2.5E-4
+ICAPR	|	5.0E-4
+DaWaK	|	2.5E-4
+EACL	|	2.5E-4
+NLDB	|	5.0E-4
+AMTA	|	2.5E-4
+LATIN	|	2.5E-4
+ICALP	|	2.5E-4
+Mensch & Computer	|	2.5E-4
+ICIS	|	2.0E-4
+DAGM Symposium Symposium for Pattern Recognition	|	1.5000000000000001E-4
+MFCS	|	1.5000000000000001E-4
+ICWS	|	1.5000000000000001E-4
+ECML	|	1.5000000000000001E-4
+ICAIL	|	1.5000000000000001E-4
+TREC	|	1.5000000000000001E-4
+MCS	|	1.5000000000000001E-4
+KONVENS - Verarbeitung nat�rlicher Sprache	|	1.5000000000000001E-4
+APN	|	1.5000000000000001E-4
+ICANN	|	1.5000000000000001E-4
+Fuzzy Systems and Knowledge Discovery	|	3.0E-4
+PAKDD	|	1.0E-4
+TSD	|	2.0E-4
+SDM	|	1.0E-4
+ALT	|	1.0E-4
+AVI	|	1.0E-4
+JCDL	|	1.0E-4
+UAI	|	1.0E-4
+SIGIR	|	5.0E-5
+IJCAI	|	5.0E-5
+KDD	|	5.0E-5
+ICDAR	|	1.0E-4
+APWeb	|	0.0
+DS	|	0.0
+ICMI	|	0.0
+ICES	|	0.0
+DAS	|	0.0
+Natural Language Understanding and Cognitive Science	|	0.0
+CICLing	|	0.0
+UIST	|	0.0
+COLT	|	0.0
+ACSD	|	0.0
+IDEAS	|	0.0
+CIARP	|	0.0
+FGR	|	0.0
+BMVC	|	0.0
+KES	|	0.0
+IC-AI	|	0.0
+ICWE	|	0.0
+IEA/AIE	|	0.0
+ICEIS	|	0.0
+ACL	|	0.0
+ICCV	|	0.0
+ICOMP	|	0.0
+ADMA	|	0.0
+Pattern Recognition in Information Systems	|	0.0
+WI	|	0.0
+ECCV	|	0.0
+ICDT	|	0.0
+IUI	|	0.0
+ISWC	|	0.0
+ECIR	|	0.0
+ASSETS	|	0.0
+LICS	|	0.0
+ICTAI	|	0.0
+ISAAC	|	0.0
+ISSAC	|	0.0
+LPAR(RCLP)	|	0.0
+CLEF	|	0.0
+ADG	|	0.0
+ACCV	|	0.0
+CVPR	|	0.0
+DOLAP	|	0.0
+GBR	|	0.0
+KI	|	0.0
+ICSOC	|	0.0
+WISE	|	0.0
+DASFAA	|	0.0
+ICRA	|	0.0
+DGCI	|	0.0
+WIRN	|	0.0
+IKE	|	0.0
+COLING	|	0.0

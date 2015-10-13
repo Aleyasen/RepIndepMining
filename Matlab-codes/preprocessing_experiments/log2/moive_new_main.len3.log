@@ -1,0 +1,623 @@
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2014 The MathWorks, Inc.
+                    R2014a (8.3.0.532) 64-bit (glnxa64)
+                             February 11, 2014
+
+
+	This is a Classroom License for instructional use only.
+	Research and commercial use is prohibited.
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+nodesReader : read /srv/data/projects/apps/RepIndep_CIDR/fullgraph/top2000/movie.txt
+nodesReader : read /srv/data/projects/apps/RepIndep_CIDR/fullgraph/top2000/actor.txt
+nodesReader : read /srv/data/projects/apps/RepIndep_CIDR/fullgraph/top2000/director.txt
+nodesReader : read /srv/data/projects/apps/RepIndep_CIDR/fullgraph/top2000/starring.txt
+nodesReader : read /srv/data/projects/apps/RepIndep_CIDR/fullgraph/top2000/character.txt
+nodesReader : read /srv/data/projects/apps/RepIndep_CIDR/fullgraph/top2000/directedby.txt
+edgesReader : read /srv/data/projects/apps/RepIndep_CIDR/fullgraph/top2000/starring_actor.txt
+edgesReader : read /srv/data/projects/apps/RepIndep_CIDR/fullgraph/top2000/starring_movie.txt
+edgesReader : read /srv/data/projects/apps/RepIndep_CIDR/fullgraph/top2000/starring_character.txt
+edgesReader : read /srv/data/projects/apps/RepIndep_CIDR/fullgraph/top2000/directedby_director.txt
+edgesReader : read /srv/data/projects/apps/RepIndep_CIDR/fullgraph/top2000/directedby_movie.txt
+There are 0 isolated nodes in G.
+Data size is |V|=41385 |E|=116444
+data_mp length = 36
+mp = starring movie starring movie
+mp = starring movie starring character
+mp = starring movie starring actor
+mp = starring movie directedby movie
+mp = starring movie directedby director
+mp = starring character starring movie
+mp = starring character starring character
+mp = starring character starring actor
+mp = starring actor starring movie
+mp = starring actor starring character
+mp = starring actor starring actor
+mp = movie starring movie starring
+mp = movie starring movie directedby
+mp = movie starring character starring
+mp = movie starring actor starring
+mp = movie directedby movie starring
+mp = movie directedby movie directedby
+mp = movie directedby director directedby
+mp = actor starring movie starring
+mp = actor starring movie directedby
+mp = actor starring character starring
+mp = actor starring actor starring
+mp = director directedby movie starring
+mp = director directedby movie directedby
+mp = director directedby director directedby
+mp = directedby movie starring movie
+mp = directedby movie starring character
+mp = directedby movie starring actor
+mp = directedby movie directedby movie
+mp = directedby movie directedby director
+mp = directedby director directedby movie
+mp = directedby director directedby director
+mp = character starring movie starring
+mp = character starring movie directedby
+mp = character starring character starring
+mp = character starring actor starring
+
+ans =
+
+       41385       41385
+
+
+ans =
+
+       17316           1
+
+    'starring'    'movie'    'starring'    'movie'    '	time= '    '63.7295'
+
+
+ans =
+
+       41385       41385
+
+
+ans =
+
+       17316           1
+
+  Columns 1 through 5
+
+    'starring'    'movie'    'starring'    'character'    '	time= '
+
+  Column 6
+
+    '66.6529'
+
+
+ans =
+
+       41385       41385
+
+
+ans =
+
+       17316           1
+
+    'starring'    'movie'    'starring'    'actor'    '	time= '    '64.0249'
+
+
+ans =
+
+       41385       41385
+
+
+ans =
+
+       17316           1
+
+    'starring'    'movie'    'directedby'    'movie'    '	time= '    '64.9662'
+
+
+ans =
+
+       41385       41385
+
+
+ans =
+
+       17316           1
+
+  Columns 1 through 5
+
+    'starring'    'movie'    'directedby'    'director'    '	time= '
+
+  Column 6
+
+    '22.0485'
+
+
+ans =
+
+       41385       41385
+
+
+ans =
+
+       17316           1
+
+  Columns 1 through 5
+
+    'starring'    'character'    'starring'    'movie'    '	time= '
+
+  Column 6
+
+    '66.9018'
+
+
+ans =
+
+       41385       41385
+
+
+ans =
+
+       17316           1
+
+  Columns 1 through 5
+
+    'starring'    'character'    'starring'    'character'    '	time= '
+
+  Column 6
+
+    '66.8069'
+
+
+ans =
+
+       41385       41385
+
+
+ans =
+
+       17316           1
+
+  Columns 1 through 5
+
+    'starring'    'character'    'starring'    'actor'    '	time= '
+
+  Column 6
+
+    '65.7416'
+
+
+ans =
+
+       41385       41385
+
+
+ans =
+
+       17316           1
+
+    'starring'    'actor'    'starring'    'movie'    '	time= '    '55.816'
+
+
+ans =
+
+       41385       41385
+
+
+ans =
+
+       17316           1
+
+  Columns 1 through 5
+
+    'starring'    'actor'    'starring'    'character'    '	time= '
+
+  Column 6
+
+    '52.1174'
+
+
+ans =
+
+       41385       41385
+
+
+ans =
+
+       17316           1
+
+    'starring'    'actor'    'starring'    'actor'    '	time= '    '45.6067'
+
+
+ans =
+
+       41385       41385
+
+
+ans =
+
+        2850           1
+
+    'movie'    'starring'    'movie'    'starring'    '	time= '    '9.913'
+
+
+ans =
+
+       41385       41385
+
+
+ans =
+
+        2850           1
+
+    'movie'    'starring'    'movie'    'directedby'    '	time= '    '10.2716'
+
+
+ans =
+
+       41385       41385
+
+
+ans =
+
+        2850           1
+
+  Columns 1 through 5
+
+    'movie'    'starring'    'character'    'starring'    '	time= '
+
+  Column 6
+
+    '11.7887'
+
+
+ans =
+
+       41385       41385
+
+
+ans =
+
+        2850           1
+
+    'movie'    'starring'    'actor'    'starring'    '	time= '    '10.0744'
+
+
+ans =
+
+       41385       41385
+
+
+ans =
+
+        2850           1
+
+    'movie'    'directedby'    'movie'    'starring'    '	time= '    '10.2391'
+
+
+ans =
+
+       41385       41385
+
+
+ans =
+
+        2850           1
+
+    'movie'    'directedby'    'movie'    'directedby'    '	time= '    '7.692'
+
+
+ans =
+
+       41385       41385
+
+
+ans =
+
+        2850           1
+
+  Columns 1 through 5
+
+    'movie'    'directedby'    'director'    'directedby'    '	time= '
+
+  Column 6
+
+    '8.0214'
+
+
+ans =
+
+       41385       41385
+
+
+ans =
+
+        2000           1
+
+    'actor'    'starring'    'movie'    'starring'    '	time= '    '10.4477'
+
+
+ans =
+
+       41385       41385
+
+
+ans =
+
+        2000           1
+
+    'actor'    'starring'    'movie'    'directedby'    '	time= '    '9.9421'
+
+
+ans =
+
+       41385       41385
+
+
+ans =
+
+        2000           1
+
+  Columns 1 through 5
+
+    'actor'    'starring'    'character'    'starring'    '	time= '
+
+  Column 6
+
+    '11.7702'
+
+
+ans =
+
+       41385       41385
+
+
+ans =
+
+        2000           1
+
+    'actor'    'starring'    'actor'    'starring'    '	time= '    '10.136'
+
+
+ans =
+
+       41385       41385
+
+
+ans =
+
+        2416           1
+
+  Columns 1 through 5
+
+    'director'    'directedby'    'movie'    'starring'    '	time= '
+
+  Column 6
+
+    '10.4186'
+
+
+ans =
+
+       41385       41385
+
+
+ans =
+
+        2416           1
+
+  Columns 1 through 5
+
+    'director'    'directedby'    'movie'    'directedby'    '	time= '
+
+  Column 6
+
+    '8.6635'
+
+
+ans =
+
+       41385       41385
+
+
+ans =
+
+        2416           1
+
+  Columns 1 through 5
+
+    'director'    'directedby'    'director'    'directedby'    '	time= '
+
+  Column 6
+
+    '8.2789'
+
+
+ans =
+
+       41385       41385
+
+
+ans =
+
+        3137           1
+
+    'directedby'    'movie'    'starring'    'movie'    '	time= '    '28.8892'
+
+
+ans =
+
+       41385       41385
+
+
+ans =
+
+        3137           1
+
+  Columns 1 through 5
+
+    'directedby'    'movie'    'starring'    'character'    '	time= '
+
+  Column 6
+
+    '30.9061'
+
+
+ans =
+
+       41385       41385
+
+
+ans =
+
+        3137           1
+
+    'directedby'    'movie'    'starring'    'actor'    '	time= '    '29.2409'
+
+
+ans =
+
+       41385       41385
+
+
+ans =
+
+        3137           1
+
+  Columns 1 through 5
+
+    'directedby'    'movie'    'directedby'    'movie'    '	time= '
+
+  Column 6
+
+    '27.8594'
+
+
+ans =
+
+       41385       41385
+
+
+ans =
+
+        3137           1
+
+  Columns 1 through 5
+
+    'directedby'    'movie'    'directedby'    'director'    '	time= '
+
+  Column 6
+
+    '28.2025'
+
+
+ans =
+
+       41385       41385
+
+
+ans =
+
+        3137           1
+
+  Columns 1 through 5
+
+    'directedby'    'director'    'directedby'    'movie'    '	time= '
+
+  Column 6
+
+    '28.1718'
+
+
+ans =
+
+       41385       41385
+
+
+ans =
+
+        3137           1
+
+  Columns 1 through 5
+
+    'directedby'    'director'    'directedby'    'director'    '	time= '
+
+  Column 6
+
+    '27.83'
+
+
+ans =
+
+       41385       41385
+
+
+ans =
+
+       13666           1
+
+  Columns 1 through 5
+
+    'character'    'starring'    'movie'    'starring'    '	time= '
+
+  Column 6
+
+    '59.6364'
+
+
+ans =
+
+       41385       41385
+
+
+ans =
+
+       13666           1
+
+  Columns 1 through 5
+
+    'character'    'starring'    'movie'    'directedby'    '	time= '
+
+  Column 6
+
+    '31.4563'
+
+
+ans =
+
+       41385       41385
+
+
+ans =
+
+       13666           1
+
+  Columns 1 through 5
+
+    'character'    'starring'    'character'    'starring'    '	time= '
+
+  Column 6
+
+    '59.6024'
+
+
+ans =
+
+       41385       41385
+
+
+ans =
+
+       13666           1
+
+  Columns 1 through 5
+
+    'character'    'starring'    'actor'    'starring'    '	time= '
+
+  Column 6
+
+    '60.0637'
+
+pathsim: elapsed time = 1183.9943
+---------------------------------------------------------------

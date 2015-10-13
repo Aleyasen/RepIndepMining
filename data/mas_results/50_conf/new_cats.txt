@@ -1,0 +1,14 @@
+7	Data Mining	==> DB, IR, WWW, ML
+18	Databases	==> DM, IR, WWW
+8	Information Retrieval	==> DM,	DB, WWW
+15	World Wide Web	==> DM, DB, IR
+1	Algorithms & Theory	
+5	Artificial Intelligence	==> ML, NLP, Vision
+6	Machine Learning & Pattern Recognition	==> AI, NLP, Vision
+9	Natural Language & Speech	==> ML, AI
+11	Computer Vision	==>	ML,	AI, HCI
+12	Human-Computer Interaction	==>	Vision
+
+
+
+

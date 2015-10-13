@@ -1,0 +1,77 @@
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2014 The MathWorks, Inc.
+                    R2014a (8.3.0.532) 64-bit (glnxa64)
+                             February 11, 2014
+
+
+	This is a Classroom License for instructional use only.
+	Research and commercial use is prohibited.
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+nodesReader : read /srv/data/projects/apps/RepIndep_CIDR/dblp/data/output_y2005_conf50_schema1_top2000/title.txt
+nodesReader : read /srv/data/projects/apps/RepIndep_CIDR/dblp/data/output_y2005_conf50_schema1_top2000/author.txt
+nodesReader : read /srv/data/projects/apps/RepIndep_CIDR/dblp/data/output_y2005_conf50_schema1_top2000/year.txt
+nodesReader : read /srv/data/projects/apps/RepIndep_CIDR/dblp/data/output_y2005_conf50_schema1_top2000/proc.txt
+edgesReader : read /srv/data/projects/apps/RepIndep_CIDR/dblp/data/output_y2005_conf50_schema1_top2000/title_author.txt
+edgesReader : read /srv/data/projects/apps/RepIndep_CIDR/dblp/data/output_y2005_conf50_schema1_top2000/title_proc.txt
+edgesReader : read /srv/data/projects/apps/RepIndep_CIDR/dblp/data/output_y2005_conf50_schema1_top2000/title_year.txt
+There are 0 isolated nodes in G.
+Data size is |V|=19461 |E|=136260
+---------------------------------------------------------------
+---------------------------------------------------------------
+>> running PathSim
+-- processing "Alan Halverson"
+-- processing "Alexander G. Gray"
+-- processing "Alexandros Kalousis"
+-- processing "Allan Hanbury"
+-- processing "Andrew McCallum"
+-- processing "Charu C. Aggarwal"
+-- processing "ChengXiang Zhai"
+-- processing "Christos Faloutsos"
+-- processing "Dacheng Tao"
+-- processing "David A. Smith"
+-- processing "David M. Nichols"
+-- processing "Fei Wang"
+-- processing "Fei Wang 0001"
+-- processing "Feng Chen"
+-- processing "Guodong Zhou"
+-- processing "Hector Garcia-Molina"
+-- processing "James Allan"
+-- processing "James Bailey"
+-- processing "James Cheney"
+-- processing "Jeff G. Schneider"
+-- processing "Jian Pei"
+-- processing "Jianhua Feng"
+-- processing "Jiawei Han"
+-- processing "Jie Liu"
+-- processing "Jie Peng"
+-- processing "Jing Gao"
+-- processing "Jun Guo"
+-- processing "Jun Zhao"
+-- processing "Junjie Wu"
+-- processing "Kevin Chen-Chuan Chang"
+-- processing "Lei Wang"
+-- processing "Michael I. Jordan"
+-- processing "Morgan Harvey"
+-- processing "Paul H. Lewis"
+-- processing "Paul Thomas"
+-- processing "Peng Zhang"
+-- processing "Quanquan Gu"
+-- processing "Rifat Ozcan"
+-- processing "Robert B. Allen"
+-- processing "Vipin Kumar"
+-- processing "W. Bruce Croft"
+-- processing "Wei Jiang"
+-- processing "Wei Peng"
+-- processing "Wenfei Fan"
+-- processing "Wenjun Zhou"
+-- processing "William W. Cohen"
+-- processing "Yan Liu 0002"
+-- processing "Yinan Li"
+-- processing "Yizhou Sun"
+-- processing "Yuefeng Li"
+pathsim: elapsed time = 13209.6713
+---------------------------------------------------------------

@@ -1,0 +1,175 @@
+UM	|	0.7241
+UbiComp(HUC)	|	0.6783
+WIDM	|	0.2400
+QofIS	|	0.2399
+IICS	|	0.2398
+WebDB	|	0.2361
+LA-WEB	|	0.2334
+CEC(WECWIS)	|	0.1882
+Multimedia Information Retrieval	|	0.1792
+UIDIS	|	0.1685
+JBIDI	|	0.1684
+SPIRE	|	0.1416
+ISIPTA	|	0.1393
+IQ	|	0.1306
+USITS	|	0.1287
+IFSA	|	0.1284
+JELIA	|	0.1236
+ILP	|	0.1187
+ICCBR	|	0.1179
+ICDM	|	0.1174
+WIIW	|	0.1171
+INET	|	0.1123
+WebNet	|	0.1079
+ICCS	|	0.1075
+KR	|	0.1024
+IuK	|	0.1001
+ICADL	|	0.0967
+DMKD	|	0.0944
+WES	|	0.0923
+Dublin Core Conference	|	0.0908
+ICAPS(AIPS)	|	0.0907
+ECDL	|	0.0856
+IBM Germany Scientific Symposium Series	|	0.0843
+Japanese Discovery Science Project	|	0.0815
+ISMIS	|	0.0813
+DMDW	|	0.0803
+MLMTA	|	0.0800
+ICGI	|	0.0793
+EMMCVPR	|	0.0790
+New Developments in Digital Libraries	|	0.0751
+IWPT	|	0.0748
+ICVS	|	0.0747
+NCI	|	0.0699
+WITASI	|	0.0684
+Scale-Space	|	0.0680
+ASIAN	|	0.0679
+ASM	|	0.0676
+AMFG	|	0.0673
+ANLP	|	0.0669
+ICAPR	|	0.0659
+IICIS	|	0.0614
+ICTE	|	0.0606
+RAW	|	0.0606
+IWVF	|	0.0597
+AFSS	|	0.0587
+NLDB	|	0.0585
+PKDD	|	0.0545
+FIMI	|	0.0538
+MD	|	0.0485
+ABIS	|	0.0485
+LFCS	|	0.0483
+Mensch & Computer	|	0.0456
+TFCV	|	0.0437
+IDEAL	|	0.0435
+Workshop on Human Motion	|	0.0429
+LACL	|	0.0406
+IDS	|	0.0367
+DL	|	0.0365
+AusWeb	|	0.0364
+AAECC	|	0.0359
+RelMiCS	|	0.0356
+AMTA	|	0.0356
+LATIN	|	0.0348
+IDA	|	0.0339
+EACL	|	0.0331
+DaWaK	|	0.0325
+IWDOM/OODBS	|	0.0325
+TSD	|	0.0322
+ESSIR	|	0.0298
+ICALP	|	0.0293
+ESF Exploratory Workshops	|	0.0285
+EWNLG	|	0.0282
+AFPAC	|	0.0255
+Computer Vision meets Databases	|	0.0228
+TSDM	|	0.0219
+ICANN	|	0.0211
+ICDAR	|	0.0204
+Gesellschaft f�r Linguistische Datenverarbeitung	|	0.0191
+ELSNET Summer School	|	0.0184
+KONVENS - Verarbeitung nat�rlicher Sprache	|	0.0183
+APN	|	0.0181
+ICAIL	|	0.0179
+ICIS	|	0.0176
+MFCS	|	0.0175
+MCS	|	0.0175
+ICWS	|	0.0173
+TREC	|	0.0173
+ECML	|	0.0172
+DAGM Symposium Symposium for Pattern Recognition	|	0.0167
+Fuzzy Systems and Knowledge Discovery	|	0.0141
+IO	|	0.0121
+IUC	|	0.0121
+SVG.Open	|	0.0121
+ALT	|	0.0121
+JCDL	|	0.0117
+SDM	|	0.0116
+HLK	|	0.0106
+PAKDD	|	0.0086
+AVI	|	0.0079
+NC	|	0.0077
+SCIE	|	0.0077
+UAI	|	0.0071
+SIGIR	|	0.0071
+PJW	|	0.0068
+KDD	|	0.0068
+IJCAI	|	0.0057
+LICS	|	0.0046
+IWDM	|	0.0044
+DAS	|	0.0040
+ADG	|	0.0033
+ICCV Workshops	|	0.0029
+KI	|	0.0028
+INTEROP	|	0.0022
+Pattern Recognition in Information Systems	|	0.0022
+ACSD	|	0.0020
+DOLAP	|	0.0020
+NLULP	|	0.0019
+Natural Language Understanding and Cognitive Science	|	0.0016
+LPAR(RCLP)	|	0.0016
+ICDT	|	0.0015
+DS	|	0.0012
+ICES	|	0.0011
+ISSAC	|	0.0011
+GBR	|	0.0011
+WIRN	|	0.0011
+IDEAS	|	0.0010
+EAMT Workshops	|	0.0010
+EURASIP Workshop	|	0.0010
+ICRA	|	0.0010
+CLEF	|	0.0010
+COLT	|	0.0009
+DGCI	|	0.0009
+ISTCS	|	0.0008
+ICMI	|	0.0007
+WISE	|	0.0007
+APWeb	|	0.0007
+UIST	|	0.0007
+ICWE	|	0.0006
+ICOMP	|	0.0006
+ISAAC	|	0.0006
+CIARP	|	0.0005
+ISWC	|	0.0005
+IKE	|	0.0005
+CICLing	|	0.0005
+ASSETS	|	0.0005
+IUI	|	0.0004
+ECIR	|	0.0004
+ECCV	|	0.0004
+ICSOC	|	0.0003
+ADMA	|	0.0003
+ICTAI	|	0.0003
+DASFAA	|	0.0003
+FGR	|	0.0002
+ICCV	|	0.0002
+IC-AI	|	0.0002
+IEA/AIE	|	0.0002
+ACCV	|	0.0002
+BMVC	|	0.0002
+ACL	|	0.0001
+KES	|	0.0001
+WI	|	0.0001
+ICEIS	|	0.0001
+COLING	|	0.0001
+ICDM	|	0.0001
+CVPR	|	0.0001
