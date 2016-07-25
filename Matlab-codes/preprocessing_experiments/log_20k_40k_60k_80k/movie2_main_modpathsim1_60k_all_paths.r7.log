@@ -1,0 +1,2227 @@
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2014 The MathWorks, Inc.
+                    R2014a (8.3.0.532) 64-bit (glnxa64)
+                             February 11, 2014
+
+
+	This is a Classroom License for instructional use only.
+	Research and commercial use is prohibited.
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+nodesReader : read /srv/data/projects/apps/RepIndep_CIDR/fullgraph/filtered_60530_80550/movie.txt
+nodesReader : read /srv/data/projects/apps/RepIndep_CIDR/fullgraph/filtered_60530_80550/actor.txt
+nodesReader : read /srv/data/projects/apps/RepIndep_CIDR/fullgraph/filtered_60530_80550/director.txt
+nodesReader : read /srv/data/projects/apps/RepIndep_CIDR/fullgraph/filtered_60530_80550/starring.txt
+nodesReader : read /srv/data/projects/apps/RepIndep_CIDR/fullgraph/filtered_60530_80550/character.txt
+nodesReader : read /srv/data/projects/apps/RepIndep_CIDR/fullgraph/filtered_60530_80550/directedby.txt
+edgesReader : read /srv/data/projects/apps/RepIndep_CIDR/fullgraph/filtered_60530_80550/starring_actor.txt
+edgesReader : read /srv/data/projects/apps/RepIndep_CIDR/fullgraph/filtered_60530_80550/starring_movie.txt
+edgesReader : read /srv/data/projects/apps/RepIndep_CIDR/fullgraph/filtered_60530_80550/starring_character.txt
+edgesReader : read /srv/data/projects/apps/RepIndep_CIDR/fullgraph/filtered_60530_80550/directedby_director.txt
+edgesReader : read /srv/data/projects/apps/RepIndep_CIDR/fullgraph/filtered_60530_80550/directedby_movie.txt
+There are 2 isolated nodes in G.
+Data size is |V|=60528 |E|=161090
+data_mp length = 83
+mp = movie starring
+mp = movie directedby
+mp = actor starring
+mp = director directedby
+mp = character starring
+mp = movie starring movie
+mp = movie starring character
+mp = movie starring actor
+mp = movie directedby movie
+mp = movie directedby director
+mp = actor starring movie
+mp = actor starring character
+mp = actor starring actor
+mp = director directedby movie
+mp = director directedby director
+mp = character starring movie
+mp = character starring character
+mp = character starring actor
+mp = movie starring movie starring
+mp = movie starring movie directedby
+mp = movie starring character starring
+mp = movie starring actor starring
+mp = movie directedby movie starring
+mp = movie directedby movie directedby
+mp = movie directedby director directedby
+mp = actor starring movie starring
+mp = actor starring movie directedby
+mp = actor starring character starring
+mp = actor starring actor starring
+mp = director directedby movie starring
+mp = director directedby movie directedby
+mp = director directedby director directedby
+mp = character starring movie starring
+mp = character starring movie directedby
+mp = character starring character starring
+mp = character starring actor starring
+mp = movie starring movie starring movie
+mp = movie starring movie starring character
+mp = movie starring movie starring actor
+mp = movie starring movie directedby movie
+mp = movie starring movie directedby director
+mp = movie starring character starring movie
+mp = movie starring character starring character
+mp = movie starring character starring actor
+mp = movie starring actor starring movie
+mp = movie starring actor starring character
+mp = movie starring actor starring actor
+mp = movie directedby movie starring movie
+mp = movie directedby movie starring character
+mp = movie directedby movie starring actor
+mp = movie directedby movie directedby movie
+mp = movie directedby movie directedby director
+mp = movie directedby director directedby movie
+mp = movie directedby director directedby director
+mp = actor starring movie starring movie
+mp = actor starring movie starring character
+mp = actor starring movie starring actor
+mp = actor starring movie directedby movie
+mp = actor starring movie directedby director
+mp = actor starring character starring movie
+mp = actor starring character starring character
+mp = actor starring character starring actor
+mp = actor starring actor starring movie
+mp = actor starring actor starring character
+mp = actor starring actor starring actor
+mp = director directedby movie starring movie
+mp = director directedby movie starring character
+mp = director directedby movie starring actor
+mp = director directedby movie directedby movie
+mp = director directedby movie directedby director
+mp = director directedby director directedby movie
+mp = director directedby director directedby director
+mp = character starring movie starring movie
+mp = character starring movie starring character
+mp = character starring movie starring actor
+mp = character starring movie directedby movie
+mp = character starring movie directedby director
+mp = character starring character starring movie
+mp = character starring character starring character
+mp = character starring character starring actor
+mp = character starring actor starring movie
+mp = character starring actor starring character
+mp = character starring actor starring actor
+
+path =
+
+     1     4
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         60528x60528            3061672  double    sparse    
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        60528x60528            522312  double    sparse    
+
+  Name         Size                 Bytes  Class     Attributes
+
+  S2        2380x2380            45315200  double              
+
+    'movie'    'starring'    '	time= '    '112.9034'
+
+
+path =
+
+     1     6
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         60528x60528            3061672  double    sparse    
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        60528x60528            522248  double    sparse    
+
+  Name         Size                 Bytes  Class     Attributes
+
+  S2        2380x2380            45315200  double              
+
+    'movie'    'directedby'    '	time= '    '99.2061'
+
+
+path =
+
+     2     4
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         60528x60528            3061672  double    sparse    
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        60528x60528            634104  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        11747x11747            1103936072  double              
+
+    'actor'    'starring'    '	time= '    '105.95'
+
+
+path =
+
+     3     6
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         60528x60528            3061672  double    sparse    
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        60528x60528            520200  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        13995x13995            1566880200  double              
+
+    'director'    'directedby'    '	time= '    '100.6335'
+
+
+path =
+
+     5     4
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         60528x60528            3061672  double    sparse    
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        60528x60528            785208  double    sparse    
+
+  Name          Size                     Bytes  Class     Attributes
+
+  S2        57912x57912            26830397952  double              
+
+    'character'    'starring'    '	time= '    '1537.6403'
+
+
+path =
+
+     1     4     1
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         60528x60528            3061672  double    sparse    
+
+before : duration = 0.001155
+  Name          Size                Bytes  Class     Attributes
+
+  CM        60528x60528            484248  double    sparse    
+
+  Name         Size                 Bytes  Class     Attributes
+
+  S2        2380x2380            45315200  double              
+
+    'movie'    'starring'    'movie'    '	time= '    '125.4627'
+
+
+path =
+
+     1     4     5
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         60528x60528            3061672  double    sparse    
+
+before : duration = 0.002332
+  Name          Size                 Bytes  Class     Attributes
+
+  CM        60528x60528            1335432  double    sparse    
+
+  Name         Size                 Bytes  Class     Attributes
+
+  S2        2380x2380            45315200  double              
+
+    'movie'    'starring'    'character'    '	time= '    '114.59'
+
+
+path =
+
+     1     4     2
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         60528x60528            3061672  double    sparse    
+
+before : duration = 0.002726
+  Name          Size                 Bytes  Class     Attributes
+
+  CM        60528x60528            1465992  double    sparse    
+
+  Name         Size                 Bytes  Class     Attributes
+
+  S2        2380x2380            45315200  double              
+
+    'movie'    'starring'    'actor'    '	time= '    '114.628'
+
+
+path =
+
+     1     6     1
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         60528x60528            3061672  double    sparse    
+
+before : duration = 0.000651
+  Name          Size                Bytes  Class     Attributes
+
+  CM        60528x60528            484248  double    sparse    
+
+  Name         Size                 Bytes  Class     Attributes
+
+  S2        2380x2380            45315200  double              
+
+    'movie'    'directedby'    'movie'    '	time= '    '101.2133'
+
+
+path =
+
+     1     6     3
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         60528x60528            3061672  double    sparse    
+
+before : duration = 0.000639
+  Name          Size                Bytes  Class     Attributes
+
+  CM        60528x60528            538072  double    sparse    
+
+  Name         Size                 Bytes  Class     Attributes
+
+  S2        2380x2380            45315200  double              
+
+    'movie'    'directedby'    'director'    '	time= '    '100.8421'
+
+
+path =
+
+     2     4     1
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         60528x60528            3061672  double    sparse    
+
+before : duration = 0.002412
+  Name          Size                 Bytes  Class     Attributes
+
+  CM        60528x60528            9622440  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        11747x11747            1103936072  double              
+
+    'actor'    'starring'    'movie'    '	time= '    '108.5276'
+
+
+path =
+
+     2     4     5
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         60528x60528            3061672  double    sparse    
+
+before : duration = 0.002496
+  Name          Size                 Bytes  Class     Attributes
+
+  CM        60528x60528            1678616  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        11747x11747            1103936072  double              
+
+    'actor'    'starring'    'character'    '	time= '    '111.5555'
+
+
+path =
+
+     2     4     2
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         60528x60528            3061672  double    sparse    
+
+before : duration = 0.001202
+  Name          Size                Bytes  Class     Attributes
+
+  CM        60528x60528            484248  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        11747x11747            1103936072  double              
+
+    'actor'    'starring'    'actor'    '	time= '    '116.9895'
+
+
+path =
+
+     3     6     1
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         60528x60528            3061672  double    sparse    
+
+before : duration = 0.000642
+  Name          Size                Bytes  Class     Attributes
+
+  CM        60528x60528            529784  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        13995x13995            1566880200  double              
+
+    'director'    'directedby'    'movie'    '	time= '    '102.367'
+
+
+path =
+
+     3     6     3
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         60528x60528            3061672  double    sparse    
+
+before : duration = 0.000641
+  Name          Size                Bytes  Class     Attributes
+
+  CM        60528x60528            484248  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        13995x13995            1566880200  double              
+
+    'director'    'directedby'    'director'    '	time= '    '102.5968'
+
+
+path =
+
+     5     4     1
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         60528x60528            3061672  double    sparse    
+
+before : duration = 0.00245
+  Name          Size                 Bytes  Class     Attributes
+
+  CM        60528x60528            9702008  double    sparse    
+
+  Name          Size                     Bytes  Class     Attributes
+
+  S2        57912x57912            26830397952  double              
+
+    'character'    'starring'    'movie'    '	time= '    '140.0872'
+
+
+path =
+
+     5     4     5
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         60528x60528            3061672  double    sparse    
+
+before : duration = 0.001107
+  Name          Size                Bytes  Class     Attributes
+
+  CM        60528x60528            484248  double    sparse    
+
+  Name          Size                     Bytes  Class     Attributes
+
+  S2        57912x57912            26830397952  double              
+
+    'character'    'starring'    'character'    '	time= '    '175.8232'
+
+
+path =
+
+     5     4     2
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         60528x60528            3061672  double    sparse    
+
+before : duration = 0.002859
+  Name          Size                 Bytes  Class     Attributes
+
+  CM        60528x60528            1938184  double    sparse    
+
+  Name          Size                     Bytes  Class     Attributes
+
+  S2        57912x57912            26830397952  double              
+
+    'character'    'starring'    'actor'    '	time= '    '136.6215'
+
+
+path =
+
+     1     4     1     4
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         60528x60528            3061672  double    sparse    
+
+before : duration = 0.001076
+before : duration = 0.000977
+  Name          Size                Bytes  Class     Attributes
+
+  CM        60528x60528            484248  double    sparse    
+
+  Name         Size                 Bytes  Class     Attributes
+
+  S2        2380x2380            45315200  double              
+
+    'movie'    'starring'    'movie'    'starring'    '	time= '    '102.2252'
+
+
+path =
+
+     1     4     1     6
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         60528x60528            3061672  double    sparse    
+
+before : duration = 0.001226
+before : duration = 0.000784
+  Name          Size                Bytes  Class     Attributes
+
+  CM        60528x60528            484248  double    sparse    
+
+  Name         Size                 Bytes  Class     Attributes
+
+  S2        2380x2380            45315200  double              
+
+    'movie'    'starring'    'movie'    'directedby'    '	time= '    '101.7249'
+
+
+path =
+
+     1     4     5     4
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         60528x60528            3061672  double    sparse    
+
+before : duration = 0.000696
+before : duration = 0.000836
+  Name          Size                Bytes  Class     Attributes
+
+  CM        60528x60528            484248  double    sparse    
+
+  Name         Size                 Bytes  Class     Attributes
+
+  S2        2380x2380            45315200  double              
+
+  Columns 1 through 5
+
+    'movie'    'starring'    'character'    'starring'    '	time= '
+
+  Column 6
+
+    '104.2463'
+
+
+path =
+
+     1     4     2     4
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         60528x60528            3061672  double    sparse    
+
+before : duration = 0.000688
+before : duration = 0.00083
+  Name          Size                Bytes  Class     Attributes
+
+  CM        60528x60528            484248  double    sparse    
+
+  Name         Size                 Bytes  Class     Attributes
+
+  S2        2380x2380            45315200  double              
+
+    'movie'    'starring'    'actor'    'starring'    '	time= '    '103.3403'
+
+
+path =
+
+     1     6     1     4
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         60528x60528            3061672  double    sparse    
+
+before : duration = 0.000989
+before : duration = 0.00086
+  Name          Size                Bytes  Class     Attributes
+
+  CM        60528x60528            484248  double    sparse    
+
+  Name         Size                 Bytes  Class     Attributes
+
+  S2        2380x2380            45315200  double              
+
+    'movie'    'directedby'    'movie'    'starring'    '	time= '    '102.4015'
+
+
+path =
+
+     1     6     1     6
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         60528x60528            3061672  double    sparse    
+
+before : duration = 0.000701
+before : duration = 0.000778
+  Name          Size                Bytes  Class     Attributes
+
+  CM        60528x60528            484248  double    sparse    
+
+  Name         Size                 Bytes  Class     Attributes
+
+  S2        2380x2380            45315200  double              
+
+  Columns 1 through 5
+
+    'movie'    'directedby'    'movie'    'directedby'    '	time= '
+
+  Column 6
+
+    '98.1563'
+
+
+path =
+
+     1     6     3     6
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         60528x60528            3061672  double    sparse    
+
+before : duration = 0.000883
+before : duration = 0.000835
+  Name          Size                Bytes  Class     Attributes
+
+  CM        60528x60528            484248  double    sparse    
+
+  Name         Size                 Bytes  Class     Attributes
+
+  S2        2380x2380            45315200  double              
+
+  Columns 1 through 5
+
+    'movie'    'directedby'    'director'    'directedby'    '	time= '
+
+  Column 6
+
+    '98.8545'
+
+
+path =
+
+     2     4     1     4
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         60528x60528            3061672  double    sparse    
+
+before : duration = 0.000935
+before : duration = 0.000848
+  Name          Size                Bytes  Class     Attributes
+
+  CM        60528x60528            484248  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        11747x11747            1103936072  double              
+
+    'actor'    'starring'    'movie'    'starring'    '	time= '    '113.6562'
+
+
+path =
+
+     2     4     1     6
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         60528x60528            3061672  double    sparse    
+
+before : duration = 0.002584
+before : duration = 0.001008
+  Name          Size                 Bytes  Class     Attributes
+
+  CM        60528x60528            9600936  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        11747x11747            1103936072  double              
+
+    'actor'    'starring'    'movie'    'directedby'    '	time= '    '106.0776'
+
+
+path =
+
+     2     4     5     4
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         60528x60528            3061672  double    sparse    
+
+before : duration = 0.000692
+before : duration = 0.000806
+  Name          Size                Bytes  Class     Attributes
+
+  CM        60528x60528            484248  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        11747x11747            1103936072  double              
+
+  Columns 1 through 5
+
+    'actor'    'starring'    'character'    'starring'    '	time= '
+
+  Column 6
+
+    '117.4301'
+
+
+path =
+
+     2     4     2     4
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         60528x60528            3061672  double    sparse    
+
+before : duration = 0.000991
+before : duration = 0.000979
+  Name          Size                Bytes  Class     Attributes
+
+  CM        60528x60528            484248  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        11747x11747            1103936072  double              
+
+    'actor'    'starring'    'actor'    'starring'    '	time= '    '113.6181'
+
+
+path =
+
+     3     6     1     4
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         60528x60528            3061672  double    sparse    
+
+before : duration = 0.000774
+before : duration = 0.001144
+  Name          Size                Bytes  Class     Attributes
+
+  CM        60528x60528            529784  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        13995x13995            1566880200  double              
+
+  Columns 1 through 5
+
+    'director'    'directedby'    'movie'    'starring'    '	time= '
+
+  Column 6
+
+    '104.9217'
+
+
+path =
+
+     3     6     1     6
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         60528x60528            3061672  double    sparse    
+
+before : duration = 0.000718
+before : duration = 0.000738
+  Name          Size                Bytes  Class     Attributes
+
+  CM        60528x60528            484248  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        13995x13995            1566880200  double              
+
+  Columns 1 through 5
+
+    'director'    'directedby'    'movie'    'directedby'    '	time= '
+
+  Column 6
+
+    '458.4412'
+
+
+path =
+
+     3     6     3     6
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         60528x60528            3061672  double    sparse    
+
+before : duration = 0.000658
+before : duration = 0.000869
+  Name          Size                Bytes  Class     Attributes
+
+  CM        60528x60528            484248  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        13995x13995            1566880200  double              
+
+  Columns 1 through 5
+
+    'director'    'directedby'    'director'    'directedby'    '	time= '
+
+  Column 6
+
+    '327.623'
+
+
+path =
+
+     5     4     1     4
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         60528x60528            3061672  double    sparse    
+
+before : duration = 0.000761
+before : duration = 0.000825
+  Name          Size                Bytes  Class     Attributes
+
+  CM        60528x60528            484248  double    sparse    
+
+  Name          Size                     Bytes  Class     Attributes
+
+  S2        57912x57912            26830397952  double              
+
+  Columns 1 through 5
+
+    'character'    'starring'    'movie'    'starring'    '	time= '
+
+  Column 6
+
+    '6202.394'
+
+
+path =
+
+     5     4     1     6
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         60528x60528            3061672  double    sparse    
+
+before : duration = 0.002597
+before : duration = 0.001026
+  Name          Size                 Bytes  Class     Attributes
+
+  CM        60528x60528            9678840  double    sparse    
+
+  Name          Size                     Bytes  Class     Attributes
+
+  S2        57912x57912            26830397952  double              
+
+  Columns 1 through 5
+
+    'character'    'starring'    'movie'    'directedby'    '	time= '
+
+  Column 6
+
+    '145.1841'
+
+
+path =
+
+     5     4     5     4
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         60528x60528            3061672  double    sparse    
+
+before : duration = 0.000685
+before : duration = 0.000869
+  Name          Size                Bytes  Class     Attributes
+
+  CM        60528x60528            484248  double    sparse    
+
+  Name          Size                     Bytes  Class     Attributes
+
+  S2        57912x57912            26830397952  double              
+
+  Columns 1 through 5
+
+    'character'    'starring'    'character'    'starring'    '	time= '
+
+  Column 6
+
+    '181.2995'
+
+
+path =
+
+     5     4     2     4
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         60528x60528            3061672  double    sparse    
+
+before : duration = 0.000665
+before : duration = 0.000813
+  Name          Size                Bytes  Class     Attributes
+
+  CM        60528x60528            484248  double    sparse    
+
+  Name          Size                     Bytes  Class     Attributes
+
+  S2        57912x57912            26830397952  double              
+
+  Columns 1 through 5
+
+    'character'    'starring'    'actor'    'starring'    '	time= '
+
+  Column 6
+
+    '176.968'
+
+
+path =
+
+     1     4     1     4     1
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         60528x60528            3061672  double    sparse    
+
+before : duration = 0.000713
+before : duration = 0.000683
+before : duration = 0.000651
+  Name          Size                Bytes  Class     Attributes
+
+  CM        60528x60528            484248  double    sparse    
+
+  Name         Size                 Bytes  Class     Attributes
+
+  S2        2380x2380            45315200  double              
+
+  Columns 1 through 6
+
+    'movie'    'starring'    'movie'    'starring'    'movie'    '	time= '
+
+  Column 7
+
+    '103.4814'
+
+
+path =
+
+     1     4     1     4     5
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         60528x60528            3061672  double    sparse    
+
+before : duration = 0.00072
+before : duration = 0.000819
+before : duration = 0.000719
+  Name          Size                Bytes  Class     Attributes
+
+  CM        60528x60528            484248  double    sparse    
+
+  Name         Size                 Bytes  Class     Attributes
+
+  S2        2380x2380            45315200  double              
+
+  Columns 1 through 6
+
+    'movie'    'starring'    'movie'    'starring'    'character'    '	time= '
+
+  Column 7
+
+    '105.7162'
+
+
+path =
+
+     1     4     1     4     2
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         60528x60528            3061672  double    sparse    
+
+before : duration = 0.000729
+before : duration = 0.000868
+before : duration = 0.000833
+  Name          Size                Bytes  Class     Attributes
+
+  CM        60528x60528            484248  double    sparse    
+
+  Name         Size                 Bytes  Class     Attributes
+
+  S2        2380x2380            45315200  double              
+
+  Columns 1 through 6
+
+    'movie'    'starring'    'movie'    'starring'    'actor'    '	time= '
+
+  Column 7
+
+    '104.4552'
+
+
+path =
+
+     1     4     1     6     1
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         60528x60528            3061672  double    sparse    
+
+before : duration = 0.000902
+before : duration = 0.000753
+before : duration = 0.000494
+  Name          Size                Bytes  Class     Attributes
+
+  CM        60528x60528            484248  double    sparse    
+
+  Name         Size                 Bytes  Class     Attributes
+
+  S2        2380x2380            45315200  double              
+
+  Columns 1 through 6
+
+    'movie'    'starring'    'movie'    'directedby'    'movie'    '	time= '
+
+  Column 7
+
+    '106.0051'
+
+
+path =
+
+     1     4     1     6     3
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         60528x60528            3061672  double    sparse    
+
+before : duration = 0.000999
+before : duration = 0.000766
+before : duration = 0.000504
+  Name          Size                Bytes  Class     Attributes
+
+  CM        60528x60528            484248  double    sparse    
+
+  Name         Size                 Bytes  Class     Attributes
+
+  S2        2380x2380            45315200  double              
+
+  Columns 1 through 6
+
+    'movie'    'starring'    'movie'    'directedby'    'director'    '	time= '
+
+  Column 7
+
+    '105.1943'
+
+
+path =
+
+     1     4     5     4     1
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         60528x60528            3061672  double    sparse    
+
+before : duration = 0.000681
+before : duration = 0.000862
+before : duration = 0.00068
+  Name          Size                Bytes  Class     Attributes
+
+  CM        60528x60528            484248  double    sparse    
+
+  Name         Size                 Bytes  Class     Attributes
+
+  S2        2380x2380            45315200  double              
+
+  Columns 1 through 6
+
+    'movie'    'starring'    'character'    'starring'    'movie'    '	time= '
+
+  Column 7
+
+    '105.8986'
+
+
+path =
+
+     1     4     5     4     5
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         60528x60528            3061672  double    sparse    
+
+before : duration = 0.000733
+before : duration = 0.000732
+before : duration = 0.00073
+  Name          Size                Bytes  Class     Attributes
+
+  CM        60528x60528            484248  double    sparse    
+
+  Name         Size                 Bytes  Class     Attributes
+
+  S2        2380x2380            45315200  double              
+
+  Columns 1 through 5
+
+    'movie'    'starring'    'character'    'starring'    'character'
+
+  Columns 6 through 7
+
+    '	time= '    '105.856'
+
+
+path =
+
+     1     4     5     4     2
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         60528x60528            3061672  double    sparse    
+
+before : duration = 0.000904
+before : duration = 0.000959
+before : duration = 0.000852
+  Name          Size                Bytes  Class     Attributes
+
+  CM        60528x60528            484248  double    sparse    
+
+  Name         Size                 Bytes  Class     Attributes
+
+  S2        2380x2380            45315200  double              
+
+  Columns 1 through 6
+
+    'movie'    'starring'    'character'    'starring'    'actor'    '	time= '
+
+  Column 7
+
+    '107.0919'
+
+
+path =
+
+     1     4     2     4     1
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         60528x60528            3061672  double    sparse    
+
+before : duration = 0.000678
+before : duration = 0.000851
+before : duration = 0.000675
+  Name          Size                Bytes  Class     Attributes
+
+  CM        60528x60528            484248  double    sparse    
+
+  Name         Size                 Bytes  Class     Attributes
+
+  S2        2380x2380            45315200  double              
+
+  Columns 1 through 6
+
+    'movie'    'starring'    'actor'    'starring'    'movie'    '	time= '
+
+  Column 7
+
+    '104.4203'
+
+
+path =
+
+     1     4     2     4     5
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         60528x60528            3061672  double    sparse    
+
+before : duration = 0.000887
+before : duration = 0.000935
+before : duration = 0.000727
+  Name          Size                Bytes  Class     Attributes
+
+  CM        60528x60528            484248  double    sparse    
+
+  Name         Size                 Bytes  Class     Attributes
+
+  S2        2380x2380            45315200  double              
+
+  Columns 1 through 6
+
+    'movie'    'starring'    'actor'    'starring'    'character'    '	time= '
+
+  Column 7
+
+    '107.341'
+
+
+path =
+
+     1     4     2     4     2
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         60528x60528            3061672  double    sparse    
+
+before : duration = 0.000735
+before : duration = 0.000732
+before : duration = 0.000833
+  Name          Size                Bytes  Class     Attributes
+
+  CM        60528x60528            484248  double    sparse    
+
+  Name         Size                 Bytes  Class     Attributes
+
+  S2        2380x2380            45315200  double              
+
+  Columns 1 through 6
+
+    'movie'    'starring'    'actor'    'starring'    'actor'    '	time= '
+
+  Column 7
+
+    '104.4454'
+
+
+path =
+
+     1     6     1     4     1
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         60528x60528            3061672  double    sparse    
+
+before : duration = 0.000688
+before : duration = 0.000705
+before : duration = 0.000723
+  Name          Size                Bytes  Class     Attributes
+
+  CM        60528x60528            484248  double    sparse    
+
+  Name         Size                 Bytes  Class     Attributes
+
+  S2        2380x2380            45315200  double              
+
+  Columns 1 through 6
+
+    'movie'    'directedby'    'movie'    'starring'    'movie'    '	time= '
+
+  Column 7
+
+    '103.78'
+
+
+path =
+
+     1     6     1     4     5
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         60528x60528            3061672  double    sparse    
+
+before : duration = 0.000901
+before : duration = 0.000866
+before : duration = 0.000767
+  Name          Size                Bytes  Class     Attributes
+
+  CM        60528x60528            484248  double    sparse    
+
+  Name         Size                 Bytes  Class     Attributes
+
+  S2        2380x2380            45315200  double              
+
+  Columns 1 through 5
+
+    'movie'    'directedby'    'movie'    'starring'    'character'
+
+  Columns 6 through 7
+
+    '	time= '    '106.35'
+
+
+path =
+
+     1     6     1     4     2
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         60528x60528            3061672  double    sparse    
+
+before : duration = 0.000714
+before : duration = 0.000803
+before : duration = 0.000863
+  Name          Size                Bytes  Class     Attributes
+
+  CM        60528x60528            484248  double    sparse    
+
+  Name         Size                 Bytes  Class     Attributes
+
+  S2        2380x2380            45315200  double              
+
+  Columns 1 through 6
+
+    'movie'    'directedby'    'movie'    'starring'    'actor'    '	time= '
+
+  Column 7
+
+    '105.007'
+
+
+path =
+
+     1     6     1     6     1
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         60528x60528            3061672  double    sparse    
+
+before : duration = 0.000811
+before : duration = 0.00091
+before : duration = 0.000513
+  Name          Size                Bytes  Class     Attributes
+
+  CM        60528x60528            484248  double    sparse    
+
+  Name         Size                 Bytes  Class     Attributes
+
+  S2        2380x2380            45315200  double              
+
+  Columns 1 through 6
+
+    'movie'    'directedby'    'movie'    'directedby'    'movie'    '	time= '
+
+  Column 7
+
+    '99.4856'
+
+
+path =
+
+     1     6     1     6     3
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         60528x60528            3061672  double    sparse    
+
+before : duration = 0.000667
+before : duration = 0.000879
+before : duration = 0.000518
+  Name          Size                Bytes  Class     Attributes
+
+  CM        60528x60528            484248  double    sparse    
+
+  Name         Size                 Bytes  Class     Attributes
+
+  S2        2380x2380            45315200  double              
+
+  Columns 1 through 5
+
+    'movie'    'directedby'    'movie'    'directedby'    'director'
+
+  Columns 6 through 7
+
+    '	time= '    '99.9604'
+
+
+path =
+
+     1     6     3     6     1
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         60528x60528            3061672  double    sparse    
+
+before : duration = 0.000654
+before : duration = 0.000953
+before : duration = 0.000514
+  Name          Size                Bytes  Class     Attributes
+
+  CM        60528x60528            484248  double    sparse    
+
+  Name         Size                 Bytes  Class     Attributes
+
+  S2        2380x2380            45315200  double              
+
+  Columns 1 through 5
+
+    'movie'    'directedby'    'director'    'directedby'    'movie'
+
+  Columns 6 through 7
+
+    '	time= '    '99.7797'
+
+
+path =
+
+     1     6     3     6     3
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         60528x60528            3061672  double    sparse    
+
+before : duration = 0.000654
+before : duration = 0.00084
+before : duration = 0.000511
+  Name          Size                Bytes  Class     Attributes
+
+  CM        60528x60528            484248  double    sparse    
+
+  Name         Size                 Bytes  Class     Attributes
+
+  S2        2380x2380            45315200  double              
+
+  Columns 1 through 5
+
+    'movie'    'directedby'    'director'    'directedby'    'director'
+
+  Columns 6 through 7
+
+    '	time= '    '99.9786'
+
+
+path =
+
+     2     4     1     4     1
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         60528x60528            3061672  double    sparse    
+
+before : duration = 0.000673
+before : duration = 0.000725
+before : duration = 0.000671
+  Name          Size                Bytes  Class     Attributes
+
+  CM        60528x60528            484248  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        11747x11747            1103936072  double              
+
+  Columns 1 through 6
+
+    'actor'    'starring'    'movie'    'starring'    'movie'    '	time= '
+
+  Column 7
+
+    '114.7718'
+
+
+path =
+
+     2     4     1     4     5
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         60528x60528            3061672  double    sparse    
+
+before : duration = 0.000896
+before : duration = 0.000911
+before : duration = 0.000784
+  Name          Size                Bytes  Class     Attributes
+
+  CM        60528x60528            484248  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        11747x11747            1103936072  double              
+
+  Columns 1 through 6
+
+    'actor'    'starring'    'movie'    'starring'    'character'    '	time= '
+
+  Column 7
+
+    '117.2437'
+
+
+path =
+
+     2     4     1     4     2
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         60528x60528            3061672  double    sparse    
+
+before : duration = 0.000731
+before : duration = 0.000819
+before : duration = 0.000839
+  Name          Size                Bytes  Class     Attributes
+
+  CM        60528x60528            484248  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        11747x11747            1103936072  double              
+
+  Columns 1 through 6
+
+    'actor'    'starring'    'movie'    'starring'    'actor'    '	time= '
+
+  Column 7
+
+    '114.9844'
+
+
+path =
+
+     2     4     1     6     1
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         60528x60528            3061672  double    sparse    
+
+before : duration = 0.000869
+before : duration = 0.000719
+before : duration = 0.000489
+  Name          Size                Bytes  Class     Attributes
+
+  CM        60528x60528            484248  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        11747x11747            1103936072  double              
+
+  Columns 1 through 6
+
+    'actor'    'starring'    'movie'    'directedby'    'movie'    '	time= '
+
+  Column 7
+
+    '114.7872'
+
+
+path =
+
+     2     4     1     6     3
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         60528x60528            3061672  double    sparse    
+
+before : duration = 0.002452
+before : duration = 0.001067
+before : duration = 0.001219
+  Name          Size                  Bytes  Class     Attributes
+
+  CM        60528x60528            15884904  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        11747x11747            1103936072  double              
+
+  Columns 1 through 6
+
+    'actor'    'starring'    'movie'    'directedby'    'director'    '	time= '
+
+  Column 7
+
+    '106.8809'
+
+
+path =
+
+     2     4     5     4     1
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         60528x60528            3061672  double    sparse    
+
+before : duration = 0.000894
+before : duration = 0.000946
+before : duration = 0.000674
+  Name          Size                Bytes  Class     Attributes
+
+  CM        60528x60528            484248  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        11747x11747            1103936072  double              
+
+  Columns 1 through 6
+
+    'actor'    'starring'    'character'    'starring'    'movie'    '	time= '
+
+  Column 7
+
+    '117.3645'
+
+
+path =
+
+     2     4     5     4     5
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         60528x60528            3061672  double    sparse    
+
+before : duration = 0.00077
+before : duration = 0.000724
+before : duration = 0.000734
+  Name          Size                Bytes  Class     Attributes
+
+  CM        60528x60528            484248  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        11747x11747            1103936072  double              
+
+  Columns 1 through 5
+
+    'actor'    'starring'    'character'    'starring'    'character'
+
+  Columns 6 through 7
+
+    '	time= '    '118.445'
+
+
+path =
+
+     2     4     5     4     2
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         60528x60528            3061672  double    sparse    
+
+before : duration = 0.000763
+before : duration = 0.000918
+before : duration = 0.000825
+  Name          Size                Bytes  Class     Attributes
+
+  CM        60528x60528            484248  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        11747x11747            1103936072  double              
+
+  Columns 1 through 6
+
+    'actor'    'starring'    'character'    'starring'    'actor'    '	time= '
+
+  Column 7
+
+    '117.4482'
+
+
+path =
+
+     2     4     2     4     1
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         60528x60528            3061672  double    sparse    
+
+before : duration = 0.000688
+before : duration = 0.000869
+before : duration = 0.00068
+  Name          Size                Bytes  Class     Attributes
+
+  CM        60528x60528            484248  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        11747x11747            1103936072  double              
+
+  Columns 1 through 6
+
+    'actor'    'starring'    'actor'    'starring'    'movie'    '	time= '
+
+  Column 7
+
+    '114.8773'
+
+
+path =
+
+     2     4     2     4     5
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         60528x60528            3061672  double    sparse    
+
+before : duration = 0.000753
+before : duration = 0.000908
+before : duration = 0.00071
+  Name          Size                Bytes  Class     Attributes
+
+  CM        60528x60528            484248  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        11747x11747            1103936072  double              
+
+  Columns 1 through 6
+
+    'actor'    'starring'    'actor'    'starring'    'character'    '	time= '
+
+  Column 7
+
+    '118.8981'
+
+
+path =
+
+     2     4     2     4     2
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         60528x60528            3061672  double    sparse    
+
+before : duration = 0.000716
+before : duration = 0.000691
+before : duration = 0.000825
+  Name          Size                Bytes  Class     Attributes
+
+  CM        60528x60528            484248  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        11747x11747            1103936072  double              
+
+  Columns 1 through 6
+
+    'actor'    'starring'    'actor'    'starring'    'actor'    '	time= '
+
+  Column 7
+
+    '114.4128'
+
+
+path =
+
+     3     6     1     4     1
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         60528x60528            3061672  double    sparse    
+
+before : duration = 0.000675
+before : duration = 0.000706
+before : duration = 0.000672
+  Name          Size                Bytes  Class     Attributes
+
+  CM        60528x60528            484248  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        13995x13995            1566880200  double              
+
+  Columns 1 through 6
+
+    'director'    'directedby'    'movie'    'starring'    'movie'    '	time= '
+
+  Column 7
+
+    '106.314'
+
+
+path =
+
+     3     6     1     4     5
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         60528x60528            3061672  double    sparse    
+
+before : duration = 0.000806
+before : duration = 0.001146
+before : duration = 0.00163
+  Name          Size                 Bytes  Class     Attributes
+
+  CM        60528x60528            1461848  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        13995x13995            1566880200  double              
+
+  Columns 1 through 5
+
+    'director'    'directedby'    'movie'    'starring'    'character'
+
+  Columns 6 through 7
+
+    '	time= '    '107.6036'
+
+
+path =
+
+     3     6     1     4     2
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         60528x60528            3061672  double    sparse    
+
+before : duration = 0.000801
+before : duration = 0.001152
+before : duration = 0.002034
+  Name          Size                 Bytes  Class     Attributes
+
+  CM        60528x60528            1510904  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        13995x13995            1566880200  double              
+
+  Columns 1 through 6
+
+    'director'    'directedby'    'movie'    'starring'    'actor'    '	time= '
+
+  Column 7
+
+    '105.5404'
+
+
+path =
+
+     3     6     1     6     1
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         60528x60528            3061672  double    sparse    
+
+before : duration = 0.000665
+before : duration = 0.000906
+before : duration = 0.000511
+  Name          Size                Bytes  Class     Attributes
+
+  CM        60528x60528            484248  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        13995x13995            1566880200  double              
+
+  Columns 1 through 5
+
+    'director'    'directedby'    'movie'    'directedby'    'movie'
+
+  Columns 6 through 7
+
+    '	time= '    '102.3949'
+
+
+path =
+
+     3     6     1     6     3
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         60528x60528            3061672  double    sparse    
+
+before : duration = 0.000652
+before : duration = 0.000884
+before : duration = 0.000504
+  Name          Size                Bytes  Class     Attributes
+
+  CM        60528x60528            484248  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        13995x13995            1566880200  double              
+
+  Columns 1 through 5
+
+    'director'    'directedby'    'movie'    'directedby'    'director'
+
+  Columns 6 through 7
+
+    '	time= '    '101.186'
+
+
+path =
+
+     3     6     3     6     1
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         60528x60528            3061672  double    sparse    
+
+before : duration = 0.00065
+before : duration = 0.0009
+before : duration = 0.000503
+  Name          Size                Bytes  Class     Attributes
+
+  CM        60528x60528            484248  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        13995x13995            1566880200  double              
+
+  Columns 1 through 5
+
+    'director'    'directedby'    'director'    'directedby'    'movie'
+
+  Columns 6 through 7
+
+    '	time= '    '101.1179'
+
+
+path =
+
+     3     6     3     6     3
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         60528x60528            3061672  double    sparse    
+
+before : duration = 0.000816
+before : duration = 0.000933
+before : duration = 0.000527
+  Name          Size                Bytes  Class     Attributes
+
+  CM        60528x60528            484248  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        13995x13995            1566880200  double              
+
+  Columns 1 through 5
+
+    'director'    'directedby'    'director'    'directedby'    'director'
+
+  Columns 6 through 7
+
+    '	time= '    '100.743'
+
+
+path =
+
+     5     4     1     4     1
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         60528x60528            3061672  double    sparse    
+
+before : duration = 0.000687
+before : duration = 0.000729
+before : duration = 0.000669
+  Name          Size                Bytes  Class     Attributes
+
+  CM        60528x60528            484248  double    sparse    
+
+  Name          Size                     Bytes  Class     Attributes
+
+  S2        57912x57912            26830397952  double              
+
+  Columns 1 through 6
+
+    'character'    'starring'    'movie'    'starring'    'movie'    '	time= '
+
+  Column 7
+
+    '175.5357'
+
+
+path =
+
+     5     4     1     4     5
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         60528x60528            3061672  double    sparse    
+
+before : duration = 0.000722
+before : duration = 0.000882
+before : duration = 0.000718
+  Name          Size                Bytes  Class     Attributes
+
+  CM        60528x60528            484248  double    sparse    
+
+  Name          Size                     Bytes  Class     Attributes
+
+  S2        57912x57912            26830397952  double              
+
+  Columns 1 through 5
+
+    'character'    'starring'    'movie'    'starring'    'character'
+
+  Columns 6 through 7
+
+    '	time= '    '180.542'
+
+
+path =
+
+     5     4     1     4     2
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         60528x60528            3061672  double    sparse    
+
+before : duration = 0.000875
+before : duration = 0.00089
+before : duration = 0.000884
+  Name          Size                Bytes  Class     Attributes
+
+  CM        60528x60528            484248  double    sparse    
+
+  Name          Size                     Bytes  Class     Attributes
+
+  S2        57912x57912            26830397952  double              
+
+  Columns 1 through 6
+
+    'character'    'starring'    'movie'    'starring'    'actor'    '	time= '
+
+  Column 7
+
+    '181.8316'
+
+
+path =
+
+     5     4     1     6     1
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         60528x60528            3061672  double    sparse    
+
+before : duration = 0.000856
+before : duration = 0.000753
+before : duration = 0.000491
+  Name          Size                Bytes  Class     Attributes
+
+  CM        60528x60528            484248  double    sparse    
+
+  Name          Size                     Bytes  Class     Attributes
+
+  S2        57912x57912            26830397952  double              
+
+  Columns 1 through 5
+
+    'character'    'starring'    'movie'    'directedby'    'movie'
+
+  Columns 6 through 7
+
+    '	time= '    '180.5678'
+
+
+path =
+
+     5     4     1     6     3
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         60528x60528            3061672  double    sparse    
+
+before : duration = 0.002515
+before : duration = 0.001051
+before : duration = 0.001242
+  Name          Size                  Bytes  Class     Attributes
+
+  CM        60528x60528            17014248  double    sparse    
+
+  Name          Size                     Bytes  Class     Attributes
+
+  S2        57912x57912            26830397952  double              
+
+  Columns 1 through 5
+
+    'character'    'starring'    'movie'    'directedby'    'director'
+
+  Columns 6 through 7
+
+    '	time= '    '140.7793'
+
+
+path =
+
+     5     4     5     4     1
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         60528x60528            3061672  double    sparse    
+
+before : duration = 0.000702
+before : duration = 0.000876
+before : duration = 0.000684
+  Name          Size                Bytes  Class     Attributes
+
+  CM        60528x60528            484248  double    sparse    
+
+  Name          Size                     Bytes  Class     Attributes
+
+  S2        57912x57912            26830397952  double              
+
+  Columns 1 through 5
+
+    'character'    'starring'    'character'    'starring'    'movie'
+
+  Columns 6 through 7
+
+    '	time= '    '180.1936'
+
+
+path =
+
+     5     4     5     4     5
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         60528x60528            3061672  double    sparse    
+
+before : duration = 0.000743
+before : duration = 0.000743
+before : duration = 0.000727
+  Name          Size                Bytes  Class     Attributes
+
+  CM        60528x60528            484248  double    sparse    
+
+  Name          Size                     Bytes  Class     Attributes
+
+  S2        57912x57912            26830397952  double              
+
+  Columns 1 through 5
+
+    'character'    'starring'    'character'    'starring'    'character'
+
+  Columns 6 through 7
+
+    '	time= '    '180.2475'
+
+
+path =
+
+     5     4     5     4     2
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         60528x60528            3061672  double    sparse    
+
+before : duration = 0.00082
+before : duration = 0.000927
+before : duration = 0.000815
+  Name          Size                Bytes  Class     Attributes
+
+  CM        60528x60528            484248  double    sparse    
+
+  Name          Size                     Bytes  Class     Attributes
+
+  S2        57912x57912            26830397952  double              
+
+  Columns 1 through 5
+
+    'character'    'starring'    'character'    'starring'    'actor'
+
+  Columns 6 through 7
+
+    '	time= '    '181.296'
+
+
+path =
+
+     5     4     2     4     1
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         60528x60528            3061672  double    sparse    
+
+before : duration = 0.000902
+before : duration = 0.000946
+before : duration = 0.000678
+  Name          Size                Bytes  Class     Attributes
+
+  CM        60528x60528            484248  double    sparse    
+
+  Name          Size                     Bytes  Class     Attributes
+
+  S2        57912x57912            26830397952  double              
+
+  Columns 1 through 6
+
+    'character'    'starring'    'actor'    'starring'    'movie'    '	time= '
+
+  Column 7
+
+    '180.4679'
+
+
+path =
+
+     5     4     2     4     5
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         60528x60528            3061672  double    sparse    
+
+before : duration = 0.000756
+before : duration = 0.000902
+before : duration = 0.000729
+  Name          Size                Bytes  Class     Attributes
+
+  CM        60528x60528            484248  double    sparse    
+
+  Name          Size                     Bytes  Class     Attributes
+
+  S2        57912x57912            26830397952  double              
+
+  Columns 1 through 5
+
+    'character'    'starring'    'actor'    'starring'    'character'
+
+  Columns 6 through 7
+
+    '	time= '    '174.9954'
+
+
+path =
+
+     5     4     2     4     2
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         60528x60528            3061672  double    sparse    
+
+before : duration = 0.000802
+before : duration = 0.000756
+before : duration = 0.000845
+  Name          Size                Bytes  Class     Attributes
+
+  CM        60528x60528            484248  double    sparse    
+
+  Name          Size                     Bytes  Class     Attributes
+
+  S2        57912x57912            26830397952  double              
+
+  Columns 1 through 6
+
+    'character'    'starring'    'actor'    'starring'    'actor'    '	time= '
+
+  Column 7
+
+    '174.3127'
+
+modpathsim1: elapsed time = 18066.3435
+---------------------------------------------------------------

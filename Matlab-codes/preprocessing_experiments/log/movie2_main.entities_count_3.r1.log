@@ -1,0 +1,81 @@
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2014 The MathWorks, Inc.
+                    R2014a (8.3.0.532) 64-bit (glnxa64)
+                             February 11, 2014
+
+
+	This is a Classroom License for instructional use only.
+	Research and commercial use is prohibited.
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+nodesReader : read /srv/data/projects/apps/RepIndep_CIDR/fullgraph/top2000/movie.txt
+nodesReader : read /srv/data/projects/apps/RepIndep_CIDR/fullgraph/top2000/actor.txt
+nodesReader : read /srv/data/projects/apps/RepIndep_CIDR/fullgraph/top2000/director.txt
+nodesReader : read /srv/data/projects/apps/RepIndep_CIDR/fullgraph/top2000/starring.txt
+nodesReader : read /srv/data/projects/apps/RepIndep_CIDR/fullgraph/top2000/character.txt
+nodesReader : read /srv/data/projects/apps/RepIndep_CIDR/fullgraph/top2000/directedby.txt
+edgesReader : read /srv/data/projects/apps/RepIndep_CIDR/fullgraph/top2000/starring_actor.txt
+edgesReader : read /srv/data/projects/apps/RepIndep_CIDR/fullgraph/top2000/starring_movie.txt
+edgesReader : read /srv/data/projects/apps/RepIndep_CIDR/fullgraph/top2000/starring_character.txt
+edgesReader : read /srv/data/projects/apps/RepIndep_CIDR/fullgraph/top2000/directedby_director.txt
+edgesReader : read /srv/data/projects/apps/RepIndep_CIDR/fullgraph/top2000/directedby_movie.txt
+There are 0 isolated nodes in G.
+Data size is |V|=41385 |E|=116444
+data_mp length = 13
+mp = movie starring movie
+mp = movie starring character
+mp = movie starring actor
+mp = movie directedby movie
+mp = movie directedby director
+mp = actor starring movie
+mp = actor starring character
+mp = actor starring actor
+mp = director directedby movie
+mp = director directedby director
+mp = character starring movie
+mp = character starring character
+mp = character starring actor
+before : duration = 0.088468
+    'movie'    'starring'    'movie'    '	time= '    '56.7377'
+
+before : duration = 0.00128
+    'movie'    'starring'    'character'    '	time= '    '58.1369'
+
+before : duration = 0.001902
+    'movie'    'starring'    'actor'    '	time= '    '51.7098'
+
+before : duration = 0.000364
+    'movie'    'directedby'    'movie'    '	time= '    '53.664'
+
+before : duration = 0.000512
+    'movie'    'directedby'    'director'    '	time= '    '53.5488'
+
+before : duration = 0.00152
+    'actor'    'starring'    'movie'    '	time= '    '55.3345'
+
+before : duration = 0.001733
+    'actor'    'starring'    'character'    '	time= '    '56.9504'
+
+before : duration = 0.00053
+    'actor'    'starring'    'actor'    '	time= '    '55.6469'
+
+before : duration = 0.000487
+    'director'    'directedby'    'movie'    '	time= '    '53.8612'
+
+before : duration = 0.000374
+    'director'    'directedby'    'director'    '	time= '    '54.215'
+
+before : duration = 0.001463
+    'character'    'starring'    'movie'    '	time= '    '76.5621'
+
+before : duration = 0.000604
+    'character'    'starring'    'character'    '	time= '    '176.032'
+
+before : duration = 0.001817
+    'character'    'starring'    'actor'    '	time= '    '84.9192'
+
+modpathsim1: elapsed time = 887.3411
+---------------------------------------------------------------

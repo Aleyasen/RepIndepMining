@@ -1,0 +1,85 @@
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2014 The MathWorks, Inc.
+                    R2014a (8.3.0.532) 64-bit (glnxa64)
+                             February 11, 2014
+
+
+	This is a Classroom License for instructional use only.
+	Research and commercial use is prohibited.
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+nodesReader : read /srv/data/projects/apps/RepIndep_CIDR/dblp/data/mas/paper.txt
+nodesReader : read /srv/data/projects/apps/RepIndep_CIDR/dblp/data/mas/conf.txt
+nodesReader : read /srv/data/projects/apps/RepIndep_CIDR/dblp/data/mas/domain.txt
+nodesReader : read /srv/data/projects/apps/RepIndep_CIDR/dblp/data/mas/keyword.txt
+edgesReader : read /srv/data/projects/apps/RepIndep_CIDR/dblp/data/mas/paper_domain.txt
+edgesReader : read /srv/data/projects/apps/RepIndep_CIDR/dblp/data/mas/paper_conf.txt
+edgesReader : read /srv/data/projects/apps/RepIndep_CIDR/dblp/data/mas/domain_keyword.txt
+There are 2166 isolated nodes in G.
+Data size is |V|=41902 |E|=175478
+data_mp length = 12
+mp = paper domain star = 0 0
+mp = paper domain star = 0 1
+mp = paper conf star = 0 0
+mp = paper conf star = 0 1
+mp = keyword domain star = 0 0
+mp = keyword domain star = 0 1
+mp = domain paper star = 0 0
+mp = domain paper star = 0 1
+mp = domain keyword star = 0 0
+mp = domain keyword star = 0 1
+mp = conf paper star = 0 0
+mp = conf paper star = 0 1
+middle : duration = 0.000541
+middle : duration = 2.9e-05
+after : duration = 0.24866
+    'paper'    'domain'    '	time= '    '523.2928'
+
+middle : duration = 0.001965
+    'paper'    'domain'    '	time= '    '445.5227'
+
+middle : duration = 7.2e-05
+middle : duration = 2.8e-05
+after : duration = 0.000512
+    'paper'    'conf'    '	time= '    '557.5355'
+
+middle : duration = 0.000756
+    'paper'    'conf'    '	time= '    '517.3401'
+
+middle : duration = 7.2e-05
+middle : duration = 2.8e-05
+after : duration = 0.000337
+    'keyword'    'domain'    '	time= '    '35.5245'
+
+middle : duration = 0.000612
+    'keyword'    'domain'    '	time= '    '36.1669'
+
+middle : duration = 7.4e-05
+middle : duration = 2.9e-05
+after : duration = 0.00062
+    'domain'    'paper'    '	time= '    '44.576'
+
+middle : duration = 0.000891
+    'domain'    'paper'    '	time= '    '41.9062'
+
+middle : duration = 6.7e-05
+middle : duration = 3.4e-05
+after : duration = 0.000325
+    'domain'    'keyword'    '	time= '    '34.5936'
+
+middle : duration = 0.000585
+    'domain'    'keyword'    '	time= '    '34.5336'
+
+middle : duration = 7.4e-05
+middle : duration = 2.9e-05
+after : duration = 0.000706
+    'conf'    'paper'    '	time= '    '41.8109'
+
+middle : duration = 0.000965
+    'conf'    'paper'    '	time= '    '43.0044'
+
+modpathsim2: elapsed time = 2355.8292
+---------------------------------------------------------------

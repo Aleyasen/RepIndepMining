@@ -1,0 +1,274 @@
+    'movie'    'starring'    '	time= '    '112.9034'
+    'movie'    'directedby'    '	time= '    '99.2061'
+    'actor'    'starring'    '	time= '    '105.95'
+    'director'    'directedby'    '	time= '    '100.6335'
+    'character'    'starring'    '	time= '    '1537.6403'
+before : duration = 0.001155
+    'movie'    'starring'    'movie'    '	time= '    '125.4627'
+before : duration = 0.002332
+    'movie'    'starring'    'character'    '	time= '    '114.59'
+before : duration = 0.002726
+    'movie'    'starring'    'actor'    '	time= '    '114.628'
+before : duration = 0.000651
+    'movie'    'directedby'    'movie'    '	time= '    '101.2133'
+before : duration = 0.000639
+    'movie'    'directedby'    'director'    '	time= '    '100.8421'
+before : duration = 0.002412
+    'actor'    'starring'    'movie'    '	time= '    '108.5276'
+before : duration = 0.002496
+    'actor'    'starring'    'character'    '	time= '    '111.5555'
+before : duration = 0.001202
+    'actor'    'starring'    'actor'    '	time= '    '116.9895'
+before : duration = 0.000642
+    'director'    'directedby'    'movie'    '	time= '    '102.367'
+before : duration = 0.000641
+    'director'    'directedby'    'director'    '	time= '    '102.5968'
+before : duration = 0.00245
+    'character'    'starring'    'movie'    '	time= '    '140.0872'
+before : duration = 0.001107
+    'character'    'starring'    'character'    '	time= '    '175.8232'
+before : duration = 0.002859
+    'character'    'starring'    'actor'    '	time= '    '136.6215'
+before : duration = 0.001076
+before : duration = 0.000977
+    'movie'    'starring'    'movie'    'starring'    '	time= '    '102.2252'
+before : duration = 0.001226
+before : duration = 0.000784
+    'movie'    'starring'    'movie'    'directedby'    '	time= '    '101.7249'
+before : duration = 0.000696
+before : duration = 0.000836
+    'movie'    'starring'    'character'    'starring'    '104.2463'
+before : duration = 0.000688
+before : duration = 0.00083
+    'movie'    'starring'    'actor'    'starring'    '	time= '    '103.3403'
+before : duration = 0.000989
+before : duration = 0.00086
+    'movie'    'directedby'    'movie'    'starring'    '	time= '    '102.4015'
+before : duration = 0.000701
+before : duration = 0.000778
+    'movie'    'directedby'    'movie'    'directedby'    '98.1563'
+before : duration = 0.000883
+before : duration = 0.000835
+    'movie'    'directedby'    'director'    'directedby'    '98.8545'
+before : duration = 0.000935
+before : duration = 0.000848
+    'actor'    'starring'    'movie'    'starring'    '	time= '    '113.6562'
+before : duration = 0.002584
+before : duration = 0.001008
+    'actor'    'starring'    'movie'    'directedby'    '	time= '    '106.0776'
+before : duration = 0.000692
+before : duration = 0.000806
+    'actor'    'starring'    'character'    'starring'    '117.4301'
+before : duration = 0.000991
+before : duration = 0.000979
+    'actor'    'starring'    'actor'    'starring'    '	time= '    '113.6181'
+before : duration = 0.000774
+before : duration = 0.001144
+    'director'    'directedby'    'movie'    'starring'    '104.9217'
+before : duration = 0.000718
+before : duration = 0.000738
+    'director'    'directedby'    'movie'    'directedby'    '458.4412'
+before : duration = 0.000658
+before : duration = 0.000869
+    'director'    'directedby'    'director'    'directedby'    '327.623'
+before : duration = 0.000761
+before : duration = 0.000825
+    'character'    'starring'    'movie'    'starring'    '6202.394'
+before : duration = 0.002597
+before : duration = 0.001026
+    'character'    'starring'    'movie'    'directedby'    '145.1841'
+before : duration = 0.000685
+before : duration = 0.000869
+    'character'    'starring'    'character'    'starring'    '181.2995'
+before : duration = 0.000665
+before : duration = 0.000813
+    'character'    'starring'    'actor'    'starring'    '176.968'
+before : duration = 0.000713
+before : duration = 0.000683
+before : duration = 0.000651
+    'movie'    'starring'    'movie'    'starring'    'movie'    '103.4814'
+before : duration = 0.00072
+before : duration = 0.000819
+before : duration = 0.000719
+    'movie'    'starring'    'movie'    'starring'    'character'    '105.7162'
+before : duration = 0.000729
+before : duration = 0.000868
+before : duration = 0.000833
+    'movie'    'starring'    'movie'    'starring'    'actor'    '104.4552'
+before : duration = 0.000902
+before : duration = 0.000753
+before : duration = 0.000494
+    'movie'    'starring'    'movie'    'directedby'    'movie'    '106.0051'
+before : duration = 0.000999
+before : duration = 0.000766
+before : duration = 0.000504
+    'movie'    'starring'    'movie'    'directedby'    'director'    '105.1943'
+before : duration = 0.000681
+before : duration = 0.000862
+before : duration = 0.00068
+    'movie'    'starring'    'character'    'starring'    'movie'    '105.8986'
+before : duration = 0.000733
+before : duration = 0.000732
+before : duration = 0.00073
+    'movie'    'starring'    'character'    'starring'    'character'    '105.856'
+before : duration = 0.000904
+before : duration = 0.000959
+before : duration = 0.000852
+    'movie'    'starring'    'character'    'starring'    'actor'    '107.0919'
+before : duration = 0.000678
+before : duration = 0.000851
+before : duration = 0.000675
+    'movie'    'starring'    'actor'    'starring'    'movie'    '104.4203'
+before : duration = 0.000887
+before : duration = 0.000935
+before : duration = 0.000727
+    'movie'    'starring'    'actor'    'starring'    'character'    '107.341'
+before : duration = 0.000735
+before : duration = 0.000732
+before : duration = 0.000833
+    'movie'    'starring'    'actor'    'starring'    'actor'    '104.4454'
+before : duration = 0.000688
+before : duration = 0.000705
+before : duration = 0.000723
+    'movie'    'directedby'    'movie'    'starring'    'movie'    '103.78'
+before : duration = 0.000901
+before : duration = 0.000866
+before : duration = 0.000767
+    'movie'    'directedby'    'movie'    'starring'    'character'    '106.35'
+before : duration = 0.000714
+before : duration = 0.000803
+before : duration = 0.000863
+    'movie'    'directedby'    'movie'    'starring'    'actor'    '105.007'
+before : duration = 0.000811
+before : duration = 0.00091
+before : duration = 0.000513
+    'movie'    'directedby'    'movie'    'directedby'    'movie'    '99.4856'
+before : duration = 0.000667
+before : duration = 0.000879
+before : duration = 0.000518
+    'movie'    'directedby'    'movie'    'directedby'    'director'    '99.9604'
+before : duration = 0.000654
+before : duration = 0.000953
+before : duration = 0.000514
+    'movie'    'directedby'    'director'    'directedby'    'movie'    '99.7797'
+before : duration = 0.000654
+before : duration = 0.00084
+before : duration = 0.000511
+    'movie'    'directedby'    'director'    'directedby'    'director'    '99.9786'
+before : duration = 0.000673
+before : duration = 0.000725
+before : duration = 0.000671
+    'actor'    'starring'    'movie'    'starring'    'movie'    '114.7718'
+before : duration = 0.000896
+before : duration = 0.000911
+before : duration = 0.000784
+    'actor'    'starring'    'movie'    'starring'    'character'    '117.2437'
+before : duration = 0.000731
+before : duration = 0.000819
+before : duration = 0.000839
+    'actor'    'starring'    'movie'    'starring'    'actor'    '114.9844'
+before : duration = 0.000869
+before : duration = 0.000719
+before : duration = 0.000489
+    'actor'    'starring'    'movie'    'directedby'    'movie'    '114.7872'
+before : duration = 0.002452
+before : duration = 0.001067
+before : duration = 0.001219
+    'actor'    'starring'    'movie'    'directedby'    'director'    '106.8809'
+before : duration = 0.000894
+before : duration = 0.000946
+before : duration = 0.000674
+    'actor'    'starring'    'character'    'starring'    'movie'    '117.3645'
+before : duration = 0.00077
+before : duration = 0.000724
+before : duration = 0.000734
+    '	time= '    '118.445'
+before : duration = 0.000763
+before : duration = 0.000918
+before : duration = 0.000825
+    'actor'    'starring'    'character'    'starring'    'actor'    '117.4482'
+before : duration = 0.000688
+before : duration = 0.000869
+before : duration = 0.00068
+    'actor'    'starring'    'actor'    'starring'    'movie'    '114.8773'
+before : duration = 0.000753
+before : duration = 0.000908
+before : duration = 0.00071
+    'actor'    'starring'    'actor'    'starring'    'character'    '118.8981'
+before : duration = 0.000716
+before : duration = 0.000691
+before : duration = 0.000825
+    'actor'    'starring'    'actor'    'starring'    'actor'    '114.4128'
+before : duration = 0.000675
+before : duration = 0.000706
+before : duration = 0.000672
+    'director'    'directedby'    'movie'    'starring'    'movie'    '106.314'
+before : duration = 0.000806
+before : duration = 0.001146
+before : duration = 0.00163
+    'director'    'directedby'    'movie'    'starring'    'character'    '107.6036'
+before : duration = 0.000801
+before : duration = 0.001152
+before : duration = 0.002034
+    'director'    'directedby'    'movie'    'starring'    'actor'    '105.5404'
+before : duration = 0.000665
+before : duration = 0.000906
+before : duration = 0.000511
+    'director'    'directedby'    'movie'    'directedby'    'movie'    '102.3949'
+before : duration = 0.000652
+before : duration = 0.000884
+before : duration = 0.000504
+    'director'    'directedby'    'movie'    'directedby'    'director'    '101.186'
+before : duration = 0.00065
+before : duration = 0.0009
+before : duration = 0.000503
+    'director'    'directedby'    'director'    'directedby'    'movie'    '101.1179'
+before : duration = 0.000816
+before : duration = 0.000933
+before : duration = 0.000527
+    'director'    'directedby'    'director'    'directedby'    'director'    '100.743'
+before : duration = 0.000687
+before : duration = 0.000729
+before : duration = 0.000669
+    'character'    'starring'    'movie'    'starring'    'movie'    175.5357'
+before : duration = 0.000722
+before : duration = 0.000882
+before : duration = 0.000718
+    'character'    'starring'    'movie'    'starring'    'character'    '180.542'
+before : duration = 0.000875
+before : duration = 0.00089
+before : duration = 0.000884
+    'character'    'starring'    'movie'    'starring'    'actor'    '181.8316'
+before : duration = 0.000856
+before : duration = 0.000753
+before : duration = 0.000491
+    'character'    'starring'    'movie'    'directedby'    'movie'    '180.5678'
+before : duration = 0.002515
+before : duration = 0.001051
+before : duration = 0.001242
+    'character'    'starring'    'movie'    'directedby'    'director'    '140.7793'
+before : duration = 0.000702
+before : duration = 0.000876
+before : duration = 0.000684
+    'character'    'starring'    'character'    'starring'    'movie'    '180.1936'
+before : duration = 0.000743
+before : duration = 0.000743
+before : duration = 0.000727
+    'character'    'starring'    'character'    'starring'    'character'    '180.2475'
+before : duration = 0.00082
+before : duration = 0.000927
+before : duration = 0.000815
+    'character'    'starring'    'character'    'starring'    'actor'	time= '    '181.296'
+before : duration = 0.000902
+before : duration = 0.000946
+before : duration = 0.000678
+    'character'    'starring'    'actor'    'starring'    'movie'    '180.4679'
+before : duration = 0.000756
+before : duration = 0.000902
+before : duration = 0.000729
+    'character'    'starring'    'actor'    'starring'    'character'     '174.9954'
+before : duration = 0.000802
+before : duration = 0.000756
+before : duration = 0.000845
+    'character'    'starring'    'actor'    'starring'    'actor'     '174.3127'
+modpathsim1: elapsed time = 18066.3435

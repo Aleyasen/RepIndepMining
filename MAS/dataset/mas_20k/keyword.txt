@@ -1,0 +1,159 @@
+281	Data Processing
+35	recommender system
+280	Data Mining Algorithm
+36	Search Engine
+33	Programming Language
+158	Performance Evaluation
+34	Query Language
+285	Database Management System
+336	Frequent Pattern
+157	Peer To Peer
+284	Database Management
+283	Database Design
+282	Data Type
+335	frequent itemset
+38	Statistical Model
+286	Database Query
+151	Object Oriented
+43	Database System
+41	Cluster Algorithm
+40	User Interface
+200	Access Method
+22	Web Pages
+23	Collaborative Filtering
+25	Data Model
+26	Decision Tree
+27	Empirical Study
+28	Experimental Evaluation
+348	Geographic Information System
+3	Real Time
+2	Large Scale
+162	Process Model
+277	Data Clustering
+1	Indexation
+163	Query Optimization
+164	Relational Data
+279	Data Management
+544	Social Network Analysis
+7	Case Study
+30	High Dimensionality
+6	Indexing Terms
+5	Machine Learning
+32	Probabilistic Model
+4	Satisfiability
+31	Information Extraction
+400	large dataset
+9	Efficient Algorithm
+8	Information Retrieval
+210	Analysis of Algorithm
+215	Association Rule Mining
+19	Natural Language
+17	Feature Selection
+315	Euclidean Distance
+18	Information System
+177	Spatial Database
+15	Data Mining
+313	entity-relationship model
+16	Data Structure
+310	Eigenvectors
+13	World Wide Web
+11	Learning Algorithm
+12	Neural Network
+170	Sensor Network
+21	Support Vector Machine
+20	Pattern Recognition
+511	Relational Model
+510	Relational Database System
+174	Singular Value Decomposition
+173	Similarity Search
+627	Workflow Management
+103	Electronic Commerce
+99	Distributed System
+100	Document Clustering
+97	Dimensional Reduction
+95	Data Warehousing
+94	Data Warehouse
+393	K Means
+93	Data Stream
+92	Data Integrity
+90	Data Analysis
+188	Tree Structure
+290	Deductive Databases
+322	Fast Algorithm
+492	Query Answering
+180	Synthetic Data
+493	Query Evaluation
+10	Knowledge Base
+182	Text Categorization
+183	Text Classification
+185	Time Series
+397	Knowledge Discovery
+529	Sequential Pattern
+398	Knowledge Discovery In Database
+399	Large Data Sets
+420	Management System
+590	Unlabeled Data
+422	Materialized Views
+88	Conceptual Model
+528	semistructured data
+116	High Performance
+77	Web Search Engine
+115	High Dimensional Data
+240	Cluster Analysis
+241	Clustered Data
+110	Feature Vector
+384	Integrity Constraints
+194	Web Service
+196	Xml Document
+193	Web Mining
+242	Clustering Method
+81	Association Rule
+249	Complex Objects
+578	Text Mining
+84	Business Process
+85	Classification Accuracy
+67	Relational Database
+69	Search Space
+127	Index Structure
+68	Rule Based
+128	Information Filtering
+504	Range Query
+509	Relation Algebra
+304	Distributed Database System
+303	Distributed Database
+371	Information Integration
+239	Classification and Regression Tree
+441	Multi Dimensional
+70	Semantic Web
+71	Similarity Measure
+585	Transaction Management
+72	Social Network
+586	Transaction Processing
+74	Unsupervised Learning
+76	Web Search
+260	Concurrency Control
+59	Logic Programs
+58	Link Analysis
+138	Lower Bound
+57	Knowledge Representation
+56	Knowledge Management
+55	Information Technology
+458	Object Oriented Database
+65	Query Processing
+557	Statistical Learning
+63	Point of View
+60	Nearest Neighbor
+131	K Nearest Neighbor
+266	Continuous Query
+551	Spatial Data
+49	Em Algorithm
+143	Middleware
+48	E Commerce
+146	Moving Object
+44	Decision Making
+148	Naive Bayes
+46	Design and Implementation
+355	Hierarchical Clustering
+468	Outlier Detection
+565	Structured Data
+54	Information Sources

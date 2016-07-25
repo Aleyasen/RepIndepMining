@@ -1,0 +1,1862 @@
+338	Fuzzy Controller
+339	Fuzzy Logic
+35	recommender system
+36	Search Engine
+33	Programming Language
+159	petri net
+330	Fixed Point
+34	Query Language
+158	Performance Evaluation
+331	Formal Language
+39	Three Dimensional
+157	Peer To Peer
+336	Frequent Pattern
+156	Pattern Matching
+337	Fuzzy Control
+37	Speech Recognition
+38	Statistical Model
+335	frequent itemset
+531	Service Discovery
+153	Optimal Solution
+530	Service Composition
+150	Nonlinear System
+151	Object Oriented
+43	Database System
+535	Service Provider
+42	Computer Simulation
+534	Service Oriented Computing
+41	Cluster Algorithm
+533	Service Oriented Architecture
+40	User Interface
+532	Service Orientation
+607	Vector Space Model
+536	Service Selection
+606	Vector Space
+602	User Profile
+205	Adaptive Control
+200	Access Method
+22	Web Pages
+341	Fuzzy Rules
+23	Collaborative Filtering
+169	Self Organization
+342	Fuzzy Set Theory
+24	Computer Vision
+343	Fuzzy System
+25	Data Model
+26	Decision Tree
+166	Scheduling Problem
+27	Empirical Study
+165	Rough Set
+207	Adaptive Hypermedia
+346	Genetic Program
+28	Experimental Evaluation
+168	Second Order
+347	Genetics
+29	Genetic Algorithm
+167	Scientific Computing
+348	Geographic Information System
+161	Problem Solving
+3	Real Time
+408	Linear Code
+162	Process Model
+2	Large Scale
+542	Simulated Annealing
+163	Query Optimization
+1	Indexation
+541	Shortest Path
+164	Relational Data
+30	High Dimensionality
+7	Case Study
+544	Social Network Analysis
+6	Indexing Terms
+32	Probabilistic Model
+340	Fuzzy Model
+5	Machine Learning
+31	Information Extraction
+4	Satisfiability
+545	Software Component
+401	Latent Semantic Analysis
+400	large dataset
+547	Source Code
+9	Efficient Algorithm
+8	Information Retrieval
+402	Latent Semantic Indexing
+549	Space Time Code
+212	Application Development
+210	Analysis of Algorithm
+318	Expert System
+215	Association Rule Mining
+19	Natural Language
+316	Evolutionary Computing
+213	Approximate Algorithm
+214	Approximate Reasoning
+17	Feature Selection
+314	Error Correction Code
+18	Information System
+315	Euclidean Distance
+178	State Space
+15	Data Mining
+217	Automatic Indexing
+177	Spatial Database
+16	Data Structure
+313	entity-relationship model
+218	Automatic Query Expansion
+176	Software Engineering
+13	World Wide Web
+310	Eigenvectors
+14	Computational Complexity
+11	Learning Algorithm
+12	Neural Network
+21	Support Vector Machine
+170	Sensor Network
+513	Reputation System
+20	Pattern Recognition
+512	Relevance Feedback
+511	Relational Model
+415	Linguistic Variable
+510	Relational Database System
+174	Singular Value Decomposition
+623	Wireless Communication
+175	Software Agent
+622	Web Service Discovery
+172	Signal To Noise Ratio
+621	Web Service Description Language
+173	Similarity Search
+620	Web Service Composition
+410	Linear Matrix Inequality
+627	Workflow Management
+414	Linear Time Algorithm
+516	Robot Manipulator
+413	Linear System
+629	Xml Schema
+515	Retrieval Model
+412	Linear Program
+514	Resource Description Framework
+220	Autonomous Agent
+221	Autonomous Robot
+222	Average Precision
+327	Finite Automata
+225	Benchmark Problem
+328	Finite Field
+226	Bipartite Graph
+188	Tree Structure
+228	Boolean Function
+187	Traveling Salesman Problem
+229	Business Model
+189	Upper Bound
+321	Fading Channel
+322	Fast Algorithm
+522	Search Strategy
+521	Search Algorithm
+180	Synthetic Data
+10	Knowledge Base
+524	Semantic Annotation
+429	Minimum Distance
+181	System Design
+428	Membership Function
+182	Text Categorization
+183	Text Classification
+184	Theorem Proving
+185	Time Series
+186	Time Varying
+614	voronoi diagram
+529	Sequential Pattern
+421	Markov Chain
+420	Management System
+618	Web Graph
+526	Semantic Web Service
+617	Web Accessibility
+525	Semantic Matching
+422	Materialized Views
+528	semistructured data
+619	Web Ontology Language
+527	Semantic Web Technology
+116	High Performance
+79	Artificial Intelligent
+117	Higher Order
+78	Agent Based
+114	Global Optimization
+77	Web Search Engine
+115	High Dimensional Data
+112	First Order
+110	Feature Vector
+435	Model Checking
+434	Modal Logic
+82	Automatic Generation
+574	Term Weighting
+83	bayesian network
+575	Test Collection
+80	Artificial Neural Network
+572	Temporal Logic
+81	Association Rule
+573	Term Frequency
+86	Combinatorial Optimization
+578	Text Mining
+579	Text Processing
+84	Business Process
+576	Text Database
+85	Classification Accuracy
+577	Text Indexing
+438	Motion Planning
+67	Relational Database
+66	Reinforcement Learning
+69	Search Space
+127	Index Structure
+68	Rule Based
+128	Information Filtering
+580	Text Retrieval
+302	Directed Graph
+122	Image Retrieval
+582	Time Complexity
+304	Distributed Database System
+303	Distributed Database
+306	Document Representation
+305	Distributed Information Retrieval
+308	Domain Specificity
+307	Document Retrieval
+129	Information Space
+309	Dynamic Environment
+444	multiagent system
+445	multiobjective optimization
+446	Multiple Antennas
+440	Multi Agent System
+441	Multi Dimensional
+70	Semantic Web
+71	Similarity Measure
+585	Transaction Management
+72	Social Network
+586	Transaction Processing
+73	Supervised Learning
+74	Unsupervised Learning
+588	turing machine
+75	User Study
+76	Web Search
+134	Language Model
+59	Logic Programs
+133	Keyword Search
+58	Link Analysis
+138	Lower Bound
+57	Knowledge Representation
+56	Knowledge Management
+136	Linear Time
+55	Information Technology
+137	Local Search
+451	Network Effect
+452	Network Traffic
+458	Object Oriented Database
+455	Next Generation
+64	Probability Distribution
+65	Query Processing
+557	Statistical Learning
+62	Optimization Problem
+63	Point of View
+60	Nearest Neighbor
+131	K Nearest Neighbor
+61	Objective Function
+550	Spanning Tree
+551	Spatial Data
+49	Em Algorithm
+143	Middleware
+48	E Commerce
+145	Mobile Robot
+146	Moving Object
+45	Degree of Freedom
+44	Decision Making
+148	Naive Bayes
+47	Dynamic Program
+149	Natural Language Processing
+46	Design and Implementation
+461	Obstacle Avoidance
+463	Open Hypermedia
+464	Open Source
+465	Operational Semantics
+467	Optimal Algorithm
+468	Outlier Detection
+469	P2P
+565	Structured Data
+52	Fuzzy Set
+566	Structured Documents
+54	Information Sources
+568	tabu search
+561	Statistical Significance
+281	Data Processing
+280	Data Mining Algorithm
+485	Polynomial Time Algorithm
+484	Polynomial Time
+285	Database Management System
+284	Database Management
+283	Database Design
+489	Process Algebra
+282	Data Type
+488	Probability of Error
+288	Decision Procedure
+289	Decision Rule
+286	Database Query
+287	Decision Problem
+483	Planar Graph
+270	Convex Optimization
+478	particle swarm optimizer
+477	Particle Swarm
+274	Cross Language Information Retrieval
+479	Path Planning
+277	Data Clustering
+278	Data Compression
+279	Data Management
+470	P2p Networks
+471	Parallel Algorithm
+472	Parallel Computer
+105	Evolutionary Algorithm
+103	Electronic Commerce
+99	Distributed System
+101	Dynamic System
+100	Document Clustering
+98	Discrete Time
+595	User Behavior
+97	Dimensional Reduction
+96	Description Logic
+95	Data Warehousing
+94	Data Warehouse
+393	K Means
+93	Data Stream
+92	Data Integrity
+395	Knowledge Acquisition
+91	Data Collection
+90	Data Analysis
+293	Design Methodology
+499	Random Graph
+290	Deductive Databases
+496	Question Answering
+495	Query Formulation
+491	Quality of Service
+492	Query Answering
+493	Query Evaluation
+494	Query Expansion
+299	Digital Library
+490	Profitability
+396	Knowledge Based System
+397	Knowledge Discovery
+398	Knowledge Discovery In Database
+399	Large Data Sets
+590	Unlabeled Data
+591	Upper and Lower Bounds
+88	Conceptual Model
+240	Cluster Analysis
+241	Clustered Data
+383	Integer Program
+195	Wireless Network
+384	Integrity Constraints
+194	Web Service
+382	Input Output
+196	Xml Document
+190	User Model
+193	Web Mining
+192	Web Documents
+199	Access Control
+386	Intelligent System
+385	Intelligent Agent
+242	Clustering Method
+249	Complex Objects
+248	Community Networks
+247	Combinatorial Problems
+505	Real World Application
+504	Range Query
+509	Relation Algebra
+230	Business Process Execution Language
+508	Reference Model
+370	Information Access
+371	Information Integration
+372	Information Need
+373	Information Retrieval System
+501	Randomized Algorithm
+500	Random Variable
+379	Informing Science
+239	Classification and Regression Tree
+374	Information Seeking
+377	Information Theory
+376	Information Theoretic
+231	Business To Business
+234	Case Base Reasoning
+235	Channel Capacity
+238	Citation Analysis
+262	Content Analysis
+260	Concurrency Control
+261	Constraint Satisfaction Problem
+365	Hypermedia Design
+364	Humanoid Robot
+269	Convex Hull
+268	Control System
+266	Continuous Query
+250	Complexity Class
+251	Composite Web Service
+252	Computational Geometry
+352	Graph Theory
+355	Hierarchical Clustering
+257	Computer Program
+256	Computer Model
+35	recommender system
+36	Search Engine
+159	petri net
+330	Fixed Point
+33	Programming Language
+34	Query Language
+158	Performance Evaluation
+331	Formal Language
+157	Peer To Peer
+336	Frequent Pattern
+156	Pattern Matching
+37	Speech Recognition
+38	Statistical Model
+335	frequent itemset
+531	Service Discovery
+530	Service Composition
+153	Optimal Solution
+150	Nonlinear System
+151	Object Oriented
+43	Database System
+535	Service Provider
+534	Service Oriented Computing
+41	Cluster Algorithm
+533	Service Oriented Architecture
+40	User Interface
+532	Service Orientation
+607	Vector Space Model
+536	Service Selection
+606	Vector Space
+602	User Profile
+200	Access Method
+22	Web Pages
+23	Collaborative Filtering
+25	Data Model
+26	Decision Tree
+166	Scheduling Problem
+27	Empirical Study
+165	Rough Set
+207	Adaptive Hypermedia
+28	Experimental Evaluation
+168	Second Order
+29	Genetic Algorithm
+348	Geographic Information System
+3	Real Time
+408	Linear Code
+162	Process Model
+2	Large Scale
+163	Query Optimization
+1	Indexation
+541	Shortest Path
+164	Relational Data
+30	High Dimensionality
+544	Social Network Analysis
+7	Case Study
+6	Indexing Terms
+32	Probabilistic Model
+5	Machine Learning
+31	Information Extraction
+545	Software Component
+4	Satisfiability
+401	Latent Semantic Analysis
+547	Source Code
+400	large dataset
+9	Efficient Algorithm
+549	Space Time Code
+402	Latent Semantic Indexing
+8	Information Retrieval
+212	Application Development
+210	Analysis of Algorithm
+215	Association Rule Mining
+19	Natural Language
+213	Approximate Algorithm
+214	Approximate Reasoning
+17	Feature Selection
+314	Error Correction Code
+18	Information System
+315	Euclidean Distance
+178	State Space
+15	Data Mining
+217	Automatic Indexing
+177	Spatial Database
+16	Data Structure
+313	entity-relationship model
+218	Automatic Query Expansion
+176	Software Engineering
+13	World Wide Web
+310	Eigenvectors
+14	Computational Complexity
+11	Learning Algorithm
+12	Neural Network
+21	Support Vector Machine
+170	Sensor Network
+513	Reputation System
+20	Pattern Recognition
+512	Relevance Feedback
+511	Relational Model
+415	Linguistic Variable
+510	Relational Database System
+174	Singular Value Decomposition
+623	Wireless Communication
+175	Software Agent
+622	Web Service Discovery
+172	Signal To Noise Ratio
+621	Web Service Description Language
+173	Similarity Search
+620	Web Service Composition
+410	Linear Matrix Inequality
+627	Workflow Management
+414	Linear Time Algorithm
+413	Linear System
+412	Linear Program
+515	Retrieval Model
+629	Xml Schema
+514	Resource Description Framework
+222	Average Precision
+327	Finite Automata
+328	Finite Field
+226	Bipartite Graph
+228	Boolean Function
+188	Tree Structure
+229	Business Model
+187	Traveling Salesman Problem
+189	Upper Bound
+321	Fading Channel
+322	Fast Algorithm
+522	Search Strategy
+180	Synthetic Data
+10	Knowledge Base
+524	Semantic Annotation
+429	Minimum Distance
+181	System Design
+182	Text Categorization
+183	Text Classification
+184	Theorem Proving
+185	Time Series
+186	Time Varying
+614	voronoi diagram
+529	Sequential Pattern
+421	Markov Chain
+420	Management System
+618	Web Graph
+526	Semantic Web Service
+617	Web Accessibility
+525	Semantic Matching
+422	Materialized Views
+528	semistructured data
+619	Web Ontology Language
+527	Semantic Web Technology
+116	High Performance
+117	Higher Order
+78	Agent Based
+114	Global Optimization
+77	Web Search Engine
+115	High Dimensional Data
+112	First Order
+110	Feature Vector
+435	Model Checking
+434	Modal Logic
+82	Automatic Generation
+574	Term Weighting
+575	Test Collection
+572	Temporal Logic
+81	Association Rule
+573	Term Frequency
+86	Combinatorial Optimization
+578	Text Mining
+579	Text Processing
+84	Business Process
+576	Text Database
+85	Classification Accuracy
+577	Text Indexing
+67	Relational Database
+69	Search Space
+127	Index Structure
+68	Rule Based
+128	Information Filtering
+580	Text Retrieval
+302	Directed Graph
+122	Image Retrieval
+582	Time Complexity
+304	Distributed Database System
+303	Distributed Database
+306	Document Representation
+305	Distributed Information Retrieval
+308	Domain Specificity
+307	Document Retrieval
+129	Information Space
+446	Multiple Antennas
+441	Multi Dimensional
+70	Semantic Web
+71	Similarity Measure
+585	Transaction Management
+72	Social Network
+586	Transaction Processing
+74	Unsupervised Learning
+588	turing machine
+75	User Study
+76	Web Search
+134	Language Model
+59	Logic Programs
+133	Keyword Search
+58	Link Analysis
+138	Lower Bound
+57	Knowledge Representation
+56	Knowledge Management
+136	Linear Time
+55	Information Technology
+137	Local Search
+451	Network Effect
+452	Network Traffic
+458	Object Oriented Database
+455	Next Generation
+64	Probability Distribution
+65	Query Processing
+557	Statistical Learning
+62	Optimization Problem
+63	Point of View
+60	Nearest Neighbor
+131	K Nearest Neighbor
+61	Objective Function
+550	Spanning Tree
+551	Spatial Data
+49	Em Algorithm
+143	Middleware
+48	E Commerce
+146	Moving Object
+44	Decision Making
+148	Naive Bayes
+47	Dynamic Program
+149	Natural Language Processing
+46	Design and Implementation
+463	Open Hypermedia
+464	Open Source
+465	Operational Semantics
+467	Optimal Algorithm
+468	Outlier Detection
+469	P2P
+565	Structured Data
+52	Fuzzy Set
+566	Structured Documents
+54	Information Sources
+561	Statistical Significance
+281	Data Processing
+280	Data Mining Algorithm
+485	Polynomial Time Algorithm
+484	Polynomial Time
+285	Database Management System
+284	Database Management
+283	Database Design
+489	Process Algebra
+282	Data Type
+488	Probability of Error
+288	Decision Procedure
+289	Decision Rule
+286	Database Query
+287	Decision Problem
+483	Planar Graph
+270	Convex Optimization
+274	Cross Language Information Retrieval
+277	Data Clustering
+278	Data Compression
+279	Data Management
+470	P2p Networks
+471	Parallel Algorithm
+472	Parallel Computer
+105	Evolutionary Algorithm
+103	Electronic Commerce
+99	Distributed System
+100	Document Clustering
+98	Discrete Time
+595	User Behavior
+97	Dimensional Reduction
+96	Description Logic
+95	Data Warehousing
+94	Data Warehouse
+393	K Means
+93	Data Stream
+92	Data Integrity
+91	Data Collection
+90	Data Analysis
+293	Design Methodology
+499	Random Graph
+290	Deductive Databases
+496	Question Answering
+495	Query Formulation
+491	Quality of Service
+492	Query Answering
+493	Query Evaluation
+494	Query Expansion
+299	Digital Library
+490	Profitability
+397	Knowledge Discovery
+398	Knowledge Discovery In Database
+399	Large Data Sets
+590	Unlabeled Data
+591	Upper and Lower Bounds
+88	Conceptual Model
+240	Cluster Analysis
+241	Clustered Data
+383	Integer Program
+195	Wireless Network
+384	Integrity Constraints
+194	Web Service
+382	Input Output
+196	Xml Document
+190	User Model
+193	Web Mining
+192	Web Documents
+199	Access Control
+242	Clustering Method
+249	Complex Objects
+248	Community Networks
+247	Combinatorial Problems
+504	Range Query
+509	Relation Algebra
+230	Business Process Execution Language
+508	Reference Model
+370	Information Access
+371	Information Integration
+372	Information Need
+373	Information Retrieval System
+501	Randomized Algorithm
+500	Random Variable
+379	Informing Science
+239	Classification and Regression Tree
+374	Information Seeking
+377	Information Theory
+376	Information Theoretic
+231	Business To Business
+235	Channel Capacity
+238	Citation Analysis
+262	Content Analysis
+260	Concurrency Control
+365	Hypermedia Design
+269	Convex Hull
+266	Continuous Query
+250	Complexity Class
+251	Composite Web Service
+252	Computational Geometry
+352	Graph Theory
+355	Hierarchical Clustering
+257	Computer Program
+338	Fuzzy Controller
+339	Fuzzy Logic
+35	recommender system
+36	Search Engine
+33	Programming Language
+159	petri net
+330	Fixed Point
+34	Query Language
+158	Performance Evaluation
+331	Formal Language
+39	Three Dimensional
+157	Peer To Peer
+336	Frequent Pattern
+156	Pattern Matching
+337	Fuzzy Control
+38	Statistical Model
+335	frequent itemset
+531	Service Discovery
+153	Optimal Solution
+530	Service Composition
+150	Nonlinear System
+151	Object Oriented
+43	Database System
+535	Service Provider
+42	Computer Simulation
+534	Service Oriented Computing
+41	Cluster Algorithm
+533	Service Oriented Architecture
+40	User Interface
+532	Service Orientation
+536	Service Selection
+602	User Profile
+205	Adaptive Control
+200	Access Method
+22	Web Pages
+341	Fuzzy Rules
+23	Collaborative Filtering
+169	Self Organization
+342	Fuzzy Set Theory
+24	Computer Vision
+343	Fuzzy System
+25	Data Model
+26	Decision Tree
+166	Scheduling Problem
+27	Empirical Study
+165	Rough Set
+207	Adaptive Hypermedia
+346	Genetic Program
+28	Experimental Evaluation
+168	Second Order
+347	Genetics
+29	Genetic Algorithm
+167	Scientific Computing
+348	Geographic Information System
+161	Problem Solving
+3	Real Time
+408	Linear Code
+162	Process Model
+2	Large Scale
+542	Simulated Annealing
+163	Query Optimization
+1	Indexation
+541	Shortest Path
+164	Relational Data
+30	High Dimensionality
+544	Social Network Analysis
+7	Case Study
+6	Indexing Terms
+32	Probabilistic Model
+340	Fuzzy Model
+5	Machine Learning
+31	Information Extraction
+4	Satisfiability
+545	Software Component
+400	large dataset
+547	Source Code
+9	Efficient Algorithm
+8	Information Retrieval
+549	Space Time Code
+212	Application Development
+210	Analysis of Algorithm
+318	Expert System
+215	Association Rule Mining
+19	Natural Language
+316	Evolutionary Computing
+213	Approximate Algorithm
+17	Feature Selection
+314	Error Correction Code
+18	Information System
+315	Euclidean Distance
+178	State Space
+15	Data Mining
+177	Spatial Database
+16	Data Structure
+313	entity-relationship model
+176	Software Engineering
+13	World Wide Web
+310	Eigenvectors
+14	Computational Complexity
+11	Learning Algorithm
+12	Neural Network
+21	Support Vector Machine
+170	Sensor Network
+513	Reputation System
+20	Pattern Recognition
+511	Relational Model
+510	Relational Database System
+174	Singular Value Decomposition
+623	Wireless Communication
+175	Software Agent
+622	Web Service Discovery
+172	Signal To Noise Ratio
+621	Web Service Description Language
+173	Similarity Search
+620	Web Service Composition
+410	Linear Matrix Inequality
+627	Workflow Management
+414	Linear Time Algorithm
+413	Linear System
+516	Robot Manipulator
+412	Linear Program
+629	Xml Schema
+514	Resource Description Framework
+220	Autonomous Agent
+221	Autonomous Robot
+327	Finite Automata
+328	Finite Field
+225	Benchmark Problem
+226	Bipartite Graph
+188	Tree Structure
+228	Boolean Function
+187	Traveling Salesman Problem
+229	Business Model
+189	Upper Bound
+321	Fading Channel
+322	Fast Algorithm
+521	Search Algorithm
+180	Synthetic Data
+10	Knowledge Base
+524	Semantic Annotation
+429	Minimum Distance
+428	Membership Function
+182	Text Categorization
+183	Text Classification
+184	Theorem Proving
+185	Time Series
+186	Time Varying
+614	voronoi diagram
+529	Sequential Pattern
+421	Markov Chain
+420	Management System
+618	Web Graph
+526	Semantic Web Service
+617	Web Accessibility
+525	Semantic Matching
+422	Materialized Views
+528	semistructured data
+619	Web Ontology Language
+527	Semantic Web Technology
+116	High Performance
+79	Artificial Intelligent
+117	Higher Order
+78	Agent Based
+114	Global Optimization
+77	Web Search Engine
+115	High Dimensional Data
+112	First Order
+110	Feature Vector
+435	Model Checking
+434	Modal Logic
+82	Automatic Generation
+83	bayesian network
+80	Artificial Neural Network
+572	Temporal Logic
+81	Association Rule
+86	Combinatorial Optimization
+578	Text Mining
+84	Business Process
+85	Classification Accuracy
+438	Motion Planning
+67	Relational Database
+66	Reinforcement Learning
+69	Search Space
+127	Index Structure
+68	Rule Based
+128	Information Filtering
+302	Directed Graph
+582	Time Complexity
+304	Distributed Database System
+303	Distributed Database
+129	Information Space
+309	Dynamic Environment
+444	multiagent system
+445	multiobjective optimization
+446	Multiple Antennas
+440	Multi Agent System
+441	Multi Dimensional
+70	Semantic Web
+71	Similarity Measure
+585	Transaction Management
+72	Social Network
+586	Transaction Processing
+73	Supervised Learning
+74	Unsupervised Learning
+588	turing machine
+75	User Study
+76	Web Search
+59	Logic Programs
+133	Keyword Search
+58	Link Analysis
+138	Lower Bound
+57	Knowledge Representation
+56	Knowledge Management
+136	Linear Time
+55	Information Technology
+137	Local Search
+451	Network Effect
+452	Network Traffic
+458	Object Oriented Database
+455	Next Generation
+64	Probability Distribution
+65	Query Processing
+557	Statistical Learning
+62	Optimization Problem
+63	Point of View
+60	Nearest Neighbor
+131	K Nearest Neighbor
+61	Objective Function
+550	Spanning Tree
+551	Spatial Data
+49	Em Algorithm
+143	Middleware
+48	E Commerce
+145	Mobile Robot
+146	Moving Object
+45	Degree of Freedom
+44	Decision Making
+148	Naive Bayes
+47	Dynamic Program
+46	Design and Implementation
+461	Obstacle Avoidance
+463	Open Hypermedia
+464	Open Source
+465	Operational Semantics
+467	Optimal Algorithm
+468	Outlier Detection
+469	P2P
+565	Structured Data
+52	Fuzzy Set
+54	Information Sources
+568	tabu search
+281	Data Processing
+280	Data Mining Algorithm
+485	Polynomial Time Algorithm
+484	Polynomial Time
+285	Database Management System
+284	Database Management
+283	Database Design
+489	Process Algebra
+282	Data Type
+488	Probability of Error
+288	Decision Procedure
+286	Database Query
+287	Decision Problem
+483	Planar Graph
+270	Convex Optimization
+478	particle swarm optimizer
+477	Particle Swarm
+479	Path Planning
+277	Data Clustering
+278	Data Compression
+279	Data Management
+470	P2p Networks
+471	Parallel Algorithm
+472	Parallel Computer
+105	Evolutionary Algorithm
+103	Electronic Commerce
+99	Distributed System
+101	Dynamic System
+100	Document Clustering
+98	Discrete Time
+97	Dimensional Reduction
+96	Description Logic
+95	Data Warehousing
+94	Data Warehouse
+393	K Means
+93	Data Stream
+92	Data Integrity
+395	Knowledge Acquisition
+91	Data Collection
+90	Data Analysis
+293	Design Methodology
+499	Random Graph
+290	Deductive Databases
+491	Quality of Service
+492	Query Answering
+493	Query Evaluation
+490	Profitability
+396	Knowledge Based System
+397	Knowledge Discovery
+398	Knowledge Discovery In Database
+399	Large Data Sets
+590	Unlabeled Data
+591	Upper and Lower Bounds
+88	Conceptual Model
+240	Cluster Analysis
+241	Clustered Data
+383	Integer Program
+195	Wireless Network
+384	Integrity Constraints
+194	Web Service
+382	Input Output
+196	Xml Document
+190	User Model
+193	Web Mining
+192	Web Documents
+199	Access Control
+386	Intelligent System
+385	Intelligent Agent
+242	Clustering Method
+249	Complex Objects
+248	Community Networks
+247	Combinatorial Problems
+505	Real World Application
+504	Range Query
+509	Relation Algebra
+230	Business Process Execution Language
+508	Reference Model
+371	Information Integration
+501	Randomized Algorithm
+500	Random Variable
+239	Classification and Regression Tree
+377	Information Theory
+376	Information Theoretic
+231	Business To Business
+234	Case Base Reasoning
+235	Channel Capacity
+260	Concurrency Control
+261	Constraint Satisfaction Problem
+365	Hypermedia Design
+364	Humanoid Robot
+269	Convex Hull
+268	Control System
+266	Continuous Query
+250	Complexity Class
+251	Composite Web Service
+252	Computational Geometry
+352	Graph Theory
+355	Hierarchical Clustering
+257	Computer Program
+256	Computer Model
+338	Fuzzy Controller
+339	Fuzzy Logic
+35	recommender system
+36	Search Engine
+333	Frames Per Second
+33	Programming Language
+34	Query Language
+158	Performance Evaluation
+39	Three Dimensional
+157	Peer To Peer
+336	Frequent Pattern
+156	Pattern Matching
+337	Fuzzy Control
+37	Speech Recognition
+155	Particle Filter
+38	Statistical Model
+154	Parameter Estimation
+335	frequent itemset
+152	Object Recognition
+153	Optimal Solution
+150	Nonlinear System
+151	Object Oriented
+43	Database System
+42	Computer Simulation
+41	Cluster Algorithm
+40	User Interface
+539	Shape Representation
+538	Shape Modeling
+537	Shape From Shading
+607	Vector Space Model
+606	Vector Space
+349	Geometric Model
+202	Active Contour
+203	Active Contour Model
+205	Adaptive Control
+200	Access Method
+22	Web Pages
+341	Fuzzy Rules
+23	Collaborative Filtering
+169	Self Organization
+342	Fuzzy Set Theory
+24	Computer Vision
+343	Fuzzy System
+25	Data Model
+26	Decision Tree
+166	Scheduling Problem
+27	Empirical Study
+165	Rough Set
+346	Genetic Program
+28	Experimental Evaluation
+347	Genetics
+29	Genetic Algorithm
+167	Scientific Computing
+348	Geographic Information System
+409	Linear Discriminate Analysis
+161	Problem Solving
+3	Real Time
+162	Process Model
+2	Large Scale
+542	Simulated Annealing
+163	Query Optimization
+1	Indexation
+164	Relational Data
+30	High Dimensionality
+544	Social Network Analysis
+405	Least Squares Solution
+7	Case Study
+6	Indexing Terms
+404	Learning Problems
+32	Probabilistic Model
+340	Fuzzy Model
+5	Machine Learning
+407	Level Set Method
+31	Information Extraction
+4	Satisfiability
+160	Prior Knowledge
+406	Level Set
+401	Latent Semantic Analysis
+400	large dataset
+9	Efficient Algorithm
+403	Learning Methods
+8	Information Retrieval
+402	Latent Semantic Indexing
+210	Analysis of Algorithm
+318	Expert System
+215	Association Rule Mining
+19	Natural Language
+316	Evolutionary Computing
+317	Expectation Maximization
+214	Approximate Reasoning
+17	Feature Selection
+179	Statistical Learning Theory
+18	Information System
+315	Euclidean Distance
+178	State Space
+15	Data Mining
+312	Energy Minimization
+217	Automatic Indexing
+177	Spatial Database
+16	Data Structure
+313	entity-relationship model
+218	Automatic Query Expansion
+13	World Wide Web
+310	Eigenvectors
+14	Computational Complexity
+311	Energy Function
+11	Learning Algorithm
+12	Neural Network
+21	Support Vector Machine
+170	Sensor Network
+20	Pattern Recognition
+171	Signal Processing
+417	Local Minima
+512	Relevance Feedback
+416	Local Features
+511	Relational Model
+415	Linguistic Variable
+510	Relational Database System
+174	Singular Value Decomposition
+175	Software Agent
+173	Similarity Search
+627	Workflow Management
+519	Scale Space
+518	Scale Invariance
+517	Robust Estimator
+516	Robot Manipulator
+515	Retrieval Model
+220	Autonomous Agent
+221	Autonomous Robot
+222	Average Precision
+223	Back Propagation
+224	backpropagation
+225	Benchmark Problem
+188	Tree Structure
+323	Feedforward Neural Network
+187	Traveling Salesman Problem
+324	Field of View
+322	Fast Algorithm
+522	Search Strategy
+427	Medical Image
+521	Search Algorithm
+180	Synthetic Data
+10	Knowledge Base
+181	System Design
+523	Self Organized Map
+428	Membership Function
+182	Text Categorization
+183	Text Classification
+184	Theorem Proving
+612	Visual Features
+520	Scene Analysis
+185	Time Series
+611	Vision System
+613	Visual Tracking
+529	Sequential Pattern
+420	Management System
+422	Materialized Views
+528	semistructured data
+424	Mean Shift
+116	High Performance
+79	Artificial Intelligent
+117	Higher Order
+78	Agent Based
+114	Global Optimization
+77	Web Search Engine
+115	High Dimensional Data
+112	First Order
+113	Generic Model
+110	Feature Vector
+111	Finite Mixture Model
+118	Image Analysis
+119	Image Database
+436	Motion Analysis
+82	Automatic Generation
+574	Term Weighting
+83	bayesian network
+575	Test Collection
+80	Artificial Neural Network
+81	Association Rule
+573	Term Frequency
+86	Combinatorial Optimization
+578	Text Mining
+439	Motion Tracking
+87	Computer Graphic
+579	Text Processing
+84	Business Process
+576	Text Database
+437	Motion Estimation
+85	Classification Accuracy
+577	Text Indexing
+438	Motion Planning
+67	Relational Database
+125	Incomplete Data
+66	Reinforcement Learning
+126	Independent Component Analysis
+69	Search Space
+127	Index Structure
+68	Rule Based
+128	Information Filtering
+580	Text Retrieval
+121	Image Representation
+122	Image Retrieval
+123	Image Segmentation
+304	Distributed Database System
+581	Texture Features
+124	Image Sequence
+303	Distributed Database
+306	Document Representation
+305	Distributed Information Retrieval
+308	Domain Specificity
+307	Document Retrieval
+309	Dynamic Environment
+444	multiagent system
+445	multiobjective optimization
+440	Multi Agent System
+441	Multi Dimensional
+442	Multi Layer Perceptron
+70	Semantic Web
+71	Similarity Measure
+585	Transaction Management
+120	Image Processing
+72	Social Network
+586	Transaction Processing
+73	Supervised Learning
+448	Multiple Views
+74	Unsupervised Learning
+449	Natural Images
+75	User Study
+76	Web Search
+134	Language Model
+135	Least Square
+132	kalman filter
+59	Logic Programs
+133	Keyword Search
+58	Link Analysis
+138	Lower Bound
+57	Knowledge Representation
+139	Machine Vision
+56	Knowledge Management
+136	Linear Time
+55	Information Technology
+137	Local Search
+450	Near Real Time
+453	Neural Net
+457	Object Model
+458	Object Oriented Database
+456	Object Detection
+64	Probability Distribution
+65	Query Processing
+557	Statistical Learning
+62	Optimization Problem
+459	Object Representation
+63	Point of View
+60	Nearest Neighbor
+131	K Nearest Neighbor
+61	Objective Function
+130	iterative reweighted least squares
+551	Spatial Data
+49	Em Algorithm
+143	Middleware
+48	E Commerce
+144	Missing Values
+145	Mobile Robot
+560	Statistical Pattern Recognition
+146	Moving Object
+45	Degree of Freedom
+147	Mutual Information
+44	Decision Making
+148	Naive Bayes
+47	Dynamic Program
+149	Natural Language Processing
+46	Design and Implementation
+461	Obstacle Avoidance
+460	Object Tracking
+466	Optical Flow
+468	Outlier Detection
+51	Feature Space
+565	Structured Data
+52	Fuzzy Set
+566	Structured Documents
+53	Hidden Markov Model
+567	Support Vector
+54	Information Sources
+568	tabu search
+140	Markov Random Field
+561	Statistical Significance
+562	Stereo Matching
+142	Maximum Likelihood Estimate
+563	Stereo Vision
+50	Feature Extraction
+141	Maximum Likelihood
+564	Structure From Motion
+281	Data Processing
+487	Principal Component Analysis
+280	Data Mining Algorithm
+486	Pose Estimation
+285	Database Management System
+284	Database Management
+283	Database Design
+282	Data Type
+289	Decision Rule
+286	Database Query
+480	Pattern Classification
+475	Partial Differential Equation
+272	Correspondence Problem
+478	particle swarm optimizer
+477	Particle Swarm
+274	Cross Language Information Retrieval
+479	Path Planning
+275	Curve Evolution
+276	Curves and Surfaces
+277	Data Clustering
+279	Data Management
+109	Factor Analysis
+108	Facial Expression
+107	Face Recognition
+106	Face Detection
+105	Evolutionary Algorithm
+104	Error Rate
+103	Electronic Commerce
+99	Distributed System
+102	Edge Detection
+101	Dynamic System
+100	Document Clustering
+595	User Behavior
+97	Dimensional Reduction
+96	Description Logic
+95	Data Warehousing
+390	Interest Points
+94	Data Warehouse
+393	K Means
+93	Data Stream
+392	Invariant Feature
+92	Data Integrity
+395	Knowledge Acquisition
+394	Kernel Method
+90	Data Analysis
+290	Deductive Databases
+496	Question Answering
+495	Query Formulation
+498	Radial Basis Function Network
+291	Deformable Model
+497	Radial Basis Function
+492	Query Answering
+493	Query Evaluation
+494	Query Expansion
+297	Detection Rate
+298	Digital Image Processing
+299	Digital Library
+396	Knowledge Based System
+397	Knowledge Discovery
+398	Knowledge Discovery In Database
+399	Large Data Sets
+590	Unlabeled Data
+88	Conceptual Model
+89	Cost Function
+240	Cluster Analysis
+241	Clustered Data
+384	Integrity Constraints
+194	Web Service
+197	3d model
+196	Xml Document
+191	Wavelet Transform
+193	Web Mining
+192	Web Documents
+198	3d reconstruction
+386	Intelligent System
+385	Intelligent Agent
+242	Clustering Method
+249	Complex Objects
+246	Color Image
+505	Real World Application
+506	Real-time Tracking
+503	Range Image
+504	Range Query
+509	Relation Algebra
+507	Recurrent Neural Network
+370	Information Access
+371	Information Integration
+372	Information Need
+373	Information Retrieval System
+502	Range Data
+379	Informing Science
+239	Classification and Regression Tree
+374	Information Seeking
+232	Camera Calibration
+234	Case Base Reasoning
+233	Camera Motion
+238	Citation Analysis
+237	Character Recognition
+262	Content Analysis
+260	Concurrency Control
+261	Constraint Satisfaction Problem
+366	Image Features
+364	Humanoid Robot
+363	Human Motion
+368	Image Registration
+367	Image Matching
+268	Control System
+266	Continuous Query
+350	Gradient Descent
+351	Graph Cut
+355	Hierarchical Clustering
+354	Ground Truth
+357	Hough Transform
+358	Human Body
+256	Computer Model
+338	Fuzzy Controller
+339	Fuzzy Logic
+35	recommender system
+36	Search Engine
+333	Frames Per Second
+33	Programming Language
+34	Query Language
+158	Performance Evaluation
+39	Three Dimensional
+157	Peer To Peer
+336	Frequent Pattern
+156	Pattern Matching
+337	Fuzzy Control
+37	Speech Recognition
+155	Particle Filter
+38	Statistical Model
+335	frequent itemset
+152	Object Recognition
+153	Optimal Solution
+150	Nonlinear System
+151	Object Oriented
+43	Database System
+42	Computer Simulation
+41	Cluster Algorithm
+40	User Interface
+539	Shape Representation
+538	Shape Modeling
+537	Shape From Shading
+607	Vector Space Model
+606	Vector Space
+349	Geometric Model
+202	Active Contour
+203	Active Contour Model
+205	Adaptive Control
+200	Access Method
+22	Web Pages
+341	Fuzzy Rules
+23	Collaborative Filtering
+169	Self Organization
+342	Fuzzy Set Theory
+24	Computer Vision
+343	Fuzzy System
+25	Data Model
+26	Decision Tree
+166	Scheduling Problem
+27	Empirical Study
+165	Rough Set
+346	Genetic Program
+28	Experimental Evaluation
+347	Genetics
+29	Genetic Algorithm
+167	Scientific Computing
+348	Geographic Information System
+161	Problem Solving
+3	Real Time
+162	Process Model
+2	Large Scale
+542	Simulated Annealing
+163	Query Optimization
+1	Indexation
+164	Relational Data
+30	High Dimensionality
+544	Social Network Analysis
+405	Least Squares Solution
+7	Case Study
+6	Indexing Terms
+32	Probabilistic Model
+340	Fuzzy Model
+407	Level Set Method
+5	Machine Learning
+31	Information Extraction
+4	Satisfiability
+406	Level Set
+401	Latent Semantic Analysis
+400	large dataset
+9	Efficient Algorithm
+8	Information Retrieval
+402	Latent Semantic Indexing
+210	Analysis of Algorithm
+318	Expert System
+215	Association Rule Mining
+19	Natural Language
+316	Evolutionary Computing
+214	Approximate Reasoning
+17	Feature Selection
+18	Information System
+315	Euclidean Distance
+178	State Space
+15	Data Mining
+312	Energy Minimization
+217	Automatic Indexing
+177	Spatial Database
+16	Data Structure
+313	entity-relationship model
+218	Automatic Query Expansion
+13	World Wide Web
+310	Eigenvectors
+14	Computational Complexity
+311	Energy Function
+11	Learning Algorithm
+12	Neural Network
+21	Support Vector Machine
+170	Sensor Network
+20	Pattern Recognition
+512	Relevance Feedback
+416	Local Features
+511	Relational Model
+415	Linguistic Variable
+510	Relational Database System
+174	Singular Value Decomposition
+175	Software Agent
+173	Similarity Search
+627	Workflow Management
+519	Scale Space
+518	Scale Invariance
+517	Robust Estimator
+516	Robot Manipulator
+515	Retrieval Model
+220	Autonomous Agent
+221	Autonomous Robot
+222	Average Precision
+225	Benchmark Problem
+188	Tree Structure
+324	Field of View
+187	Traveling Salesman Problem
+322	Fast Algorithm
+427	Medical Image
+522	Search Strategy
+521	Search Algorithm
+180	Synthetic Data
+10	Knowledge Base
+181	System Design
+428	Membership Function
+182	Text Categorization
+183	Text Classification
+184	Theorem Proving
+612	Visual Features
+185	Time Series
+611	Vision System
+613	Visual Tracking
+529	Sequential Pattern
+420	Management System
+422	Materialized Views
+528	semistructured data
+424	Mean Shift
+116	High Performance
+79	Artificial Intelligent
+117	Higher Order
+78	Agent Based
+114	Global Optimization
+77	Web Search Engine
+115	High Dimensional Data
+112	First Order
+113	Generic Model
+110	Feature Vector
+118	Image Analysis
+119	Image Database
+436	Motion Analysis
+82	Automatic Generation
+574	Term Weighting
+83	bayesian network
+575	Test Collection
+80	Artificial Neural Network
+81	Association Rule
+573	Term Frequency
+86	Combinatorial Optimization
+578	Text Mining
+439	Motion Tracking
+87	Computer Graphic
+579	Text Processing
+84	Business Process
+576	Text Database
+437	Motion Estimation
+85	Classification Accuracy
+577	Text Indexing
+438	Motion Planning
+67	Relational Database
+66	Reinforcement Learning
+69	Search Space
+127	Index Structure
+68	Rule Based
+128	Information Filtering
+580	Text Retrieval
+121	Image Representation
+122	Image Retrieval
+123	Image Segmentation
+304	Distributed Database System
+124	Image Sequence
+303	Distributed Database
+306	Document Representation
+305	Distributed Information Retrieval
+308	Domain Specificity
+307	Document Retrieval
+309	Dynamic Environment
+444	multiagent system
+445	multiobjective optimization
+440	Multi Agent System
+441	Multi Dimensional
+70	Semantic Web
+71	Similarity Measure
+585	Transaction Management
+120	Image Processing
+72	Social Network
+586	Transaction Processing
+73	Supervised Learning
+448	Multiple Views
+74	Unsupervised Learning
+449	Natural Images
+75	User Study
+76	Web Search
+134	Language Model
+135	Least Square
+132	kalman filter
+59	Logic Programs
+133	Keyword Search
+58	Link Analysis
+138	Lower Bound
+57	Knowledge Representation
+139	Machine Vision
+56	Knowledge Management
+136	Linear Time
+55	Information Technology
+137	Local Search
+450	Near Real Time
+457	Object Model
+458	Object Oriented Database
+456	Object Detection
+64	Probability Distribution
+65	Query Processing
+557	Statistical Learning
+62	Optimization Problem
+459	Object Representation
+63	Point of View
+60	Nearest Neighbor
+131	K Nearest Neighbor
+61	Objective Function
+551	Spatial Data
+49	Em Algorithm
+143	Middleware
+48	E Commerce
+145	Mobile Robot
+146	Moving Object
+45	Degree of Freedom
+44	Decision Making
+148	Naive Bayes
+47	Dynamic Program
+149	Natural Language Processing
+46	Design and Implementation
+461	Obstacle Avoidance
+460	Object Tracking
+466	Optical Flow
+468	Outlier Detection
+51	Feature Space
+565	Structured Data
+52	Fuzzy Set
+566	Structured Documents
+53	Hidden Markov Model
+54	Information Sources
+568	tabu search
+561	Statistical Significance
+140	Markov Random Field
+562	Stereo Matching
+563	Stereo Vision
+50	Feature Extraction
+564	Structure From Motion
+281	Data Processing
+280	Data Mining Algorithm
+486	Pose Estimation
+285	Database Management System
+284	Database Management
+283	Database Design
+282	Data Type
+289	Decision Rule
+286	Database Query
+475	Partial Differential Equation
+272	Correspondence Problem
+478	particle swarm optimizer
+477	Particle Swarm
+274	Cross Language Information Retrieval
+479	Path Planning
+275	Curve Evolution
+276	Curves and Surfaces
+277	Data Clustering
+279	Data Management
+108	Facial Expression
+107	Face Recognition
+106	Face Detection
+105	Evolutionary Algorithm
+103	Electronic Commerce
+99	Distributed System
+102	Edge Detection
+101	Dynamic System
+100	Document Clustering
+595	User Behavior
+97	Dimensional Reduction
+96	Description Logic
+95	Data Warehousing
+390	Interest Points
+94	Data Warehouse
+393	K Means
+93	Data Stream
+392	Invariant Feature
+92	Data Integrity
+395	Knowledge Acquisition
+90	Data Analysis
+290	Deductive Databases
+496	Question Answering
+495	Query Formulation
+291	Deformable Model
+492	Query Answering
+493	Query Evaluation
+494	Query Expansion
+297	Detection Rate
+299	Digital Library
+396	Knowledge Based System
+397	Knowledge Discovery
+398	Knowledge Discovery In Database
+399	Large Data Sets
+590	Unlabeled Data
+88	Conceptual Model
+240	Cluster Analysis
+241	Clustered Data
+384	Integrity Constraints
+194	Web Service
+197	3d model
+196	Xml Document
+193	Web Mining
+192	Web Documents
+198	3d reconstruction
+386	Intelligent System
+385	Intelligent Agent
+242	Clustering Method
+249	Complex Objects
+246	Color Image
+505	Real World Application
+506	Real-time Tracking
+503	Range Image
+504	Range Query
+509	Relation Algebra
+370	Information Access
+371	Information Integration
+372	Information Need
+373	Information Retrieval System
+502	Range Data
+379	Informing Science
+239	Classification and Regression Tree
+374	Information Seeking
+232	Camera Calibration
+234	Case Base Reasoning
+233	Camera Motion
+238	Citation Analysis
+262	Content Analysis
+260	Concurrency Control
+261	Constraint Satisfaction Problem
+366	Image Features
+364	Humanoid Robot
+363	Human Motion
+368	Image Registration
+367	Image Matching
+268	Control System
+266	Continuous Query
+351	Graph Cut
+355	Hierarchical Clustering
+354	Ground Truth
+357	Hough Transform
+358	Human Body
+256	Computer Model

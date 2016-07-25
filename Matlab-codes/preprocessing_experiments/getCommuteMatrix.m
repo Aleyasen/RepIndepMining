@@ -24,15 +24,20 @@ function CM = getCommuteMatrix(A,h_VVG,h_VL,path,star)
     end;
     if nargin<5
         CM = Cs{1};
+		
         for i = 2:length(Cs)
+			tstart = tic;
             CM = CM*Cs{i};
-        end;
-    else
+			tend = toc(tstart);
+			display(['before ' i ': duration = ' num2str(tend)]);
+		end;
+		else
         if length(path)~=length(star), disp('error: length of parameter star and path is not equal'); end;
         temp = cell(1,1); temp_i = 1;
         prev = 1;
         i = 2;
         while i<=length(Cs)+1
+			tstart = tic;
             if star(i)==0
                 if i>prev
                     temp{temp_i} = Cs{prev};
@@ -52,6 +57,8 @@ function CM = getCommuteMatrix(A,h_VVG,h_VL,path,star)
                 prev = i;
             end;
             i = i+1;
+			tend = toc(tstart);
+			display(['middle ' i ': duration = ' num2str(tend)]);
         end;
         %for j=1:length(temp)
         %    disp(j);
@@ -60,8 +67,11 @@ function CM = getCommuteMatrix(A,h_VVG,h_VL,path,star)
         %end;
         CM = temp{1};
         for j=2:length(temp)
+			tstart = tic;
             CM = CM*temp{j};
             %disp(CM);
+			tend = toc(tstart);
+			display(['after ' j ': duration = ' num2str(tend)]);
         end;
     end;
 end

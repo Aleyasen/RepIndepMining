@@ -1,0 +1,6197 @@
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2014 The MathWorks, Inc.
+                    R2014a (8.3.0.532) 64-bit (glnxa64)
+                             February 11, 2014
+
+
+	This is a Classroom License for instructional use only.
+	Research and commercial use is prohibited.
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+nodesReader : read /srv/data/projects/apps/RepIndep_CIDR/dblp/data/mas_20k/paper.txt
+nodesReader : read /srv/data/projects/apps/RepIndep_CIDR/dblp/data/mas_20k/conf.txt
+nodesReader : read /srv/data/projects/apps/RepIndep_CIDR/dblp/data/mas_20k/domain.txt
+nodesReader : read /srv/data/projects/apps/RepIndep_CIDR/dblp/data/mas_20k/keyword.txt
+edgesReader : read /srv/data/projects/apps/RepIndep_CIDR/dblp/data/mas_20k/paper_domain.txt
+edgesReader : read /srv/data/projects/apps/RepIndep_CIDR/dblp/data/mas_20k/paper_conf.txt
+edgesReader : read /srv/data/projects/apps/RepIndep_CIDR/dblp/data/mas_20k/domain_keyword.txt
+There are 1247 isolated nodes in G.
+Data size is |V|=19067 |E|=80846
+data_mp length = 180
+mp = paper domain star = 0 0
+mp = paper domain star = 0 1
+mp = paper conf star = 0 0
+mp = paper conf star = 0 1
+mp = keyword domain star = 0 0
+mp = keyword domain star = 0 1
+mp = domain paper star = 0 0
+mp = domain paper star = 0 1
+mp = domain keyword star = 0 0
+mp = domain keyword star = 0 1
+mp = conf paper star = 0 0
+mp = conf paper star = 0 1
+mp = paper domain paper star = 0 0 0
+mp = paper domain paper star = 0 1 0
+mp = paper domain paper star = 0 0 1
+mp = paper domain paper star = 0 1 1
+mp = paper domain keyword star = 0 0 0
+mp = paper domain keyword star = 0 1 0
+mp = paper domain keyword star = 0 0 1
+mp = paper domain keyword star = 0 1 1
+mp = paper conf paper star = 0 0 0
+mp = paper conf paper star = 0 1 0
+mp = paper conf paper star = 0 0 1
+mp = paper conf paper star = 0 1 1
+mp = keyword domain paper star = 0 0 0
+mp = keyword domain paper star = 0 1 0
+mp = keyword domain paper star = 0 0 1
+mp = keyword domain paper star = 0 1 1
+mp = keyword domain keyword star = 0 0 0
+mp = keyword domain keyword star = 0 1 0
+mp = keyword domain keyword star = 0 0 1
+mp = keyword domain keyword star = 0 1 1
+mp = domain paper domain star = 0 0 0
+mp = domain paper domain star = 0 1 0
+mp = domain paper domain star = 0 0 1
+mp = domain paper domain star = 0 1 1
+mp = domain paper conf star = 0 0 0
+mp = domain paper conf star = 0 1 0
+mp = domain paper conf star = 0 0 1
+mp = domain paper conf star = 0 1 1
+mp = domain keyword domain star = 0 0 0
+mp = domain keyword domain star = 0 1 0
+mp = domain keyword domain star = 0 0 1
+mp = domain keyword domain star = 0 1 1
+mp = conf paper domain star = 0 0 0
+mp = conf paper domain star = 0 1 0
+mp = conf paper domain star = 0 0 1
+mp = conf paper domain star = 0 1 1
+mp = conf paper conf star = 0 0 0
+mp = conf paper conf star = 0 1 0
+mp = conf paper conf star = 0 0 1
+mp = conf paper conf star = 0 1 1
+mp = conf paper conf paper star = 0 0 0 0
+mp = conf paper conf paper star = 0 0 0 1
+mp = conf paper conf paper star = 0 0 1 0
+mp = conf paper conf paper star = 0 0 1 1
+mp = conf paper conf paper star = 0 1 0 0
+mp = conf paper conf paper star = 0 1 0 1
+mp = conf paper conf paper star = 0 1 1 0
+mp = conf paper conf paper star = 0 1 1 1
+mp = conf paper domain keyword star = 0 0 0 0
+mp = conf paper domain keyword star = 0 0 0 1
+mp = conf paper domain keyword star = 0 0 1 0
+mp = conf paper domain keyword star = 0 0 1 1
+mp = conf paper domain keyword star = 0 1 0 0
+mp = conf paper domain keyword star = 0 1 0 1
+mp = conf paper domain keyword star = 0 1 1 0
+mp = conf paper domain keyword star = 0 1 1 1
+mp = conf paper domain paper star = 0 0 0 0
+mp = conf paper domain paper star = 0 0 0 1
+mp = conf paper domain paper star = 0 0 1 0
+mp = conf paper domain paper star = 0 0 1 1
+mp = conf paper domain paper star = 0 1 0 0
+mp = conf paper domain paper star = 0 1 0 1
+mp = conf paper domain paper star = 0 1 1 0
+mp = conf paper domain paper star = 0 1 1 1
+mp = domain keyword domain keyword star = 0 0 0 0
+mp = domain keyword domain keyword star = 0 0 0 1
+mp = domain keyword domain keyword star = 0 0 1 0
+mp = domain keyword domain keyword star = 0 0 1 1
+mp = domain keyword domain keyword star = 0 1 0 0
+mp = domain keyword domain keyword star = 0 1 0 1
+mp = domain keyword domain keyword star = 0 1 1 0
+mp = domain keyword domain keyword star = 0 1 1 1
+mp = domain keyword domain paper star = 0 0 0 0
+mp = domain keyword domain paper star = 0 0 0 1
+mp = domain keyword domain paper star = 0 0 1 0
+mp = domain keyword domain paper star = 0 0 1 1
+mp = domain keyword domain paper star = 0 1 0 0
+mp = domain keyword domain paper star = 0 1 0 1
+mp = domain keyword domain paper star = 0 1 1 0
+mp = domain keyword domain paper star = 0 1 1 1
+mp = domain paper conf paper star = 0 0 0 0
+mp = domain paper conf paper star = 0 0 0 1
+mp = domain paper conf paper star = 0 0 1 0
+mp = domain paper conf paper star = 0 0 1 1
+mp = domain paper conf paper star = 0 1 0 0
+mp = domain paper conf paper star = 0 1 0 1
+mp = domain paper conf paper star = 0 1 1 0
+mp = domain paper conf paper star = 0 1 1 1
+mp = domain paper domain keyword star = 0 0 0 0
+mp = domain paper domain keyword star = 0 0 0 1
+mp = domain paper domain keyword star = 0 0 1 0
+mp = domain paper domain keyword star = 0 0 1 1
+mp = domain paper domain keyword star = 0 1 0 0
+mp = domain paper domain keyword star = 0 1 0 1
+mp = domain paper domain keyword star = 0 1 1 0
+mp = domain paper domain keyword star = 0 1 1 1
+mp = domain paper domain paper star = 0 0 0 0
+mp = domain paper domain paper star = 0 0 0 1
+mp = domain paper domain paper star = 0 0 1 0
+mp = domain paper domain paper star = 0 0 1 1
+mp = domain paper domain paper star = 0 1 0 0
+mp = domain paper domain paper star = 0 1 0 1
+mp = domain paper domain paper star = 0 1 1 0
+mp = domain paper domain paper star = 0 1 1 1
+mp = keyword domain keyword domain star = 0 0 0 0
+mp = keyword domain keyword domain star = 0 0 0 1
+mp = keyword domain keyword domain star = 0 0 1 0
+mp = keyword domain keyword domain star = 0 0 1 1
+mp = keyword domain keyword domain star = 0 1 0 0
+mp = keyword domain keyword domain star = 0 1 0 1
+mp = keyword domain keyword domain star = 0 1 1 0
+mp = keyword domain keyword domain star = 0 1 1 1
+mp = keyword domain paper conf star = 0 0 0 0
+mp = keyword domain paper conf star = 0 0 0 1
+mp = keyword domain paper conf star = 0 0 1 0
+mp = keyword domain paper conf star = 0 0 1 1
+mp = keyword domain paper conf star = 0 1 0 0
+mp = keyword domain paper conf star = 0 1 0 1
+mp = keyword domain paper conf star = 0 1 1 0
+mp = keyword domain paper conf star = 0 1 1 1
+mp = keyword domain paper domain star = 0 0 0 0
+mp = keyword domain paper domain star = 0 0 0 1
+mp = keyword domain paper domain star = 0 0 1 0
+mp = keyword domain paper domain star = 0 0 1 1
+mp = keyword domain paper domain star = 0 1 0 0
+mp = keyword domain paper domain star = 0 1 0 1
+mp = keyword domain paper domain star = 0 1 1 0
+mp = keyword domain paper domain star = 0 1 1 1
+mp = paper conf paper conf star = 0 0 0 0
+mp = paper conf paper conf star = 0 0 0 1
+mp = paper conf paper conf star = 0 0 1 0
+mp = paper conf paper conf star = 0 0 1 1
+mp = paper conf paper conf star = 0 1 0 0
+mp = paper conf paper conf star = 0 1 0 1
+mp = paper conf paper conf star = 0 1 1 0
+mp = paper conf paper conf star = 0 1 1 1
+mp = paper conf paper domain star = 0 0 0 0
+mp = paper conf paper domain star = 0 0 0 1
+mp = paper conf paper domain star = 0 0 1 0
+mp = paper conf paper domain star = 0 0 1 1
+mp = paper conf paper domain star = 0 1 0 0
+mp = paper conf paper domain star = 0 1 0 1
+mp = paper conf paper domain star = 0 1 1 0
+mp = paper conf paper domain star = 0 1 1 1
+mp = paper domain keyword domain star = 0 0 0 0
+mp = paper domain keyword domain star = 0 0 0 1
+mp = paper domain keyword domain star = 0 0 1 0
+mp = paper domain keyword domain star = 0 0 1 1
+mp = paper domain keyword domain star = 0 1 0 0
+mp = paper domain keyword domain star = 0 1 0 1
+mp = paper domain keyword domain star = 0 1 1 0
+mp = paper domain keyword domain star = 0 1 1 1
+mp = paper domain paper conf star = 0 0 0 0
+mp = paper domain paper conf star = 0 0 0 1
+mp = paper domain paper conf star = 0 0 1 0
+mp = paper domain paper conf star = 0 0 1 1
+mp = paper domain paper conf star = 0 1 0 0
+mp = paper domain paper conf star = 0 1 0 1
+mp = paper domain paper conf star = 0 1 1 0
+mp = paper domain paper conf star = 0 1 1 1
+mp = paper domain paper domain star = 0 0 0 0
+mp = paper domain paper domain star = 0 0 0 1
+mp = paper domain paper domain star = 0 0 1 0
+mp = paper domain paper domain star = 0 0 1 1
+mp = paper domain paper domain star = 0 1 0 0
+mp = paper domain paper domain star = 0 1 0 1
+mp = paper domain paper domain star = 0 1 1 0
+mp = paper domain paper domain star = 0 1 1 1
+
+path =
+
+     1     3
+
+
+star =
+
+     0     0
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 0.000744
+middle : duration = 3e-05
+after : duration = 0.22859
+  Name          Size            Bytes  Class    Attributes
+
+  Qs        18872x1             75488  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18872x18872            2849219072  double              
+
+    'paper'    'domain'    '	time= '    '51.4658'
+
+
+path =
+
+     1     3
+
+
+star =
+
+     0     1
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 0.001107
+  Name          Size            Bytes  Class    Attributes
+
+  Qs        18872x1             75488  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18872x18872            2849219072  double              
+
+    'paper'    'domain'    '	time= '    '50.5702'
+
+
+path =
+
+     1     2
+
+
+star =
+
+     0     0
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 2.9e-05
+middle : duration = 2.6e-05
+after : duration = 0.000216
+  Name          Size            Bytes  Class    Attributes
+
+  Qs        18872x1             75488  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18872x18872            2849219072  double              
+
+    'paper'    'conf'    '	time= '    '54.2038'
+
+
+path =
+
+     1     2
+
+
+star =
+
+     0     1
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 0.000367
+  Name          Size            Bytes  Class    Attributes
+
+  Qs        18872x1             75488  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18872x18872            2849219072  double              
+
+    'paper'    'conf'    '	time= '    '53.4096'
+
+
+path =
+
+     4     3
+
+
+star =
+
+     0     0
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 4.1e-05
+middle : duration = 2.9e-05
+after : duration = 0.000174
+  Name        Size            Bytes  Class    Attributes
+
+  Qs        159x1               636  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        19067x19067            2908403912  double              
+
+    'keyword'    'domain'    '	time= '    '8.0863'
+
+
+path =
+
+     4     3
+
+
+star =
+
+     0     1
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 0.000328
+  Name        Size            Bytes  Class    Attributes
+
+  Qs        159x1               636  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        19067x19067            2908403912  double              
+
+    'keyword'    'domain'    '	time= '    '7.807'
+
+
+path =
+
+     3     1
+
+
+star =
+
+     0     0
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 4.3e-05
+middle : duration = 2.8e-05
+after : duration = 0.000257
+  Name      Size            Bytes  Class    Attributes
+
+  Qs        2x1                 8  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18908x18908            2860099712  double              
+
+    'domain'    'paper'    '	time= '    '10.5445'
+
+
+path =
+
+     3     1
+
+
+star =
+
+     0     1
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 0.000415
+  Name      Size            Bytes  Class    Attributes
+
+  Qs        2x1                 8  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18908x18908            2860099712  double              
+
+    'domain'    'paper'    '	time= '    '10.614'
+
+
+path =
+
+     3     4
+
+
+star =
+
+     0     0
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 4.4e-05
+middle : duration = 2.9e-05
+after : duration = 0.000183
+  Name      Size            Bytes  Class    Attributes
+
+  Qs        2x1                 8  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18908x18908            2860099712  double              
+
+    'domain'    'keyword'    '	time= '    '7.8065'
+
+
+path =
+
+     3     4
+
+
+star =
+
+     0     1
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 0.000327
+  Name      Size            Bytes  Class    Attributes
+
+  Qs        2x1                 8  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18908x18908            2860099712  double              
+
+    'domain'    'keyword'    '	time= '    '7.8027'
+
+
+path =
+
+     2     1
+
+
+star =
+
+     0     0
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 4.4e-05
+middle : duration = 2.9e-05
+after : duration = 0.000279
+  Name       Size            Bytes  Class    Attributes
+
+  Qs        34x1               136  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18906x18906            2859494688  double              
+
+    'conf'    'paper'    '	time= '    '11.3814'
+
+
+path =
+
+     2     1
+
+
+star =
+
+     0     1
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 0.000433
+  Name       Size            Bytes  Class    Attributes
+
+  Qs        34x1               136  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18906x18906            2859494688  double              
+
+    'conf'    'paper'    '	time= '    '12.0343'
+
+
+path =
+
+     1     3     1
+
+
+star =
+
+     0     0     0
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 4.4e-05
+middle : duration = 2.9e-05
+middle : duration = 2.4e-05
+middle : duration = 2.4e-05
+after : duration = 0.000186
+after : duration = 0.000155
+after : duration = 0.000224
+  Name          Size            Bytes  Class    Attributes
+
+  Qs        18872x1             75488  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18872x18872            2849219072  double              
+
+    'paper'    'domain'    'paper'    '	time= '    '65.3081'
+
+
+path =
+
+     1     3     1
+
+
+star =
+
+     0     1     0
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 0.000334
+middle : duration = 0.000321
+after : duration = 0.000246
+  Name          Size            Bytes  Class    Attributes
+
+  Qs        18872x1             75488  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18872x18872            2849219072  double              
+
+    'paper'    'domain'    'paper'    '	time= '    '61.0603'
+
+
+path =
+
+     1     3     1
+
+
+star =
+
+     0     0     1
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 4.9e-05
+middle : duration = 0.000321
+middle : duration = 2.5e-05
+after : duration = 0.000149
+after : duration = 0.000293
+  Name          Size            Bytes  Class    Attributes
+
+  Qs        18872x1             75488  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18872x18872            2849219072  double              
+
+    'paper'    'domain'    'paper'    '	time= '    '58.0449'
+
+
+path =
+
+     1     3     1
+
+
+star =
+
+     0     1     1
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 0.001762
+  Name          Size            Bytes  Class    Attributes
+
+  Qs        18872x1             75488  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18872x18872            2849219072  double              
+
+    'paper'    'domain'    'paper'    '	time= '    '62.5404'
+
+
+path =
+
+     1     3     4
+
+
+star =
+
+     0     0     0
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 4.5e-05
+middle : duration = 2.9e-05
+middle : duration = 2.4e-05
+middle : duration = 2.4e-05
+after : duration = 0.00018
+after : duration = 0.000232
+after : duration = 0.000226
+  Name          Size            Bytes  Class    Attributes
+
+  Qs        18872x1             75488  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18872x18872            2849219072  double              
+
+    'paper'    'domain'    'keyword'    '	time= '    '58.9635'
+
+
+path =
+
+     1     3     4
+
+
+star =
+
+     0     1     0
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 0.000328
+middle : duration = 0.052125
+after : duration = 0.010379
+  Name          Size            Bytes  Class    Attributes
+
+  Qs        18872x1             75488  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18872x18872            2849219072  double              
+
+    'paper'    'domain'    'keyword'    '	time= '    '56.2258'
+
+
+path =
+
+     1     3     4
+
+
+star =
+
+     0     0     1
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 4.8e-05
+middle : duration = 0.00031
+middle : duration = 2.5e-05
+after : duration = 0.000281
+after : duration = 0.000325
+  Name          Size            Bytes  Class    Attributes
+
+  Qs        18872x1             75488  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18872x18872            2849219072  double              
+
+    'paper'    'domain'    'keyword'    '	time= '    '54.1636'
+
+
+path =
+
+     1     3     4
+
+
+star =
+
+     0     1     1
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 0.001036
+  Name          Size            Bytes  Class    Attributes
+
+  Qs        18872x1             75488  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18872x18872            2849219072  double              
+
+    'paper'    'domain'    'keyword'    '	time= '    '56.6248'
+
+
+path =
+
+     1     2     1
+
+
+star =
+
+     0     0     0
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 4.4e-05
+middle : duration = 2.9e-05
+middle : duration = 2.5e-05
+middle : duration = 2.4e-05
+after : duration = 0.000186
+after : duration = 0.000156
+after : duration = 0.000222
+  Name          Size            Bytes  Class    Attributes
+
+  Qs        18872x1             75488  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18872x18872            2849219072  double              
+
+    'paper'    'conf'    'paper'    '	time= '    '667.5748'
+
+
+path =
+
+     1     2     1
+
+
+star =
+
+     0     1     0
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 0.000294
+middle : duration = 0.000314
+after : duration = 0.000212
+  Name          Size            Bytes  Class    Attributes
+
+  Qs        18872x1             75488  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18872x18872            2849219072  double              
+
+    'paper'    'conf'    'paper'    '	time= '    '290.0997'
+
+
+path =
+
+     1     2     1
+
+
+star =
+
+     0     0     1
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 4.3e-05
+middle : duration = 0.000296
+middle : duration = 2.5e-05
+after : duration = 0.00015
+after : duration = 0.000279
+  Name          Size            Bytes  Class    Attributes
+
+  Qs        18872x1             75488  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18872x18872            2849219072  double              
+
+    'paper'    'conf'    'paper'    '	time= '    '194.9666'
+
+
+path =
+
+     1     2     1
+
+
+star =
+
+     0     1     1
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 0.00081
+  Name          Size            Bytes  Class    Attributes
+
+  Qs        18872x1             75488  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18872x18872            2849219072  double              
+
+    'paper'    'conf'    'paper'    '	time= '    '203.4592'
+
+
+path =
+
+     4     3     1
+
+
+star =
+
+     0     0     0
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 2.9e-05
+middle : duration = 2.6e-05
+middle : duration = 2.4e-05
+middle : duration = 2.3e-05
+after : duration = 0.000161
+after : duration = 0.000237
+after : duration = 0.00017
+  Name        Size            Bytes  Class    Attributes
+
+  Qs        159x1               636  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        19067x19067            2908403912  double              
+
+    'keyword'    'domain'    'paper'    '	time= '    '111.3921'
+
+
+path =
+
+     4     3     1
+
+
+star =
+
+     0     1     0
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 0.000287
+middle : duration = 0.088917
+after : duration = 0.009621
+  Name        Size            Bytes  Class    Attributes
+
+  Qs        159x1               636  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        19067x19067            2908403912  double              
+
+    'keyword'    'domain'    'paper'    '	time= '    '11.5724'
+
+
+path =
+
+     4     3     1
+
+
+star =
+
+     0     0     1
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 4e-05
+middle : duration = 0.000391
+middle : duration = 2.5e-05
+after : duration = 0.000173
+after : duration = 0.000281
+  Name        Size            Bytes  Class    Attributes
+
+  Qs        159x1               636  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        19067x19067            2908403912  double              
+
+    'keyword'    'domain'    'paper'    '	time= '    '11.9397'
+
+
+path =
+
+     4     3     1
+
+
+star =
+
+     0     1     1
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 0.000926
+  Name        Size            Bytes  Class    Attributes
+
+  Qs        159x1               636  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        19067x19067            2908403912  double              
+
+    'keyword'    'domain'    'paper'    '	time= '    '11.0378'
+
+
+path =
+
+     4     3     4
+
+
+star =
+
+     0     0     0
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 4.6e-05
+middle : duration = 2.8e-05
+middle : duration = 2.4e-05
+middle : duration = 2.4e-05
+after : duration = 0.000183
+after : duration = 0.000157
+after : duration = 0.00016
+  Name        Size            Bytes  Class    Attributes
+
+  Qs        159x1               636  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        19067x19067            2908403912  double              
+
+    'keyword'    'domain'    'keyword'    '	time= '    '7.7415'
+
+
+path =
+
+     4     3     4
+
+
+star =
+
+     0     1     0
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 0.000338
+middle : duration = 0.000279
+after : duration = 0.000219
+  Name        Size            Bytes  Class    Attributes
+
+  Qs        159x1               636  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        19067x19067            2908403912  double              
+
+    'keyword'    'domain'    'keyword'    '	time= '    '7.7442'
+
+
+path =
+
+     4     3     4
+
+
+star =
+
+     0     0     1
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 4.4e-05
+middle : duration = 0.000319
+middle : duration = 2.4e-05
+after : duration = 0.000162
+after : duration = 0.000224
+  Name        Size            Bytes  Class    Attributes
+
+  Qs        159x1               636  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        19067x19067            2908403912  double              
+
+    'keyword'    'domain'    'keyword'    '	time= '    '7.7448'
+
+
+path =
+
+     4     3     4
+
+
+star =
+
+     0     1     1
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 0.000799
+  Name        Size            Bytes  Class    Attributes
+
+  Qs        159x1               636  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        19067x19067            2908403912  double              
+
+    'keyword'    'domain'    'keyword'    '	time= '    '7.7475'
+
+
+path =
+
+     3     1     3
+
+
+star =
+
+     0     0     0
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 4.4e-05
+middle : duration = 2.9e-05
+middle : duration = 2.4e-05
+middle : duration = 2.4e-05
+after : duration = 0.000183
+after : duration = 0.000162
+after : duration = 0.000242
+  Name      Size            Bytes  Class    Attributes
+
+  Qs        2x1                 8  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18908x18908            2860099712  double              
+
+    'domain'    'paper'    'domain'    '	time= '    '10.4763'
+
+
+path =
+
+     3     1     3
+
+
+star =
+
+     0     1     0
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 0.000337
+middle : duration = 0.000358
+after : duration = 0.000167
+  Name      Size            Bytes  Class    Attributes
+
+  Qs        2x1                 8  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18908x18908            2860099712  double              
+
+    'domain'    'paper'    'domain'    '	time= '    '10.4702'
+
+
+path =
+
+     3     1     3
+
+
+star =
+
+     0     0     1
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 5.9e-05
+middle : duration = 0.000478
+middle : duration = 4.1e-05
+after : duration = 0.000247
+after : duration = 0.000561
+  Name      Size            Bytes  Class    Attributes
+
+  Qs        2x1                 8  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18908x18908            2860099712  double              
+
+    'domain'    'paper'    'domain'    '	time= '    '10.7727'
+
+
+path =
+
+     3     1     3
+
+
+star =
+
+     0     1     1
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 0.000887
+  Name      Size            Bytes  Class    Attributes
+
+  Qs        2x1                 8  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18908x18908            2860099712  double              
+
+    'domain'    'paper'    'domain'    '	time= '    '10.4739'
+
+
+path =
+
+     3     1     2
+
+
+star =
+
+     0     0     0
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 4.6e-05
+middle : duration = 2.8e-05
+middle : duration = 2.4e-05
+middle : duration = 2.4e-05
+after : duration = 0.000178
+after : duration = 0.000221
+after : duration = 0.000235
+  Name      Size            Bytes  Class    Attributes
+
+  Qs        2x1                 8  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18908x18908            2860099712  double              
+
+    'domain'    'paper'    'conf'    '	time= '    '10.4819'
+
+
+path =
+
+     3     1     2
+
+
+star =
+
+     0     1     0
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 0.000341
+middle : duration = 0.000519
+after : duration = 0.000175
+  Name      Size            Bytes  Class    Attributes
+
+  Qs        2x1                 8  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18908x18908            2860099712  double              
+
+    'domain'    'paper'    'conf'    '	time= '    '10.6538'
+
+
+path =
+
+     3     1     2
+
+
+star =
+
+     0     0     1
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 4.7e-05
+middle : duration = 0.000373
+middle : duration = 2.4e-05
+after : duration = 0.000169
+after : duration = 0.000262
+  Name      Size            Bytes  Class    Attributes
+
+  Qs        2x1                 8  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18908x18908            2860099712  double              
+
+    'domain'    'paper'    'conf'    '	time= '    '10.5054'
+
+
+path =
+
+     3     1     2
+
+
+star =
+
+     0     1     1
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 0.000969
+  Name      Size            Bytes  Class    Attributes
+
+  Qs        2x1                 8  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18908x18908            2860099712  double              
+
+    'domain'    'paper'    'conf'    '	time= '    '10.4779'
+
+
+path =
+
+     3     4     3
+
+
+star =
+
+     0     0     0
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 4.4e-05
+middle : duration = 2.7e-05
+middle : duration = 2.4e-05
+middle : duration = 2.4e-05
+after : duration = 0.000189
+after : duration = 0.000158
+after : duration = 0.000158
+  Name      Size            Bytes  Class    Attributes
+
+  Qs        2x1                 8  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18908x18908            2860099712  double              
+
+    'domain'    'keyword'    'domain'    '	time= '    '7.7103'
+
+
+path =
+
+     3     4     3
+
+
+star =
+
+     0     1     0
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 0.000575
+middle : duration = 0.000274
+after : duration = 0.000315
+  Name      Size            Bytes  Class    Attributes
+
+  Qs        2x1                 8  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18908x18908            2860099712  double              
+
+    'domain'    'keyword'    'domain'    '	time= '    '7.6899'
+
+
+path =
+
+     3     4     3
+
+
+star =
+
+     0     0     1
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 4.4e-05
+middle : duration = 0.000308
+middle : duration = 2.4e-05
+after : duration = 0.000202
+after : duration = 0.000264
+  Name      Size            Bytes  Class    Attributes
+
+  Qs        2x1                 8  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18908x18908            2860099712  double              
+
+    'domain'    'keyword'    'domain'    '	time= '    '7.6888'
+
+
+path =
+
+     3     4     3
+
+
+star =
+
+     0     1     1
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 0.000863
+  Name      Size            Bytes  Class    Attributes
+
+  Qs        2x1                 8  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18908x18908            2860099712  double              
+
+    'domain'    'keyword'    'domain'    '	time= '    '7.6884'
+
+
+path =
+
+     2     1     3
+
+
+star =
+
+     0     0     0
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 4.6e-05
+middle : duration = 2.9e-05
+middle : duration = 2.4e-05
+middle : duration = 2.3e-05
+after : duration = 0.000189
+after : duration = 0.00022
+after : duration = 0.000263
+  Name       Size            Bytes  Class    Attributes
+
+  Qs        34x1               136  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18906x18906            2859494688  double              
+
+    'conf'    'paper'    'domain'    '	time= '    '10.4595'
+
+
+path =
+
+     2     1     3
+
+
+star =
+
+     0     1     0
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 0.000342
+middle : duration = 0.000506
+after : duration = 0.000168
+  Name       Size            Bytes  Class    Attributes
+
+  Qs        34x1               136  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18906x18906            2859494688  double              
+
+    'conf'    'paper'    'domain'    '	time= '    '10.4753'
+
+
+path =
+
+     2     1     3
+
+
+star =
+
+     0     0     1
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 4.5e-05
+middle : duration = 0.000377
+middle : duration = 2.4e-05
+after : duration = 0.00016
+after : duration = 0.00027
+  Name       Size            Bytes  Class    Attributes
+
+  Qs        34x1               136  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18906x18906            2859494688  double              
+
+    'conf'    'paper'    'domain'    '	time= '    '10.495'
+
+
+path =
+
+     2     1     3
+
+
+star =
+
+     0     1     1
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 0.000968
+  Name       Size            Bytes  Class    Attributes
+
+  Qs        34x1               136  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18906x18906            2859494688  double              
+
+    'conf'    'paper'    'domain'    '	time= '    '10.4739'
+
+
+path =
+
+     2     1     2
+
+
+star =
+
+     0     0     0
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 4.5e-05
+middle : duration = 2.8e-05
+middle : duration = 2.5e-05
+middle : duration = 2.4e-05
+after : duration = 0.000175
+after : duration = 0.000161
+after : duration = 0.000259
+  Name       Size            Bytes  Class    Attributes
+
+  Qs        34x1               136  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18906x18906            2859494688  double              
+
+    'conf'    'paper'    'conf'    '	time= '    '10.4638'
+
+
+path =
+
+     2     1     2
+
+
+star =
+
+     0     1     0
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 0.000345
+middle : duration = 0.000367
+after : duration = 0.000167
+  Name       Size            Bytes  Class    Attributes
+
+  Qs        34x1               136  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18906x18906            2859494688  double              
+
+    'conf'    'paper'    'conf'    '	time= '    '10.4658'
+
+
+path =
+
+     2     1     2
+
+
+star =
+
+     0     0     1
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 4.3e-05
+middle : duration = 0.000309
+middle : duration = 3.5e-05
+after : duration = 0.00015
+after : duration = 0.000279
+  Name       Size            Bytes  Class    Attributes
+
+  Qs        34x1               136  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18906x18906            2859494688  double              
+
+    'conf'    'paper'    'conf'    '	time= '    '10.4907'
+
+
+path =
+
+     2     1     2
+
+
+star =
+
+     0     1     1
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 0.000881
+  Name       Size            Bytes  Class    Attributes
+
+  Qs        34x1               136  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18906x18906            2859494688  double              
+
+    'conf'    'paper'    'conf'    '	time= '    '10.4964'
+
+
+path =
+
+     2     1     2     1
+
+
+star =
+
+     0     0     0     0
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 3.7e-05
+middle : duration = 2.7e-05
+middle : duration = 2.4e-05
+middle : duration = 2.3e-05
+middle : duration = 2.4e-05
+middle : duration = 2.5e-05
+after : duration = 0.00016
+after : duration = 0.000178
+after : duration = 0.000173
+after : duration = 0.000169
+after : duration = 0.000262
+  Name       Size            Bytes  Class    Attributes
+
+  Qs        34x1               136  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18906x18906            2859494688  double              
+
+    'conf'    'paper'    'conf'    'paper'    '	time= '    '10.5236'
+
+
+path =
+
+     2     1     2     1
+
+
+star =
+
+     0     0     0     1
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 2.9e-05
+middle : duration = 2.6e-05
+middle : duration = 0.000273
+middle : duration = 2.4e-05
+middle : duration = 2.4e-05
+after : duration = 0.000187
+after : duration = 0.000222
+after : duration = 0.000186
+after : duration = 0.000324
+  Name       Size            Bytes  Class    Attributes
+
+  Qs        34x1               136  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18906x18906            2859494688  double              
+
+    'conf'    'paper'    'conf'    'paper'    '	time= '    '10.5062'
+
+
+path =
+
+     2     1     2     1
+
+
+star =
+
+     0     0     1     0
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 2.8e-05
+middle : duration = 0.000275
+middle : duration = 0.000276
+middle : duration = 2.4e-05
+after : duration = 0.000224
+after : duration = 0.000859
+after : duration = 0.000283
+  Name       Size            Bytes  Class    Attributes
+
+  Qs        34x1               136  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18906x18906            2859494688  double              
+
+    'conf'    'paper'    'conf'    'paper'    '	time= '    '10.4675'
+
+
+path =
+
+     2     1     2     1
+
+
+star =
+
+     0     0     1     1
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 2.9e-05
+middle : duration = 0.000792
+middle : duration = 2.5e-05
+after : duration = 0.000178
+after : duration = 0.00032
+  Name       Size            Bytes  Class    Attributes
+
+  Qs        34x1               136  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18906x18906            2859494688  double              
+
+    'conf'    'paper'    'conf'    'paper'    '	time= '    '10.4807'
+
+
+path =
+
+     2     1     2     1
+
+
+star =
+
+     0     1     0     0
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 0.000302
+middle : duration = 2.7e-05
+middle : duration = 2.5e-05
+middle : duration = 0.000384
+after : duration = 0.000231
+after : duration = 0.00023
+after : duration = 0.000173
+  Name       Size            Bytes  Class    Attributes
+
+  Qs        34x1               136  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18906x18906            2859494688  double              
+
+    'conf'    'paper'    'conf'    'paper'    '	time= '    '10.4542'
+
+
+path =
+
+     2     1     2     1
+
+
+star =
+
+     0     1     0     1
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 0.000279
+middle : duration = 0.000277
+middle : duration = 0.000399
+after : duration = 0.000271
+after : duration = 0.000262
+  Name       Size            Bytes  Class    Attributes
+
+  Qs        34x1               136  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18906x18906            2859494688  double              
+
+    'conf'    'paper'    'conf'    'paper'    '	time= '    '10.4457'
+
+
+path =
+
+     2     1     2     1
+
+
+star =
+
+     0     1     1     0
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 0.000554
+middle : duration = 0.000701
+after : duration = 0.00017
+  Name       Size            Bytes  Class    Attributes
+
+  Qs        34x1               136  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18906x18906            2859494688  double              
+
+    'conf'    'paper'    'conf'    'paper'    '	time= '    '10.4926'
+
+
+path =
+
+     2     1     2     1
+
+
+star =
+
+     0     1     1     1
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 0.001404
+  Name       Size            Bytes  Class    Attributes
+
+  Qs        34x1               136  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18906x18906            2859494688  double              
+
+    'conf'    'paper'    'conf'    'paper'    '	time= '    '10.4874'
+
+
+path =
+
+     2     1     3     4
+
+
+star =
+
+     0     0     0     0
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 2.9e-05
+middle : duration = 2.5e-05
+middle : duration = 2.5e-05
+middle : duration = 2.4e-05
+middle : duration = 2.4e-05
+middle : duration = 2.4e-05
+after : duration = 0.000162
+after : duration = 0.000173
+after : duration = 0.000171
+after : duration = 0.000231
+after : duration = 0.000264
+  Name       Size            Bytes  Class    Attributes
+
+  Qs        34x1               136  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18906x18906            2859494688  double              
+
+    'conf'    'paper'    'domain'    'keyword'    '	time= '    '10.4957'
+
+
+path =
+
+     2     1     3     4
+
+
+star =
+
+     0     0     0     1
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 2.8e-05
+middle : duration = 2.6e-05
+middle : duration = 0.000285
+middle : duration = 2.5e-05
+middle : duration = 2.4e-05
+after : duration = 0.000184
+after : duration = 0.000231
+after : duration = 0.000244
+after : duration = 0.000334
+  Name       Size            Bytes  Class    Attributes
+
+  Qs        34x1               136  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18906x18906            2859494688  double              
+
+    'conf'    'paper'    'domain'    'keyword'    '	time= '    '10.5123'
+
+
+path =
+
+     2     1     3     4
+
+
+star =
+
+     0     0     1     0
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 2.9e-05
+middle : duration = 0.000278
+middle : duration = 0.047743
+middle : duration = 3e-05
+after : duration = 0.000371
+after : duration = 0.010386
+after : duration = 0.000327
+  Name       Size            Bytes  Class    Attributes
+
+  Qs        34x1               136  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18906x18906            2859494688  double              
+
+    'conf'    'paper'    'domain'    'keyword'    '	time= '    '10.5783'
+
+
+path =
+
+     2     1     3     4
+
+
+star =
+
+     0     0     1     1
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 2.8e-05
+middle : duration = 0.000862
+middle : duration = 2.4e-05
+after : duration = 0.000169
+after : duration = 0.000319
+  Name       Size            Bytes  Class    Attributes
+
+  Qs        34x1               136  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18906x18906            2859494688  double              
+
+    'conf'    'paper'    'domain'    'keyword'    '	time= '    '10.5052'
+
+
+path =
+
+     2     1     3     4
+
+
+star =
+
+     0     1     0     0
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 0.00028
+middle : duration = 2.7e-05
+middle : duration = 2.5e-05
+middle : duration = 0.000579
+after : duration = 0.000238
+after : duration = 0.000242
+after : duration = 0.000174
+  Name       Size            Bytes  Class    Attributes
+
+  Qs        34x1               136  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18906x18906            2859494688  double              
+
+    'conf'    'paper'    'domain'    'keyword'    '	time= '    '10.5069'
+
+
+path =
+
+     2     1     3     4
+
+
+star =
+
+     0     1     0     1
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 0.000279
+middle : duration = 0.000279
+middle : duration = 0.000541
+after : duration = 0.000278
+after : duration = 0.000259
+  Name       Size            Bytes  Class    Attributes
+
+  Qs        34x1               136  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18906x18906            2859494688  double              
+
+    'conf'    'paper'    'domain'    'keyword'    '	time= '    '10.5182'
+
+
+path =
+
+     2     1     3     4
+
+
+star =
+
+     0     1     1     0
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 0.000547
+middle : duration = 0.061024
+after : duration = 0.00019
+  Name       Size            Bytes  Class    Attributes
+
+  Qs        34x1               136  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18906x18906            2859494688  double              
+
+    'conf'    'paper'    'domain'    'keyword'    '	time= '    '10.5562'
+
+
+path =
+
+     2     1     3     4
+
+
+star =
+
+     0     1     1     1
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 0.00145
+  Name       Size            Bytes  Class    Attributes
+
+  Qs        34x1               136  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18906x18906            2859494688  double              
+
+    'conf'    'paper'    'domain'    'keyword'    '	time= '    '10.493'
+
+
+path =
+
+     2     1     3     1
+
+
+star =
+
+     0     0     0     0
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 2.9e-05
+middle : duration = 2.6e-05
+middle : duration = 2.4e-05
+middle : duration = 2.4e-05
+middle : duration = 2.4e-05
+middle : duration = 2.5e-05
+after : duration = 0.000168
+after : duration = 0.000175
+after : duration = 0.000172
+after : duration = 0.000228
+after : duration = 0.000262
+  Name       Size            Bytes  Class    Attributes
+
+  Qs        34x1               136  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18906x18906            2859494688  double              
+
+    'conf'    'paper'    'domain'    'paper'    '	time= '    '10.4867'
+
+
+path =
+
+     2     1     3     1
+
+
+star =
+
+     0     0     0     1
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 3.1e-05
+middle : duration = 2.6e-05
+middle : duration = 0.000273
+middle : duration = 2.4e-05
+middle : duration = 2.4e-05
+after : duration = 0.000185
+after : duration = 0.000223
+after : duration = 0.000255
+after : duration = 0.000327
+  Name       Size            Bytes  Class    Attributes
+
+  Qs        34x1               136  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18906x18906            2859494688  double              
+
+    'conf'    'paper'    'domain'    'paper'    '	time= '    '10.4672'
+
+
+path =
+
+     2     1     3     1
+
+
+star =
+
+     0     0     1     0
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 3e-05
+middle : duration = 0.000279
+middle : duration = 0.000332
+middle : duration = 2.4e-05
+after : duration = 0.000225
+after : duration = 0.000228
+after : duration = 0.00027
+  Name       Size            Bytes  Class    Attributes
+
+  Qs        34x1               136  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18906x18906            2859494688  double              
+
+    'conf'    'paper'    'domain'    'paper'    '	time= '    '10.9707'
+
+
+path =
+
+     2     1     3     1
+
+
+star =
+
+     0     0     1     1
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 2.9e-05
+middle : duration = 0.000855
+middle : duration = 2.5e-05
+after : duration = 0.000178
+after : duration = 0.000317
+  Name       Size            Bytes  Class    Attributes
+
+  Qs        34x1               136  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18906x18906            2859494688  double              
+
+    'conf'    'paper'    'domain'    'paper'    '	time= '    '10.4692'
+
+
+path =
+
+     2     1     3     1
+
+
+star =
+
+     0     1     0     0
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 0.000281
+middle : duration = 2.7e-05
+middle : duration = 2.5e-05
+middle : duration = 0.000532
+after : duration = 0.00024
+after : duration = 0.000232
+after : duration = 0.000197
+  Name       Size            Bytes  Class    Attributes
+
+  Qs        34x1               136  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18906x18906            2859494688  double              
+
+    'conf'    'paper'    'domain'    'paper'    '	time= '    '10.4675'
+
+
+path =
+
+     2     1     3     1
+
+
+star =
+
+     0     1     0     1
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 0.000286
+middle : duration = 0.000285
+middle : duration = 0.00054
+after : duration = 0.000273
+after : duration = 0.000258
+  Name       Size            Bytes  Class    Attributes
+
+  Qs        34x1               136  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18906x18906            2859494688  double              
+
+    'conf'    'paper'    'domain'    'paper'    '	time= '    '10.45'
+
+
+path =
+
+     2     1     3     1
+
+
+star =
+
+     0     1     1     0
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 0.000544
+middle : duration = 0.00073
+after : duration = 0.000171
+  Name       Size            Bytes  Class    Attributes
+
+  Qs        34x1               136  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18906x18906            2859494688  double              
+
+    'conf'    'paper'    'domain'    'paper'    '	time= '    '10.468'
+
+
+path =
+
+     2     1     3     1
+
+
+star =
+
+     0     1     1     1
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 0.001446
+  Name       Size            Bytes  Class    Attributes
+
+  Qs        34x1               136  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18906x18906            2859494688  double              
+
+    'conf'    'paper'    'domain'    'paper'    '	time= '    '10.4444'
+
+
+path =
+
+     3     4     3     4
+
+
+star =
+
+     0     0     0     0
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 2.9e-05
+middle : duration = 2.5e-05
+middle : duration = 2.4e-05
+middle : duration = 2.4e-05
+middle : duration = 2.4e-05
+middle : duration = 2.5e-05
+after : duration = 0.000226
+after : duration = 0.000267
+after : duration = 0.000175
+after : duration = 0.000176
+after : duration = 0.000174
+  Name      Size            Bytes  Class    Attributes
+
+  Qs        2x1                 8  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18908x18908            2860099712  double              
+
+    'domain'    'keyword'    'domain'    'keyword'    '	time= '    '7.6719'
+
+
+path =
+
+     3     4     3     4
+
+
+star =
+
+     0     0     0     1
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 2.8e-05
+middle : duration = 2.6e-05
+middle : duration = 0.000307
+middle : duration = 2.5e-05
+middle : duration = 2.4e-05
+after : duration = 0.000346
+after : duration = 0.000261
+after : duration = 0.000175
+after : duration = 0.000178
+  Name      Size            Bytes  Class    Attributes
+
+  Qs        2x1                 8  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18908x18908            2860099712  double              
+
+    'domain'    'keyword'    'domain'    'keyword'    '	time= '    '7.6842'
+
+
+path =
+
+     3     4     3     4
+
+
+star =
+
+     0     0     1     0
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 2.9e-05
+middle : duration = 0.000341
+middle : duration = 0.000379
+middle : duration = 2.4e-05
+after : duration = 0.000344
+after : duration = 0.000258
+after : duration = 0.000175
+  Name      Size            Bytes  Class    Attributes
+
+  Qs        2x1                 8  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18908x18908            2860099712  double              
+
+    'domain'    'keyword'    'domain'    'keyword'    '	time= '    '7.6675'
+
+
+path =
+
+     3     4     3     4
+
+
+star =
+
+     0     0     1     1
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 2.9e-05
+middle : duration = 0.001042
+middle : duration = 2.5e-05
+after : duration = 0.000227
+after : duration = 0.000261
+  Name      Size            Bytes  Class    Attributes
+
+  Qs        2x1                 8  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18908x18908            2860099712  double              
+
+    'domain'    'keyword'    'domain'    'keyword'    '	time= '    '7.6775'
+
+
+path =
+
+     3     4     3     4
+
+
+star =
+
+     0     1     0     0
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 0.000313
+middle : duration = 2.8e-05
+middle : duration = 2.5e-05
+middle : duration = 0.000387
+after : duration = 0.000357
+after : duration = 0.000264
+after : duration = 0.000172
+  Name      Size            Bytes  Class    Attributes
+
+  Qs        2x1                 8  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18908x18908            2860099712  double              
+
+    'domain'    'keyword'    'domain'    'keyword'    '	time= '    '7.6751'
+
+
+path =
+
+     3     4     3     4
+
+
+star =
+
+     0     1     0     1
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 0.00034
+middle : duration = 0.000382
+middle : duration = 0.000382
+after : duration = 0.00035
+after : duration = 0.000255
+  Name      Size            Bytes  Class    Attributes
+
+  Qs        2x1                 8  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18908x18908            2860099712  double              
+
+    'domain'    'keyword'    'domain'    'keyword'    '	time= '    '7.6486'
+
+
+path =
+
+     3     4     3     4
+
+
+star =
+
+     0     1     1     0
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 0.000774
+middle : duration = 0.000729
+after : duration = 0.000224
+  Name      Size            Bytes  Class    Attributes
+
+  Qs        2x1                 8  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18908x18908            2860099712  double              
+
+    'domain'    'keyword'    'domain'    'keyword'    '	time= '    '7.6632'
+
+
+path =
+
+     3     4     3     4
+
+
+star =
+
+     0     1     1     1
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 0.001612
+  Name      Size            Bytes  Class    Attributes
+
+  Qs        2x1                 8  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18908x18908            2860099712  double              
+
+    'domain'    'keyword'    'domain'    'keyword'    '	time= '    '7.7066'
+
+
+path =
+
+     3     4     3     1
+
+
+star =
+
+     0     0     0     0
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 2.9e-05
+middle : duration = 2.6e-05
+middle : duration = 2.4e-05
+middle : duration = 2.4e-05
+middle : duration = 2.5e-05
+middle : duration = 2.5e-05
+after : duration = 0.000187
+after : duration = 0.000274
+after : duration = 0.00019
+after : duration = 0.000238
+after : duration = 0.000186
+  Name      Size            Bytes  Class    Attributes
+
+  Qs        2x1                 8  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18908x18908            2860099712  double              
+
+    'domain'    'keyword'    'domain'    'paper'    '	time= '    '10.4713'
+
+
+path =
+
+     3     4     3     1
+
+
+star =
+
+     0     0     0     1
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 2.9e-05
+middle : duration = 2.6e-05
+middle : duration = 0.000318
+middle : duration = 2.4e-05
+middle : duration = 2.4e-05
+after : duration = 0.000349
+after : duration = 0.000258
+after : duration = 0.000174
+after : duration = 0.000183
+  Name      Size            Bytes  Class    Attributes
+
+  Qs        2x1                 8  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18908x18908            2860099712  double              
+
+    'domain'    'keyword'    'domain'    'paper'    '	time= '    '10.4678'
+
+
+path =
+
+     3     4     3     1
+
+
+star =
+
+     0     0     1     0
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 2.9e-05
+middle : duration = 0.000327
+middle : duration = 0.000382
+middle : duration = 2.4e-05
+after : duration = 0.000339
+after : duration = 0.000258
+after : duration = 0.000182
+  Name      Size            Bytes  Class    Attributes
+
+  Qs        2x1                 8  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18908x18908            2860099712  double              
+
+    'domain'    'keyword'    'domain'    'paper'    '	time= '    '10.4717'
+
+
+path =
+
+     3     4     3     1
+
+
+star =
+
+     0     0     1     1
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 3e-05
+middle : duration = 0.001072
+middle : duration = 2.5e-05
+after : duration = 0.000173
+after : duration = 0.000267
+  Name      Size            Bytes  Class    Attributes
+
+  Qs        2x1                 8  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18908x18908            2860099712  double              
+
+    'domain'    'keyword'    'domain'    'paper'    '	time= '    '10.4666'
+
+
+path =
+
+     3     4     3     1
+
+
+star =
+
+     0     1     0     0
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 0.000325
+middle : duration = 2.7e-05
+middle : duration = 2.4e-05
+middle : duration = 0.000407
+after : duration = 0.000345
+after : duration = 0.000261
+after : duration = 0.000174
+  Name      Size            Bytes  Class    Attributes
+
+  Qs        2x1                 8  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18908x18908            2860099712  double              
+
+    'domain'    'keyword'    'domain'    'paper'    '	time= '    '10.5041'
+
+
+path =
+
+     3     4     3     1
+
+
+star =
+
+     0     1     0     1
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 0.000321
+middle : duration = 0.000388
+middle : duration = 0.000383
+after : duration = 0.000338
+after : duration = 0.000264
+  Name      Size            Bytes  Class    Attributes
+
+  Qs        2x1                 8  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18908x18908            2860099712  double              
+
+    'domain'    'keyword'    'domain'    'paper'    '	time= '    '11.0241'
+
+
+path =
+
+     3     4     3     1
+
+
+star =
+
+     0     1     1     0
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 0.000767
+middle : duration = 0.000775
+after : duration = 0.000231
+  Name      Size            Bytes  Class    Attributes
+
+  Qs        2x1                 8  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18908x18908            2860099712  double              
+
+    'domain'    'keyword'    'domain'    'paper'    '	time= '    '11.1357'
+
+
+path =
+
+     3     4     3     1
+
+
+star =
+
+     0     1     1     1
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 0.001644
+  Name      Size            Bytes  Class    Attributes
+
+  Qs        2x1                 8  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18908x18908            2860099712  double              
+
+    'domain'    'keyword'    'domain'    'paper'    '	time= '    '10.4784'
+
+
+path =
+
+     3     1     2     1
+
+
+star =
+
+     0     0     0     0
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 3.1e-05
+middle : duration = 2.7e-05
+middle : duration = 2.5e-05
+middle : duration = 2.4e-05
+middle : duration = 2.4e-05
+middle : duration = 2.5e-05
+after : duration = 0.000162
+after : duration = 0.000183
+after : duration = 0.000172
+after : duration = 0.000229
+after : duration = 0.000248
+  Name      Size            Bytes  Class    Attributes
+
+  Qs        2x1                 8  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18908x18908            2860099712  double              
+
+    'domain'    'paper'    'conf'    'paper'    '	time= '    '11.0318'
+
+
+path =
+
+     3     1     2     1
+
+
+star =
+
+     0     0     0     1
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 2.9e-05
+middle : duration = 2.5e-05
+middle : duration = 0.000272
+middle : duration = 2.5e-05
+middle : duration = 2.4e-05
+after : duration = 0.000179
+after : duration = 0.000222
+after : duration = 0.000245
+after : duration = 0.000311
+  Name      Size            Bytes  Class    Attributes
+
+  Qs        2x1                 8  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18908x18908            2860099712  double              
+
+    'domain'    'paper'    'conf'    'paper'    '	time= '    '10.3589'
+
+
+path =
+
+     3     1     2     1
+
+
+star =
+
+     0     0     1     0
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 3e-05
+middle : duration = 0.000275
+middle : duration = 0.000333
+middle : duration = 2.4e-05
+after : duration = 0.000227
+after : duration = 0.00023
+after : duration = 0.000255
+  Name      Size            Bytes  Class    Attributes
+
+  Qs        2x1                 8  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18908x18908            2860099712  double              
+
+    'domain'    'paper'    'conf'    'paper'    '	time= '    '11.187'
+
+
+path =
+
+     3     1     2     1
+
+
+star =
+
+     0     0     1     1
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 2.8e-05
+middle : duration = 0.000859
+middle : duration = 2.5e-05
+after : duration = 0.000181
+after : duration = 0.000308
+  Name      Size            Bytes  Class    Attributes
+
+  Qs        2x1                 8  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18908x18908            2860099712  double              
+
+    'domain'    'paper'    'conf'    'paper'    '	time= '    '10.7811'
+
+
+path =
+
+     3     1     2     1
+
+
+star =
+
+     0     1     0     0
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 0.000279
+middle : duration = 2.7e-05
+middle : duration = 2.4e-05
+middle : duration = 0.000507
+after : duration = 0.000228
+after : duration = 0.000231
+after : duration = 0.000174
+  Name      Size            Bytes  Class    Attributes
+
+  Qs        2x1                 8  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18908x18908            2860099712  double              
+
+    'domain'    'paper'    'conf'    'paper'    '	time= '    '10.4736'
+
+
+path =
+
+     3     1     2     1
+
+
+star =
+
+     0     1     0     1
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 0.000278
+middle : duration = 0.000278
+middle : duration = 0.000499
+after : duration = 0.000271
+after : duration = 0.000262
+  Name      Size            Bytes  Class    Attributes
+
+  Qs        2x1                 8  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18908x18908            2860099712  double              
+
+    'domain'    'paper'    'conf'    'paper'    '	time= '    '10.3578'
+
+
+path =
+
+     3     1     2     1
+
+
+star =
+
+     0     1     1     0
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 0.000536
+middle : duration = 0.000729
+after : duration = 0.00017
+  Name      Size            Bytes  Class    Attributes
+
+  Qs        2x1                 8  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18908x18908            2860099712  double              
+
+    'domain'    'paper'    'conf'    'paper'    '	time= '    '10.3682'
+
+
+path =
+
+     3     1     2     1
+
+
+star =
+
+     0     1     1     1
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 0.001428
+  Name      Size            Bytes  Class    Attributes
+
+  Qs        2x1                 8  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18908x18908            2860099712  double              
+
+    'domain'    'paper'    'conf'    'paper'    '	time= '    '10.5498'
+
+
+path =
+
+     3     1     3     4
+
+
+star =
+
+     0     0     0     0
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 2.9e-05
+middle : duration = 2.6e-05
+middle : duration = 2.4e-05
+middle : duration = 2.4e-05
+middle : duration = 2.4e-05
+middle : duration = 2.4e-05
+after : duration = 0.00016
+after : duration = 0.000175
+after : duration = 0.000171
+after : duration = 0.000168
+after : duration = 0.000248
+  Name      Size            Bytes  Class    Attributes
+
+  Qs        2x1                 8  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18908x18908            2860099712  double              
+
+    'domain'    'paper'    'domain'    'keyword'    '	time= '    '10.3866'
+
+
+path =
+
+     3     1     3     4
+
+
+star =
+
+     0     0     0     1
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 2.9e-05
+middle : duration = 2.5e-05
+middle : duration = 0.000279
+middle : duration = 2.4e-05
+middle : duration = 2.4e-05
+after : duration = 0.000182
+after : duration = 0.000228
+after : duration = 0.000183
+after : duration = 0.000315
+  Name      Size            Bytes  Class    Attributes
+
+  Qs        2x1                 8  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18908x18908            2860099712  double              
+
+    'domain'    'paper'    'domain'    'keyword'    '	time= '    '10.3817'
+
+
+path =
+
+     3     1     3     4
+
+
+star =
+
+     0     0     1     0
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 2.8e-05
+middle : duration = 0.000275
+middle : duration = 0.000282
+middle : duration = 2.4e-05
+after : duration = 0.00023
+after : duration = 0.000225
+after : duration = 0.000253
+  Name      Size            Bytes  Class    Attributes
+
+  Qs        2x1                 8  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18908x18908            2860099712  double              
+
+    'domain'    'paper'    'domain'    'keyword'    '	time= '    '10.3648'
+
+
+path =
+
+     3     1     3     4
+
+
+star =
+
+     0     0     1     1
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 2.9e-05
+middle : duration = 0.000778
+middle : duration = 2.4e-05
+after : duration = 0.00017
+after : duration = 0.000305
+  Name      Size            Bytes  Class    Attributes
+
+  Qs        2x1                 8  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18908x18908            2860099712  double              
+
+    'domain'    'paper'    'domain'    'keyword'    '	time= '    '10.3753'
+
+
+path =
+
+     3     1     3     4
+
+
+star =
+
+     0     1     0     0
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 0.000278
+middle : duration = 2.7e-05
+middle : duration = 2.4e-05
+middle : duration = 0.000357
+after : duration = 0.000235
+after : duration = 0.000229
+after : duration = 0.000176
+  Name      Size            Bytes  Class    Attributes
+
+  Qs        2x1                 8  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18908x18908            2860099712  double              
+
+    'domain'    'paper'    'domain'    'keyword'    '	time= '    '10.3805'
+
+
+path =
+
+     3     1     3     4
+
+
+star =
+
+     0     1     0     1
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 0.00028
+middle : duration = 0.000277
+middle : duration = 0.000386
+after : duration = 0.000276
+after : duration = 0.000256
+  Name      Size            Bytes  Class    Attributes
+
+  Qs        2x1                 8  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18908x18908            2860099712  double              
+
+    'domain'    'paper'    'domain'    'keyword'    '	time= '    '10.3676'
+
+
+path =
+
+     3     1     3     4
+
+
+star =
+
+     0     1     1     0
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 0.000543
+middle : duration = 0.000663
+after : duration = 0.000177
+  Name      Size            Bytes  Class    Attributes
+
+  Qs        2x1                 8  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18908x18908            2860099712  double              
+
+    'domain'    'paper'    'domain'    'keyword'    '	time= '    '10.3697'
+
+
+path =
+
+     3     1     3     4
+
+
+star =
+
+     0     1     1     1
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 0.001373
+  Name      Size            Bytes  Class    Attributes
+
+  Qs        2x1                 8  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18908x18908            2860099712  double              
+
+    'domain'    'paper'    'domain'    'keyword'    '	time= '    '10.3814'
+
+
+path =
+
+     3     1     3     1
+
+
+star =
+
+     0     0     0     0
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 2.9e-05
+middle : duration = 2.6e-05
+middle : duration = 2.4e-05
+middle : duration = 2.4e-05
+middle : duration = 2.4e-05
+middle : duration = 2.4e-05
+after : duration = 0.00016
+after : duration = 0.000181
+after : duration = 0.000171
+after : duration = 0.000175
+after : duration = 0.000253
+  Name      Size            Bytes  Class    Attributes
+
+  Qs        2x1                 8  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18908x18908            2860099712  double              
+
+    'domain'    'paper'    'domain'    'paper'    '	time= '    '10.34'
+
+
+path =
+
+     3     1     3     1
+
+
+star =
+
+     0     0     0     1
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 2.8e-05
+middle : duration = 2.6e-05
+middle : duration = 0.000272
+middle : duration = 2.4e-05
+middle : duration = 2.4e-05
+after : duration = 0.000178
+after : duration = 0.000228
+after : duration = 0.000183
+after : duration = 0.00031
+  Name      Size            Bytes  Class    Attributes
+
+  Qs        2x1                 8  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18908x18908            2860099712  double              
+
+    'domain'    'paper'    'domain'    'paper'    '	time= '    '10.3302'
+
+
+path =
+
+     3     1     3     1
+
+
+star =
+
+     0     0     1     0
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 2.9e-05
+middle : duration = 0.000281
+middle : duration = 0.000274
+middle : duration = 2.4e-05
+after : duration = 0.000224
+after : duration = 0.000232
+after : duration = 0.000253
+  Name      Size            Bytes  Class    Attributes
+
+  Qs        2x1                 8  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18908x18908            2860099712  double              
+
+    'domain'    'paper'    'domain'    'paper'    '	time= '    '10.351'
+
+
+path =
+
+     3     1     3     1
+
+
+star =
+
+     0     0     1     1
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 2.8e-05
+middle : duration = 0.00079
+middle : duration = 2.4e-05
+after : duration = 0.00017
+after : duration = 0.000307
+  Name      Size            Bytes  Class    Attributes
+
+  Qs        2x1                 8  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18908x18908            2860099712  double              
+
+    'domain'    'paper'    'domain'    'paper'    '	time= '    '10.3293'
+
+
+path =
+
+     3     1     3     1
+
+
+star =
+
+     0     1     0     0
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 0.000283
+middle : duration = 2.8e-05
+middle : duration = 2.5e-05
+middle : duration = 0.000357
+after : duration = 0.000234
+after : duration = 0.000242
+after : duration = 0.000178
+  Name      Size            Bytes  Class    Attributes
+
+  Qs        2x1                 8  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18908x18908            2860099712  double              
+
+    'domain'    'paper'    'domain'    'paper'    '	time= '    '10.3372'
+
+
+path =
+
+     3     1     3     1
+
+
+star =
+
+     0     1     0     1
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 0.000277
+middle : duration = 0.000276
+middle : duration = 0.000384
+after : duration = 0.000273
+after : duration = 0.000258
+  Name      Size            Bytes  Class    Attributes
+
+  Qs        2x1                 8  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18908x18908            2860099712  double              
+
+    'domain'    'paper'    'domain'    'paper'    '	time= '    '10.3549'
+
+
+path =
+
+     3     1     3     1
+
+
+star =
+
+     0     1     1     0
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 0.000543
+middle : duration = 0.000662
+after : duration = 0.000176
+  Name      Size            Bytes  Class    Attributes
+
+  Qs        2x1                 8  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18908x18908            2860099712  double              
+
+    'domain'    'paper'    'domain'    'paper'    '	time= '    '10.3417'
+
+
+path =
+
+     3     1     3     1
+
+
+star =
+
+     0     1     1     1
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 0.001375
+  Name      Size            Bytes  Class    Attributes
+
+  Qs        2x1                 8  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18908x18908            2860099712  double              
+
+    'domain'    'paper'    'domain'    'paper'    '	time= '    '10.3525'
+
+
+path =
+
+     4     3     4     3
+
+
+star =
+
+     0     0     0     0
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 2.9e-05
+middle : duration = 2.5e-05
+middle : duration = 2.4e-05
+middle : duration = 2.4e-05
+middle : duration = 2.4e-05
+middle : duration = 3.1e-05
+after : duration = 0.000162
+after : duration = 0.000178
+after : duration = 0.00017
+after : duration = 0.000178
+after : duration = 0.00017
+  Name        Size            Bytes  Class    Attributes
+
+  Qs        159x1               636  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        19067x19067            2908403912  double              
+
+    'keyword'    'domain'    'keyword'    'domain'    '	time= '    '7.6694'
+
+
+path =
+
+     4     3     4     3
+
+
+star =
+
+     0     0     0     1
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 3.6e-05
+middle : duration = 2.6e-05
+middle : duration = 0.000274
+middle : duration = 2.4e-05
+middle : duration = 2.4e-05
+after : duration = 0.000182
+after : duration = 0.000264
+after : duration = 0.000194
+after : duration = 0.000233
+  Name        Size            Bytes  Class    Attributes
+
+  Qs        159x1               636  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        19067x19067            2908403912  double              
+
+    'keyword'    'domain'    'keyword'    'domain'    '	time= '    '7.6514'
+
+
+path =
+
+     4     3     4     3
+
+
+star =
+
+     0     0     1     0
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 2.8e-05
+middle : duration = 0.000282
+middle : duration = 0.000271
+middle : duration = 2.4e-05
+after : duration = 0.000265
+after : duration = 0.000257
+after : duration = 0.000178
+  Name        Size            Bytes  Class    Attributes
+
+  Qs        159x1               636  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        19067x19067            2908403912  double              
+
+    'keyword'    'domain'    'keyword'    'domain'    '	time= '    '7.6582'
+
+
+path =
+
+     4     3     4     3
+
+
+star =
+
+     0     0     1     1
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 2.7e-05
+middle : duration = 0.000795
+middle : duration = 2.4e-05
+after : duration = 0.000169
+after : duration = 0.000272
+  Name        Size            Bytes  Class    Attributes
+
+  Qs        159x1               636  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        19067x19067            2908403912  double              
+
+    'keyword'    'domain'    'keyword'    'domain'    '	time= '    '7.6754'
+
+
+path =
+
+     4     3     4     3
+
+
+star =
+
+     0     1     0     0
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 0.000284
+middle : duration = 2.7e-05
+middle : duration = 2.4e-05
+middle : duration = 0.000277
+after : duration = 0.000263
+after : duration = 0.000275
+after : duration = 0.000174
+  Name        Size            Bytes  Class    Attributes
+
+  Qs        159x1               636  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        19067x19067            2908403912  double              
+
+    'keyword'    'domain'    'keyword'    'domain'    '	time= '    '7.6495'
+
+
+path =
+
+     4     3     4     3
+
+
+star =
+
+     0     1     0     1
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 0.000281
+middle : duration = 0.000277
+middle : duration = 0.000302
+after : duration = 0.000354
+after : duration = 0.000257
+  Name        Size            Bytes  Class    Attributes
+
+  Qs        159x1               636  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        19067x19067            2908403912  double              
+
+    'keyword'    'domain'    'keyword'    'domain'    '	time= '    '7.6582'
+
+
+path =
+
+     4     3     4     3
+
+
+star =
+
+     0     1     1     0
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 0.000546
+middle : duration = 0.00061
+after : duration = 0.00017
+  Name        Size            Bytes  Class    Attributes
+
+  Qs        159x1               636  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        19067x19067            2908403912  double              
+
+    'keyword'    'domain'    'keyword'    'domain'    '	time= '    '7.6638'
+
+
+path =
+
+     4     3     4     3
+
+
+star =
+
+     0     1     1     1
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 0.001291
+  Name        Size            Bytes  Class    Attributes
+
+  Qs        159x1               636  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        19067x19067            2908403912  double              
+
+    'keyword'    'domain'    'keyword'    'domain'    '	time= '    '7.6415'
+
+
+path =
+
+     4     3     1     2
+
+
+star =
+
+     0     0     0     0
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 3e-05
+middle : duration = 2.6e-05
+middle : duration = 2.4e-05
+middle : duration = 2.4e-05
+middle : duration = 2.3e-05
+middle : duration = 2.4e-05
+after : duration = 0.000175
+after : duration = 0.00018
+after : duration = 0.000246
+after : duration = 0.000268
+after : duration = 0.00018
+  Name        Size            Bytes  Class    Attributes
+
+  Qs        159x1               636  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        19067x19067            2908403912  double              
+
+    'keyword'    'domain'    'paper'    'conf'    '	time= '    '10.4638'
+
+
+path =
+
+     4     3     1     2
+
+
+star =
+
+     0     0     0     1
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 2.9e-05
+middle : duration = 2.5e-05
+middle : duration = 0.000359
+middle : duration = 2.5e-05
+middle : duration = 2.4e-05
+after : duration = 0.000228
+after : duration = 0.000264
+after : duration = 0.000257
+after : duration = 0.00018
+  Name        Size            Bytes  Class    Attributes
+
+  Qs        159x1               636  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        19067x19067            2908403912  double              
+
+    'keyword'    'domain'    'paper'    'conf'    '	time= '    '10.4386'
+
+
+path =
+
+     4     3     1     2
+
+
+star =
+
+     0     0     1     0
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 2.9e-05
+middle : duration = 0.000293
+middle : duration = 0.000488
+middle : duration = 2.5e-05
+after : duration = 0.000305
+after : duration = 0.000261
+after : duration = 0.000174
+  Name        Size            Bytes  Class    Attributes
+
+  Qs        159x1               636  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        19067x19067            2908403912  double              
+
+    'keyword'    'domain'    'paper'    'conf'    '	time= '    '10.4296'
+
+
+path =
+
+     4     3     1     2
+
+
+star =
+
+     0     0     1     1
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 2.8e-05
+middle : duration = 0.001019
+middle : duration = 2.4e-05
+after : duration = 0.000221
+after : duration = 0.000267
+  Name        Size            Bytes  Class    Attributes
+
+  Qs        159x1               636  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        19067x19067            2908403912  double              
+
+    'keyword'    'domain'    'paper'    'conf'    '	time= '    '10.4442'
+
+
+path =
+
+     4     3     1     2
+
+
+star =
+
+     0     1     0     0
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 0.000292
+middle : duration = 2.7e-05
+middle : duration = 2.5e-05
+middle : duration = 0.079144
+after : duration = 0.000332
+after : duration = 0.000437
+after : duration = 0.0094
+  Name        Size            Bytes  Class    Attributes
+
+  Qs        159x1               636  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        19067x19067            2908403912  double              
+
+    'keyword'    'domain'    'paper'    'conf'    '	time= '    '10.5556'
+
+
+path =
+
+     4     3     1     2
+
+
+star =
+
+     0     1     0     1
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 0.000301
+middle : duration = 0.000369
+middle : duration = 0.078234
+after : duration = 0.000334
+after : duration = 0.00989
+  Name        Size            Bytes  Class    Attributes
+
+  Qs        159x1               636  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        19067x19067            2908403912  double              
+
+    'keyword'    'domain'    'paper'    'conf'    '	time= '    '10.5155'
+
+
+path =
+
+     4     3     1     2
+
+
+star =
+
+     0     1     1     0
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 0.000613
+middle : duration = 0.00101
+after : duration = 0.000254
+  Name        Size            Bytes  Class    Attributes
+
+  Qs        159x1               636  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        19067x19067            2908403912  double              
+
+    'keyword'    'domain'    'paper'    'conf'    '	time= '    '10.4265'
+
+
+path =
+
+     4     3     1     2
+
+
+star =
+
+     0     1     1     1
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 0.001581
+  Name        Size            Bytes  Class    Attributes
+
+  Qs        159x1               636  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        19067x19067            2908403912  double              
+
+    'keyword'    'domain'    'paper'    'conf'    '	time= '    '10.4554'
+
+
+path =
+
+     4     3     1     3
+
+
+star =
+
+     0     0     0     0
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 2.9e-05
+middle : duration = 2.6e-05
+middle : duration = 2.5e-05
+middle : duration = 2.4e-05
+middle : duration = 2.4e-05
+middle : duration = 2.4e-05
+after : duration = 0.000181
+after : duration = 0.000181
+after : duration = 0.00018
+after : duration = 0.00026
+after : duration = 0.000175
+  Name        Size            Bytes  Class    Attributes
+
+  Qs        159x1               636  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        19067x19067            2908403912  double              
+
+    'keyword'    'domain'    'paper'    'domain'    '	time= '    '10.4288'
+
+
+path =
+
+     4     3     1     3
+
+
+star =
+
+     0     0     0     1
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 2.8e-05
+middle : duration = 2.5e-05
+middle : duration = 0.000288
+middle : duration = 2.5e-05
+middle : duration = 2.3e-05
+after : duration = 0.00023
+after : duration = 0.000257
+after : duration = 0.000256
+after : duration = 0.000186
+  Name        Size            Bytes  Class    Attributes
+
+  Qs        159x1               636  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        19067x19067            2908403912  double              
+
+    'keyword'    'domain'    'paper'    'domain'    '	time= '    '10.449'
+
+
+path =
+
+     4     3     1     3
+
+
+star =
+
+     0     0     1     0
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 2.8e-05
+middle : duration = 0.000298
+middle : duration = 0.000385
+middle : duration = 2.4e-05
+after : duration = 0.000305
+after : duration = 0.000255
+after : duration = 0.000181
+  Name        Size            Bytes  Class    Attributes
+
+  Qs        159x1               636  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        19067x19067            2908403912  double              
+
+    'keyword'    'domain'    'paper'    'domain'    '	time= '    '10.4427'
+
+
+path =
+
+     4     3     1     3
+
+
+star =
+
+     0     0     1     1
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 2.9e-05
+middle : duration = 0.000953
+middle : duration = 2.5e-05
+after : duration = 0.000222
+after : duration = 0.000261
+  Name        Size            Bytes  Class    Attributes
+
+  Qs        159x1               636  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        19067x19067            2908403912  double              
+
+    'keyword'    'domain'    'paper'    'domain'    '	time= '    '10.4249'
+
+
+path =
+
+     4     3     1     3
+
+
+star =
+
+     0     1     0     0
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 0.000295
+middle : duration = 2.7e-05
+middle : duration = 2.5e-05
+middle : duration = 0.078529
+after : duration = 0.000332
+after : duration = 0.000354
+after : duration = 0.009411
+  Name        Size            Bytes  Class    Attributes
+
+  Qs        159x1               636  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        19067x19067            2908403912  double              
+
+    'keyword'    'domain'    'paper'    'domain'    '	time= '    '10.5208'
+
+
+path =
+
+     4     3     1     3
+
+
+star =
+
+     0     1     0     1
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 0.000296
+middle : duration = 0.0003
+middle : duration = 0.07854
+after : duration = 0.000326
+after : duration = 0.009893
+  Name        Size            Bytes  Class    Attributes
+
+  Qs        159x1               636  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        19067x19067            2908403912  double              
+
+    'keyword'    'domain'    'paper'    'domain'    '	time= '    '10.5296'
+
+
+path =
+
+     4     3     1     3
+
+
+star =
+
+     0     1     1     0
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 0.00061
+middle : duration = 0.000803
+after : duration = 0.000224
+  Name        Size            Bytes  Class    Attributes
+
+  Qs        159x1               636  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        19067x19067            2908403912  double              
+
+    'keyword'    'domain'    'paper'    'domain'    '	time= '    '10.4206'
+
+
+path =
+
+     4     3     1     3
+
+
+star =
+
+     0     1     1     1
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 0.001517
+  Name        Size            Bytes  Class    Attributes
+
+  Qs        159x1               636  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        19067x19067            2908403912  double              
+
+    'keyword'    'domain'    'paper'    'domain'    '	time= '    '10.4379'
+
+
+path =
+
+     1     2     1     2
+
+
+star =
+
+     0     0     0     0
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 2.8e-05
+middle : duration = 2.6e-05
+middle : duration = 2.4e-05
+middle : duration = 2.4e-05
+middle : duration = 2.4e-05
+middle : duration = 2.5e-05
+after : duration = 0.000184
+after : duration = 0.000181
+after : duration = 0.000182
+after : duration = 0.000176
+after : duration = 0.000237
+  Name          Size            Bytes  Class    Attributes
+
+  Qs        18872x1             75488  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18872x18872            2849219072  double              
+
+    'paper'    'conf'    'paper'    'conf'    '	time= '    '50.5672'
+
+
+path =
+
+     1     2     1     2
+
+
+star =
+
+     0     0     0     1
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 3.8e-05
+middle : duration = 2.6e-05
+middle : duration = 0.00029
+middle : duration = 2.4e-05
+middle : duration = 2.4e-05
+after : duration = 0.000263
+after : duration = 0.000266
+after : duration = 0.000174
+after : duration = 0.000236
+  Name          Size            Bytes  Class    Attributes
+
+  Qs        18872x1             75488  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18872x18872            2849219072  double              
+
+    'paper'    'conf'    'paper'    'conf'    '	time= '    '52.7626'
+
+
+path =
+
+     1     2     1     2
+
+
+star =
+
+     0     0     1     0
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 2.9e-05
+middle : duration = 0.000288
+middle : duration = 0.000298
+middle : duration = 2.4e-05
+after : duration = 0.00034
+after : duration = 0.000276
+after : duration = 0.00023
+  Name          Size            Bytes  Class    Attributes
+
+  Qs        18872x1             75488  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18872x18872            2849219072  double              
+
+    'paper'    'conf'    'paper'    'conf'    '	time= '    '60.6062'
+
+
+path =
+
+     1     2     1     2
+
+
+star =
+
+     0     0     1     1
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 4.6e-05
+middle : duration = 0.001031
+middle : duration = 2.5e-05
+after : duration = 0.000234
+after : duration = 0.000367
+  Name          Size            Bytes  Class    Attributes
+
+  Qs        18872x1             75488  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18872x18872            2849219072  double              
+
+    'paper'    'conf'    'paper'    'conf'    '	time= '    '55.2527'
+
+
+path =
+
+     1     2     1     2
+
+
+star =
+
+     0     1     0     0
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 0.00031
+middle : duration = 2.9e-05
+middle : duration = 2.4e-05
+middle : duration = 0.000364
+after : duration = 0.000349
+after : duration = 0.000267
+after : duration = 0.000182
+  Name          Size            Bytes  Class    Attributes
+
+  Qs        18872x1             75488  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18872x18872            2849219072  double              
+
+    'paper'    'conf'    'paper'    'conf'    '	time= '    '52.069'
+
+
+path =
+
+     1     2     1     2
+
+
+star =
+
+     0     1     0     1
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 0.000297
+middle : duration = 0.0003
+middle : duration = 0.000444
+after : duration = 0.000353
+after : duration = 0.000256
+  Name          Size            Bytes  Class    Attributes
+
+  Qs        18872x1             75488  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18872x18872            2849219072  double              
+
+    'paper'    'conf'    'paper'    'conf'    '	time= '    '51.372'
+
+
+path =
+
+     1     2     1     2
+
+
+star =
+
+     0     1     1     0
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 0.00064
+middle : duration = 0.000784
+after : duration = 0.000226
+  Name          Size            Bytes  Class    Attributes
+
+  Qs        18872x1             75488  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18872x18872            2849219072  double              
+
+    'paper'    'conf'    'paper'    'conf'    '	time= '    '51.3255'
+
+
+path =
+
+     1     2     1     2
+
+
+star =
+
+     0     1     1     1
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 0.001534
+  Name          Size            Bytes  Class    Attributes
+
+  Qs        18872x1             75488  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18872x18872            2849219072  double              
+
+    'paper'    'conf'    'paper'    'conf'    '	time= '    '51.3099'
+
+
+path =
+
+     1     2     1     3
+
+
+star =
+
+     0     0     0     0
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 2.8e-05
+middle : duration = 2.6e-05
+middle : duration = 2.4e-05
+middle : duration = 2.5e-05
+middle : duration = 2.4e-05
+middle : duration = 2.4e-05
+after : duration = 0.000179
+after : duration = 0.000185
+after : duration = 0.000179
+after : duration = 0.000177
+after : duration = 0.00023
+  Name          Size            Bytes  Class    Attributes
+
+  Qs        18872x1             75488  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18872x18872            2849219072  double              
+
+    'paper'    'conf'    'paper'    'domain'    '	time= '    '50.9961'
+
+
+path =
+
+     1     2     1     3
+
+
+star =
+
+     0     0     0     1
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 2.8e-05
+middle : duration = 2.6e-05
+middle : duration = 0.000295
+middle : duration = 2.5e-05
+middle : duration = 2.4e-05
+after : duration = 0.000265
+after : duration = 0.000258
+after : duration = 0.00018
+after : duration = 0.000241
+  Name          Size            Bytes  Class    Attributes
+
+  Qs        18872x1             75488  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18872x18872            2849219072  double              
+
+    'paper'    'conf'    'paper'    'domain'    '	time= '    '51.4272'
+
+
+path =
+
+     1     2     1     3
+
+
+star =
+
+     0     0     1     0
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 2.8e-05
+middle : duration = 0.000292
+middle : duration = 0.000313
+middle : duration = 2.4e-05
+after : duration = 0.000354
+after : duration = 0.00026
+after : duration = 0.000232
+  Name          Size            Bytes  Class    Attributes
+
+  Qs        18872x1             75488  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18872x18872            2849219072  double              
+
+    'paper'    'conf'    'paper'    'domain'    '	time= '    '51.5198'
+
+
+path =
+
+     1     2     1     3
+
+
+star =
+
+     0     0     1     1
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 2.8e-05
+middle : duration = 0.000908
+middle : duration = 2.5e-05
+after : duration = 0.000234
+after : duration = 0.00032
+  Name          Size            Bytes  Class    Attributes
+
+  Qs        18872x1             75488  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18872x18872            2849219072  double              
+
+    'paper'    'conf'    'paper'    'domain'    '	time= '    '51.3567'
+
+
+path =
+
+     1     2     1     3
+
+
+star =
+
+     0     1     0     0
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 0.000301
+middle : duration = 2.8e-05
+middle : duration = 2.4e-05
+middle : duration = 0.000368
+after : duration = 0.000346
+after : duration = 0.00026
+after : duration = 0.000174
+  Name          Size            Bytes  Class    Attributes
+
+  Qs        18872x1             75488  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18872x18872            2849219072  double              
+
+    'paper'    'conf'    'paper'    'domain'    '	time= '    '51.4613'
+
+
+path =
+
+     1     2     1     3
+
+
+star =
+
+     0     1     0     1
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 0.000294
+middle : duration = 0.000304
+middle : duration = 0.000433
+after : duration = 0.000344
+after : duration = 0.000257
+  Name          Size            Bytes  Class    Attributes
+
+  Qs        18872x1             75488  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18872x18872            2849219072  double              
+
+    'paper'    'conf'    'paper'    'domain'    '	time= '    '51.4409'
+
+
+path =
+
+     1     2     1     3
+
+
+star =
+
+     0     1     1     0
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 0.000642
+middle : duration = 0.000781
+after : duration = 0.000227
+  Name          Size            Bytes  Class    Attributes
+
+  Qs        18872x1             75488  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18872x18872            2849219072  double              
+
+    'paper'    'conf'    'paper'    'domain'    '	time= '    '51.4366'
+
+
+path =
+
+     1     2     1     3
+
+
+star =
+
+     0     1     1     1
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 0.001536
+  Name          Size            Bytes  Class    Attributes
+
+  Qs        18872x1             75488  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18872x18872            2849219072  double              
+
+    'paper'    'conf'    'paper'    'domain'    '	time= '    '51.3328'
+
+
+path =
+
+     1     3     4     3
+
+
+star =
+
+     0     0     0     0
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 3e-05
+middle : duration = 2.6e-05
+middle : duration = 2.4e-05
+middle : duration = 2.4e-05
+middle : duration = 2.4e-05
+middle : duration = 2.5e-05
+after : duration = 0.000176
+after : duration = 0.000181
+after : duration = 0.000175
+after : duration = 0.000177
+after : duration = 0.00023
+  Name          Size            Bytes  Class    Attributes
+
+  Qs        18872x1             75488  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18872x18872            2849219072  double              
+
+    'paper'    'domain'    'keyword'    'domain'    '	time= '    '51.6054'
+
+
+path =
+
+     1     3     4     3
+
+
+star =
+
+     0     0     0     1
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 2.7e-05
+middle : duration = 2.6e-05
+middle : duration = 0.000301
+middle : duration = 2.5e-05
+middle : duration = 2.4e-05
+after : duration = 0.000231
+after : duration = 0.00026
+after : duration = 0.000175
+after : duration = 0.000264
+  Name          Size            Bytes  Class    Attributes
+
+  Qs        18872x1             75488  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18872x18872            2849219072  double              
+
+    'paper'    'domain'    'keyword'    'domain'    '	time= '    '51.3547'
+
+
+path =
+
+     1     3     4     3
+
+
+star =
+
+     0     0     1     0
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 5.1e-05
+middle : duration = 0.000351
+middle : duration = 0.000324
+middle : duration = 2.5e-05
+after : duration = 0.00033
+after : duration = 0.000264
+after : duration = 0.000244
+  Name          Size            Bytes  Class    Attributes
+
+  Qs        18872x1             75488  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18872x18872            2849219072  double              
+
+    'paper'    'domain'    'keyword'    'domain'    '	time= '    '51.9032'
+
+
+path =
+
+     1     3     4     3
+
+
+star =
+
+     0     0     1     1
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 3.2e-05
+middle : duration = 0.000883
+middle : duration = 2.4e-05
+after : duration = 0.000223
+after : duration = 0.000317
+  Name          Size            Bytes  Class    Attributes
+
+  Qs        18872x1             75488  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18872x18872            2849219072  double              
+
+    'paper'    'domain'    'keyword'    'domain'    '	time= '    '51.4415'
+
+
+path =
+
+     1     3     4     3
+
+
+star =
+
+     0     1     0     0
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 0.000292
+middle : duration = 2.8e-05
+middle : duration = 2.5e-05
+middle : duration = 0.049035
+after : duration = 0.000339
+after : duration = 0.00044
+after : duration = 0.009998
+  Name          Size            Bytes  Class    Attributes
+
+  Qs        18872x1             75488  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18872x18872            2849219072  double              
+
+    'paper'    'domain'    'keyword'    'domain'    '	time= '    '51.5121'
+
+
+path =
+
+     1     3     4     3
+
+
+star =
+
+     0     1     0     1
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 0.000297
+middle : duration = 0.000308
+middle : duration = 0.048615
+after : duration = 0.000328
+after : duration = 0.01054
+  Name          Size            Bytes  Class    Attributes
+
+  Qs        18872x1             75488  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18872x18872            2849219072  double              
+
+    'paper'    'domain'    'keyword'    'domain'    '	time= '    '51.3739'
+
+
+path =
+
+     1     3     4     3
+
+
+star =
+
+     0     1     1     0
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 0.000601
+middle : duration = 0.000779
+after : duration = 0.000224
+  Name          Size            Bytes  Class    Attributes
+
+  Qs        18872x1             75488  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18872x18872            2849219072  double              
+
+    'paper'    'domain'    'keyword'    'domain'    '	time= '    '51.803'
+
+
+path =
+
+     1     3     4     3
+
+
+star =
+
+     0     1     1     1
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 0.001494
+  Name          Size            Bytes  Class    Attributes
+
+  Qs        18872x1             75488  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18872x18872            2849219072  double              
+
+    'paper'    'domain'    'keyword'    'domain'    '	time= '    '51.4875'
+
+
+path =
+
+     1     3     1     2
+
+
+star =
+
+     0     0     0     0
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 2.8e-05
+middle : duration = 2.6e-05
+middle : duration = 2.5e-05
+middle : duration = 2.5e-05
+middle : duration = 2.4e-05
+middle : duration = 2.5e-05
+after : duration = 0.000177
+after : duration = 0.00018
+after : duration = 0.000175
+after : duration = 0.000178
+after : duration = 0.000229
+  Name          Size            Bytes  Class    Attributes
+
+  Qs        18872x1             75488  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18872x18872            2849219072  double              
+
+    'paper'    'domain'    'paper'    'conf'    '	time= '    '51.4121'
+
+
+path =
+
+     1     3     1     2
+
+
+star =
+
+     0     0     0     1
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 2.8e-05
+middle : duration = 2.6e-05
+middle : duration = 0.000292
+middle : duration = 2.4e-05
+middle : duration = 2.5e-05
+after : duration = 0.000243
+after : duration = 0.00026
+after : duration = 0.000182
+after : duration = 0.000235
+  Name          Size            Bytes  Class    Attributes
+
+  Qs        18872x1             75488  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18872x18872            2849219072  double              
+
+    'paper'    'domain'    'paper'    'conf'    '	time= '    '51.5152'
+
+
+path =
+
+     1     3     1     2
+
+
+star =
+
+     0     0     1     0
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 2.9e-05
+middle : duration = 0.000293
+middle : duration = 0.000304
+middle : duration = 2.4e-05
+after : duration = 0.000314
+after : duration = 0.000257
+after : duration = 0.000231
+  Name          Size            Bytes  Class    Attributes
+
+  Qs        18872x1             75488  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18872x18872            2849219072  double              
+
+    'paper'    'domain'    'paper'    'conf'    '	time= '    '50.8385'
+
+
+path =
+
+     1     3     1     2
+
+
+star =
+
+     0     0     1     1
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 2.8e-05
+middle : duration = 0.000864
+middle : duration = 2.4e-05
+after : duration = 0.000223
+after : duration = 0.000326
+  Name          Size            Bytes  Class    Attributes
+
+  Qs        18872x1             75488  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18872x18872            2849219072  double              
+
+    'paper'    'domain'    'paper'    'conf'    '	time= '    '50.7806'
+
+
+path =
+
+     1     3     1     2
+
+
+star =
+
+     0     1     0     0
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 0.000294
+middle : duration = 2.7e-05
+middle : duration = 2.4e-05
+middle : duration = 0.000354
+after : duration = 0.000312
+after : duration = 0.000269
+after : duration = 0.000174
+  Name          Size            Bytes  Class    Attributes
+
+  Qs        18872x1             75488  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18872x18872            2849219072  double              
+
+    'paper'    'domain'    'paper'    'conf'    '	time= '    '50.6391'
+
+
+path =
+
+     1     3     1     2
+
+
+star =
+
+     0     1     0     1
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 0.000303
+middle : duration = 0.000312
+middle : duration = 0.0004
+after : duration = 0.00034
+after : duration = 0.000268
+  Name          Size            Bytes  Class    Attributes
+
+  Qs        18872x1             75488  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18872x18872            2849219072  double              
+
+    'paper'    'domain'    'paper'    'conf'    '	time= '    '57.5804'
+
+
+path =
+
+     1     3     1     2
+
+
+star =
+
+     0     1     1     0
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 0.000612
+middle : duration = 0.000782
+after : duration = 0.000226
+  Name          Size            Bytes  Class    Attributes
+
+  Qs        18872x1             75488  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18872x18872            2849219072  double              
+
+    'paper'    'domain'    'paper'    'conf'    '	time= '    '56.9832'
+
+
+path =
+
+     1     3     1     2
+
+
+star =
+
+     0     1     1     1
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 0.00149
+  Name          Size            Bytes  Class    Attributes
+
+  Qs        18872x1             75488  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18872x18872            2849219072  double              
+
+    'paper'    'domain'    'paper'    'conf'    '	time= '    '59.8423'
+
+
+path =
+
+     1     3     1     3
+
+
+star =
+
+     0     0     0     0
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 3e-05
+middle : duration = 2.6e-05
+middle : duration = 2.5e-05
+middle : duration = 3.3e-05
+middle : duration = 2.4e-05
+middle : duration = 2.5e-05
+after : duration = 0.000175
+after : duration = 0.000182
+after : duration = 0.000175
+after : duration = 0.00018
+after : duration = 0.000229
+  Name          Size            Bytes  Class    Attributes
+
+  Qs        18872x1             75488  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18872x18872            2849219072  double              
+
+    'paper'    'domain'    'paper'    'domain'    '	time= '    '57.5044'
+
+
+path =
+
+     1     3     1     3
+
+
+star =
+
+     0     0     0     1
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 2.9e-05
+middle : duration = 2.6e-05
+middle : duration = 0.000289
+middle : duration = 2.5e-05
+middle : duration = 2.3e-05
+after : duration = 0.000239
+after : duration = 0.000258
+after : duration = 0.000186
+after : duration = 0.000237
+  Name          Size            Bytes  Class    Attributes
+
+  Qs        18872x1             75488  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18872x18872            2849219072  double              
+
+    'paper'    'domain'    'paper'    'domain'    '	time= '    '59.7806'
+
+
+path =
+
+     1     3     1     3
+
+
+star =
+
+     0     0     1     0
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 2.7e-05
+middle : duration = 0.000294
+middle : duration = 0.000295
+middle : duration = 2.4e-05
+after : duration = 0.000309
+after : duration = 0.000258
+after : duration = 0.000232
+  Name          Size            Bytes  Class    Attributes
+
+  Qs        18872x1             75488  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18872x18872            2849219072  double              
+
+    'paper'    'domain'    'paper'    'domain'    '	time= '    '57.7291'
+
+
+path =
+
+     1     3     1     3
+
+
+star =
+
+     0     0     1     1
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 2.9e-05
+middle : duration = 0.000867
+middle : duration = 2.4e-05
+after : duration = 0.000231
+after : duration = 0.000324
+  Name          Size            Bytes  Class    Attributes
+
+  Qs        18872x1             75488  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18872x18872            2849219072  double              
+
+    'paper'    'domain'    'paper'    'domain'    '	time= '    '59.8854'
+
+
+path =
+
+     1     3     1     3
+
+
+star =
+
+     0     1     0     0
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 0.000294
+middle : duration = 2.7e-05
+middle : duration = 2.4e-05
+middle : duration = 0.000355
+after : duration = 0.000322
+after : duration = 0.000261
+after : duration = 0.00018
+  Name          Size            Bytes  Class    Attributes
+
+  Qs        18872x1             75488  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18872x18872            2849219072  double              
+
+    'paper'    'domain'    'paper'    'domain'    '	time= '    '58'
+
+
+path =
+
+     1     3     1     3
+
+
+star =
+
+     0     1     0     1
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 0.00029
+middle : duration = 0.0003
+middle : duration = 0.000408
+after : duration = 0.000339
+after : duration = 0.000261
+  Name          Size            Bytes  Class    Attributes
+
+  Qs        18872x1             75488  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18872x18872            2849219072  double              
+
+    'paper'    'domain'    'paper'    'domain'    '	time= '    '59.6759'
+
+
+path =
+
+     1     3     1     3
+
+
+star =
+
+     0     1     1     0
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 0.000622
+middle : duration = 0.000766
+after : duration = 0.000232
+  Name          Size            Bytes  Class    Attributes
+
+  Qs        18872x1             75488  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18872x18872            2849219072  double              
+
+    'paper'    'domain'    'paper'    'domain'    '	time= '    '58.1474'
+
+
+path =
+
+     1     3     1     3
+
+
+star =
+
+     0     1     1     1
+
+  Name          Size                 Bytes  Class     Attributes
+
+  A         19067x19067            1367232  double    sparse    
+
+middle : duration = 0.001502
+  Name          Size            Bytes  Class    Attributes
+
+  Qs        18872x1             75488  int32              
+
+  Name          Size                Bytes  Class     Attributes
+
+  CM        19067x19067            152560  double    sparse    
+
+  Name          Size                    Bytes  Class     Attributes
+
+  S2        18872x18872            2849219072  double              
+
+    'paper'    'domain'    'paper'    'domain'    '	time= '    '59.8033'
+
+modpathsim2: elapsed time = 5517.7838
+---------------------------------------------------------------

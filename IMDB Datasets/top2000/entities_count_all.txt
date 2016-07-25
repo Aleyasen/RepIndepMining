@@ -1,0 +1,83 @@
+movie starring
+movie directedby
+actor starring
+director directedby
+character starring
+movie starring movie
+movie starring character
+movie starring actor
+movie directedby movie
+movie directedby director
+actor starring movie
+actor starring character
+actor starring actor
+director directedby movie
+director directedby director
+character starring movie
+character starring character
+character starring actor
+movie starring movie starring
+movie starring movie directedby
+movie starring character starring
+movie starring actor starring
+movie directedby movie starring
+movie directedby movie directedby
+movie directedby director directedby
+actor starring movie starring
+actor starring movie directedby
+actor starring character starring
+actor starring actor starring
+director directedby movie starring
+director directedby movie directedby
+director directedby director directedby
+character starring movie starring
+character starring movie directedby
+character starring character starring
+character starring actor starring
+movie starring movie starring movie
+movie starring movie starring character
+movie starring movie starring actor
+movie starring movie directedby movie
+movie starring movie directedby director
+movie starring character starring movie
+movie starring character starring character
+movie starring character starring actor
+movie starring actor starring movie
+movie starring actor starring character
+movie starring actor starring actor
+movie directedby movie starring movie
+movie directedby movie starring character
+movie directedby movie starring actor
+movie directedby movie directedby movie
+movie directedby movie directedby director
+movie directedby director directedby movie
+movie directedby director directedby director
+actor starring movie starring movie
+actor starring movie starring character
+actor starring movie starring actor
+actor starring movie directedby movie
+actor starring movie directedby director
+actor starring character starring movie
+actor starring character starring character
+actor starring character starring actor
+actor starring actor starring movie
+actor starring actor starring character
+actor starring actor starring actor
+director directedby movie starring movie
+director directedby movie starring character
+director directedby movie starring actor
+director directedby movie directedby movie
+director directedby movie directedby director
+director directedby director directedby movie
+director directedby director directedby director
+character starring movie starring movie
+character starring movie starring character
+character starring movie starring actor
+character starring movie directedby movie
+character starring movie directedby director
+character starring character starring movie
+character starring character starring character
+character starring character starring actor
+character starring actor starring movie
+character starring actor starring character
+character starring actor starring actor

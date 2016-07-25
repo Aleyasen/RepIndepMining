@@ -1,0 +1,13 @@
+movie starring movie
+movie starring character
+movie starring actor
+movie directedby movie
+movie directedby director
+actor starring movie
+actor starring character
+actor starring actor
+director directedby movie
+director directedby director
+character starring movie
+character starring character
+character starring actor

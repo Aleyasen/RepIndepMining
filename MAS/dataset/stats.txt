@@ -1,0 +1,20 @@
+filtered_3:
+Nodes#: 28078
+Edges#: 55962
+
+filtered_2: >>>>>>>
+Nodes#: 20314
+Edges#: 40466
+
+
+filtered_10:
+Nodes#: 95127
+Edges#: 189776
+
+filtered_8: >>>>>>
+Nodes#: 79955
+Edges#: 159532
+
+filtered_5: >>>>>>
+Nodes#: 60532
+Edges#: 120720

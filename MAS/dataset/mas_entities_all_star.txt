@@ -1,0 +1,180 @@
+paper domain	0 0
+paper domain	0 1
+paper conf	0 0
+paper conf	0 1
+keyword domain	0 0
+keyword domain	0 1
+domain paper	0 0
+domain paper	0 1
+domain keyword	0 0
+domain keyword	0 1
+conf paper	0 0
+conf paper	0 1
+paper domain paper	0 0 0
+paper domain paper	0 1 0
+paper domain paper	0 0 1
+paper domain paper	0 1 1
+paper domain keyword	0 0 0
+paper domain keyword	0 1 0
+paper domain keyword	0 0 1
+paper domain keyword	0 1 1
+paper conf paper	0 0 0
+paper conf paper	0 1 0
+paper conf paper	0 0 1
+paper conf paper	0 1 1
+keyword domain paper	0 0 0
+keyword domain paper	0 1 0
+keyword domain paper	0 0 1
+keyword domain paper	0 1 1
+keyword domain keyword	0 0 0
+keyword domain keyword	0 1 0
+keyword domain keyword	0 0 1
+keyword domain keyword	0 1 1
+domain paper domain	0 0 0
+domain paper domain	0 1 0
+domain paper domain	0 0 1
+domain paper domain	0 1 1
+domain paper conf	0 0 0
+domain paper conf	0 1 0
+domain paper conf	0 0 1
+domain paper conf	0 1 1
+domain keyword domain	0 0 0
+domain keyword domain	0 1 0
+domain keyword domain	0 0 1
+domain keyword domain	0 1 1
+conf paper domain	0 0 0
+conf paper domain	0 1 0
+conf paper domain	0 0 1
+conf paper domain	0 1 1
+conf paper conf	0 0 0
+conf paper conf	0 1 0
+conf paper conf	0 0 1
+conf paper conf	0 1 1
+conf paper conf paper	0 0 0 0
+conf paper conf paper	0 0 0 1
+conf paper conf paper	0 0 1 0
+conf paper conf paper	0 0 1 1
+conf paper conf paper	0 1 0 0
+conf paper conf paper	0 1 0 1
+conf paper conf paper	0 1 1 0
+conf paper conf paper	0 1 1 1
+conf paper domain keyword	0 0 0 0
+conf paper domain keyword	0 0 0 1
+conf paper domain keyword	0 0 1 0
+conf paper domain keyword	0 0 1 1
+conf paper domain keyword	0 1 0 0
+conf paper domain keyword	0 1 0 1
+conf paper domain keyword	0 1 1 0
+conf paper domain keyword	0 1 1 1
+conf paper domain paper	0 0 0 0
+conf paper domain paper	0 0 0 1
+conf paper domain paper	0 0 1 0
+conf paper domain paper	0 0 1 1
+conf paper domain paper	0 1 0 0
+conf paper domain paper	0 1 0 1
+conf paper domain paper	0 1 1 0
+conf paper domain paper	0 1 1 1
+domain keyword domain keyword	0 0 0 0
+domain keyword domain keyword	0 0 0 1
+domain keyword domain keyword	0 0 1 0
+domain keyword domain keyword	0 0 1 1
+domain keyword domain keyword	0 1 0 0
+domain keyword domain keyword	0 1 0 1
+domain keyword domain keyword	0 1 1 0
+domain keyword domain keyword	0 1 1 1
+domain keyword domain paper	0 0 0 0
+domain keyword domain paper	0 0 0 1
+domain keyword domain paper	0 0 1 0
+domain keyword domain paper	0 0 1 1
+domain keyword domain paper	0 1 0 0
+domain keyword domain paper	0 1 0 1
+domain keyword domain paper	0 1 1 0
+domain keyword domain paper	0 1 1 1
+domain paper conf paper	0 0 0 0
+domain paper conf paper	0 0 0 1
+domain paper conf paper	0 0 1 0
+domain paper conf paper	0 0 1 1
+domain paper conf paper	0 1 0 0
+domain paper conf paper	0 1 0 1
+domain paper conf paper	0 1 1 0
+domain paper conf paper	0 1 1 1
+domain paper domain keyword	0 0 0 0
+domain paper domain keyword	0 0 0 1
+domain paper domain keyword	0 0 1 0
+domain paper domain keyword	0 0 1 1
+domain paper domain keyword	0 1 0 0
+domain paper domain keyword	0 1 0 1
+domain paper domain keyword	0 1 1 0
+domain paper domain keyword	0 1 1 1
+domain paper domain paper	0 0 0 0
+domain paper domain paper	0 0 0 1
+domain paper domain paper	0 0 1 0
+domain paper domain paper	0 0 1 1
+domain paper domain paper	0 1 0 0
+domain paper domain paper	0 1 0 1
+domain paper domain paper	0 1 1 0
+domain paper domain paper	0 1 1 1
+keyword domain keyword domain	0 0 0 0
+keyword domain keyword domain	0 0 0 1
+keyword domain keyword domain	0 0 1 0
+keyword domain keyword domain	0 0 1 1
+keyword domain keyword domain	0 1 0 0
+keyword domain keyword domain	0 1 0 1
+keyword domain keyword domain	0 1 1 0
+keyword domain keyword domain	0 1 1 1
+keyword domain paper conf	0 0 0 0
+keyword domain paper conf	0 0 0 1
+keyword domain paper conf	0 0 1 0
+keyword domain paper conf	0 0 1 1
+keyword domain paper conf	0 1 0 0
+keyword domain paper conf	0 1 0 1
+keyword domain paper conf	0 1 1 0
+keyword domain paper conf	0 1 1 1
+keyword domain paper domain	0 0 0 0
+keyword domain paper domain	0 0 0 1
+keyword domain paper domain	0 0 1 0
+keyword domain paper domain	0 0 1 1
+keyword domain paper domain	0 1 0 0
+keyword domain paper domain	0 1 0 1
+keyword domain paper domain	0 1 1 0
+keyword domain paper domain	0 1 1 1
+paper conf paper conf	0 0 0 0
+paper conf paper conf	0 0 0 1
+paper conf paper conf	0 0 1 0
+paper conf paper conf	0 0 1 1
+paper conf paper conf	0 1 0 0
+paper conf paper conf	0 1 0 1
+paper conf paper conf	0 1 1 0
+paper conf paper conf	0 1 1 1
+paper conf paper domain	0 0 0 0
+paper conf paper domain	0 0 0 1
+paper conf paper domain	0 0 1 0
+paper conf paper domain	0 0 1 1
+paper conf paper domain	0 1 0 0
+paper conf paper domain	0 1 0 1
+paper conf paper domain	0 1 1 0
+paper conf paper domain	0 1 1 1
+paper domain keyword domain	0 0 0 0
+paper domain keyword domain	0 0 0 1
+paper domain keyword domain	0 0 1 0
+paper domain keyword domain	0 0 1 1
+paper domain keyword domain	0 1 0 0
+paper domain keyword domain	0 1 0 1
+paper domain keyword domain	0 1 1 0
+paper domain keyword domain	0 1 1 1
+paper domain paper conf	0 0 0 0
+paper domain paper conf	0 0 0 1
+paper domain paper conf	0 0 1 0
+paper domain paper conf	0 0 1 1
+paper domain paper conf	0 1 0 0
+paper domain paper conf	0 1 0 1
+paper domain paper conf	0 1 1 0
+paper domain paper conf	0 1 1 1
+paper domain paper domain	0 0 0 0
+paper domain paper domain	0 0 0 1
+paper domain paper domain	0 0 1 0
+paper domain paper domain	0 0 1 1
+paper domain paper domain	0 1 0 0
+paper domain paper domain	0 1 0 1
+paper domain paper domain	0 1 1 0
+paper domain paper domain	0 1 1 1

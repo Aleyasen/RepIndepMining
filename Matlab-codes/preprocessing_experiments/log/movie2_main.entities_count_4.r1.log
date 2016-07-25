@@ -1,0 +1,185 @@
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2014 The MathWorks, Inc.
+                    R2014a (8.3.0.532) 64-bit (glnxa64)
+                             February 11, 2014
+
+
+	This is a Classroom License for instructional use only.
+	Research and commercial use is prohibited.
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+nodesReader : read /srv/data/projects/apps/RepIndep_CIDR/fullgraph/top2000/movie.txt
+nodesReader : read /srv/data/projects/apps/RepIndep_CIDR/fullgraph/top2000/actor.txt
+nodesReader : read /srv/data/projects/apps/RepIndep_CIDR/fullgraph/top2000/director.txt
+nodesReader : read /srv/data/projects/apps/RepIndep_CIDR/fullgraph/top2000/starring.txt
+nodesReader : read /srv/data/projects/apps/RepIndep_CIDR/fullgraph/top2000/character.txt
+nodesReader : read /srv/data/projects/apps/RepIndep_CIDR/fullgraph/top2000/directedby.txt
+edgesReader : read /srv/data/projects/apps/RepIndep_CIDR/fullgraph/top2000/starring_actor.txt
+edgesReader : read /srv/data/projects/apps/RepIndep_CIDR/fullgraph/top2000/starring_movie.txt
+edgesReader : read /srv/data/projects/apps/RepIndep_CIDR/fullgraph/top2000/starring_character.txt
+edgesReader : read /srv/data/projects/apps/RepIndep_CIDR/fullgraph/top2000/directedby_director.txt
+edgesReader : read /srv/data/projects/apps/RepIndep_CIDR/fullgraph/top2000/directedby_movie.txt
+There are 0 isolated nodes in G.
+Data size is |V|=41385 |E|=116444
+data_mp length = 18
+mp = movie starring movie starring
+mp = movie starring movie directedby
+mp = movie starring character starring
+mp = movie starring actor starring
+mp = movie directedby movie starring
+mp = movie directedby movie directedby
+mp = movie directedby director directedby
+mp = actor starring movie starring
+mp = actor starring movie directedby
+mp = actor starring character starring
+mp = actor starring actor starring
+mp = director directedby movie starring
+mp = director directedby movie directedby
+mp = director directedby director directedby
+mp = character starring movie starring
+mp = character starring movie directedby
+mp = character starring character starring
+mp = character starring actor starring
+before : duration = 0.066819
+before : duration = 0.000823
+    'movie'    'starring'    'movie'    'starring'    '	time= '    '53.5444'
+
+before : duration = 0.000688
+before : duration = 0.00061
+    'movie'    'starring'    'movie'    'directedby'    '	time= '    '54.493'
+
+before : duration = 0.000505
+before : duration = 0.000712
+  Columns 1 through 5
+
+    'movie'    'starring'    'character'    'starring'    '	time= '
+
+  Column 6
+
+    '53.9952'
+
+before : duration = 0.000717
+before : duration = 0.000728
+    'movie'    'starring'    'actor'    'starring'    '	time= '    '55.4322'
+
+before : duration = 0.000469
+before : duration = 0.000551
+    'movie'    'directedby'    'movie'    'starring'    '	time= '    '54.5429'
+
+before : duration = 0.000445
+before : duration = 0.000668
+  Columns 1 through 5
+
+    'movie'    'directedby'    'movie'    'directedby'    '	time= '
+
+  Column 6
+
+    '51.8284'
+
+before : duration = 0.000495
+before : duration = 0.000741
+  Columns 1 through 5
+
+    'movie'    'directedby'    'director'    'directedby'    '	time= '
+
+  Column 6
+
+    '51.9801'
+
+before : duration = 0.000764
+before : duration = 0.00069
+    'actor'    'starring'    'movie'    'starring'    '	time= '    '53.9516'
+
+before : duration = 0.001822
+before : duration = 0.001225
+    'actor'    'starring'    'movie'    'directedby'    '	time= '    '53.9007'
+
+before : duration = 0.000796
+before : duration = 0.000768
+  Columns 1 through 5
+
+    'actor'    'starring'    'character'    'starring'    '	time= '
+
+  Column 6
+
+    '55.6296'
+
+before : duration = 0.000486
+before : duration = 0.000694
+    'actor'    'starring'    'actor'    'starring'    '	time= '    '53.6478'
+
+before : duration = 0.000618
+before : duration = 0.000933
+  Columns 1 through 5
+
+    'director'    'directedby'    'movie'    'starring'    '	time= '
+
+  Column 6
+
+    '56.171'
+
+before : duration = 0.000592
+before : duration = 0.000854
+  Columns 1 through 5
+
+    'director'    'directedby'    'movie'    'directedby'    '	time= '
+
+  Column 6
+
+    '57.1483'
+
+before : duration = 0.000481
+before : duration = 0.000756
+  Columns 1 through 5
+
+    'director'    'directedby'    'director'    'directedby'    '	time= '
+
+  Column 6
+
+    '74.1167'
+
+before : duration = 0.000467
+before : duration = 0.000598
+  Columns 1 through 5
+
+    'character'    'starring'    'movie'    'starring'    '	time= '
+
+  Column 6
+
+    '109.7366'
+
+before : duration = 0.001864
+before : duration = 0.000797
+  Columns 1 through 5
+
+    'character'    'starring'    'movie'    'directedby'    '	time= '
+
+  Column 6
+
+    '73.6609'
+
+before : duration = 0.000379
+before : duration = 0.000495
+  Columns 1 through 5
+
+    'character'    'starring'    'character'    'starring'    '	time= '
+
+  Column 6
+
+    '101'
+
+before : duration = 0.000667
+before : duration = 0.00067
+  Columns 1 through 5
+
+    'character'    'starring'    'actor'    'starring'    '	time= '
+
+  Column 6
+
+    '100.3761'
+
+modpathsim1: elapsed time = 1165.1852
+---------------------------------------------------------------

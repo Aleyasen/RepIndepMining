@@ -46,7 +46,7 @@ function S2 = pathSimnew(A,h_VVG,h_VL,path)
 	S2=S2-eye(size(S2));
 	%disp('quick code DONE');
     %fprintf('max error: %.6f\n',max(abs(S2(:)-S(:))));
-	whos('CM')
-	whos('S2')
+	%whos('CM')
+	%whos('S2')
 
 end

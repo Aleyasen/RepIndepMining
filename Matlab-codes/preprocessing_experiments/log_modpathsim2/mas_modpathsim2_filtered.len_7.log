@@ -1,0 +1,1177 @@
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2014 The MathWorks, Inc.
+                    R2014a (8.3.0.532) 64-bit (glnxa64)
+                             February 11, 2014
+
+
+	This is a Classroom License for instructional use only.
+	Research and commercial use is prohibited.
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+nodesReader : read /srv/data/projects/apps/RepIndep_CIDR/dblp/data/mas/paper.txt
+nodesReader : read /srv/data/projects/apps/RepIndep_CIDR/dblp/data/mas/conf.txt
+nodesReader : read /srv/data/projects/apps/RepIndep_CIDR/dblp/data/mas/domain.txt
+nodesReader : read /srv/data/projects/apps/RepIndep_CIDR/dblp/data/mas/keyword.txt
+edgesReader : read /srv/data/projects/apps/RepIndep_CIDR/dblp/data/mas/paper_domain.txt
+edgesReader : read /srv/data/projects/apps/RepIndep_CIDR/dblp/data/mas/paper_conf.txt
+edgesReader : read /srv/data/projects/apps/RepIndep_CIDR/dblp/data/mas/domain_keyword.txt
+There are 2166 isolated nodes in G.
+Data size is |V|=41902 |E|=175478
+data_mp length = 128
+mp = conf paper conf paper star = 0 0 0 0
+mp = conf paper conf paper star = 0 0 0 1
+mp = conf paper conf paper star = 0 0 1 0
+mp = conf paper conf paper star = 0 0 1 1
+mp = conf paper conf paper star = 0 1 0 0
+mp = conf paper conf paper star = 0 1 0 1
+mp = conf paper conf paper star = 0 1 1 0
+mp = conf paper conf paper star = 0 1 1 1
+mp = conf paper domain keyword star = 0 0 0 0
+mp = conf paper domain keyword star = 0 0 0 1
+mp = conf paper domain keyword star = 0 0 1 0
+mp = conf paper domain keyword star = 0 0 1 1
+mp = conf paper domain keyword star = 0 1 0 0
+mp = conf paper domain keyword star = 0 1 0 1
+mp = conf paper domain keyword star = 0 1 1 0
+mp = conf paper domain keyword star = 0 1 1 1
+mp = conf paper domain paper star = 0 0 0 0
+mp = conf paper domain paper star = 0 0 0 1
+mp = conf paper domain paper star = 0 0 1 0
+mp = conf paper domain paper star = 0 0 1 1
+mp = conf paper domain paper star = 0 1 0 0
+mp = conf paper domain paper star = 0 1 0 1
+mp = conf paper domain paper star = 0 1 1 0
+mp = conf paper domain paper star = 0 1 1 1
+mp = domain keyword domain keyword star = 0 0 0 0
+mp = domain keyword domain keyword star = 0 0 0 1
+mp = domain keyword domain keyword star = 0 0 1 0
+mp = domain keyword domain keyword star = 0 0 1 1
+mp = domain keyword domain keyword star = 0 1 0 0
+mp = domain keyword domain keyword star = 0 1 0 1
+mp = domain keyword domain keyword star = 0 1 1 0
+mp = domain keyword domain keyword star = 0 1 1 1
+mp = domain keyword domain paper star = 0 0 0 0
+mp = domain keyword domain paper star = 0 0 0 1
+mp = domain keyword domain paper star = 0 0 1 0
+mp = domain keyword domain paper star = 0 0 1 1
+mp = domain keyword domain paper star = 0 1 0 0
+mp = domain keyword domain paper star = 0 1 0 1
+mp = domain keyword domain paper star = 0 1 1 0
+mp = domain keyword domain paper star = 0 1 1 1
+mp = domain paper conf paper star = 0 0 0 0
+mp = domain paper conf paper star = 0 0 0 1
+mp = domain paper conf paper star = 0 0 1 0
+mp = domain paper conf paper star = 0 0 1 1
+mp = domain paper conf paper star = 0 1 0 0
+mp = domain paper conf paper star = 0 1 0 1
+mp = domain paper conf paper star = 0 1 1 0
+mp = domain paper conf paper star = 0 1 1 1
+mp = domain paper domain keyword star = 0 0 0 0
+mp = domain paper domain keyword star = 0 0 0 1
+mp = domain paper domain keyword star = 0 0 1 0
+mp = domain paper domain keyword star = 0 0 1 1
+mp = domain paper domain keyword star = 0 1 0 0
+mp = domain paper domain keyword star = 0 1 0 1
+mp = domain paper domain keyword star = 0 1 1 0
+mp = domain paper domain keyword star = 0 1 1 1
+mp = domain paper domain paper star = 0 0 0 0
+mp = domain paper domain paper star = 0 0 0 1
+mp = domain paper domain paper star = 0 0 1 0
+mp = domain paper domain paper star = 0 0 1 1
+mp = domain paper domain paper star = 0 1 0 0
+mp = domain paper domain paper star = 0 1 0 1
+mp = domain paper domain paper star = 0 1 1 0
+mp = domain paper domain paper star = 0 1 1 1
+mp = keyword domain keyword domain star = 0 0 0 0
+mp = keyword domain keyword domain star = 0 0 0 1
+mp = keyword domain keyword domain star = 0 0 1 0
+mp = keyword domain keyword domain star = 0 0 1 1
+mp = keyword domain keyword domain star = 0 1 0 0
+mp = keyword domain keyword domain star = 0 1 0 1
+mp = keyword domain keyword domain star = 0 1 1 0
+mp = keyword domain keyword domain star = 0 1 1 1
+mp = keyword domain paper conf star = 0 0 0 0
+mp = keyword domain paper conf star = 0 0 0 1
+mp = keyword domain paper conf star = 0 0 1 0
+mp = keyword domain paper conf star = 0 0 1 1
+mp = keyword domain paper conf star = 0 1 0 0
+mp = keyword domain paper conf star = 0 1 0 1
+mp = keyword domain paper conf star = 0 1 1 0
+mp = keyword domain paper conf star = 0 1 1 1
+mp = keyword domain paper domain star = 0 0 0 0
+mp = keyword domain paper domain star = 0 0 0 1
+mp = keyword domain paper domain star = 0 0 1 0
+mp = keyword domain paper domain star = 0 0 1 1
+mp = keyword domain paper domain star = 0 1 0 0
+mp = keyword domain paper domain star = 0 1 0 1
+mp = keyword domain paper domain star = 0 1 1 0
+mp = keyword domain paper domain star = 0 1 1 1
+mp = paper conf paper conf star = 0 0 0 0
+mp = paper conf paper conf star = 0 0 0 1
+mp = paper conf paper conf star = 0 0 1 0
+mp = paper conf paper conf star = 0 0 1 1
+mp = paper conf paper conf star = 0 1 0 0
+mp = paper conf paper conf star = 0 1 0 1
+mp = paper conf paper conf star = 0 1 1 0
+mp = paper conf paper conf star = 0 1 1 1
+mp = paper conf paper domain star = 0 0 0 0
+mp = paper conf paper domain star = 0 0 0 1
+mp = paper conf paper domain star = 0 0 1 0
+mp = paper conf paper domain star = 0 0 1 1
+mp = paper conf paper domain star = 0 1 0 0
+mp = paper conf paper domain star = 0 1 0 1
+mp = paper conf paper domain star = 0 1 1 0
+mp = paper conf paper domain star = 0 1 1 1
+mp = paper domain keyword domain star = 0 0 0 0
+mp = paper domain keyword domain star = 0 0 0 1
+mp = paper domain keyword domain star = 0 0 1 0
+mp = paper domain keyword domain star = 0 0 1 1
+mp = paper domain keyword domain star = 0 1 0 0
+mp = paper domain keyword domain star = 0 1 0 1
+mp = paper domain keyword domain star = 0 1 1 0
+mp = paper domain keyword domain star = 0 1 1 1
+mp = paper domain paper conf star = 0 0 0 0
+mp = paper domain paper conf star = 0 0 0 1
+mp = paper domain paper conf star = 0 0 1 0
+mp = paper domain paper conf star = 0 0 1 1
+mp = paper domain paper conf star = 0 1 0 0
+mp = paper domain paper conf star = 0 1 0 1
+mp = paper domain paper conf star = 0 1 1 0
+mp = paper domain paper conf star = 0 1 1 1
+mp = paper domain paper domain star = 0 0 0 0
+mp = paper domain paper domain star = 0 0 0 1
+mp = paper domain paper domain star = 0 0 1 0
+mp = paper domain paper domain star = 0 0 1 1
+mp = paper domain paper domain star = 0 1 0 0
+mp = paper domain paper domain star = 0 1 0 1
+mp = paper domain paper domain star = 0 1 1 0
+mp = paper domain paper domain star = 0 1 1 1
+middle : duration = 0.000507
+middle : duration = 3.4e-05
+middle : duration = 2.7e-05
+middle : duration = 2.6e-05
+middle : duration = 2.6e-05
+middle : duration = 2.7e-05
+after : duration = 0.043736
+after : duration = 0.000528
+after : duration = 0.000349
+after : duration = 0.000407
+after : duration = 0.000613
+    'conf'    'paper'    'conf'    'paper'    '	time= '    '45.0545'
+
+middle : duration = 3.9e-05
+middle : duration = 2.7e-05
+middle : duration = 0.001528
+middle : duration = 2.6e-05
+middle : duration = 2.5e-05
+after : duration = 0.000489
+after : duration = 0.00051
+after : duration = 0.000347
+after : duration = 0.00064
+    'conf'    'paper'    'conf'    'paper'    '	time= '    '44.1917'
+
+middle : duration = 3.6e-05
+middle : duration = 0.000711
+middle : duration = 0.000865
+middle : duration = 2.6e-05
+after : duration = 0.00051
+after : duration = 0.000516
+after : duration = 0.000593
+    'conf'    'paper'    'conf'    'paper'    '	time= '    '40.5471'
+
+middle : duration = 3.8e-05
+middle : duration = 0.002523
+middle : duration = 2.8e-05
+after : duration = 0.000375
+after : duration = 0.000773
+    'conf'    'paper'    'conf'    'paper'    '	time= '    '40.0612'
+
+middle : duration = 0.000674
+middle : duration = 5.1e-05
+middle : duration = 3e-05
+middle : duration = 0.001113
+after : duration = 0.00052
+after : duration = 0.000528
+after : duration = 0.000341
+    'conf'    'paper'    'conf'    'paper'    '	time= '    '39.8495'
+
+middle : duration = 0.000713
+middle : duration = 0.000849
+middle : duration = 0.001093
+after : duration = 0.000516
+after : duration = 0.000526
+    'conf'    'paper'    'conf'    'paper'    '	time= '    '41.3589'
+
+middle : duration = 0.00396
+middle : duration = 0.00461
+after : duration = 0.001107
+    'conf'    'paper'    'conf'    'paper'    '	time= '    '46.1379'
+
+middle : duration = 0.003719
+    'conf'    'paper'    'conf'    'paper'    '	time= '    '41.4539'
+
+middle : duration = 3.9e-05
+middle : duration = 2.7e-05
+middle : duration = 3.4e-05
+middle : duration = 2.5e-05
+middle : duration = 2.5e-05
+middle : duration = 2.5e-05
+after : duration = 0.000492
+after : duration = 0.000469
+after : duration = 0.000341
+after : duration = 0.00056
+after : duration = 0.000592
+    'conf'    'paper'    'domain'    'keyword'    '	time= '    '40.1778'
+
+middle : duration = 3.8e-05
+middle : duration = 2.7e-05
+middle : duration = 0.000845
+middle : duration = 2.5e-05
+middle : duration = 3.1e-05
+after : duration = 0.000525
+after : duration = 0.000513
+after : duration = 0.000485
+after : duration = 0.000639
+    'conf'    'paper'    'domain'    'keyword'    '	time= '    '40.1988'
+
+middle : duration = 3.9e-05
+middle : duration = 0.000808
+middle : duration = 0.11242
+middle : duration = 2.9e-05
+after : duration = 0.000593
+after : duration = 0.022024
+after : duration = 0.000707
+    'conf'    'paper'    'domain'    'keyword'    '	time= '    '40.3724'
+
+middle : duration = 3.7e-05
+middle : duration = 0.002392
+middle : duration = 2.6e-05
+after : duration = 0.000376
+after : duration = 0.000772
+    'conf'    'paper'    'domain'    'keyword'    '	time= '    '40.1718'
+
+middle : duration = 0.000814
+middle : duration = 2.8e-05
+middle : duration = 2.5e-05
+middle : duration = 0.00149
+after : duration = 0.000527
+after : duration = 0.000524
+after : duration = 0.00033
+    'conf'    'paper'    'domain'    'keyword'    '	time= '    '39.7959'
+
+middle : duration = 0.00083
+middle : duration = 0.000788
+middle : duration = 0.001661
+after : duration = 0.000507
+after : duration = 0.000514
+    'conf'    'paper'    'domain'    'keyword'    '	time= '    '39.8875'
+
+middle : duration = 0.00157
+middle : duration = 0.1321
+after : duration = 0.00058
+    'conf'    'paper'    'domain'    'keyword'    '	time= '    '40.2665'
+
+middle : duration = 0.003891
+    'conf'    'paper'    'domain'    'keyword'    '	time= '    '40.1704'
+
+middle : duration = 3.8e-05
+middle : duration = 2.6e-05
+middle : duration = 2.6e-05
+middle : duration = 2.5e-05
+middle : duration = 2.5e-05
+middle : duration = 2.6e-05
+after : duration = 0.000495
+after : duration = 0.000476
+after : duration = 0.000341
+after : duration = 0.000549
+after : duration = 0.000598
+    'conf'    'paper'    'domain'    'paper'    '	time= '    '43.6427'
+
+middle : duration = 3.6e-05
+middle : duration = 2.8e-05
+middle : duration = 0.000819
+middle : duration = 2.6e-05
+middle : duration = 2.5e-05
+after : duration = 0.000528
+after : duration = 0.00052
+after : duration = 0.00051
+after : duration = 0.000666
+    'conf'    'paper'    'domain'    'paper'    '	time= '    '47.7909'
+
+middle : duration = 4.8e-05
+middle : duration = 0.000889
+middle : duration = 0.00098
+middle : duration = 2.7e-05
+after : duration = 0.000572
+after : duration = 0.000586
+after : duration = 0.000605
+    'conf'    'paper'    'domain'    'paper'    '	time= '    '47.5153'
+
+middle : duration = 6.6e-05
+middle : duration = 0.002503
+middle : duration = 2.6e-05
+after : duration = 0.000392
+after : duration = 0.000787
+    'conf'    'paper'    'domain'    'paper'    '	time= '    '43.4881'
+
+middle : duration = 0.001024
+middle : duration = 3.5e-05
+middle : duration = 2.6e-05
+middle : duration = 0.00176
+after : duration = 0.000585
+after : duration = 0.000586
+after : duration = 0.00038
+    'conf'    'paper'    'domain'    'paper'    '	time= '    '46.2126'
+
+middle : duration = 0.000963
+middle : duration = 0.00101
+middle : duration = 0.001708
+after : duration = 0.000547
+after : duration = 0.000529
+    'conf'    'paper'    'domain'    'paper'    '	time= '    '46.9271'
+
+middle : duration = 0.001792
+middle : duration = 0.002002
+after : duration = 0.000443
+    'conf'    'paper'    'domain'    'paper'    '	time= '    '42.1397'
+
+middle : duration = 0.004068
+    'conf'    'paper'    'domain'    'paper'    '	time= '    '44.0807'
+
+middle : duration = 6.8e-05
+middle : duration = 3.1e-05
+middle : duration = 2.6e-05
+middle : duration = 2.5e-05
+middle : duration = 3.2e-05
+middle : duration = 2.5e-05
+after : duration = 0.000683
+after : duration = 0.000544
+after : duration = 0.00036
+after : duration = 0.000468
+after : duration = 0.000427
+    'domain'    'keyword'    'domain'    'keyword'    '	time= '    '35.8578'
+
+middle : duration = 7.3e-05
+middle : duration = 3e-05
+middle : duration = 0.001082
+middle : duration = 2.6e-05
+middle : duration = 2.6e-05
+after : duration = 0.000564
+after : duration = 0.000521
+after : duration = 0.000403
+after : duration = 0.000559
+    'domain'    'keyword'    'domain'    'keyword'    '	time= '    '36.759'
+
+middle : duration = 7.1e-05
+middle : duration = 0.00111
+middle : duration = 0.000809
+middle : duration = 2.5e-05
+after : duration = 0.000545
+after : duration = 0.000643
+after : duration = 0.000404
+    'domain'    'keyword'    'domain'    'keyword'    '	time= '    '34.8424'
+
+middle : duration = 7e-05
+middle : duration = 0.002733
+middle : duration = 3.2e-05
+after : duration = 0.000424
+after : duration = 0.000547
+    'domain'    'keyword'    'domain'    'keyword'    '	time= '    '36.9283'
+
+middle : duration = 0.001162
+middle : duration = 3.5e-05
+middle : duration = 2.6e-05
+middle : duration = 0.000841
+after : duration = 0.00053
+after : duration = 0.000533
+after : duration = 0.000346
+    'domain'    'keyword'    'domain'    'keyword'    '	time= '    '45.8673'
+
+middle : duration = 0.001062
+middle : duration = 0.000812
+middle : duration = 0.000828
+after : duration = 0.000529
+after : duration = 0.000537
+    'domain'    'keyword'    'domain'    'keyword'    '	time= '    '40.7336'
+
+middle : duration = 0.001778
+middle : duration = 0.001469
+after : duration = 0.000445
+    'domain'    'keyword'    'domain'    'keyword'    '	time= '    '37.351'
+
+middle : duration = 0.003807
+    'domain'    'keyword'    'domain'    'keyword'    '	time= '    '35.8452'
+
+middle : duration = 5e-05
+middle : duration = 3.7e-05
+middle : duration = 3.5e-05
+middle : duration = 3.6e-05
+middle : duration = 3.7e-05
+middle : duration = 3.7e-05
+after : duration = 0.000714
+after : duration = 0.000667
+after : duration = 0.000412
+after : duration = 0.000423
+after : duration = 0.000364
+    'domain'    'keyword'    'domain'    'paper'    '	time= '    '52.2542'
+
+middle : duration = 3.9e-05
+middle : duration = 4.3e-05
+middle : duration = 0.000935
+middle : duration = 3.7e-05
+middle : duration = 3e-05
+after : duration = 0.000524
+after : duration = 0.000526
+after : duration = 0.000355
+after : duration = 0.000407
+    'domain'    'keyword'    'domain'    'paper'    '	time= '    '46.2601'
+
+middle : duration = 3.9e-05
+middle : duration = 0.000974
+middle : duration = 0.000796
+middle : duration = 3.1e-05
+after : duration = 0.000525
+after : duration = 0.000544
+after : duration = 0.000353
+    'domain'    'keyword'    'domain'    'paper'    '	time= '    '43.1633'
+
+middle : duration = 3.8e-05
+middle : duration = 0.00235
+middle : duration = 2.7e-05
+after : duration = 0.000392
+after : duration = 0.000536
+    'domain'    'keyword'    'domain'    'paper'    '	time= '    '44.0302'
+
+middle : duration = 0.000913
+middle : duration = 2.9e-05
+middle : duration = 2.5e-05
+middle : duration = 0.000801
+after : duration = 0.000517
+after : duration = 0.000517
+after : duration = 0.000343
+    'domain'    'keyword'    'domain'    'paper'    '	time= '    '54.8388'
+
+middle : duration = 0.000935
+middle : duration = 0.000803
+middle : duration = 0.000794
+after : duration = 0.000519
+after : duration = 0.000518
+    'domain'    'keyword'    'domain'    'paper'    '	time= '    '49.6289'
+
+middle : duration = 0.001939
+middle : duration = 0.001645
+after : duration = 0.000471
+    'domain'    'keyword'    'domain'    'paper'    '	time= '    '48.8113'
+
+middle : duration = 0.003876
+    'domain'    'keyword'    'domain'    'paper'    '	time= '    '50.9879'
+
+middle : duration = 4.1e-05
+middle : duration = 2.7e-05
+middle : duration = 2.5e-05
+middle : duration = 3.4e-05
+middle : duration = 2.9e-05
+middle : duration = 2.7e-05
+after : duration = 0.000556
+after : duration = 0.000519
+after : duration = 0.000359
+after : duration = 0.000567
+after : duration = 0.000616
+    'domain'    'paper'    'conf'    'paper'    '	time= '    '50.1169'
+
+middle : duration = 4.1e-05
+middle : duration = 4.5e-05
+middle : duration = 0.001031
+middle : duration = 3.7e-05
+middle : duration = 2.8e-05
+after : duration = 0.000584
+after : duration = 0.000538
+after : duration = 0.00053
+after : duration = 0.000721
+    'domain'    'paper'    'conf'    'paper'    '	time= '    '46.4674'
+
+middle : duration = 4.4e-05
+middle : duration = 0.00097
+middle : duration = 0.001094
+middle : duration = 3e-05
+after : duration = 0.000489
+after : duration = 0.000503
+after : duration = 0.000576
+    'domain'    'paper'    'conf'    'paper'    '	time= '    '42.7187'
+
+middle : duration = 4.1e-05
+middle : duration = 0.00236
+middle : duration = 3.1e-05
+after : duration = 0.000377
+after : duration = 0.000705
+    'domain'    'paper'    'conf'    'paper'    '	time= '    '40.8179'
+
+middle : duration = 0.000817
+middle : duration = 4.5e-05
+middle : duration = 2.7e-05
+middle : duration = 0.001378
+after : duration = 0.000487
+after : duration = 0.0005
+after : duration = 0.000345
+    'domain'    'paper'    'conf'    'paper'    '	time= '    '40.8161'
+
+middle : duration = 0.000837
+middle : duration = 0.000756
+middle : duration = 0.001411
+after : duration = 0.000488
+after : duration = 0.000516
+    'domain'    'paper'    'conf'    'paper'    '	time= '    '40.9016'
+
+middle : duration = 0.001679
+middle : duration = 0.002053
+after : duration = 0.000449
+    'domain'    'paper'    'conf'    'paper'    '	time= '    '40.7693'
+
+middle : duration = 0.003851
+    'domain'    'paper'    'conf'    'paper'    '	time= '    '40.8276'
+
+middle : duration = 4.1e-05
+middle : duration = 4.5e-05
+middle : duration = 2.7e-05
+middle : duration = 3.6e-05
+middle : duration = 2.7e-05
+middle : duration = 3.4e-05
+after : duration = 0.000578
+after : duration = 0.000536
+after : duration = 0.00036
+after : duration = 0.000412
+after : duration = 0.000625
+    'domain'    'paper'    'domain'    'keyword'    '	time= '    '40.8359'
+
+middle : duration = 3.9e-05
+middle : duration = 4.2e-05
+middle : duration = 0.000846
+middle : duration = 3.9e-05
+middle : duration = 3.1e-05
+after : duration = 0.000523
+after : duration = 0.000526
+after : duration = 0.000348
+after : duration = 0.000622
+    'domain'    'paper'    'domain'    'keyword'    '	time= '    '40.6327'
+
+middle : duration = 3.9e-05
+middle : duration = 0.000857
+middle : duration = 0.000805
+middle : duration = 4.1e-05
+after : duration = 0.00051
+after : duration = 0.000521
+after : duration = 0.000565
+    'domain'    'paper'    'domain'    'keyword'    '	time= '    '40.6764'
+
+middle : duration = 3.9e-05
+middle : duration = 0.002256
+middle : duration = 3.1e-05
+after : duration = 0.00038
+after : duration = 0.000758
+    'domain'    'paper'    'domain'    'keyword'    '	time= '    '41.292'
+
+middle : duration = 0.001004
+middle : duration = 4.5e-05
+middle : duration = 3.8e-05
+middle : duration = 0.001108
+after : duration = 0.000529
+after : duration = 0.000546
+after : duration = 0.000357
+    'domain'    'paper'    'domain'    'keyword'    '	time= '    '43.7422'
+
+middle : duration = 0.000806
+middle : duration = 0.000824
+middle : duration = 0.001049
+after : duration = 0.000512
+after : duration = 0.000528
+    'domain'    'paper'    'domain'    'keyword'    '	time= '    '41.7384'
+
+middle : duration = 0.001651
+middle : duration = 0.00169
+after : duration = 0.000429
+    'domain'    'paper'    'domain'    'keyword'    '	time= '    '41.0857'
+
+middle : duration = 0.003808
+    'domain'    'paper'    'domain'    'keyword'    '	time= '    '41.2459'
+
+middle : duration = 3.9e-05
+middle : duration = 2.7e-05
+middle : duration = 2.5e-05
+middle : duration = 2.5e-05
+middle : duration = 2.6e-05
+middle : duration = 2.5e-05
+after : duration = 0.000565
+after : duration = 0.000533
+after : duration = 0.000356
+after : duration = 0.000396
+after : duration = 0.00058
+    'domain'    'paper'    'domain'    'paper'    '	time= '    '41.3363'
+
+middle : duration = 7.8e-05
+middle : duration = 2.9e-05
+middle : duration = 0.001044
+middle : duration = 2.6e-05
+middle : duration = 2.5e-05
+after : duration = 0.000535
+after : duration = 0.000528
+after : duration = 0.000373
+after : duration = 0.000667
+    'domain'    'paper'    'domain'    'paper'    '	time= '    '43.37'
+
+middle : duration = 6.7e-05
+middle : duration = 0.000864
+middle : duration = 0.000759
+middle : duration = 2.5e-05
+after : duration = 0.00045
+after : duration = 0.000487
+after : duration = 0.00056
+    'domain'    'paper'    'domain'    'paper'    '	time= '    '42.8762'
+
+middle : duration = 7.7e-05
+middle : duration = 0.002516
+middle : duration = 2.9e-05
+after : duration = 0.000386
+after : duration = 0.00078
+    'domain'    'paper'    'domain'    'paper'    '	time= '    '51.8298'
+
+middle : duration = 0.001044
+middle : duration = 3.5e-05
+middle : duration = 2.5e-05
+middle : duration = 0.001163
+after : duration = 0.000566
+after : duration = 0.000546
+after : duration = 0.000346
+    'domain'    'paper'    'domain'    'paper'    '	time= '    '44.6985'
+
+middle : duration = 0.000898
+middle : duration = 0.000818
+middle : duration = 0.001069
+after : duration = 0.000535
+after : duration = 0.000523
+    'domain'    'paper'    'domain'    'paper'    '	time= '    '44.2219'
+
+middle : duration = 0.001611
+middle : duration = 0.00228
+after : duration = 0.000427
+    'domain'    'paper'    'domain'    'paper'    '	time= '    '41.8138'
+
+middle : duration = 0.003684
+    'domain'    'paper'    'domain'    'paper'    '	time= '    '40.0607'
+
+middle : duration = 3.4e-05
+middle : duration = 4e-05
+middle : duration = 2.7e-05
+middle : duration = 2.6e-05
+middle : duration = 3.6e-05
+middle : duration = 2.7e-05
+after : duration = 0.000397
+after : duration = 0.000467
+after : duration = 0.000343
+after : duration = 0.000409
+after : duration = 0.000342
+    'keyword'    'domain'    'keyword'    'domain'    '	time= '    '33.1966'
+
+middle : duration = 3.5e-05
+middle : duration = 4.4e-05
+middle : duration = 0.000702
+middle : duration = 2.9e-05
+middle : duration = 2.8e-05
+after : duration = 0.000523
+after : duration = 0.000531
+after : duration = 0.00035
+after : duration = 0.000406
+    'keyword'    'domain'    'keyword'    'domain'    '	time= '    '32.4882'
+
+middle : duration = 3.4e-05
+middle : duration = 0.000732
+middle : duration = 0.000795
+middle : duration = 3e-05
+after : duration = 0.000514
+after : duration = 0.000525
+after : duration = 0.000344
+    'keyword'    'domain'    'keyword'    'domain'    '	time= '    '32.9336'
+
+middle : duration = 3.5e-05
+middle : duration = 0.002175
+middle : duration = 3.2e-05
+after : duration = 0.000372
+after : duration = 0.000538
+    'keyword'    'domain'    'keyword'    'domain'    '	time= '    '33.1107'
+
+middle : duration = 0.000718
+middle : duration = 4.3e-05
+middle : duration = 2.7e-05
+middle : duration = 0.000777
+after : duration = 0.000515
+after : duration = 0.000531
+after : duration = 0.000343
+    'keyword'    'domain'    'keyword'    'domain'    '	time= '    '33.0858'
+
+middle : duration = 0.000734
+middle : duration = 0.000813
+middle : duration = 0.000812
+after : duration = 0.000504
+after : duration = 0.000528
+    'keyword'    'domain'    'keyword'    'domain'    '	time= '    '34.4381'
+
+middle : duration = 0.001527
+middle : duration = 0.001436
+after : duration = 0.000422
+    'keyword'    'domain'    'keyword'    'domain'    '	time= '    '34.5319'
+
+middle : duration = 0.00338
+    'keyword'    'domain'    'keyword'    'domain'    '	time= '    '33.3402'
+
+middle : duration = 3.5e-05
+middle : duration = 4.1e-05
+middle : duration = 2.7e-05
+middle : duration = 3.9e-05
+middle : duration = 2.8e-05
+middle : duration = 3e-05
+after : duration = 0.000397
+after : duration = 0.000462
+after : duration = 0.000503
+after : duration = 0.000652
+after : duration = 0.000365
+    'keyword'    'domain'    'paper'    'conf'    '	time= '    '39.5178'
+
+middle : duration = 3.9e-05
+middle : duration = 4.3e-05
+middle : duration = 0.00103
+middle : duration = 3.3e-05
+middle : duration = 2.7e-05
+after : duration = 0.000557
+after : duration = 0.000542
+after : duration = 0.000629
+after : duration = 0.000436
+    'keyword'    'domain'    'paper'    'conf'    '	time= '    '42.0134'
+
+middle : duration = 4e-05
+middle : duration = 0.00092
+middle : duration = 0.001613
+middle : duration = 4e-05
+after : duration = 0.000591
+after : duration = 0.000564
+after : duration = 0.000413
+    'keyword'    'domain'    'paper'    'conf'    '	time= '    '41.6662'
+
+middle : duration = 3.8e-05
+middle : duration = 0.002584
+middle : duration = 3.2e-05
+after : duration = 0.000384
+after : duration = 0.000536
+    'keyword'    'domain'    'paper'    'conf'    '	time= '    '40.2774'
+
+middle : duration = 0.000719
+middle : duration = 4.1e-05
+middle : duration = 3.7e-05
+middle : duration = 0.20867
+after : duration = 0.00063
+after : duration = 0.000724
+after : duration = 0.022879
+    'keyword'    'domain'    'paper'    'conf'    '	time= '    '40.2543'
+
+middle : duration = 0.000719
+middle : duration = 0.000975
+middle : duration = 0.20674
+after : duration = 0.000595
+after : duration = 0.022953
+    'keyword'    'domain'    'paper'    'conf'    '	time= '    '41.4355'
+
+middle : duration = 0.001589
+middle : duration = 0.002554
+after : duration = 0.000509
+    'keyword'    'domain'    'paper'    'conf'    '	time= '    '40.6723'
+
+middle : duration = 0.003774
+    'keyword'    'domain'    'paper'    'conf'    '	time= '    '39.4098'
+
+middle : duration = 3.9e-05
+middle : duration = 5.1e-05
+middle : duration = 2.7e-05
+middle : duration = 2.7e-05
+middle : duration = 3.7e-05
+middle : duration = 2.8e-05
+after : duration = 0.000401
+after : duration = 0.00047
+after : duration = 0.000349
+after : duration = 0.000652
+after : duration = 0.000344
+    'keyword'    'domain'    'paper'    'domain'    '	time= '    '41.0652'
+
+middle : duration = 4.8e-05
+middle : duration = 4.5e-05
+middle : duration = 0.000939
+middle : duration = 4e-05
+middle : duration = 3.1e-05
+after : duration = 0.000542
+after : duration = 0.000538
+after : duration = 0.000616
+after : duration = 0.000432
+    'keyword'    'domain'    'paper'    'domain'    '	time= '    '41.0726'
+
+middle : duration = 4e-05
+middle : duration = 0.001004
+middle : duration = 0.001106
+middle : duration = 2.9e-05
+after : duration = 0.000515
+after : duration = 0.000521
+after : duration = 0.000357
+    'keyword'    'domain'    'paper'    'domain'    '	time= '    '40.811'
+
+middle : duration = 3.4e-05
+middle : duration = 0.002411
+middle : duration = 3.3e-05
+after : duration = 0.000387
+after : duration = 0.000553
+    'keyword'    'domain'    'paper'    'domain'    '	time= '    '39.4814'
+
+middle : duration = 0.000724
+middle : duration = 3.8e-05
+middle : duration = 3.7e-05
+middle : duration = 0.20539
+after : duration = 0.000595
+after : duration = 0.000555
+after : duration = 0.022742
+    'keyword'    'domain'    'paper'    'domain'    '	time= '    '39.7378'
+
+middle : duration = 0.000715
+middle : duration = 0.000815
+middle : duration = 0.2055
+after : duration = 0.000591
+after : duration = 0.022982
+    'keyword'    'domain'    'paper'    'domain'    '	time= '    '39.8097'
+
+middle : duration = 0.001503
+middle : duration = 0.002181
+after : duration = 0.00042
+    'keyword'    'domain'    'paper'    'domain'    '	time= '    '40.096'
+
+middle : duration = 0.003823
+    'keyword'    'domain'    'paper'    'domain'    '	time= '    '42.2485'
+
+middle : duration = 3.8e-05
+middle : duration = 5e-05
+middle : duration = 2.7e-05
+middle : duration = 2.6e-05
+middle : duration = 3.4e-05
+middle : duration = 2.7e-05
+after : duration = 0.000385
+after : duration = 0.000523
+after : duration = 0.00037
+after : duration = 0.000486
+after : duration = 0.000503
+    'paper'    'conf'    'paper'    'conf'    '	time= '    '481.0598'
+
+middle : duration = 6.6e-05
+middle : duration = 2.8e-05
+middle : duration = 0.000759
+middle : duration = 2.5e-05
+middle : duration = 2.5e-05
+after : duration = 0.000622
+after : duration = 0.000538
+after : duration = 0.00037
+after : duration = 0.00055
+    'paper'    'conf'    'paper'    'conf'    '	time= '    '413.5309'
+
+middle : duration = 5.9e-05
+middle : duration = 0.000742
+middle : duration = 0.000938
+middle : duration = 2.5e-05
+after : duration = 0.000556
+after : duration = 0.000553
+after : duration = 0.000468
+    'paper'    'conf'    'paper'    'conf'    '	time= '    '331.4902'
+
+middle : duration = 6.4e-05
+middle : duration = 0.00234
+middle : duration = 2.5e-05
+after : duration = 0.000394
+after : duration = 0.000681
+    'paper'    'conf'    'paper'    'conf'    '	time= '    '409.5664'
+
+middle : duration = 0.000909
+middle : duration = 4.3e-05
+middle : duration = 2.6e-05
+middle : duration = 0.001237
+after : duration = 0.000567
+after : duration = 0.000567
+after : duration = 0.000346
+    'paper'    'conf'    'paper'    'conf'    '	time= '    '556.8057'
+
+middle : duration = 0.000838
+middle : duration = 0.001101
+middle : duration = 0.001046
+after : duration = 0.00062
+after : duration = 0.000555
+    'paper'    'conf'    'paper'    'conf'    '	time= '    '307.6299'
+
+middle : duration = 0.00171
+middle : duration = 0.001591
+after : duration = 0.000445
+    'paper'    'conf'    'paper'    'conf'    '	time= '    '474.4988'
+
+middle : duration = 0.003822
+    'paper'    'conf'    'paper'    'conf'    '	time= '    '382.2848'
+
+middle : duration = 6e-05
+middle : duration = 3e-05
+middle : duration = 2.6e-05
+middle : duration = 2.5e-05
+middle : duration = 2.6e-05
+middle : duration = 2.5e-05
+after : duration = 0.000499
+after : duration = 0.000527
+after : duration = 0.000345
+after : duration = 0.000399
+after : duration = 0.000461
+    'paper'    'conf'    'paper'    'domain'    '	time= '    '458.4369'
+
+middle : duration = 3.7e-05
+middle : duration = 2.7e-05
+middle : duration = 0.001077
+middle : duration = 3.3e-05
+middle : duration = 3.5e-05
+after : duration = 0.000741
+after : duration = 0.00077
+after : duration = 0.000508
+after : duration = 0.000928
+    'paper'    'conf'    'paper'    'domain'    '	time= '    '509.6656'
+
+middle : duration = 3.2e-05
+middle : duration = 0.000834
+middle : duration = 0.000828
+middle : duration = 2.5e-05
+after : duration = 0.000508
+after : duration = 0.00053
+after : duration = 0.000457
+    'paper'    'conf'    'paper'    'domain'    '	time= '    '293.4534'
+
+middle : duration = 3.4e-05
+middle : duration = 0.002356
+middle : duration = 3.1e-05
+after : duration = 0.000378
+after : duration = 0.000658
+    'paper'    'conf'    'paper'    'domain'    '	time= '    '289.5331'
+
+middle : duration = 0.000853
+middle : duration = 4.3e-05
+middle : duration = 2.7e-05
+middle : duration = 0.000939
+after : duration = 0.000524
+after : duration = 0.000536
+after : duration = 0.000334
+    'paper'    'conf'    'paper'    'domain'    '	time= '    '295.0609'
+
+middle : duration = 0.000861
+middle : duration = 0.000813
+middle : duration = 0.000954
+after : duration = 0.00052
+after : duration = 0.000531
+    'paper'    'conf'    'paper'    'domain'    '	time= '    '354.8428'
+
+middle : duration = 0.001809
+middle : duration = 0.001596
+after : duration = 0.000436
+    'paper'    'conf'    'paper'    'domain'    '	time= '    '320.0853'
+
+middle : duration = 0.003783
+    'paper'    'conf'    'paper'    'domain'    '	time= '    '298.8017'
+
+middle : duration = 5.7e-05
+middle : duration = 2.9e-05
+middle : duration = 2.5e-05
+middle : duration = 2.5e-05
+middle : duration = 2.6e-05
+middle : duration = 2.5e-05
+after : duration = 0.000444
+after : duration = 0.000472
+after : duration = 0.000337
+after : duration = 0.000404
+after : duration = 0.000455
+    'paper'    'domain'    'keyword'    'domain'    '	time= '    '398.9235'
+
+middle : duration = 4.7e-05
+middle : duration = 2.8e-05
+middle : duration = 0.000764
+middle : duration = 2.5e-05
+middle : duration = 2.6e-05
+after : duration = 0.000519
+after : duration = 0.000508
+after : duration = 0.00037
+after : duration = 0.000531
+    'paper'    'domain'    'keyword'    'domain'    '	time= '    '363.7543'
+
+middle : duration = 3.5e-05
+middle : duration = 0.000731
+middle : duration = 0.000779
+middle : duration = 2.5e-05
+after : duration = 0.000531
+after : duration = 0.000508
+after : duration = 0.000469
+    'paper'    'domain'    'keyword'    'domain'    '	time= '    '336.4777'
+
+middle : duration = 5.8e-05
+middle : duration = 0.002215
+middle : duration = 2.6e-05
+after : duration = 0.000389
+after : duration = 0.000657
+    'paper'    'domain'    'keyword'    'domain'    '	time= '    '473.6949'
+
+middle : duration = 0.000816
+middle : duration = 3.3e-05
+middle : duration = 2.6e-05
+middle : duration = 0.12928
+after : duration = 0.00074
+after : duration = 0.000602
+after : duration = 0.021637
+    'paper'    'domain'    'keyword'    'domain'    '	time= '    '378.111'
+
+middle : duration = 0.00083
+middle : duration = 0.000796
+middle : duration = 0.10249
+after : duration = 0.000673
+after : duration = 0.022016
+    'paper'    'domain'    'keyword'    'domain'    '	time= '    '359.8869'
+
+middle : duration = 0.001689
+middle : duration = 0.001659
+after : duration = 0.000486
+    'paper'    'domain'    'keyword'    'domain'    '	time= '    '364.9149'
+
+middle : duration = 0.003705
+    'paper'    'domain'    'keyword'    'domain'    '	time= '    '318.3775'
+
+middle : duration = 6.9e-05
+middle : duration = 3e-05
+middle : duration = 2.5e-05
+middle : duration = 2.6e-05
+middle : duration = 2.5e-05
+middle : duration = 2.5e-05
+after : duration = 0.000527
+after : duration = 0.000502
+after : duration = 0.000374
+after : duration = 0.000433
+after : duration = 0.000477
+    'paper'    'domain'    'paper'    'conf'    '	time= '    '378.0124'
+
+middle : duration = 3.5e-05
+middle : duration = 2.8e-05
+middle : duration = 0.000797
+middle : duration = 4e-05
+middle : duration = 2.5e-05
+after : duration = 0.000521
+after : duration = 0.000518
+after : duration = 0.000363
+after : duration = 0.000519
+    'paper'    'domain'    'paper'    'conf'    '	time= '    '340.3978'
+
+middle : duration = 3.2e-05
+middle : duration = 0.000792
+middle : duration = 0.000764
+middle : duration = 2.5e-05
+after : duration = 0.000544
+after : duration = 0.000548
+after : duration = 0.000494
+    'paper'    'domain'    'paper'    'conf'    '	time= '    '338.768'
+
+middle : duration = 5.6e-05
+middle : duration = 0.002236
+middle : duration = 2.6e-05
+after : duration = 0.000385
+after : duration = 0.000731
+    'paper'    'domain'    'paper'    'conf'    '	time= '    '380.379'
+
+middle : duration = 0.001012
+middle : duration = 3.4e-05
+middle : duration = 2.6e-05
+middle : duration = 0.000959
+after : duration = 0.000573
+after : duration = 0.000568
+after : duration = 0.000338
+    'paper'    'domain'    'paper'    'conf'    '	time= '    '390.1197'
+
+middle : duration = 0.000912
+middle : duration = 0.000859
+middle : duration = 0.000958
+after : duration = 0.000533
+after : duration = 0.000532
+    'paper'    'domain'    'paper'    'conf'    '	time= '    '292.5379'
+
+middle : duration = 0.001724
+middle : duration = 0.001576
+after : duration = 0.000438
+    'paper'    'domain'    'paper'    'conf'    '	time= '    '444.4922'
+
+middle : duration = 0.003755
+    'paper'    'domain'    'paper'    'conf'    '	time= '    '340.0763'
+
+middle : duration = 5.6e-05
+middle : duration = 3e-05
+middle : duration = 2.5e-05
+middle : duration = 2.5e-05
+middle : duration = 2.6e-05
+middle : duration = 2.5e-05
+after : duration = 0.000459
+after : duration = 0.000469
+after : duration = 0.000338
+after : duration = 0.000393
+after : duration = 0.000467
+    'paper'    'domain'    'paper'    'domain'    '	time= '    '308.2694'
+
+middle : duration = 5.8e-05
+middle : duration = 2.9e-05
+middle : duration = 0.000741
+middle : duration = 2.4e-05
+middle : duration = 2.5e-05
+after : duration = 0.000556
+after : duration = 0.000512
+after : duration = 0.000347
+after : duration = 0.000524
+    'paper'    'domain'    'paper'    'domain'    '	time= '    '304.4752'
+
+middle : duration = 5.5e-05
+middle : duration = 0.000785
+middle : duration = 0.0008
+middle : duration = 2.6e-05
+after : duration = 0.000507
+after : duration = 0.000518
+after : duration = 0.00046
+    'paper'    'domain'    'paper'    'domain'    '	time= '    '283.6376'
+
+middle : duration = 5.9e-05
+middle : duration = 0.002221
+middle : duration = 2.6e-05
+after : duration = 0.000384
+after : duration = 0.000652
+    'paper'    'domain'    'paper'    'domain'    '	time= '    '310.8451'
+
+middle : duration = 0.000837
+middle : duration = 3.3e-05
+middle : duration = 2.6e-05
+middle : duration = 0.000951
+after : duration = 0.000549
+after : duration = 0.000532
+after : duration = 0.000336
+    'paper'    'domain'    'paper'    'domain'    '	time= '    '284.1643'
+
+middle : duration = 0.000822
+middle : duration = 0.000807
+middle : duration = 0.000916
+after : duration = 0.000505
+after : duration = 0.000526
+    'paper'    'domain'    'paper'    'domain'    '	time= '    '345.7984'
+
+middle : duration = 0.001632
+middle : duration = 0.001562
+after : duration = 0.000428
+    'paper'    'domain'    'paper'    'domain'    '	time= '    '370.1155'
+
+middle : duration = 0.003694
+    'paper'    'domain'    'paper'    'domain'    '	time= '    '427.5485'
+
+modpathsim2: elapsed time = 18367.9122
+---------------------------------------------------------------
